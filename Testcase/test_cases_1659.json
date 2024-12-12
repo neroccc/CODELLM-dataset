@@ -1,0 +1,902 @@
+[
+    {
+        "input": {
+            "m": 4,
+            "n": 4,
+            "introvertsCount": 6,
+            "extrovertsCount": 0
+        },
+        "output": 720
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 2,
+            "introvertsCount": 1,
+            "extrovertsCount": 1
+        },
+        "output": 150
+    },
+    {
+        "input": {
+            "m": 5,
+            "n": 2,
+            "introvertsCount": 5,
+            "extrovertsCount": 0
+        },
+        "output": 600
+    },
+    {
+        "input": {
+            "m": 5,
+            "n": 5,
+            "introvertsCount": 6,
+            "extrovertsCount": 0
+        },
+        "output": 720
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 1,
+            "introvertsCount": 1,
+            "extrovertsCount": 0
+        },
+        "output": 120
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 2,
+            "introvertsCount": 0,
+            "extrovertsCount": 2
+        },
+        "output": 120
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 2,
+            "introvertsCount": 0,
+            "extrovertsCount": 0
+        },
+        "output": 0
+    },
+    {
+        "input": {
+            "m": 5,
+            "n": 5,
+            "introvertsCount": 6,
+            "extrovertsCount": 0
+        },
+        "output": 720
+    },
+    {
+        "input": {
+            "m": 3,
+            "n": 2,
+            "introvertsCount": 3,
+            "extrovertsCount": 1
+        },
+        "output": 380
+    },
+    {
+        "input": {
+            "m": 5,
+            "n": 5,
+            "introvertsCount": 6,
+            "extrovertsCount": 0
+        },
+        "output": 720
+    },
+    {
+        "input": {
+            "m": 4,
+            "n": 3,
+            "introvertsCount": 3,
+            "extrovertsCount": 0
+        },
+        "output": 360
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 1,
+            "introvertsCount": 0,
+            "extrovertsCount": 0
+        },
+        "output": 0
+    },
+    {
+        "input": {
+            "m": 3,
+            "n": 2,
+            "introvertsCount": 2,
+            "extrovertsCount": 2
+        },
+        "output": 350
+    },
+    {
+        "input": {
+            "m": 4,
+            "n": 3,
+            "introvertsCount": 1,
+            "extrovertsCount": 5
+        },
+        "output": 520
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 3,
+            "introvertsCount": 2,
+            "extrovertsCount": 2
+        },
+        "output": 350
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 4,
+            "introvertsCount": 2,
+            "extrovertsCount": 2
+        },
+        "output": 340
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 5,
+            "introvertsCount": 3,
+            "extrovertsCount": 3
+        },
+        "output": 560
+    },
+    {
+        "input": {
+            "m": 4,
+            "n": 5,
+            "introvertsCount": 2,
+            "extrovertsCount": 1
+        },
+        "output": 280
+    },
+    {
+        "input": {
+            "m": 5,
+            "n": 3,
+            "introvertsCount": 6,
+            "extrovertsCount": 0
+        },
+        "output": 720
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 3,
+            "introvertsCount": 4,
+            "extrovertsCount": 0
+        },
+        "output": 360
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 4,
+            "introvertsCount": 4,
+            "extrovertsCount": 0
+        },
+        "output": 300
+    },
+    {
+        "input": {
+            "m": 5,
+            "n": 2,
+            "introvertsCount": 5,
+            "extrovertsCount": 1
+        },
+        "output": 620
+    },
+    {
+        "input": {
+            "m": 4,
+            "n": 1,
+            "introvertsCount": 0,
+            "extrovertsCount": 4
+        },
+        "output": 280
+    },
+    {
+        "input": {
+            "m": 5,
+            "n": 2,
+            "introvertsCount": 4,
+            "extrovertsCount": 1
+        },
+        "output": 520
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 5,
+            "introvertsCount": 1,
+            "extrovertsCount": 3
+        },
+        "output": 320
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 1,
+            "introvertsCount": 1,
+            "extrovertsCount": 0
+        },
+        "output": 120
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 5,
+            "introvertsCount": 1,
+            "extrovertsCount": 4
+        },
+        "output": 440
+    },
+    {
+        "input": {
+            "m": 4,
+            "n": 1,
+            "introvertsCount": 4,
+            "extrovertsCount": 0
+        },
+        "output": 300
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 2,
+            "introvertsCount": 0,
+            "extrovertsCount": 0
+        },
+        "output": 0
+    },
+    {
+        "input": {
+            "m": 3,
+            "n": 3,
+            "introvertsCount": 3,
+            "extrovertsCount": 3
+        },
+        "output": 550
+    },
+    {
+        "input": {
+            "m": 3,
+            "n": 4,
+            "introvertsCount": 4,
+            "extrovertsCount": 2
+        },
+        "output": 600
+    },
+    {
+        "input": {
+            "m": 3,
+            "n": 4,
+            "introvertsCount": 2,
+            "extrovertsCount": 4
+        },
+        "output": 560
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 4,
+            "introvertsCount": 3,
+            "extrovertsCount": 0
+        },
+        "output": 300
+    },
+    {
+        "input": {
+            "m": 5,
+            "n": 2,
+            "introvertsCount": 2,
+            "extrovertsCount": 1
+        },
+        "output": 280
+    },
+    {
+        "input": {
+            "m": 3,
+            "n": 3,
+            "introvertsCount": 5,
+            "extrovertsCount": 0
+        },
+        "output": 600
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 3,
+            "introvertsCount": 2,
+            "extrovertsCount": 3
+        },
+        "output": 420
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 4,
+            "introvertsCount": 0,
+            "extrovertsCount": 4
+        },
+        "output": 280
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 1,
+            "introvertsCount": 2,
+            "extrovertsCount": 0
+        },
+        "output": 180
+    },
+    {
+        "input": {
+            "m": 4,
+            "n": 5,
+            "introvertsCount": 5,
+            "extrovertsCount": 1
+        },
+        "output": 640
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 4,
+            "introvertsCount": 4,
+            "extrovertsCount": 0
+        },
+        "output": 300
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 5,
+            "introvertsCount": 4,
+            "extrovertsCount": 2
+        },
+        "output": 590
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 2,
+            "introvertsCount": 2,
+            "extrovertsCount": 0
+        },
+        "output": 180
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 4,
+            "introvertsCount": 2,
+            "extrovertsCount": 2
+        },
+        "output": 340
+    },
+    {
+        "input": {
+            "m": 4,
+            "n": 5,
+            "introvertsCount": 6,
+            "extrovertsCount": 0
+        },
+        "output": 720
+    },
+    {
+        "input": {
+            "m": 3,
+            "n": 1,
+            "introvertsCount": 0,
+            "extrovertsCount": 1
+        },
+        "output": 40
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 3,
+            "introvertsCount": 0,
+            "extrovertsCount": 0
+        },
+        "output": 0
+    },
+    {
+        "input": {
+            "m": 4,
+            "n": 4,
+            "introvertsCount": 6,
+            "extrovertsCount": 0
+        },
+        "output": 720
+    },
+    {
+        "input": {
+            "m": 4,
+            "n": 4,
+            "introvertsCount": 4,
+            "extrovertsCount": 2
+        },
+        "output": 600
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 5,
+            "introvertsCount": 3,
+            "extrovertsCount": 1
+        },
+        "output": 400
+    },
+    {
+        "input": {
+            "m": 3,
+            "n": 5,
+            "introvertsCount": 3,
+            "extrovertsCount": 0
+        },
+        "output": 360
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 3,
+            "introvertsCount": 2,
+            "extrovertsCount": 0
+        },
+        "output": 240
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 1,
+            "introvertsCount": 1,
+            "extrovertsCount": 1
+        },
+        "output": 150
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 3,
+            "introvertsCount": 6,
+            "extrovertsCount": 0
+        },
+        "output": 360
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 1,
+            "introvertsCount": 0,
+            "extrovertsCount": 0
+        },
+        "output": 0
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 4,
+            "introvertsCount": 4,
+            "extrovertsCount": 0
+        },
+        "output": 300
+    },
+    {
+        "input": {
+            "m": 5,
+            "n": 1,
+            "introvertsCount": 5,
+            "extrovertsCount": 0
+        },
+        "output": 360
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 4,
+            "introvertsCount": 1,
+            "extrovertsCount": 3
+        },
+        "output": 310
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 2,
+            "introvertsCount": 1,
+            "extrovertsCount": 1
+        },
+        "output": 150
+    },
+    {
+        "input": {
+            "m": 5,
+            "n": 1,
+            "introvertsCount": 3,
+            "extrovertsCount": 2
+        },
+        "output": 400
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 5,
+            "introvertsCount": 4,
+            "extrovertsCount": 0
+        },
+        "output": 480
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 4,
+            "introvertsCount": 2,
+            "extrovertsCount": 1
+        },
+        "output": 280
+    },
+    {
+        "input": {
+            "m": 4,
+            "n": 4,
+            "introvertsCount": 2,
+            "extrovertsCount": 3
+        },
+        "output": 440
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 4,
+            "introvertsCount": 2,
+            "extrovertsCount": 0
+        },
+        "output": 240
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 2,
+            "introvertsCount": 1,
+            "extrovertsCount": 3
+        },
+        "output": 300
+    },
+    {
+        "input": {
+            "m": 5,
+            "n": 4,
+            "introvertsCount": 3,
+            "extrovertsCount": 0
+        },
+        "output": 360
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 2,
+            "introvertsCount": 0,
+            "extrovertsCount": 4
+        },
+        "output": 320
+    },
+    {
+        "input": {
+            "m": 4,
+            "n": 5,
+            "introvertsCount": 1,
+            "extrovertsCount": 5
+        },
+        "output": 520
+    },
+    {
+        "input": {
+            "m": 3,
+            "n": 2,
+            "introvertsCount": 0,
+            "extrovertsCount": 2
+        },
+        "output": 120
+    },
+    {
+        "input": {
+            "m": 4,
+            "n": 2,
+            "introvertsCount": 5,
+            "extrovertsCount": 0
+        },
+        "output": 480
+    },
+    {
+        "input": {
+            "m": 3,
+            "n": 5,
+            "introvertsCount": 4,
+            "extrovertsCount": 1
+        },
+        "output": 520
+    },
+    {
+        "input": {
+            "m": 4,
+            "n": 5,
+            "introvertsCount": 2,
+            "extrovertsCount": 1
+        },
+        "output": 280
+    },
+    {
+        "input": {
+            "m": 3,
+            "n": 4,
+            "introvertsCount": 0,
+            "extrovertsCount": 2
+        },
+        "output": 120
+    },
+    {
+        "input": {
+            "m": 5,
+            "n": 2,
+            "introvertsCount": 2,
+            "extrovertsCount": 2
+        },
+        "output": 360
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 1,
+            "introvertsCount": 0,
+            "extrovertsCount": 0
+        },
+        "output": 0
+    },
+    {
+        "input": {
+            "m": 5,
+            "n": 4,
+            "introvertsCount": 5,
+            "extrovertsCount": 0
+        },
+        "output": 600
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 5,
+            "introvertsCount": 3,
+            "extrovertsCount": 1
+        },
+        "output": 380
+    },
+    {
+        "input": {
+            "m": 5,
+            "n": 5,
+            "introvertsCount": 6,
+            "extrovertsCount": 0
+        },
+        "output": 720
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 4,
+            "introvertsCount": 6,
+            "extrovertsCount": 0
+        },
+        "output": 480
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 1,
+            "introvertsCount": 2,
+            "extrovertsCount": 0
+        },
+        "output": 180
+    },
+    {
+        "input": {
+            "m": 4,
+            "n": 4,
+            "introvertsCount": 5,
+            "extrovertsCount": 1
+        },
+        "output": 640
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 5,
+            "introvertsCount": 0,
+            "extrovertsCount": 3
+        },
+        "output": 200
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 4,
+            "introvertsCount": 3,
+            "extrovertsCount": 0
+        },
+        "output": 360
+    },
+    {
+        "input": {
+            "m": 4,
+            "n": 3,
+            "introvertsCount": 5,
+            "extrovertsCount": 1
+        },
+        "output": 640
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 4,
+            "introvertsCount": 4,
+            "extrovertsCount": 0
+        },
+        "output": 300
+    },
+    {
+        "input": {
+            "m": 4,
+            "n": 5,
+            "introvertsCount": 4,
+            "extrovertsCount": 2
+        },
+        "output": 600
+    },
+    {
+        "input": {
+            "m": 3,
+            "n": 1,
+            "introvertsCount": 1,
+            "extrovertsCount": 2
+        },
+        "output": 230
+    },
+    {
+        "input": {
+            "m": 4,
+            "n": 5,
+            "introvertsCount": 3,
+            "extrovertsCount": 0
+        },
+        "output": 360
+    },
+    {
+        "input": {
+            "m": 5,
+            "n": 1,
+            "introvertsCount": 5,
+            "extrovertsCount": 0
+        },
+        "output": 360
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 2,
+            "introvertsCount": 0,
+            "extrovertsCount": 2
+        },
+        "output": 120
+    },
+    {
+        "input": {
+            "m": 3,
+            "n": 2,
+            "introvertsCount": 1,
+            "extrovertsCount": 3
+        },
+        "output": 320
+    },
+    {
+        "input": {
+            "m": 5,
+            "n": 4,
+            "introvertsCount": 1,
+            "extrovertsCount": 4
+        },
+        "output": 440
+    },
+    {
+        "input": {
+            "m": 3,
+            "n": 2,
+            "introvertsCount": 6,
+            "extrovertsCount": 0
+        },
+        "output": 360
+    },
+    {
+        "input": {
+            "m": 2,
+            "n": 3,
+            "introvertsCount": 1,
+            "extrovertsCount": 4
+        },
+        "output": 430
+    },
+    {
+        "input": {
+            "m": 5,
+            "n": 2,
+            "introvertsCount": 4,
+            "extrovertsCount": 2
+        },
+        "output": 590
+    },
+    {
+        "input": {
+            "m": 4,
+            "n": 2,
+            "introvertsCount": 1,
+            "extrovertsCount": 0
+        },
+        "output": 120
+    },
+    {
+        "input": {
+            "m": 3,
+            "n": 1,
+            "introvertsCount": 1,
+            "extrovertsCount": 2
+        },
+        "output": 230
+    },
+    {
+        "input": {
+            "m": 5,
+            "n": 4,
+            "introvertsCount": 1,
+            "extrovertsCount": 2
+        },
+        "output": 240
+    },
+    {
+        "input": {
+            "m": 1,
+            "n": 1,
+            "introvertsCount": 0,
+            "extrovertsCount": 1
+        },
+        "output": 40
+    },
+    {
+        "input": {
+            "m": 3,
+            "n": 1,
+            "introvertsCount": 1,
+            "extrovertsCount": 2
+        },
+        "output": 230
+    },
+    {
+        "input": {
+            "m": 5,
+            "n": 3,
+            "introvertsCount": 4,
+            "extrovertsCount": 2
+        },
+        "output": 600
+    }
+]

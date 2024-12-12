@@ -1,0 +1,402 @@
+[
+    {
+        "input": {
+            "buckets": 31,
+            "minutesToDie": 6,
+            "minutesToTest": 14
+        },
+        "output": 4
+    },
+    {
+        "input": {
+            "buckets": 64,
+            "minutesToDie": 13,
+            "minutesToTest": 39
+        },
+        "output": 3
+    },
+    {
+        "input": {
+            "buckets": 26,
+            "minutesToDie": 40,
+            "minutesToTest": 48
+        },
+        "output": 5
+    },
+    {
+        "input": {
+            "buckets": 46,
+            "minutesToDie": 42,
+            "minutesToTest": 42
+        },
+        "output": 6
+    },
+    {
+        "input": {
+            "buckets": 72,
+            "minutesToDie": 30,
+            "minutesToTest": 34
+        },
+        "output": 7
+    },
+    {
+        "input": {
+            "buckets": 82,
+            "minutesToDie": 19,
+            "minutesToTest": 36
+        },
+        "output": 7
+    },
+    {
+        "input": {
+            "buckets": 58,
+            "minutesToDie": 27,
+            "minutesToTest": 32
+        },
+        "output": 6
+    },
+    {
+        "input": {
+            "buckets": 78,
+            "minutesToDie": 41,
+            "minutesToTest": 42
+        },
+        "output": 7
+    },
+    {
+        "input": {
+            "buckets": 75,
+            "minutesToDie": 48,
+            "minutesToTest": 48
+        },
+        "output": 7
+    },
+    {
+        "input": {
+            "buckets": 95,
+            "minutesToDie": 36,
+            "minutesToTest": 42
+        },
+        "output": 7
+    },
+    {
+        "input": {
+            "buckets": 80,
+            "minutesToDie": 41,
+            "minutesToTest": 41
+        },
+        "output": 7
+    },
+    {
+        "input": {
+            "buckets": 20,
+            "minutesToDie": 15,
+            "minutesToTest": 48
+        },
+        "output": 3
+    },
+    {
+        "input": {
+            "buckets": 3,
+            "minutesToDie": 37,
+            "minutesToTest": 47
+        },
+        "output": 2
+    },
+    {
+        "input": {
+            "buckets": 54,
+            "minutesToDie": 36,
+            "minutesToTest": 49
+        },
+        "output": 6
+    },
+    {
+        "input": {
+            "buckets": 71,
+            "minutesToDie": 40,
+            "minutesToTest": 43
+        },
+        "output": 7
+    },
+    {
+        "input": {
+            "buckets": 10,
+            "minutesToDie": 36,
+            "minutesToTest": 38
+        },
+        "output": 4
+    },
+    {
+        "input": {
+            "buckets": 41,
+            "minutesToDie": 43,
+            "minutesToTest": 43
+        },
+        "output": 6
+    },
+    {
+        "input": {
+            "buckets": 83,
+            "minutesToDie": 28,
+            "minutesToTest": 35
+        },
+        "output": 7
+    },
+    {
+        "input": {
+            "buckets": 71,
+            "minutesToDie": 9,
+            "minutesToTest": 24
+        },
+        "output": 4
+    },
+    {
+        "input": {
+            "buckets": 70,
+            "minutesToDie": 25,
+            "minutesToTest": 44
+        },
+        "output": 7
+    },
+    {
+        "input": {
+            "buckets": 85,
+            "minutesToDie": 40,
+            "minutesToTest": 50
+        },
+        "output": 7
+    },
+    {
+        "input": {
+            "buckets": 13,
+            "minutesToDie": 7,
+            "minutesToTest": 37
+        },
+        "output": 2
+    },
+    {
+        "input": {
+            "buckets": 47,
+            "minutesToDie": 7,
+            "minutesToTest": 37
+        },
+        "output": 3
+    },
+    {
+        "input": {
+            "buckets": 100,
+            "minutesToDie": 37,
+            "minutesToTest": 50
+        },
+        "output": 7
+    },
+    {
+        "input": {
+            "buckets": 62,
+            "minutesToDie": 18,
+            "minutesToTest": 47
+        },
+        "output": 4
+    },
+    {
+        "input": {
+            "buckets": 57,
+            "minutesToDie": 22,
+            "minutesToTest": 49
+        },
+        "output": 4
+    },
+    {
+        "input": {
+            "buckets": 41,
+            "minutesToDie": 24,
+            "minutesToTest": 29
+        },
+        "output": 6
+    },
+    {
+        "input": {
+            "buckets": 58,
+            "minutesToDie": 9,
+            "minutesToTest": 44
+        },
+        "output": 3
+    },
+    {
+        "input": {
+            "buckets": 76,
+            "minutesToDie": 33,
+            "minutesToTest": 44
+        },
+        "output": 7
+    },
+    {
+        "input": {
+            "buckets": 49,
+            "minutesToDie": 2,
+            "minutesToTest": 9
+        },
+        "output": 3
+    },
+    {
+        "input": {
+            "buckets": 61,
+            "minutesToDie": 27,
+            "minutesToTest": 46
+        },
+        "output": 6
+    },
+    {
+        "input": {
+            "buckets": 14,
+            "minutesToDie": 10,
+            "minutesToTest": 36
+        },
+        "output": 2
+    },
+    {
+        "input": {
+            "buckets": 17,
+            "minutesToDie": 20,
+            "minutesToTest": 48
+        },
+        "output": 3
+    },
+    {
+        "input": {
+            "buckets": 42,
+            "minutesToDie": 8,
+            "minutesToTest": 48
+        },
+        "output": 2
+    },
+    {
+        "input": {
+            "buckets": 51,
+            "minutesToDie": 26,
+            "minutesToTest": 35
+        },
+        "output": 6
+    },
+    {
+        "input": {
+            "buckets": 55,
+            "minutesToDie": 40,
+            "minutesToTest": 47
+        },
+        "output": 6
+    },
+    {
+        "input": {
+            "buckets": 33,
+            "minutesToDie": 33,
+            "minutesToTest": 34
+        },
+        "output": 6
+    },
+    {
+        "input": {
+            "buckets": 39,
+            "minutesToDie": 49,
+            "minutesToTest": 50
+        },
+        "output": 6
+    },
+    {
+        "input": {
+            "buckets": 62,
+            "minutesToDie": 3,
+            "minutesToTest": 37
+        },
+        "output": 2
+    },
+    {
+        "input": {
+            "buckets": 77,
+            "minutesToDie": 9,
+            "minutesToTest": 13
+        },
+        "output": 7
+    },
+    {
+        "input": {
+            "buckets": 28,
+            "minutesToDie": 33,
+            "minutesToTest": 33
+        },
+        "output": 5
+    },
+    {
+        "input": {
+            "buckets": 21,
+            "minutesToDie": 9,
+            "minutesToTest": 45
+        },
+        "output": 2
+    },
+    {
+        "input": {
+            "buckets": 80,
+            "minutesToDie": 48,
+            "minutesToTest": 49
+        },
+        "output": 7
+    },
+    {
+        "input": {
+            "buckets": 70,
+            "minutesToDie": 21,
+            "minutesToTest": 39
+        },
+        "output": 7
+    },
+    {
+        "input": {
+            "buckets": 61,
+            "minutesToDie": 44,
+            "minutesToTest": 47
+        },
+        "output": 6
+    },
+    {
+        "input": {
+            "buckets": 13,
+            "minutesToDie": 44,
+            "minutesToTest": 50
+        },
+        "output": 4
+    },
+    {
+        "input": {
+            "buckets": 6,
+            "minutesToDie": 40,
+            "minutesToTest": 49
+        },
+        "output": 3
+    },
+    {
+        "input": {
+            "buckets": 93,
+            "minutesToDie": 27,
+            "minutesToTest": 37
+        },
+        "output": 7
+    },
+    {
+        "input": {
+            "buckets": 36,
+            "minutesToDie": 17,
+            "minutesToTest": 24
+        },
+        "output": 6
+    },
+    {
+        "input": {
+            "buckets": 15,
+            "minutesToDie": 48,
+            "minutesToTest": 50
+        },
+        "output": 4
+    }
+]

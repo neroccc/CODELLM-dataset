@@ -1,0 +1,1102 @@
+[
+    {
+        "input": {
+            "n": 19,
+            "firstPlayer": 16,
+            "secondPlayer": 18
+        },
+        "output": [
+            3,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 18,
+            "firstPlayer": 5,
+            "secondPlayer": 12
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 7,
+            "firstPlayer": 2,
+            "secondPlayer": 4
+        },
+        "output": [
+            2,
+            3
+        ]
+    },
+    {
+        "input": {
+            "n": 3,
+            "firstPlayer": 2,
+            "secondPlayer": 3
+        },
+        "output": [
+            2,
+            2
+        ]
+    },
+    {
+        "input": {
+            "n": 17,
+            "firstPlayer": 3,
+            "secondPlayer": 17
+        },
+        "output": [
+            2,
+            3
+        ]
+    },
+    {
+        "input": {
+            "n": 18,
+            "firstPlayer": 2,
+            "secondPlayer": 9
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 15,
+            "firstPlayer": 2,
+            "secondPlayer": 13
+        },
+        "output": [
+            3,
+            3
+        ]
+    },
+    {
+        "input": {
+            "n": 22,
+            "firstPlayer": 19,
+            "secondPlayer": 20
+        },
+        "output": [
+            3,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 20,
+            "firstPlayer": 3,
+            "secondPlayer": 6
+        },
+        "output": [
+            3,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 20,
+            "firstPlayer": 10,
+            "secondPlayer": 20
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 21,
+            "firstPlayer": 12,
+            "secondPlayer": 13
+        },
+        "output": [
+            3,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 2,
+            "firstPlayer": 1,
+            "secondPlayer": 2
+        },
+        "output": [
+            1,
+            1
+        ]
+    },
+    {
+        "input": {
+            "n": 14,
+            "firstPlayer": 4,
+            "secondPlayer": 11
+        },
+        "output": [
+            1,
+            1
+        ]
+    },
+    {
+        "input": {
+            "n": 21,
+            "firstPlayer": 9,
+            "secondPlayer": 21
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 16,
+            "firstPlayer": 11,
+            "secondPlayer": 15
+        },
+        "output": [
+            3,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 12,
+            "firstPlayer": 8,
+            "secondPlayer": 10
+        },
+        "output": [
+            2,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 8,
+            "firstPlayer": 4,
+            "secondPlayer": 8
+        },
+        "output": [
+            2,
+            3
+        ]
+    },
+    {
+        "input": {
+            "n": 9,
+            "firstPlayer": 6,
+            "secondPlayer": 9
+        },
+        "output": [
+            3,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 27,
+            "firstPlayer": 14,
+            "secondPlayer": 16
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 17,
+            "firstPlayer": 10,
+            "secondPlayer": 15
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 20,
+            "firstPlayer": 18,
+            "secondPlayer": 19
+        },
+        "output": [
+            5,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 16,
+            "firstPlayer": 1,
+            "secondPlayer": 14
+        },
+        "output": [
+            2,
+            3
+        ]
+    },
+    {
+        "input": {
+            "n": 22,
+            "firstPlayer": 18,
+            "secondPlayer": 22
+        },
+        "output": [
+            4,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 2,
+            "firstPlayer": 1,
+            "secondPlayer": 2
+        },
+        "output": [
+            1,
+            1
+        ]
+    },
+    {
+        "input": {
+            "n": 25,
+            "firstPlayer": 11,
+            "secondPlayer": 21
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 16,
+            "firstPlayer": 6,
+            "secondPlayer": 13
+        },
+        "output": [
+            2,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 7,
+            "firstPlayer": 5,
+            "secondPlayer": 7
+        },
+        "output": [
+            3,
+            3
+        ]
+    },
+    {
+        "input": {
+            "n": 25,
+            "firstPlayer": 22,
+            "secondPlayer": 23
+        },
+        "output": [
+            4,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 10,
+            "firstPlayer": 6,
+            "secondPlayer": 7
+        },
+        "output": [
+            4,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 17,
+            "firstPlayer": 14,
+            "secondPlayer": 17
+        },
+        "output": [
+            4,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 22,
+            "firstPlayer": 8,
+            "secondPlayer": 22
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 4,
+            "firstPlayer": 3,
+            "secondPlayer": 4
+        },
+        "output": [
+            2,
+            2
+        ]
+    },
+    {
+        "input": {
+            "n": 8,
+            "firstPlayer": 6,
+            "secondPlayer": 7
+        },
+        "output": [
+            2,
+            3
+        ]
+    },
+    {
+        "input": {
+            "n": 12,
+            "firstPlayer": 3,
+            "secondPlayer": 12
+        },
+        "output": [
+            2,
+            3
+        ]
+    },
+    {
+        "input": {
+            "n": 12,
+            "firstPlayer": 4,
+            "secondPlayer": 8
+        },
+        "output": [
+            3,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 19,
+            "firstPlayer": 6,
+            "secondPlayer": 9
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 15,
+            "firstPlayer": 14,
+            "secondPlayer": 15
+        },
+        "output": [
+            4,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 16,
+            "firstPlayer": 6,
+            "secondPlayer": 15
+        },
+        "output": [
+            2,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 10,
+            "firstPlayer": 1,
+            "secondPlayer": 10
+        },
+        "output": [
+            1,
+            1
+        ]
+    },
+    {
+        "input": {
+            "n": 18,
+            "firstPlayer": 5,
+            "secondPlayer": 11
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 6,
+            "firstPlayer": 3,
+            "secondPlayer": 4
+        },
+        "output": [
+            1,
+            1
+        ]
+    },
+    {
+        "input": {
+            "n": 27,
+            "firstPlayer": 4,
+            "secondPlayer": 5
+        },
+        "output": [
+            4,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 28,
+            "firstPlayer": 8,
+            "secondPlayer": 20
+        },
+        "output": [
+            3,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 4,
+            "firstPlayer": 2,
+            "secondPlayer": 4
+        },
+        "output": [
+            2,
+            2
+        ]
+    },
+    {
+        "input": {
+            "n": 21,
+            "firstPlayer": 17,
+            "secondPlayer": 19
+        },
+        "output": [
+            3,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 19,
+            "firstPlayer": 3,
+            "secondPlayer": 4
+        },
+        "output": [
+            5,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 27,
+            "firstPlayer": 24,
+            "secondPlayer": 25
+        },
+        "output": [
+            4,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 6,
+            "firstPlayer": 1,
+            "secondPlayer": 4
+        },
+        "output": [
+            2,
+            3
+        ]
+    },
+    {
+        "input": {
+            "n": 15,
+            "firstPlayer": 9,
+            "secondPlayer": 10
+        },
+        "output": [
+            2,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 14,
+            "firstPlayer": 7,
+            "secondPlayer": 12
+        },
+        "output": [
+            2,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 11,
+            "firstPlayer": 4,
+            "secondPlayer": 6
+        },
+        "output": [
+            2,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 17,
+            "firstPlayer": 9,
+            "secondPlayer": 14
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 19,
+            "firstPlayer": 17,
+            "secondPlayer": 19
+        },
+        "output": [
+            4,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 17,
+            "firstPlayer": 9,
+            "secondPlayer": 12
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 21,
+            "firstPlayer": 18,
+            "secondPlayer": 19
+        },
+        "output": [
+            3,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 13,
+            "firstPlayer": 4,
+            "secondPlayer": 13
+        },
+        "output": [
+            2,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 19,
+            "firstPlayer": 3,
+            "secondPlayer": 5
+        },
+        "output": [
+            3,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 23,
+            "firstPlayer": 2,
+            "secondPlayer": 12
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 3,
+            "firstPlayer": 2,
+            "secondPlayer": 3
+        },
+        "output": [
+            2,
+            2
+        ]
+    },
+    {
+        "input": {
+            "n": 25,
+            "firstPlayer": 24,
+            "secondPlayer": 25
+        },
+        "output": [
+            5,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 20,
+            "firstPlayer": 14,
+            "secondPlayer": 15
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 11,
+            "firstPlayer": 6,
+            "secondPlayer": 8
+        },
+        "output": [
+            2,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 12,
+            "firstPlayer": 7,
+            "secondPlayer": 9
+        },
+        "output": [
+            2,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 10,
+            "firstPlayer": 8,
+            "secondPlayer": 10
+        },
+        "output": [
+            3,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 23,
+            "firstPlayer": 5,
+            "secondPlayer": 9
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 25,
+            "firstPlayer": 5,
+            "secondPlayer": 14
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 28,
+            "firstPlayer": 17,
+            "secondPlayer": 26
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 3,
+            "firstPlayer": 1,
+            "secondPlayer": 2
+        },
+        "output": [
+            2,
+            2
+        ]
+    },
+    {
+        "input": {
+            "n": 15,
+            "firstPlayer": 3,
+            "secondPlayer": 11
+        },
+        "output": [
+            2,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 19,
+            "firstPlayer": 2,
+            "secondPlayer": 13
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 13,
+            "firstPlayer": 9,
+            "secondPlayer": 13
+        },
+        "output": [
+            3,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 2,
+            "firstPlayer": 1,
+            "secondPlayer": 2
+        },
+        "output": [
+            1,
+            1
+        ]
+    },
+    {
+        "input": {
+            "n": 20,
+            "firstPlayer": 18,
+            "secondPlayer": 19
+        },
+        "output": [
+            5,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 20,
+            "firstPlayer": 19,
+            "secondPlayer": 20
+        },
+        "output": [
+            5,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 20,
+            "firstPlayer": 6,
+            "secondPlayer": 12
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 11,
+            "firstPlayer": 2,
+            "secondPlayer": 9
+        },
+        "output": [
+            3,
+            3
+        ]
+    },
+    {
+        "input": {
+            "n": 23,
+            "firstPlayer": 12,
+            "secondPlayer": 22
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 21,
+            "firstPlayer": 17,
+            "secondPlayer": 19
+        },
+        "output": [
+            3,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 5,
+            "firstPlayer": 3,
+            "secondPlayer": 5
+        },
+        "output": [
+            2,
+            3
+        ]
+    },
+    {
+        "input": {
+            "n": 19,
+            "firstPlayer": 8,
+            "secondPlayer": 19
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 4,
+            "firstPlayer": 2,
+            "secondPlayer": 3
+        },
+        "output": [
+            1,
+            1
+        ]
+    },
+    {
+        "input": {
+            "n": 17,
+            "firstPlayer": 14,
+            "secondPlayer": 17
+        },
+        "output": [
+            4,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 13,
+            "firstPlayer": 8,
+            "secondPlayer": 10
+        },
+        "output": [
+            2,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 18,
+            "firstPlayer": 5,
+            "secondPlayer": 14
+        },
+        "output": [
+            1,
+            1
+        ]
+    },
+    {
+        "input": {
+            "n": 9,
+            "firstPlayer": 4,
+            "secondPlayer": 5
+        },
+        "output": [
+            4,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 2,
+            "firstPlayer": 1,
+            "secondPlayer": 2
+        },
+        "output": [
+            1,
+            1
+        ]
+    },
+    {
+        "input": {
+            "n": 21,
+            "firstPlayer": 7,
+            "secondPlayer": 17
+        },
+        "output": [
+            2,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 2,
+            "firstPlayer": 1,
+            "secondPlayer": 2
+        },
+        "output": [
+            1,
+            1
+        ]
+    },
+    {
+        "input": {
+            "n": 11,
+            "firstPlayer": 1,
+            "secondPlayer": 2
+        },
+        "output": [
+            4,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 26,
+            "firstPlayer": 15,
+            "secondPlayer": 16
+        },
+        "output": [
+            4,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 2,
+            "firstPlayer": 1,
+            "secondPlayer": 2
+        },
+        "output": [
+            1,
+            1
+        ]
+    },
+    {
+        "input": {
+            "n": 13,
+            "firstPlayer": 1,
+            "secondPlayer": 11
+        },
+        "output": [
+            2,
+            3
+        ]
+    },
+    {
+        "input": {
+            "n": 3,
+            "firstPlayer": 2,
+            "secondPlayer": 3
+        },
+        "output": [
+            2,
+            2
+        ]
+    },
+    {
+        "input": {
+            "n": 4,
+            "firstPlayer": 2,
+            "secondPlayer": 4
+        },
+        "output": [
+            2,
+            2
+        ]
+    },
+    {
+        "input": {
+            "n": 18,
+            "firstPlayer": 17,
+            "secondPlayer": 18
+        },
+        "output": [
+            5,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 13,
+            "firstPlayer": 3,
+            "secondPlayer": 7
+        },
+        "output": [
+            2,
+            4
+        ]
+    },
+    {
+        "input": {
+            "n": 3,
+            "firstPlayer": 1,
+            "secondPlayer": 3
+        },
+        "output": [
+            1,
+            1
+        ]
+    },
+    {
+        "input": {
+            "n": 26,
+            "firstPlayer": 19,
+            "secondPlayer": 24
+        },
+        "output": [
+            3,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 26,
+            "firstPlayer": 25,
+            "secondPlayer": 26
+        },
+        "output": [
+            5,
+            5
+        ]
+    },
+    {
+        "input": {
+            "n": 12,
+            "firstPlayer": 1,
+            "secondPlayer": 3
+        },
+        "output": [
+            3,
+            4
+        ]
+    }
+]

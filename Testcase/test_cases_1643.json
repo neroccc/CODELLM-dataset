@@ -1,0 +1,1002 @@
+[
+    {
+        "input": {
+            "destination": [
+                8,
+                5
+            ],
+            "k": 816
+        },
+        "output": "VHVVVVVHHVVHH"
+    },
+    {
+        "input": {
+            "destination": [
+                13,
+                4
+            ],
+            "k": 114
+        },
+        "output": "HVHHVVVVVVVVHVVVV"
+    },
+    {
+        "input": {
+            "destination": [
+                6,
+                9
+            ],
+            "k": 2241
+        },
+        "output": "HVHVHHHVVHVHHVH"
+    },
+    {
+        "input": {
+            "destination": [
+                14,
+                13
+            ],
+            "k": 7429555
+        },
+        "output": "HVVHHVVHHHVVHHVVVHVHVHHVHVV"
+    },
+    {
+        "input": {
+            "destination": [
+                5,
+                6
+            ],
+            "k": 376
+        },
+        "output": "VHVVVHHVHHH"
+    },
+    {
+        "input": {
+            "destination": [
+                3,
+                2
+            ],
+            "k": 6
+        },
+        "output": "VHVHV"
+    },
+    {
+        "input": {
+            "destination": [
+                8,
+                5
+            ],
+            "k": 998
+        },
+        "output": "VVHVVHVVVHHVH"
+    },
+    {
+        "input": {
+            "destination": [
+                2,
+                10
+            ],
+            "k": 64
+        },
+        "output": "VHHVHHHHHHHH"
+    },
+    {
+        "input": {
+            "destination": [
+                9,
+                14
+            ],
+            "k": 777099
+        },
+        "output": "VVHVVVHHVHHHHHHVHVHHVHH"
+    },
+    {
+        "input": {
+            "destination": [
+                11,
+                10
+            ],
+            "k": 156677
+        },
+        "output": "HVVVVHHHHHVHVHVHVVHVV"
+    },
+    {
+        "input": {
+            "destination": [
+                12,
+                9
+            ],
+            "k": 41055
+        },
+        "output": "HHVVVHVHHHVVHVVVVHVHV"
+    },
+    {
+        "input": {
+            "destination": [
+                10,
+                4
+            ],
+            "k": 475
+        },
+        "output": "VHVVVVVHHVVVHV"
+    },
+    {
+        "input": {
+            "destination": [
+                6,
+                4
+            ],
+            "k": 163
+        },
+        "output": "VVHVHVVHHV"
+    },
+    {
+        "input": {
+            "destination": [
+                7,
+                3
+            ],
+            "k": 27
+        },
+        "output": "HVVVVHHVVV"
+    },
+    {
+        "input": {
+            "destination": [
+                6,
+                7
+            ],
+            "k": 1002
+        },
+        "output": "VHHHVHVHVHVVH"
+    },
+    {
+        "input": {
+            "destination": [
+                4,
+                13
+            ],
+            "k": 1130
+        },
+        "output": "HHVHHHVHHHHHVHVHH"
+    },
+    {
+        "input": {
+            "destination": [
+                2,
+                4
+            ],
+            "k": 9
+        },
+        "output": "HVHVHH"
+    },
+    {
+        "input": {
+            "destination": [
+                2,
+                6
+            ],
+            "k": 12
+        },
+        "output": "HHVHHHVH"
+    },
+    {
+        "input": {
+            "destination": [
+                10,
+                7
+            ],
+            "k": 17224
+        },
+        "output": "VVVHVHVVVHHHVVVHH"
+    },
+    {
+        "input": {
+            "destination": [
+                7,
+                13
+            ],
+            "k": 63512
+        },
+        "output": "VHVHHHHHVVHVHVHVHHHH"
+    },
+    {
+        "input": {
+            "destination": [
+                5,
+                7
+            ],
+            "k": 763
+        },
+        "output": "VVVHHHHVHHHV"
+    },
+    {
+        "input": {
+            "destination": [
+                9,
+                14
+            ],
+            "k": 433766
+        },
+        "output": "HVVHHHVHHVHVVHHVHHHHVVH"
+    },
+    {
+        "input": {
+            "destination": [
+                5,
+                5
+            ],
+            "k": 24
+        },
+        "output": "HHVHHVVHVV"
+    },
+    {
+        "input": {
+            "destination": [
+                7,
+                13
+            ],
+            "k": 47485
+        },
+        "output": "HVVHVHHHHVHVHVHHHHHV"
+    },
+    {
+        "input": {
+            "destination": [
+                4,
+                11
+            ],
+            "k": 479
+        },
+        "output": "HHHVVHVHHHHHHHV"
+    },
+    {
+        "input": {
+            "destination": [
+                10,
+                9
+            ],
+            "k": 31534
+        },
+        "output": "HVVHHHVHVHVHHVVHVVV"
+    },
+    {
+        "input": {
+            "destination": [
+                1,
+                12
+            ],
+            "k": 9
+        },
+        "output": "HHHHVHHHHHHHH"
+    },
+    {
+        "input": {
+            "destination": [
+                14,
+                15
+            ],
+            "k": 53892271
+        },
+        "output": "VHVHVHHVVVHVVVHHHHVHHVVHHHVVH"
+    },
+    {
+        "input": {
+            "destination": [
+                13,
+                15
+            ],
+            "k": 3685568
+        },
+        "output": "HHHVHVVVHHHHVHHHVVHHVVHVVHVV"
+    },
+    {
+        "input": {
+            "destination": [
+                3,
+                1
+            ],
+            "k": 4
+        },
+        "output": "VVVH"
+    },
+    {
+        "input": {
+            "destination": [
+                8,
+                9
+            ],
+            "k": 18610
+        },
+        "output": "VHVVHVHVHHHHHVVVH"
+    },
+    {
+        "input": {
+            "destination": [
+                11,
+                5
+            ],
+            "k": 2151
+        },
+        "output": "VHVVVHVVVVVHVHVH"
+    },
+    {
+        "input": {
+            "destination": [
+                4,
+                12
+            ],
+            "k": 663
+        },
+        "output": "HHHVVHHHHHHHHVVH"
+    },
+    {
+        "input": {
+            "destination": [
+                14,
+                4
+            ],
+            "k": 109
+        },
+        "output": "HHVVVVVVVVVVHVVVHV"
+    },
+    {
+        "input": {
+            "destination": [
+                4,
+                5
+            ],
+            "k": 68
+        },
+        "output": "HVVVHHVHH"
+    },
+    {
+        "input": {
+            "destination": [
+                15,
+                1
+            ],
+            "k": 7
+        },
+        "output": "VVVVVVHVVVVVVVVV"
+    },
+    {
+        "input": {
+            "destination": [
+                1,
+                1
+            ],
+            "k": 1
+        },
+        "output": "HV"
+    },
+    {
+        "input": {
+            "destination": [
+                3,
+                13
+            ],
+            "k": 120
+        },
+        "output": "HHHHHHVVVHHHHHHH"
+    },
+    {
+        "input": {
+            "destination": [
+                9,
+                15
+            ],
+            "k": 436066
+        },
+        "output": "HHVVHHHVHVVHVHVHVHHHHHHV"
+    },
+    {
+        "input": {
+            "destination": [
+                5,
+                10
+            ],
+            "k": 2263
+        },
+        "output": "VHHHVHHVVHHHHHV"
+    },
+    {
+        "input": {
+            "destination": [
+                14,
+                15
+            ],
+            "k": 61992924
+        },
+        "output": "VVHHHVHVHVHHVVHVVHVHVHHVHVHVH"
+    },
+    {
+        "input": {
+            "destination": [
+                5,
+                11
+            ],
+            "k": 3938
+        },
+        "output": "VHVHVVVHHHHHHHHH"
+    },
+    {
+        "input": {
+            "destination": [
+                4,
+                5
+            ],
+            "k": 108
+        },
+        "output": "VVHHHHVVH"
+    },
+    {
+        "input": {
+            "destination": [
+                1,
+                14
+            ],
+            "k": 14
+        },
+        "output": "HVHHHHHHHHHHHHH"
+    },
+    {
+        "input": {
+            "destination": [
+                3,
+                9
+            ],
+            "k": 104
+        },
+        "output": "HHVHHVHVHHHH"
+    },
+    {
+        "input": {
+            "destination": [
+                9,
+                2
+            ],
+            "k": 43
+        },
+        "output": "VVVVVHVVHVV"
+    },
+    {
+        "input": {
+            "destination": [
+                14,
+                4
+            ],
+            "k": 2328
+        },
+        "output": "VVVVHVVVVVVVHHVVHV"
+    },
+    {
+        "input": {
+            "destination": [
+                8,
+                6
+            ],
+            "k": 2998
+        },
+        "output": "VVVVVVVHHHHHVH"
+    },
+    {
+        "input": {
+            "destination": [
+                3,
+                1
+            ],
+            "k": 3
+        },
+        "output": "VVHV"
+    },
+    {
+        "input": {
+            "destination": [
+                11,
+                5
+            ],
+            "k": 844
+        },
+        "output": "HVVHVVVVVHVHVVVH"
+    },
+    {
+        "input": {
+            "destination": [
+                1,
+                12
+            ],
+            "k": 5
+        },
+        "output": "HHHHHHHHVHHHH"
+    },
+    {
+        "input": {
+            "destination": [
+                10,
+                13
+            ],
+            "k": 1084189
+        },
+        "output": "VVVHHHVVHHVVHHVHVHVHHHH"
+    },
+    {
+        "input": {
+            "destination": [
+                7,
+                8
+            ],
+            "k": 3575
+        },
+        "output": "VHHHHVVHHHVVHVV"
+    },
+    {
+        "input": {
+            "destination": [
+                4,
+                10
+            ],
+            "k": 806
+        },
+        "output": "VHHHVHHHHVHHHV"
+    },
+    {
+        "input": {
+            "destination": [
+                2,
+                13
+            ],
+            "k": 57
+        },
+        "output": "HHHVHHHHHHHHHVH"
+    },
+    {
+        "input": {
+            "destination": [
+                5,
+                14
+            ],
+            "k": 3182
+        },
+        "output": "HHHVHHHHHVHVVHHHVHH"
+    },
+    {
+        "input": {
+            "destination": [
+                9,
+                15
+            ],
+            "k": 670803
+        },
+        "output": "HVHVHVVHVHHHHHVVVVHHHHHH"
+    },
+    {
+        "input": {
+            "destination": [
+                12,
+                2
+            ],
+            "k": 60
+        },
+        "output": "VVVVVHVVVVHVVV"
+    },
+    {
+        "input": {
+            "destination": [
+                15,
+                5
+            ],
+            "k": 1185
+        },
+        "output": "HVHVVVHVVVVVHVVHVVVV"
+    },
+    {
+        "input": {
+            "destination": [
+                3,
+                13
+            ],
+            "k": 22
+        },
+        "output": "HHHHHHHHHVHHHVHV"
+    },
+    {
+        "input": {
+            "destination": [
+                3,
+                8
+            ],
+            "k": 125
+        },
+        "output": "VHHHHHHVHVH"
+    },
+    {
+        "input": {
+            "destination": [
+                13,
+                10
+            ],
+            "k": 490657
+        },
+        "output": "HVVVVVVHVHVHVHHVVVHVHHH"
+    },
+    {
+        "input": {
+            "destination": [
+                7,
+                10
+            ],
+            "k": 3823
+        },
+        "output": "HHVHHHVVHVHVVVHHH"
+    },
+    {
+        "input": {
+            "destination": [
+                12,
+                13
+            ],
+            "k": 3259344
+        },
+        "output": "VHHVVHHHVHVVVVHVHVHHVVHHH"
+    },
+    {
+        "input": {
+            "destination": [
+                12,
+                10
+            ],
+            "k": 136453
+        },
+        "output": "HVHHHVVVHVVVHVHVHHVVVH"
+    },
+    {
+        "input": {
+            "destination": [
+                12,
+                15
+            ],
+            "k": 12997800
+        },
+        "output": "VHVHVHVHHVHHVHVVVHHHHVHHVHV"
+    },
+    {
+        "input": {
+            "destination": [
+                11,
+                5
+            ],
+            "k": 835
+        },
+        "output": "HVVHVVVVHVVVVVHH"
+    },
+    {
+        "input": {
+            "destination": [
+                7,
+                2
+            ],
+            "k": 23
+        },
+        "output": "VVVHVHVVV"
+    },
+    {
+        "input": {
+            "destination": [
+                1,
+                2
+            ],
+            "k": 2
+        },
+        "output": "HVH"
+    },
+    {
+        "input": {
+            "destination": [
+                2,
+                6
+            ],
+            "k": 22
+        },
+        "output": "VHHHHHHV"
+    },
+    {
+        "input": {
+            "destination": [
+                8,
+                7
+            ],
+            "k": 3504
+        },
+        "output": "VHHVHVVHVVHVVHH"
+    },
+    {
+        "input": {
+            "destination": [
+                8,
+                13
+            ],
+            "k": 29563
+        },
+        "output": "HHHVHHVVHHHHVVHVHVHHV"
+    },
+    {
+        "input": {
+            "destination": [
+                15,
+                13
+            ],
+            "k": 22965753
+        },
+        "output": "VHVHHVVVVVHVVVVVHHVHHHVHHHHV"
+    },
+    {
+        "input": {
+            "destination": [
+                2,
+                4
+            ],
+            "k": 15
+        },
+        "output": "VVHHHH"
+    },
+    {
+        "input": {
+            "destination": [
+                4,
+                13
+            ],
+            "k": 200
+        },
+        "output": "HHHHHHHVVHVHHHVHH"
+    },
+    {
+        "input": {
+            "destination": [
+                10,
+                5
+            ],
+            "k": 2872
+        },
+        "output": "VVVVVHVVVHVVHHH"
+    },
+    {
+        "input": {
+            "destination": [
+                11,
+                3
+            ],
+            "k": 309
+        },
+        "output": "VVVVVVHHHVVVVV"
+    },
+    {
+        "input": {
+            "destination": [
+                2,
+                6
+            ],
+            "k": 5
+        },
+        "output": "HHHHVHVH"
+    },
+    {
+        "input": {
+            "destination": [
+                15,
+                5
+            ],
+            "k": 13571
+        },
+        "output": "VVVVVVHHVHVHVVVVHVVV"
+    },
+    {
+        "input": {
+            "destination": [
+                14,
+                5
+            ],
+            "k": 10571
+        },
+        "output": "VVVVVVHVHVVHHHVVVVV"
+    },
+    {
+        "input": {
+            "destination": [
+                11,
+                12
+            ],
+            "k": 521175
+        },
+        "output": "HVHVVVHHHVVVHHHVHVHVHHV"
+    },
+    {
+        "input": {
+            "destination": [
+                9,
+                2
+            ],
+            "k": 41
+        },
+        "output": "VVVVVHHVVVV"
+    },
+    {
+        "input": {
+            "destination": [
+                12,
+                7
+            ],
+            "k": 41365
+        },
+        "output": "VVVHVHHVVVHVVHVVVHH"
+    },
+    {
+        "input": {
+            "destination": [
+                3,
+                11
+            ],
+            "k": 180
+        },
+        "output": "HHVHHHHHVVHHHH"
+    },
+    {
+        "input": {
+            "destination": [
+                14,
+                7
+            ],
+            "k": 33914
+        },
+        "output": "HVVVVVHHHVVVHVVVVHHVV"
+    },
+    {
+        "input": {
+            "destination": [
+                11,
+                3
+            ],
+            "k": 83
+        },
+        "output": "VHHVVVVHVVVVVV"
+    },
+    {
+        "input": {
+            "destination": [
+                15,
+                4
+            ],
+            "k": 293
+        },
+        "output": "HVVHVVHVVVVVVVVVHVV"
+    },
+    {
+        "input": {
+            "destination": [
+                9,
+                5
+            ],
+            "k": 1409
+        },
+        "output": "VVHVHVVVVHVHVH"
+    },
+    {
+        "input": {
+            "destination": [
+                12,
+                3
+            ],
+            "k": 101
+        },
+        "output": "VHHVVVVVVVVVHVV"
+    },
+    {
+        "input": {
+            "destination": [
+                3,
+                6
+            ],
+            "k": 71
+        },
+        "output": "VHHVVHHHH"
+    },
+    {
+        "input": {
+            "destination": [
+                4,
+                8
+            ],
+            "k": 419
+        },
+        "output": "VHVHHHHHVHVH"
+    },
+    {
+        "input": {
+            "destination": [
+                15,
+                9
+            ],
+            "k": 34875
+        },
+        "output": "HHHVVHVVVVVHVVVVVHHHVHVV"
+    },
+    {
+        "input": {
+            "destination": [
+                1,
+                14
+            ],
+            "k": 14
+        },
+        "output": "HVHHHHHHHHHHHHH"
+    },
+    {
+        "input": {
+            "destination": [
+                4,
+                12
+            ],
+            "k": 302
+        },
+        "output": "HHHHHVVHHHHVHHVH"
+    },
+    {
+        "input": {
+            "destination": [
+                8,
+                11
+            ],
+            "k": 71854
+        },
+        "output": "VVVHHHHVHVHVVHHHHVH"
+    },
+    {
+        "input": {
+            "destination": [
+                4,
+                4
+            ],
+            "k": 21
+        },
+        "output": "HVHVHVHV"
+    },
+    {
+        "input": {
+            "destination": [
+                13,
+                2
+            ],
+            "k": 45
+        },
+        "output": "VVVHVVVVVHVVVVV"
+    },
+    {
+        "input": {
+            "destination": [
+                15,
+                3
+            ],
+            "k": 350
+        },
+        "output": "VVHVVVVVVVVVHVVVHV"
+    },
+    {
+        "input": {
+            "destination": [
+                4,
+                15
+            ],
+            "k": 1953
+        },
+        "output": "HHVHHHHHVHHHHVHHVHH"
+    },
+    {
+        "input": {
+            "destination": [
+                15,
+                15
+            ],
+            "k": 153946465
+        },
+        "output": "VVVVVVHHHHVVHHHHHHHVVVVHVVHHVH"
+    }
+]

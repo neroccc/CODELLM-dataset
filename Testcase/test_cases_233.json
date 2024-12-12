@@ -1,0 +1,402 @@
+[
+    {
+        "input": 66275,
+        "output": 36958
+    },
+    {
+        "input": 56413,
+        "output": 32986
+    },
+    {
+        "input": 4285,
+        "output": 2359
+    },
+    {
+        "input": 98090,
+        "output": 49419
+    },
+    {
+        "input": 24143,
+        "output": 20279
+    },
+    {
+        "input": 36455,
+        "output": 24996
+    },
+    {
+        "input": 8714,
+        "output": 3647
+    },
+    {
+        "input": 3972,
+        "output": 2198
+    },
+    {
+        "input": 87299,
+        "output": 45260
+    },
+    {
+        "input": 34381,
+        "output": 24379
+    },
+    {
+        "input": 99013,
+        "output": 49706
+    },
+    {
+        "input": 40447,
+        "output": 26195
+    },
+    {
+        "input": 80193,
+        "output": 42134
+    },
+    {
+        "input": 10615,
+        "output": 4844
+    },
+    {
+        "input": 13182,
+        "output": 9205
+    },
+    {
+        "input": 16233,
+        "output": 13188
+    },
+    {
+        "input": 79304,
+        "output": 41861
+    },
+    {
+        "input": 16705,
+        "output": 13747
+    },
+    {
+        "input": 23251,
+        "output": 20056
+    },
+    {
+        "input": 82680,
+        "output": 43838
+    },
+    {
+        "input": 82775,
+        "output": 43858
+    },
+    {
+        "input": 9308,
+        "output": 3861
+    },
+    {
+        "input": 97535,
+        "output": 49314
+    },
+    {
+        "input": 81933,
+        "output": 43528
+    },
+    {
+        "input": 97882,
+        "output": 49379
+    },
+    {
+        "input": 14282,
+        "output": 10642
+    },
+    {
+        "input": 87246,
+        "output": 45255
+    },
+    {
+        "input": 67807,
+        "output": 37361
+    },
+    {
+        "input": 80790,
+        "output": 42259
+    },
+    {
+        "input": 57523,
+        "output": 33313
+    },
+    {
+        "input": 17259,
+        "output": 14516
+    },
+    {
+        "input": 88661,
+        "output": 45637
+    },
+    {
+        "input": 16078,
+        "output": 12897
+    },
+    {
+        "input": 1767,
+        "output": 1325
+    },
+    {
+        "input": 40557,
+        "output": 26216
+    },
+    {
+        "input": 90191,
+        "output": 46132
+    },
+    {
+        "input": 48266,
+        "output": 29557
+    },
+    {
+        "input": 10078,
+        "output": 4097
+    },
+    {
+        "input": 57219,
+        "output": 33252
+    },
+    {
+        "input": 8156,
+        "output": 3493
+    },
+    {
+        "input": 5440,
+        "output": 2694
+    },
+    {
+        "input": 73904,
+        "output": 40181
+    },
+    {
+        "input": 17839,
+        "output": 15214
+    },
+    {
+        "input": 94842,
+        "output": 48475
+    },
+    {
+        "input": 85339,
+        "output": 44674
+    },
+    {
+        "input": 37886,
+        "output": 25379
+    },
+    {
+        "input": 334,
+        "output": 174
+    },
+    {
+        "input": 32745,
+        "output": 23855
+    },
+    {
+        "input": 53034,
+        "output": 31914
+    },
+    {
+        "input": 94669,
+        "output": 48437
+    },
+    {
+        "input": 43428,
+        "output": 28093
+    },
+    {
+        "input": 36923,
+        "output": 25093
+    },
+    {
+        "input": 70050,
+        "output": 38015
+    },
+    {
+        "input": 59666,
+        "output": 33937
+    },
+    {
+        "input": 89806,
+        "output": 45961
+    },
+    {
+        "input": 59077,
+        "output": 33718
+    },
+    {
+        "input": 92401,
+        "output": 47781
+    },
+    {
+        "input": 56819,
+        "output": 33072
+    },
+    {
+        "input": 25408,
+        "output": 20681
+    },
+    {
+        "input": 79753,
+        "output": 41956
+    },
+    {
+        "input": 55362,
+        "output": 32677
+    },
+    {
+        "input": 21605,
+        "output": 19127
+    },
+    {
+        "input": 33667,
+        "output": 24137
+    },
+    {
+        "input": 38380,
+        "output": 25578
+    },
+    {
+        "input": 31942,
+        "output": 23538
+    },
+    {
+        "input": 22279,
+        "output": 19758
+    },
+    {
+        "input": 60718,
+        "output": 34251
+    },
+    {
+        "input": 27047,
+        "output": 21115
+    },
+    {
+        "input": 98272,
+        "output": 49558
+    },
+    {
+        "input": 92446,
+        "output": 47795
+    },
+    {
+        "input": 53094,
+        "output": 31920
+    },
+    {
+        "input": 18416,
+        "output": 16006
+    },
+    {
+        "input": 89692,
+        "output": 45940
+    },
+    {
+        "input": 8842,
+        "output": 3675
+    },
+    {
+        "input": 3400,
+        "output": 2080
+    },
+    {
+        "input": 83820,
+        "output": 44172
+    },
+    {
+        "input": 6855,
+        "output": 3076
+    },
+    {
+        "input": 38092,
+        "output": 25420
+    },
+    {
+        "input": 15843,
+        "output": 12619
+    },
+    {
+        "input": 18513,
+        "output": 16120
+    },
+    {
+        "input": 28285,
+        "output": 21559
+    },
+    {
+        "input": 87930,
+        "output": 45393
+    },
+    {
+        "input": 90500,
+        "output": 46200
+    },
+    {
+        "input": 3689,
+        "output": 2139
+    },
+    {
+        "input": 80270,
+        "output": 42157
+    },
+    {
+        "input": 39699,
+        "output": 25940
+    },
+    {
+        "input": 47571,
+        "output": 29318
+    },
+    {
+        "input": 66559,
+        "output": 37016
+    },
+    {
+        "input": 33977,
+        "output": 24198
+    },
+    {
+        "input": 63988,
+        "output": 36199
+    },
+    {
+        "input": 45766,
+        "output": 28757
+    },
+    {
+        "input": 30442,
+        "output": 22195
+    },
+    {
+        "input": 11561,
+        "output": 6641
+    },
+    {
+        "input": 62035,
+        "output": 35614
+    },
+    {
+        "input": 14619,
+        "output": 11052
+    },
+    {
+        "input": 94962,
+        "output": 48497
+    },
+    {
+        "input": 45985,
+        "output": 28799
+    },
+    {
+        "input": 47801,
+        "output": 29361
+    },
+    {
+        "input": 98878,
+        "output": 49678
+    },
+    {
+        "input": 86682,
+        "output": 45039
+    }
+]

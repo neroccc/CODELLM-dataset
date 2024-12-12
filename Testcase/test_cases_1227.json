@@ -1,0 +1,422 @@
+[
+    {
+        "input": 702,
+        "output": 0.5
+    },
+    {
+        "input": 554,
+        "output": 0.5
+    },
+    {
+        "input": 374,
+        "output": 0.49999999999999994
+    },
+    {
+        "input": 484,
+        "output": 0.5
+    },
+    {
+        "input": 559,
+        "output": 0.5
+    },
+    {
+        "input": 265,
+        "output": 0.5
+    },
+    {
+        "input": 895,
+        "output": 0.49999999999999994
+    },
+    {
+        "input": 811,
+        "output": 0.5
+    },
+    {
+        "input": 575,
+        "output": 0.5
+    },
+    {
+        "input": 27,
+        "output": 0.5
+    },
+    {
+        "input": 282,
+        "output": 0.5
+    },
+    {
+        "input": 696,
+        "output": 0.5
+    },
+    {
+        "input": 65,
+        "output": 0.5
+    },
+    {
+        "input": 526,
+        "output": 0.5
+    },
+    {
+        "input": 122,
+        "output": 0.5
+    },
+    {
+        "input": 311,
+        "output": 0.5
+    },
+    {
+        "input": 39,
+        "output": 0.5
+    },
+    {
+        "input": 858,
+        "output": 0.5
+    },
+    {
+        "input": 597,
+        "output": 0.5
+    },
+    {
+        "input": 390,
+        "output": 0.5
+    },
+    {
+        "input": 602,
+        "output": 0.5
+    },
+    {
+        "input": 941,
+        "output": 0.49999999999999994
+    },
+    {
+        "input": 423,
+        "output": 0.5
+    },
+    {
+        "input": 884,
+        "output": 0.5
+    },
+    {
+        "input": 823,
+        "output": 0.49999999999999994
+    },
+    {
+        "input": 484,
+        "output": 0.5
+    },
+    {
+        "input": 98,
+        "output": 0.49999999999999994
+    },
+    {
+        "input": 663,
+        "output": 0.5
+    },
+    {
+        "input": 234,
+        "output": 0.5
+    },
+    {
+        "input": 225,
+        "output": 0.5
+    },
+    {
+        "input": 713,
+        "output": 0.5
+    },
+    {
+        "input": 445,
+        "output": 0.5
+    },
+    {
+        "input": 689,
+        "output": 0.5
+    },
+    {
+        "input": 801,
+        "output": 0.5
+    },
+    {
+        "input": 669,
+        "output": 0.5
+    },
+    {
+        "input": 94,
+        "output": 0.5
+    },
+    {
+        "input": 326,
+        "output": 0.5
+    },
+    {
+        "input": 956,
+        "output": 0.49999999999999994
+    },
+    {
+        "input": 59,
+        "output": 0.5
+    },
+    {
+        "input": 216,
+        "output": 0.5
+    },
+    {
+        "input": 531,
+        "output": 0.5
+    },
+    {
+        "input": 898,
+        "output": 0.5
+    },
+    {
+        "input": 517,
+        "output": 0.5
+    },
+    {
+        "input": 927,
+        "output": 0.49999999999999994
+    },
+    {
+        "input": 924,
+        "output": 0.5
+    },
+    {
+        "input": 259,
+        "output": 0.5
+    },
+    {
+        "input": 258,
+        "output": 0.5
+    },
+    {
+        "input": 222,
+        "output": 0.5
+    },
+    {
+        "input": 268,
+        "output": 0.5
+    },
+    {
+        "input": 389,
+        "output": 0.49999999999999994
+    },
+    {
+        "input": 897,
+        "output": 0.5
+    },
+    {
+        "input": 766,
+        "output": 0.5
+    },
+    {
+        "input": 647,
+        "output": 0.5
+    },
+    {
+        "input": 650,
+        "output": 0.5
+    },
+    {
+        "input": 575,
+        "output": 0.5
+    },
+    {
+        "input": 736,
+        "output": 0.5
+    },
+    {
+        "input": 991,
+        "output": 0.5
+    },
+    {
+        "input": 873,
+        "output": 0.5
+    },
+    {
+        "input": 321,
+        "output": 0.5
+    },
+    {
+        "input": 579,
+        "output": 0.5
+    },
+    {
+        "input": 386,
+        "output": 0.5
+    },
+    {
+        "input": 689,
+        "output": 0.5
+    },
+    {
+        "input": 57,
+        "output": 0.5
+    },
+    {
+        "input": 780,
+        "output": 0.5
+    },
+    {
+        "input": 222,
+        "output": 0.5
+    },
+    {
+        "input": 627,
+        "output": 0.5
+    },
+    {
+        "input": 393,
+        "output": 0.5
+    },
+    {
+        "input": 495,
+        "output": 0.5
+    },
+    {
+        "input": 82,
+        "output": 0.5
+    },
+    {
+        "input": 474,
+        "output": 0.49999999999999994
+    },
+    {
+        "input": 150,
+        "output": 0.5
+    },
+    {
+        "input": 631,
+        "output": 0.5
+    },
+    {
+        "input": 399,
+        "output": 0.5
+    },
+    {
+        "input": 810,
+        "output": 0.5
+    },
+    {
+        "input": 598,
+        "output": 0.5
+    },
+    {
+        "input": 81,
+        "output": 0.5
+    },
+    {
+        "input": 575,
+        "output": 0.5
+    },
+    {
+        "input": 912,
+        "output": 0.5
+    },
+    {
+        "input": 358,
+        "output": 0.5
+    },
+    {
+        "input": 737,
+        "output": 0.49999999999999994
+    },
+    {
+        "input": 178,
+        "output": 0.5
+    },
+    {
+        "input": 419,
+        "output": 0.5
+    },
+    {
+        "input": 438,
+        "output": 0.5
+    },
+    {
+        "input": 297,
+        "output": 0.5
+    },
+    {
+        "input": 496,
+        "output": 0.5
+    },
+    {
+        "input": 519,
+        "output": 0.5
+    },
+    {
+        "input": 876,
+        "output": 0.5
+    },
+    {
+        "input": 417,
+        "output": 0.49999999999999994
+    },
+    {
+        "input": 663,
+        "output": 0.5
+    },
+    {
+        "input": 4,
+        "output": 0.5
+    },
+    {
+        "input": 386,
+        "output": 0.5
+    },
+    {
+        "input": 580,
+        "output": 0.5
+    },
+    {
+        "input": 766,
+        "output": 0.5
+    },
+    {
+        "input": 184,
+        "output": 0.5
+    },
+    {
+        "input": 114,
+        "output": 0.5
+    },
+    {
+        "input": 997,
+        "output": 0.5
+    },
+    {
+        "input": 586,
+        "output": 0.5
+    },
+    {
+        "input": 395,
+        "output": 0.5
+    },
+    {
+        "input": 438,
+        "output": 0.5
+    },
+    {
+        "input": 557,
+        "output": 0.5
+    },
+    {
+        "input": 1,
+        "output": 1.0
+    },
+    {
+        "input": 2,
+        "output": 0.5
+    },
+    {
+        "input": 10,
+        "output": 0.5
+    },
+    {
+        "input": 100,
+        "output": 0.5
+    },
+    {
+        "input": 1000,
+        "output": 0.5
+    }
+]

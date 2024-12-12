@@ -1,0 +1,7002 @@
+[
+  {
+    "input": {
+      "board": "YWBBRWBRWBBWWRWY",
+      "hand": "YRGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBYWYRGRWGYG",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYBWRWWRYBYBYY",
+      "hand": "YYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBGWWBWYY",
+      "hand": "RGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBYW",
+      "hand": "GYWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBBWGRBGBBY",
+      "hand": "YBRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGRYBWRY",
+      "hand": "BB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWRGRGY",
+      "hand": "RB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGWBWRWBB",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRYWWGWGYYRWWGYR",
+      "hand": "GBWBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBGRWGBBG",
+      "hand": "WB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWGBWBRGWGWBBYY",
+      "hand": "RG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYYYYBBGRGYR",
+      "hand": "BW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBWBWRGYWG",
+      "hand": "WGRYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BW",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYYGBYYB",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRRYBYBGRRBW",
+      "hand": "YWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWRGGYWRYWRW",
+      "hand": "GWRYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRGGWY",
+      "hand": "BYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGYBWW",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "B",
+      "hand": "WWGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGBB",
+      "hand": "BWBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GG",
+      "hand": "BGRWG"
+    },
+    "output": 1
+  },
+  {
+    "input": {
+      "board": "B",
+      "hand": "GW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWRRRWYBYG",
+      "hand": "RBGRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWG",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "Y",
+      "hand": "WGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYB",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWYBB",
+      "hand": "BRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRYWWRRGRB",
+      "hand": "WG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYGYBRRGRYBYYGW",
+      "hand": "BB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWGGGRGGGWB",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYYWGYWRYBGR",
+      "hand": "GRWRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBBGRYYB",
+      "hand": "WR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRRBRWWWWWGYR",
+      "hand": "WYBW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBWGWBYW",
+      "hand": "WBB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRR",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGBRWYG",
+      "hand": "YW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBWGYGWYWRRRGGG",
+      "hand": "YBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRRWBBRWBWYRWBB",
+      "hand": "BGRY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBGWBBRR",
+      "hand": "YWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRBYWRRRRGWBYBW",
+      "hand": "GR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYGW",
+      "hand": "BGRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGWRG",
+      "hand": "YRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYYGGGRBGBY",
+      "hand": "WBRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "W",
+      "hand": "BWBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGYBBYWYGBGRWRR",
+      "hand": "BWBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWRGGWRGYRWGYY",
+      "hand": "BY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBG",
+      "hand": "BRBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWBGBRYWYRYGRG",
+      "hand": "BRRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BG",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YY",
+      "hand": "Y"
+    },
+    "output": 1
+  },
+  {
+    "input": {
+      "board": "RYBWRRY",
+      "hand": "WWYBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWRGGRR",
+      "hand": "GWWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWBG",
+      "hand": "BG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WB",
+      "hand": "RYWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYYYB",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGWGYWBRGWBBWWGG",
+      "hand": "WGWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGYBYWYBYWRBYG",
+      "hand": "YG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRWW",
+      "hand": "RY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWB",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "Y",
+      "hand": "BRGRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGWYBYWYGWBG",
+      "hand": "YRRWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYWBYGGBWYBGGR",
+      "hand": "GWYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGWGW",
+      "hand": "BYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWYWWWRW",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBRG",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWWBGB",
+      "hand": "RR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRGRRG",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GW",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGBWGYWYYG",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWBRWWWGBG",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGRBY",
+      "hand": "YRRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RW",
+      "hand": "RG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYWW",
+      "hand": "GGGGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWWWBBG",
+      "hand": "BYBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYYBG",
+      "hand": "GWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGRRWYRRYWRGYWW",
+      "hand": "RGBBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBWBYYRGRW",
+      "hand": "GBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYBBYBWB",
+      "hand": "RGYW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBGRBRRRWB",
+      "hand": "RRYBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGRG",
+      "hand": "YWRGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GY",
+      "hand": "WW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "Y",
+      "hand": "GGGRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "W",
+      "hand": "RY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRRRWBRWB",
+      "hand": "GGYYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWYBYYWRYBRRYGW",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYBBYWWRYBGW",
+      "hand": "WBRBB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYGBYGBYB",
+      "hand": "WB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBG",
+      "hand": "WWGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "W",
+      "hand": "YYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRYGBWRWWY",
+      "hand": "WBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "Y",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBRWWGRBRYYG",
+      "hand": "YG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBGYWGBGGWGBYBBR",
+      "hand": "GWYW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYGW",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWBGGRB",
+      "hand": "GBGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYBYRWG",
+      "hand": "WYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRR",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "R",
+      "hand": "GGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRYGBWBYGB",
+      "hand": "WWRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBYBBWGRW",
+      "hand": "GBGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGBWW",
+      "hand": "BRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "G",
+      "hand": "BRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRBGYGBYYR",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWBWBRGRGBGB",
+      "hand": "YG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBRYWYGRGGWBRGW",
+      "hand": "BYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYYWYYRGBGYRR",
+      "hand": "GR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBGBYWR",
+      "hand": "WWGBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWGGRWY",
+      "hand": "BB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRRYBWRYYRRR",
+      "hand": "WY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYYGBYWYWBRG",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "W",
+      "hand": "WWB"
+    },
+    "output": 2
+  },
+  {
+    "input": {
+      "board": "BGGYRBRBBYRG",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBBBBWBRBWWRBWG",
+      "hand": "RWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBYWYYYY",
+      "hand": "GG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGBYGWWRY",
+      "hand": "BGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWGWYBGYYGB",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBGWGG",
+      "hand": "YYGBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRGBYGWWRYWWGRWY",
+      "hand": "WW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGRGGYYBGGBYGWB",
+      "hand": "RB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWYWYRGW",
+      "hand": "GWBBW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGWBGGRYYWRG",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBYRG",
+      "hand": "BW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWBYBBYYYGWG",
+      "hand": "YBRRY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYBRGWYYYRGRGY",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BB",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BY",
+      "hand": "BYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRYBYBGY",
+      "hand": "YRY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBYGWYBYYGYR",
+      "hand": "YYWWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWYRYYGBYGRRYW",
+      "hand": "WRBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGB",
+      "hand": "YYWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGBRYRWBR",
+      "hand": "BWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRY",
+      "hand": "BBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRYWYBBWBBBB",
+      "hand": "GRBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWBYRYYWBYBBYG",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYBWRRGYGBYYRB",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRG",
+      "hand": "RGWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBG",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYBYBBYGYWWYGWW",
+      "hand": "YYWWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRYRYBG",
+      "hand": "GR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGBB",
+      "hand": "BGGYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGYGWBGYWBYRYYB",
+      "hand": "YWGWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRBRYGGBGW",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBYBBBBBW",
+      "hand": "RBB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWY",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYGWW",
+      "hand": "BWBW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYYY",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRRBWRW",
+      "hand": "YWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWBGGWBY",
+      "hand": "RWW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRWGBYRYBYRWY",
+      "hand": "BWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBGY",
+      "hand": "YR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYRBRR",
+      "hand": "WB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGYYYRWWY",
+      "hand": "RWRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBBYYYBRYYYRBRY",
+      "hand": "BWWWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYGWBYRYYYBYBYB",
+      "hand": "WY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYR",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBWYGBWWBRRGRGW",
+      "hand": "WRRY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBWBGWY",
+      "hand": "RYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYBGYBY",
+      "hand": "BGGWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYRYBBGWBGYGR",
+      "hand": "GG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBGYBRYRBRG",
+      "hand": "WYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYWR",
+      "hand": "RBGRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRBGG",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYBRBGGBGBYGR",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYGBBWRG",
+      "hand": "RRGWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRGWWBWBYWRWY",
+      "hand": "YGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BY",
+      "hand": "YYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWGWWRB",
+      "hand": "GRGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBRYRRYWWBG",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GG",
+      "hand": "BGGWY"
+    },
+    "output": 1
+  },
+  {
+    "input": {
+      "board": "YRRWBG",
+      "hand": "WBGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWGWWYG",
+      "hand": "WGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWYGGBYRGYR",
+      "hand": "BYW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRGBWWGW",
+      "hand": "YG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWBRWRGYW",
+      "hand": "YG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRG",
+      "hand": "YRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWRBW",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWBYGYYBW",
+      "hand": "YRYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRGYGWGWWGBYYGB",
+      "hand": "WR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWWBYWBWWWYR",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGWYG",
+      "hand": "GGRWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWGYRWBG",
+      "hand": "RB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GW",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGRBRGYW",
+      "hand": "WBRGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWYRWWBBGGYBWGWG",
+      "hand": "RGGYW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GG",
+      "hand": "GGWW"
+    },
+    "output": 1
+  },
+  {
+    "input": {
+      "board": "RGWBWGR",
+      "hand": "GGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WB",
+      "hand": "BB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBWWR",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYRY",
+      "hand": "YGRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGWRWRBBBBYY",
+      "hand": "RB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYYWBWGWBBB",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGGBWRBBW",
+      "hand": "BB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGWYGRRRRWW",
+      "hand": "WBRRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGRWGWWWYBBG",
+      "hand": "YBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBRGBWRWWGYGWGB",
+      "hand": "WGRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBBRWBGRYW",
+      "hand": "GWGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBWGWG",
+      "hand": "BGGYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBBGW",
+      "hand": "YYWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGRYRY",
+      "hand": "RG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WW",
+      "hand": "YYWYR"
+    },
+    "output": 1
+  },
+  {
+    "input": {
+      "board": "RBBGRYRWGYY",
+      "hand": "YY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYGWBBB",
+      "hand": "RGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBWR",
+      "hand": "YBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGWBWBRRBWBWBYGR",
+      "hand": "RWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGWR",
+      "hand": "YWGYW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWRGRBYYWBWGBWG",
+      "hand": "RG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWYBB",
+      "hand": "BRGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRRYWRWYYW",
+      "hand": "YGBBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "Y",
+      "hand": "WGRBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGGRRGRYGYBBYBRG",
+      "hand": "BY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYRB",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYWBWR",
+      "hand": "WBRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBBRYRRW",
+      "hand": "RG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "Y",
+      "hand": "YRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BY",
+      "hand": "YY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBWGYRGRYWRY",
+      "hand": "GY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRWYGYYYYWRRY",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RB",
+      "hand": "YYW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRG",
+      "hand": "GWW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWRBRWB",
+      "hand": "RWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRYRGRYB",
+      "hand": "RWRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRGG",
+      "hand": "YBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWR",
+      "hand": "YBBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWRBGWRWWYWGBR",
+      "hand": "WRWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGWWGWWWYY",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWGW",
+      "hand": "YWBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGGWBYRRYYYBRYRY",
+      "hand": "WRYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBWBYRBB",
+      "hand": "GRWWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBWBBWGWYWYBGY",
+      "hand": "GW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGYBBWWRYYBRYRBY",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWGRYYYWWGWB",
+      "hand": "RBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBYBGWGRWYYBY",
+      "hand": "BBGBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBYWYWYRWYWY",
+      "hand": "BBGBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBBWGRYWWRWYBGG",
+      "hand": "RWWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RW",
+      "hand": "RB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWGRYGGWWBGBRWY",
+      "hand": "BY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WB",
+      "hand": "WBRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYWGRBY",
+      "hand": "YB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWRBBBBBBYGYG",
+      "hand": "BGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGWWWBGYBYGW",
+      "hand": "BBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYGWRWGW",
+      "hand": "BW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYRWY",
+      "hand": "WY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGBWYYBWYBBG",
+      "hand": "YBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYWGBRGBWW",
+      "hand": "RWBGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWBYWBYG",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBRRGYWRBRGW",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGBGRRYYYR",
+      "hand": "WW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYY",
+      "hand": "YBBW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYBGY",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWWRYBRGWRRW",
+      "hand": "WWYW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGGGRWYBRWGRYWY",
+      "hand": "YGYBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWYRRGR",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWWYYBBWWGWR",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRRRRYBGGRRB",
+      "hand": "RGYW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYBY",
+      "hand": "WBYBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGYW",
+      "hand": "YBW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYBWRBRGBGYGGWB",
+      "hand": "YBYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGRBWWR",
+      "hand": "WGRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWYWGRYBWWWBWG",
+      "hand": "WYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGWYBBBGGYWBR",
+      "hand": "YGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBGGBRWGBR",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYGBBY",
+      "hand": "GWRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGGYBGWWBRRR",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGG",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYBYGBGGYYGRGG",
+      "hand": "RW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBBRBBGRGGGR",
+      "hand": "GR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWB",
+      "hand": "WR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYB",
+      "hand": "YBRRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YB",
+      "hand": "RGGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "Y",
+      "hand": "BYRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRGYBY",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "B",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBY",
+      "hand": "YWYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYRRWBGRYBGG",
+      "hand": "RBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRYYRW",
+      "hand": "GRBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "W",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "W",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBYWY",
+      "hand": "YBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWBBBWWG",
+      "hand": "RGRRY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWRBBBGRYRWGWW",
+      "hand": "GRYBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRBWW",
+      "hand": "RW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGYWGYRBGBW",
+      "hand": "GYGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GR",
+      "hand": "YYBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "B",
+      "hand": "WGGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBRWRGB",
+      "hand": "BY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBGBGR",
+      "hand": "YGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYGR",
+      "hand": "WWYYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGY",
+      "hand": "WR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYYYRY",
+      "hand": "YW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGGRB",
+      "hand": "WR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGB",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRWBRRYYGYG",
+      "hand": "BGWBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWYRYRWRYBBB",
+      "hand": "BGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYYWWBYBRGBYRWW",
+      "hand": "GG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "G",
+      "hand": "WRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBWR",
+      "hand": "BW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBRYWBWBRYWG",
+      "hand": "WBYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWYYR",
+      "hand": "RW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBWGGY",
+      "hand": "YWBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGBRY",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYY",
+      "hand": "BG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYBBGYBG",
+      "hand": "GRBYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WW",
+      "hand": "BWBGY"
+    },
+    "output": 1
+  },
+  {
+    "input": {
+      "board": "WRBYGG",
+      "hand": "WRBYW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWBGYYG",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYRBGBRWWRGGRWGR",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRBGGWRWGYRRWGY",
+      "hand": "YYYW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWWYWWWRY",
+      "hand": "WBWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "W",
+      "hand": "RYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWRYBWYWBWWWYYGB",
+      "hand": "WRY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWR",
+      "hand": "YWGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WW",
+      "hand": "BRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWRBBRWGBWBBGWYY",
+      "hand": "GW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "G",
+      "hand": "YG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWGYGRYBRWWWWG",
+      "hand": "BB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYBBW",
+      "hand": "RB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYYBGRGBBBB",
+      "hand": "BBRYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWRGYYRWWYRWRRG",
+      "hand": "WBBYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGGBWBWYYBR",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "Y",
+      "hand": "WGGRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBYBRGBRWRRYYW",
+      "hand": "RR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRYBGGRBGW",
+      "hand": "WYYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRGWRYYGR",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBWYBBWBBYRWGB",
+      "hand": "BYYWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBBWWGBWB",
+      "hand": "GBWRY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWYW",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWBRRWYBGBWRGWW",
+      "hand": "BB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWGWBYGRWB",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBWRWGGYWBGWBB",
+      "hand": "RY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RW",
+      "hand": "YB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBRWRRGWW",
+      "hand": "GB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYBWBRYWBYGWGYG",
+      "hand": "YG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WY",
+      "hand": "YWW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGBBGGGRGRBYGY",
+      "hand": "BGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BG",
+      "hand": "WBBWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYRYRY",
+      "hand": "GGYWW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWG",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWYBB",
+      "hand": "RBBRY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBWWGYYWR",
+      "hand": "BGYGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YB",
+      "hand": "YB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBGGWYBG",
+      "hand": "YRWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRBRG",
+      "hand": "YBYBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYRYYRW",
+      "hand": "WRWWW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWGYYBRGBWW",
+      "hand": "RRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGWWBWBRWWRBGG",
+      "hand": "WBYYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RG",
+      "hand": "WB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRBR",
+      "hand": "WRGGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWGY",
+      "hand": "WWGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRBWR",
+      "hand": "WGBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WY",
+      "hand": "GW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWGGB",
+      "hand": "RBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBBRRRGYYGBRYBRR",
+      "hand": "WY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRWBRGWGGWGWBB",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBBBYWRWWRGYWRW",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "R",
+      "hand": "RR"
+    },
+    "output": 2
+  },
+  {
+    "input": {
+      "board": "BYGGYWG",
+      "hand": "BR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWBWRR",
+      "hand": "YBB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YG",
+      "hand": "WGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRWBGWYGGBR",
+      "hand": "YRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBBRWRBRRYR",
+      "hand": "GYGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRWWGRRGYBBR",
+      "hand": "BBBB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYBBBYWWYYYR",
+      "hand": "BGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBYRWYRBGWWWRRB",
+      "hand": "WBYBB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYBYYYWGGGRW",
+      "hand": "YBYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRWBGGYBWWGRBR",
+      "hand": "BYGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBG",
+      "hand": "RB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYWGGWWYBWWYW",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRBBGWR",
+      "hand": "WW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGGRBRYBRG",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRRWRGWWYYGRYBRY",
+      "hand": "YB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWYBGWGG",
+      "hand": "RG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWBW",
+      "hand": "RWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWWYBYBW",
+      "hand": "BBBW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRRYYYBGYYR",
+      "hand": "RBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGBYRWRRYY",
+      "hand": "GWYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWYYW",
+      "hand": "BYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRGB",
+      "hand": "WY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRRRRYWGRYR",
+      "hand": "BBBRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BW",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYGWW",
+      "hand": "YYW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYBBYRRGWBRRY",
+      "hand": "BRYGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYRBWWWWRYRR",
+      "hand": "RG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRYGYWWRW",
+      "hand": "WYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYRWBRBG",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRRBWRWGYWYGBW",
+      "hand": "GWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYYBWWBGGRRG",
+      "hand": "YWBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRWGWRYBYGRWYB",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBR",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYWWGWBG",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGYGRGYYWG",
+      "hand": "BYWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYRRGWGYBYWBGWG",
+      "hand": "YGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBBRBR",
+      "hand": "GYWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRYRBWBWGRG",
+      "hand": "YWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRYBBGGGYWYGGWB",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGWW",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYBYRYGGGGWR",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWGYWWGBBWRWRB",
+      "hand": "YBBW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWYG",
+      "hand": "WYBW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGWWRGRGBYRYGBY",
+      "hand": "RWWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWR",
+      "hand": "RRBBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGW",
+      "hand": "WWGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYWB",
+      "hand": "WR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWYWWRBBGWBR",
+      "hand": "WGYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWYYGGG",
+      "hand": "RYW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBGYWR",
+      "hand": "BBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRGWWRYBYR",
+      "hand": "BYBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWGRG",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYBYBRGYGB",
+      "hand": "RBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGGWWRRWRYRW",
+      "hand": "BW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWBBG",
+      "hand": "YWYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BB",
+      "hand": "RBB"
+    },
+    "output": 1
+  },
+  {
+    "input": {
+      "board": "WYG",
+      "hand": "GWBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBR",
+      "hand": "BRBYW"
+    },
+    "output": 3
+  },
+  {
+    "input": {
+      "board": "YBYYWWWGGWR",
+      "hand": "WW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYWRGBRGGWG",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRWBWGYYGWWYWR",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRBRWRGWWWRRGGW",
+      "hand": "RWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGGBRBWGRRGYBB",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRWYYWRRW",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGYWYBYGBG",
+      "hand": "RYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWRGYRG",
+      "hand": "GGYW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBRGGBWBY",
+      "hand": "YBB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRGRRWRBWBYBBY",
+      "hand": "GR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYBBYGBRWBRYGYW",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYGB",
+      "hand": "YYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBWYWGYBGR",
+      "hand": "BYW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWBGY",
+      "hand": "RWWWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBRYGYGWG",
+      "hand": "YWYGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRYYYBYGRBWBWG",
+      "hand": "WB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWGWWYYWWB",
+      "hand": "GYWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWWBWWYWRWGG",
+      "hand": "GWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRBYWGYYBRYGGYBG",
+      "hand": "YRWWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBWBRGGRG",
+      "hand": "YYBGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBYWG",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGYBYWGR",
+      "hand": "RGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGBGGGGRYWBRYWY",
+      "hand": "YWRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YR",
+      "hand": "YG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWW",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGGW",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBWBYYGGRYGBBG",
+      "hand": "BGGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "Y",
+      "hand": "BY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYWBBRBBGGYGR",
+      "hand": "BG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRWBWY",
+      "hand": "YGRBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWBYYYB",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRBBRRGWBBY",
+      "hand": "GG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWRW",
+      "hand": "RRGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRWRGGRBY",
+      "hand": "GRYBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGWYWWWR",
+      "hand": "BY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYWGYBG",
+      "hand": "GYYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRYBYBWB",
+      "hand": "RR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWRRYRWRWRYWRW",
+      "hand": "BR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RG",
+      "hand": "WW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBYBY",
+      "hand": "BGYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRGGWGBYYWGW",
+      "hand": "RGBRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRYR",
+      "hand": "RWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYBRWYGRWBGR",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "W",
+      "hand": "BBGRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWYGRGRBRGRGR",
+      "hand": "GRRYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WG",
+      "hand": "BYBYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGYWYBWGYGYWGWB",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBRWB",
+      "hand": "RG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRRRYWB",
+      "hand": "RB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGB",
+      "hand": "BGWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWGGGGW",
+      "hand": "GBRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBRBYR",
+      "hand": "WR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BG",
+      "hand": "RR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRGB",
+      "hand": "RRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGGBW",
+      "hand": "GBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYBRBGYWRG",
+      "hand": "YGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BG",
+      "hand": "WYGGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWGWYBRWGRRR",
+      "hand": "YYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWWRBWRWRG",
+      "hand": "YYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGBBRWRYBG",
+      "hand": "RYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGWG",
+      "hand": "YG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRYGWRWG",
+      "hand": "RGWGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBGBBRBR",
+      "hand": "WYYBW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRYYRGBRBYGYBBYB",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGRB",
+      "hand": "YBRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBYBYG",
+      "hand": "YGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBBRWRGRRWBY",
+      "hand": "RGGBB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGBGBWYRRWBYB",
+      "hand": "RRYGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGYRRRRYWRRGBWB",
+      "hand": "WW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYWBRY",
+      "hand": "RYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGGYBR",
+      "hand": "RY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGBBWBWR",
+      "hand": "YWWRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRRWYWYRGWWRRRY",
+      "hand": "RGGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWBGBGGBBB",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "R",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWWRBBWBG",
+      "hand": "YR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWRBGBGWRRBWWR",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGRBGY",
+      "hand": "BW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGB",
+      "hand": "BYYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGY",
+      "hand": "RWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRGGRWWGGRWY",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYYYYRRBGBRBBGG",
+      "hand": "YWRGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYBWRGRRBG",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "R",
+      "hand": "YBGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWYWWWWBGYB",
+      "hand": "BWBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYWBGWBW",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWGRGBYWB",
+      "hand": "RRYW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGWWYRWG",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRGRW",
+      "hand": "BBW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYBGBR",
+      "hand": "YGGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBRWGB",
+      "hand": "WG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWWBWRRWYYYRRGYB",
+      "hand": "RBGRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWBRBBGWGGWGRY",
+      "hand": "GGGYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYBYRBYWYGWYBBRG",
+      "hand": "BBWW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "W",
+      "hand": "WWG"
+    },
+    "output": 2
+  },
+  {
+    "input": {
+      "board": "WGY",
+      "hand": "WWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBRWRBRWYRWYRW",
+      "hand": "WWGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGRRGBWGWYBWY",
+      "hand": "GWBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGWWGBYWB",
+      "hand": "BWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYWGBWG",
+      "hand": "BRBW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGRRBYBR",
+      "hand": "GBWGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YW",
+      "hand": "BRYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGG",
+      "hand": "WBW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRYR",
+      "hand": "WBRBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWBWYWBYBBB",
+      "hand": "BGRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWRGGWBRRBWBRG",
+      "hand": "RWYRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGWBWRWYGRWGR",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBWWWY",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "G",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGWYBYRGBR",
+      "hand": "BWWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRWYGYWWWYWR",
+      "hand": "YRBYW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBBRB",
+      "hand": "WG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRGR",
+      "hand": "RR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYBRYYY",
+      "hand": "GW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGWBWYBRWYWRW",
+      "hand": "WBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGWRWGB",
+      "hand": "GW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRYGRYRBGWW",
+      "hand": "GBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYGBWBYYBYG",
+      "hand": "BBGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBBRGGR",
+      "hand": "YWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBWGYYBGGBBRRRY",
+      "hand": "RYRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBWRWRWBRBBBBWW",
+      "hand": "BWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYGGRRGWYG",
+      "hand": "YBBWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGRYY",
+      "hand": "RW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWY",
+      "hand": "BBRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGBBYWGGYRBWBWB",
+      "hand": "WBYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYBYGRWBBBYWBBGY",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRYGWRGGRBBRBGR",
+      "hand": "BYBW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBRWGRRYWGG",
+      "hand": "RGBYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWBRWRBWG",
+      "hand": "GRGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WY",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWYRYBWGGRYYG",
+      "hand": "BG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBRGWYRBBRYRY",
+      "hand": "WYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGYBBYWGWBYY",
+      "hand": "RBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYWRBWRYG",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBWWGRBW",
+      "hand": "YBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGWWBBWWWRR",
+      "hand": "GRWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGGWBBBYBGGBY",
+      "hand": "GYWGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBGWWWGYYYWYGGR",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGRY",
+      "hand": "BYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGWYYRWYGGYYRWRW",
+      "hand": "GYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWRRGGGBYWGRWGWG",
+      "hand": "GRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWGBYBR",
+      "hand": "RWYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYB",
+      "hand": "BBBB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWYGYGGRRB",
+      "hand": "BGWGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "W",
+      "hand": "RBWYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "B",
+      "hand": "GGWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGBBWBGRBGR",
+      "hand": "GWRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGG",
+      "hand": "YY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYRYGRRYWGRB",
+      "hand": "BW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRYYGBRRGGWYBRBB",
+      "hand": "RWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWGBBRRBGW",
+      "hand": "YB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBY",
+      "hand": "WWBGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRWBRWBYYGRRWGG",
+      "hand": "GWWWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGYRBRGRYBGGYYWY",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGRGWBBWGWYWGY",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYRB",
+      "hand": "YBWWW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRBWY",
+      "hand": "YB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRBY",
+      "hand": "BBGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBBRWRRRGYRWRY",
+      "hand": "BRWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYGYWBWWB",
+      "hand": "BGGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGBGBGBYRBYWBW",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWYRWGYY",
+      "hand": "GBGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "Y",
+      "hand": "YGY"
+    },
+    "output": 2
+  },
+  {
+    "input": {
+      "board": "BYBBBGYBWGRGGRYW",
+      "hand": "GBGBW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRRYBWRBGYB",
+      "hand": "RYWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBBRWYWWYRYRRY",
+      "hand": "RWRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRRYWBRRWY",
+      "hand": "BYWW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWBR",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBRGW",
+      "hand": "YBB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBWBWRRWWRRBB",
+      "hand": "BGBW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYGYYBYGBWWYWG",
+      "hand": "RBYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWRWBWGR",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWBYBBRBRG",
+      "hand": "YW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWRGGWBYYWRGYG",
+      "hand": "WGBYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBGRGBRRG",
+      "hand": "RGBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGGRGWRGGG",
+      "hand": "WGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRWRGR",
+      "hand": "RBRRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBBBWRRBRRWBYG",
+      "hand": "BGGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGYWYRWYWYBG",
+      "hand": "GYGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "R",
+      "hand": "GRWRW"
+    },
+    "output": 2
+  },
+  {
+    "input": {
+      "board": "RRBRYGYRBG",
+      "hand": "YWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYRYWBWWRRWB",
+      "hand": "BB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGYYWYBYBRGYYW",
+      "hand": "GRYRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGRRRWGWYGGYWB",
+      "hand": "RYGGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWWYGRBWR",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RB",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRRGWRGB",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GG",
+      "hand": "RGGY"
+    },
+    "output": 1
+  },
+  {
+    "input": {
+      "board": "BG",
+      "hand": "WGYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBYWWWBRBRRBBGW",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWBWWRRGGWBB",
+      "hand": "YYWW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGYYBRGGRGR",
+      "hand": "YRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWRYYB",
+      "hand": "WBYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRGRGGBBYYRWYR",
+      "hand": "WBYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYG",
+      "hand": "RGWWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RG",
+      "hand": "WBGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBBWWRYGGW",
+      "hand": "WG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBYWRWYRGBRWBBB",
+      "hand": "BRRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRBBGYYBRYY",
+      "hand": "RG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBGBRRBRBBY",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBYBYW",
+      "hand": "WRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWGBYWYRW",
+      "hand": "WYWW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYBBWYBBRBWWBWY",
+      "hand": "BY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRRB",
+      "hand": "YGWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWBRWBBYGY",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYW",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYGWYWGBYWW",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWG",
+      "hand": "YRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWBBBWGYBYWGRG",
+      "hand": "BYWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBBRB",
+      "hand": "RY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGYBWWBWW",
+      "hand": "YGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRBWRBGYRRRBGBR",
+      "hand": "RR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWWGYGRWBRYYBWRR",
+      "hand": "GGBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBWWWRWWRWRGBB",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWYR",
+      "hand": "GWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBWBY",
+      "hand": "GB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWWRYRYBGYYWG",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGBWYYGYRBGR",
+      "hand": "RR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBRRYR",
+      "hand": "WBGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGGWBBRWGRWY",
+      "hand": "YWYRY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGWWYRWWWBGGWW",
+      "hand": "BRGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWWYYY",
+      "hand": "WRRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRGWRB",
+      "hand": "RGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRRYGYRB",
+      "hand": "RG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYWB",
+      "hand": "YGWGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRRGGWBWGBGBBRB",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BB",
+      "hand": "YGYBR"
+    },
+    "output": 1
+  },
+  {
+    "input": {
+      "board": "YBGG",
+      "hand": "RB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBYRYGWBBBRGGBRR",
+      "hand": "RG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGGYWWWG",
+      "hand": "RWGGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYYWGBG",
+      "hand": "RYYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYBY",
+      "hand": "WWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBRW",
+      "hand": "BWRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYWGYWRBBB",
+      "hand": "YBWRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBYGBR",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWWWGBR",
+      "hand": "GRBGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRRBBRW",
+      "hand": "BY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWYRGGBGYYBWRY",
+      "hand": "GWGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYRG",
+      "hand": "RYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYWRYWWW",
+      "hand": "GYWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWRWBGRGGGYWWG",
+      "hand": "WWYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GG",
+      "hand": "G"
+    },
+    "output": 1
+  },
+  {
+    "input": {
+      "board": "RRWYYGBGGRG",
+      "hand": "YWGBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBRGYWRBGYGBRG",
+      "hand": "WBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGGRRG",
+      "hand": "RY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRGYYGBWYRWGRR",
+      "hand": "RW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBRYWWYRYW",
+      "hand": "WW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYRYBBRWRGYRGGYB",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWYWGRYYWWWY",
+      "hand": "BGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGBYGBGY",
+      "hand": "RB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRRRRRGWBGBRRYY",
+      "hand": "RGWW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYRYGGGRW",
+      "hand": "RGYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBGRWGW",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGBGRWBBR",
+      "hand": "WYGWW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWYWYRRYBYYGYGBW",
+      "hand": "BB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWGYGRGRWW",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "R",
+      "hand": "WWRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYRWYYBBR",
+      "hand": "GGYGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRRWYWRBBGYGR",
+      "hand": "BBGGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRGWWRGBYB",
+      "hand": "GWWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWYYGGRBWR",
+      "hand": "BWWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "G",
+      "hand": "WY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRRRWYYBR",
+      "hand": "BGBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGWW",
+      "hand": "YRYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRWRGBW",
+      "hand": "YWBRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGYYRWRGRWGWRR",
+      "hand": "BRYRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YR",
+      "hand": "YGRWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRRYWBWGRWR",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRRGWWRYR",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRGWW",
+      "hand": "WW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRYGWYYGY",
+      "hand": "BWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GB",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGBRGGBWBWWGRY",
+      "hand": "GBRGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBRWRRWRBBG",
+      "hand": "RYWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWBWWY",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGB",
+      "hand": "GY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGYBYWR",
+      "hand": "YWBRY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWYYBYBWGGRRRRB",
+      "hand": "BRYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYWWWGRBYBYBG",
+      "hand": "GRBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBGBRRRWRBR",
+      "hand": "WYBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BY",
+      "hand": "RY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYBYYBGWYBB",
+      "hand": "BG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWYBGBBY",
+      "hand": "RWW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYYBGYG",
+      "hand": "WR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BY",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "R",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGRYGW",
+      "hand": "GR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRGRRGBYWWWRRYW",
+      "hand": "RRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRRRBBR",
+      "hand": "YB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WG",
+      "hand": "BGGBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWYYYYG",
+      "hand": "BYGRY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGWGYYRWR",
+      "hand": "GW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBRY",
+      "hand": "YRBGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBBGWYRGB",
+      "hand": "RGBW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYBGWGGY",
+      "hand": "BGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGGYGBRRWWYYYG",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBRYWBBWYWRGBGB",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYWWBYGYG",
+      "hand": "RWRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRWRWB",
+      "hand": "GWBB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRYRGRGGWBG",
+      "hand": "YRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWRGGBRYWBYGW",
+      "hand": "YWYYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GY",
+      "hand": "YRRBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BG",
+      "hand": "BB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBRGYY",
+      "hand": "GRGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGGGRWYY",
+      "hand": "GGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWR",
+      "hand": "GYGRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGYRBBWBBGYBBW",
+      "hand": "GG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRWWWYRYBYRYBB",
+      "hand": "GRYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGGGGRWRYB",
+      "hand": "RRYYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYRGGYBYBYYWBG",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGWYW",
+      "hand": "YYWBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRGWGBG",
+      "hand": "GR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRGRYGWGYWRG",
+      "hand": "RW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYWBBWBYG",
+      "hand": "WGGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWBRGGBBWYWBWWBR",
+      "hand": "BGYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBWR",
+      "hand": "YR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGRWB",
+      "hand": "BYBGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGBBGRWGBGYYWY",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "W",
+      "hand": "WB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWYBYRBWG",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBGY",
+      "hand": "GWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGBYGWRBGWBWYWY",
+      "hand": "RWWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYR",
+      "hand": "YGYGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWWYGGYGWWYRGBYW",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRYGRRRBBYBBWGGR",
+      "hand": "GRGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBBWGWRWB",
+      "hand": "BRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRBBWW",
+      "hand": "WB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYWGBGB",
+      "hand": "WY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYRBYRWGWY",
+      "hand": "GYYGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGBYGYRRR",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGWWBGRR",
+      "hand": "BRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWRBRWWGGRYBYYG",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYWRRGGWRRWY",
+      "hand": "RWRWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBBWYRGWWGWGB",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGWY",
+      "hand": "YRRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWRRRGBGWYWYBWB",
+      "hand": "RWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGBWRYW",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYR",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGRGYRRBYRR",
+      "hand": "YRWBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBGGRWB",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWB",
+      "hand": "GBRY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBRRYYGGBRBGWBYB",
+      "hand": "GWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGRRB",
+      "hand": "BGGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YR",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YR",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRGWWYRYBWG",
+      "hand": "BWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBBBRRWBWG",
+      "hand": "BWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYYYBBGG",
+      "hand": "RGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBBRRRYGRBGBGWY",
+      "hand": "YRGWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYW",
+      "hand": "YY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRWWWRBB",
+      "hand": "YBRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RR",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGGWRBGG",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGRYYYRWWYBRRB",
+      "hand": "RW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBGGB",
+      "hand": "WBRRY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYRWYBRGYBGY",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWGYRGRBYGG",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGWBY",
+      "hand": "YYYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBGY",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYRRWBWBBG",
+      "hand": "WB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWWBGWY",
+      "hand": "WRRBB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWYBRGBGBGBY",
+      "hand": "YGYBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYGYWG",
+      "hand": "YWGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYBRRW",
+      "hand": "RY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYBBWB",
+      "hand": "GR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRYBGYRGR",
+      "hand": "WGRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRGRBRBGRR",
+      "hand": "RR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "R",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGYWRYBRYBYYWBR",
+      "hand": "RYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGG",
+      "hand": "BRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRYWB",
+      "hand": "YY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRBGBRWWRW",
+      "hand": "RB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRBR",
+      "hand": "YB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRRBRG",
+      "hand": "GWWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRWWRYGWGRY",
+      "hand": "YR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "G",
+      "hand": "BG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGBYGRWWWWGW",
+      "hand": "WG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RW",
+      "hand": "RG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRRYWR",
+      "hand": "YWWRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGYBWRWBBBYBWRWG",
+      "hand": "BYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRWRBWW",
+      "hand": "YW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBGGWYRBRWBRYYY",
+      "hand": "WWYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWW",
+      "hand": "GWRRY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "B",
+      "hand": "YB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRRYRBYBWWBRR",
+      "hand": "BWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRRGWGGGGRG",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYGYYGYWRYGBWR",
+      "hand": "YY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWGG",
+      "hand": "WRYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGRBRGWGRWWBR",
+      "hand": "RWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGYYWYBRBYGGWRG",
+      "hand": "BRRWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YW",
+      "hand": "BG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGRYGRYYWB",
+      "hand": "YYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWRWY",
+      "hand": "BWBBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBBWBWGYGWYRBRWB",
+      "hand": "WWYRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGYG",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWBBGBWBR",
+      "hand": "YRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGGRR",
+      "hand": "GWG"
+    },
+    "output": 1
+  },
+  {
+    "input": {
+      "board": "WWRWRGWB",
+      "hand": "GB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRGYYWGYRBGWWB",
+      "hand": "WRWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGYRB",
+      "hand": "WBWWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "G",
+      "hand": "YBRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWYYRBWGG",
+      "hand": "BGGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYRGRGGWBYRBBR",
+      "hand": "RBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWW",
+      "hand": "RWW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRBGRGYBWYRYWRRG",
+      "hand": "WRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBGRR",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYRWB",
+      "hand": "YWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBYYGRWBG",
+      "hand": "BB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBGBGBYY",
+      "hand": "BBWWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRRRGWBRGG",
+      "hand": "BW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YB",
+      "hand": "RB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWYGRGYRBB",
+      "hand": "RGYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWGGRGBRGGBWGRW",
+      "hand": "WYGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGYGWGRWWBGGRYBG",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBBWRYYBR",
+      "hand": "BRYWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYYBYWWRGWB",
+      "hand": "YWGRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBRGRWYB",
+      "hand": "WWGGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWRBGW",
+      "hand": "YRWWW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYWR",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "Y",
+      "hand": "WWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYBBG",
+      "hand": "BBWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBYYWWYYYBYWGB",
+      "hand": "BBW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYWGYRGYGGGBGRY",
+      "hand": "BYYGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGGWBBWWWGBYWWBR",
+      "hand": "BYRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBB",
+      "hand": "YRWWW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRWB",
+      "hand": "WGGWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YR",
+      "hand": "BYYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGGYGYYRRRWBY",
+      "hand": "GBW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBYWGWGBRRWGGYW",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYWYGYYWRYYWYRW",
+      "hand": "RGGGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBGGGGRRGBBYY",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RR",
+      "hand": "YWRG"
+    },
+    "output": 1
+  },
+  {
+    "input": {
+      "board": "GYGYYWGBGBBB",
+      "hand": "YG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWRYYYGYB",
+      "hand": "YG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWGGBY",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GW",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWG",
+      "hand": "WWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBBYRBBGWRGBW",
+      "hand": "RWGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRY",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWBWRWRW",
+      "hand": "RR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRRRRWRGGYBGBBRW",
+      "hand": "YYYWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRRWGBBY",
+      "hand": "WB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WW",
+      "hand": "GWRR"
+    },
+    "output": 1
+  },
+  {
+    "input": {
+      "board": "GBRGYWYGGWGBRRWY",
+      "hand": "BW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YG",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRGRYYWYY",
+      "hand": "YR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWBRYYRRRYYYRYRY",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGWYWRRRBRBB",
+      "hand": "WYYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRYRYYRYGW",
+      "hand": "WRG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGBYYGRGWRGRWY",
+      "hand": "GG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWBWWGGGB",
+      "hand": "YGYBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RW",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWRWRYGBW",
+      "hand": "GR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGWGWRWRBYWYW",
+      "hand": "RYGRY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRYBGGRWB",
+      "hand": "WGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWRWYBBYGWGGBYR",
+      "hand": "WW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BG",
+      "hand": "BBBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGWB",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRBBWYGYGBYB",
+      "hand": "RYYGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYYB",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRGBGWB",
+      "hand": "RBBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWGGRY",
+      "hand": "BGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRYB",
+      "hand": "BW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBWGYBYRWRGGRY",
+      "hand": "RBBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGYWYWYGGYWYR",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYGWGGY",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWGWBWRYGYYB",
+      "hand": "BW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGYWGRYRWRYB",
+      "hand": "WBRRY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WRBWYG",
+      "hand": "RGRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBYYWWRRB",
+      "hand": "RBYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYRYWYRYWRBRRG",
+      "hand": "YGWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YB",
+      "hand": "RBB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGWYRBRRB",
+      "hand": "WYGYW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGWGYBYBR",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWRYBGRRYWWW",
+      "hand": "WYYGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYBYBBR",
+      "hand": "YYBRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGGRW",
+      "hand": "RGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBGG",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRRBBRRRYG",
+      "hand": "YBYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWWBR",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWGWB",
+      "hand": "BG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYRG",
+      "hand": "WWGGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWRRBYWG",
+      "hand": "YYGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRBYBBWGGYGRWW",
+      "hand": "WBB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGGYWWRRYWGY",
+      "hand": "WWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBRWRWWWWBG",
+      "hand": "GB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBGBY",
+      "hand": "WBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRBWYGYWB",
+      "hand": "YR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYGGRWRRBYRWRR",
+      "hand": "WRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWWRY",
+      "hand": "BW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRBRWBYG",
+      "hand": "YBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBGBYBB",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYBRYG",
+      "hand": "BBYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "Y",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRYRGBBYWWGRWB",
+      "hand": "BWRGY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGYBRR",
+      "hand": "GRW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WR",
+      "hand": "YBB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBYWRYYWBGGY",
+      "hand": "WWRY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRGYGB",
+      "hand": "YGYW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGYYRWB",
+      "hand": "WWWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BGYBBRR",
+      "hand": "YBGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBYRRWGWRWWWB",
+      "hand": "BWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBW",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGWBWYBW",
+      "hand": "BYRYY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWBRBYWR",
+      "hand": "RY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBBWYWRRG",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RRRW",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGGG",
+      "hand": "RY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "B",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRWR",
+      "hand": "WRR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRYYGGYR",
+      "hand": "RYBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYYGGYWBYYWBRGB",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYBWYYW",
+      "hand": "GGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGWYRBRR",
+      "hand": "BG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRBYYYGWYWG",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYRBGYGB",
+      "hand": "GYGWW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRRWYWWGGYBRRY",
+      "hand": "GG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGYBRWGBBBWWBGW",
+      "hand": "GWGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWRYBRYBBWYRGRY",
+      "hand": "BGBYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGBRGRBBWYW",
+      "hand": "BWR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYYWWWYRG",
+      "hand": "YYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBBGRBBYGGRGGBRB",
+      "hand": "GGRY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBWBWG",
+      "hand": "RGGRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBBYRGG",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGBBBRY",
+      "hand": "BRRB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBWBRGG",
+      "hand": "YWB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBYYRB",
+      "hand": "BYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWBBRGGBWGBBBRWB",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YGWBGY",
+      "hand": "YYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBBBBBWYYBB",
+      "hand": "RWBW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYBWRYWWBWYGRGBW",
+      "hand": "BW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BBG",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GBGBBGGYRBBBRB",
+      "hand": "RWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRWBWBWBWRR",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YW",
+      "hand": "WWRBB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWGRBY",
+      "hand": "BBYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "B",
+      "hand": "GBYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBBYWGWYYYW",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYGB",
+      "hand": "GRWBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYGYRBR",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBYW",
+      "hand": "RB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYGG",
+      "hand": "BYR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBRGYR",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWWYR",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWWWYYWWB",
+      "hand": "YG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGRGYWRYRR",
+      "hand": "BR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWRGGB",
+      "hand": "RGGGG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GGRRGWB",
+      "hand": "YGRYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBGWBRGBYWG",
+      "hand": "WGYWG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRG",
+      "hand": "RB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWGWGRGGYBRR",
+      "hand": "YGYBY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RYR",
+      "hand": "GG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBWGY",
+      "hand": "YY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GRW",
+      "hand": "WBGW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBRYRG",
+      "hand": "YW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBWGRBYWBWGRBWW",
+      "hand": "G"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBBGWRWYRRWWRRWG",
+      "hand": "WY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWWBWGRWRG",
+      "hand": "RBYG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBBGWWBYWGRGWGB",
+      "hand": "GYYB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WBY",
+      "hand": "YB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGGRBYGBBY",
+      "hand": "WGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RGR",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GYGRWBBGRY",
+      "hand": "RG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "B",
+      "hand": "BW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYBGYW",
+      "hand": "WR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYYWGRYRBYYBG",
+      "hand": "BBRGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RR",
+      "hand": "GR"
+    },
+    "output": 1
+  },
+  {
+    "input": {
+      "board": "YBYRWYYGYBWWBGW",
+      "hand": "WB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BRYBRBRWY",
+      "hand": "YBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BWYY",
+      "hand": "BRYBR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "Y",
+      "hand": "W"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBBRG",
+      "hand": "WWGGB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RBYYRYRRWYWBRWW",
+      "hand": "WYRYW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRYRYWWRBGGWRGY",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WWWWYRWW",
+      "hand": "R"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YYWBBGWRW",
+      "hand": "YWW"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WYY",
+      "hand": "WR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "GWWWWBW",
+      "hand": "WGR"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YWWYBGYB",
+      "hand": "GBG"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YBGGRYWRGYYBWGY",
+      "hand": "B"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RY",
+      "hand": "Y"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "WGWGWBRRRB",
+      "hand": "WWY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "RWGGRY",
+      "hand": "RY"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "BYG",
+      "hand": "GB"
+    },
+    "output": -1
+  },
+  {
+    "input": {
+      "board": "YRYBWBWBWY",
+      "hand": "YWRBB"
+    },
+    "output": -1
+  }
+]

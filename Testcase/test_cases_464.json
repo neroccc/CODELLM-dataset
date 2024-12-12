@@ -1,0 +1,7002 @@
+[
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 0
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 1
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 2
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 3
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 4
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 5
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 6
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 7
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 8
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 9
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 10
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 11
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 12
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 13
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 14
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 15
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 16
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 17
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 18
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 19
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 20
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 21
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 22
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 23
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 24
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 25
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 26
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 27
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 28
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 29
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 30
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 31
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 32
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 33
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 34
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 35
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 36
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 37
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 38
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 39
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 40
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 41
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 42
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 43
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 44
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 45
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 46
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 47
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 48
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 49
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 50
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 51
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 52
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 53
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 54
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 55
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 56
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 57
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 58
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 59
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 60
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 61
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 62
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 63
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 64
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 65
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 66
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 67
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 68
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 69
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 70
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 71
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 72
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 73
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 74
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 75
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 76
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 77
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 78
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 79
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 80
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 81
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 82
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 83
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 84
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 85
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 86
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 87
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 88
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 89
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 90
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 91
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 92
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 93
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 94
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 95
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 96
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 97
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 98
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 99
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 100
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 101
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 102
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 103
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 104
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 105
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 106
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 107
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 108
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 109
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 110
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 111
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 112
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 113
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 114
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 115
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 116
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 117
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 118
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 119
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 120
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 121
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 122
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 123
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 124
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 125
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 126
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 127
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 128
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 129
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 130
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 131
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 132
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 133
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 134
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 135
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 136
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 137
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 138
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 139
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 140
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 141
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 142
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 143
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 144
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 145
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 146
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 147
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 148
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 149
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 150
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 151
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 152
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 153
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 154
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 155
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 156
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 157
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 158
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 159
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 160
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 161
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 162
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 163
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 164
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 165
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 166
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 167
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 168
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 169
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 170
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 171
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 172
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 173
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 174
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 175
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 176
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 177
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 178
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 179
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 180
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 181
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 182
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 183
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 184
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 185
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 186
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 187
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 188
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 189
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 190
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 191
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 192
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 193
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 194
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 195
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 196
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 197
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 198
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 199
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 200
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 201
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 202
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 203
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 204
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 205
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 206
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 207
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 208
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 209
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 210
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 211
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 212
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 213
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 214
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 215
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 216
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 217
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 218
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 219
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 220
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 221
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 222
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 223
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 224
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 225
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 226
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 227
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 228
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 229
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 230
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 231
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 232
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 233
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 234
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 235
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 236
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 237
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 238
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 239
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 240
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 241
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 242
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 243
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 244
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 245
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 246
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 247
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 248
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 249
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 250
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 251
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 252
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 253
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 254
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 255
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 256
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 257
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 258
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 259
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 260
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 261
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 262
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 263
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 264
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 265
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 266
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 267
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 268
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 269
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 270
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 271
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 272
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 273
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 274
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 275
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 276
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 277
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 278
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 279
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 280
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 281
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 282
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 283
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 284
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 285
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 286
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 287
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 288
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 289
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 290
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 291
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 292
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 293
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 294
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 295
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 296
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 297
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 298
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 299
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 1,
+      "desiredTotal": 300
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 0
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 1
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 2
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 3
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 4
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 5
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 6
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 7
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 8
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 9
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 10
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 11
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 12
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 13
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 14
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 15
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 16
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 17
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 18
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 19
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 20
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 21
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 22
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 23
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 24
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 25
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 26
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 27
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 28
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 29
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 30
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 31
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 32
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 33
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 34
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 35
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 36
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 37
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 38
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 39
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 40
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 41
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 42
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 43
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 44
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 45
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 46
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 47
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 48
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 49
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 50
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 51
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 52
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 53
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 54
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 55
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 56
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 57
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 58
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 59
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 60
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 61
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 62
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 63
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 64
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 65
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 66
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 67
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 68
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 69
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 70
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 71
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 72
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 73
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 74
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 75
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 76
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 77
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 78
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 79
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 80
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 81
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 82
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 83
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 84
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 85
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 86
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 87
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 88
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 89
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 90
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 91
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 92
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 93
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 94
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 95
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 96
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 97
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 98
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 99
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 100
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 101
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 102
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 103
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 104
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 105
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 106
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 107
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 108
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 109
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 110
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 111
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 112
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 113
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 114
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 115
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 116
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 117
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 118
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 119
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 120
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 121
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 122
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 123
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 124
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 125
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 126
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 127
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 128
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 129
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 130
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 131
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 132
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 133
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 134
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 135
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 136
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 137
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 138
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 139
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 140
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 141
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 142
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 143
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 144
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 145
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 146
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 147
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 148
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 149
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 150
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 151
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 152
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 153
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 154
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 155
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 156
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 157
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 158
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 159
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 160
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 161
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 162
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 163
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 164
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 165
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 166
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 167
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 168
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 169
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 170
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 171
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 172
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 173
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 174
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 175
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 176
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 177
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 178
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 179
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 180
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 181
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 182
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 183
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 184
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 185
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 186
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 187
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 188
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 189
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 190
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 191
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 192
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 193
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 194
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 195
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 196
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 197
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 198
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 199
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 200
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 201
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 202
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 203
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 204
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 205
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 206
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 207
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 208
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 209
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 210
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 211
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 212
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 213
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 214
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 215
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 216
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 217
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 218
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 219
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 220
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 221
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 222
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 223
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 224
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 225
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 226
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 227
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 228
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 229
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 230
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 231
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 232
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 233
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 234
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 235
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 236
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 237
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 238
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 239
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 240
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 241
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 242
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 243
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 244
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 245
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 246
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 247
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 248
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 249
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 250
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 251
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 252
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 253
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 254
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 255
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 256
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 257
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 258
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 259
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 260
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 261
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 262
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 263
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 264
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 265
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 266
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 267
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 268
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 269
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 270
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 271
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 272
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 273
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 274
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 275
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 276
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 277
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 278
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 279
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 280
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 281
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 282
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 283
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 284
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 285
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 286
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 287
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 288
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 289
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 290
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 291
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 292
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 293
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 294
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 295
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 296
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 297
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 298
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 299
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 2,
+      "desiredTotal": 300
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 0
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 1
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 2
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 3
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 4
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 5
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 6
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 7
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 8
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 9
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 10
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 11
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 12
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 13
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 14
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 15
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 16
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 17
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 18
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 19
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 20
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 21
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 22
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 23
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 24
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 25
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 26
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 27
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 28
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 29
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 30
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 31
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 32
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 33
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 34
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 35
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 36
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 37
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 38
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 39
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 40
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 41
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 42
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 43
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 44
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 45
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 46
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 47
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 48
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 49
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 50
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 51
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 52
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 53
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 54
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 55
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 56
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 57
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 58
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 59
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 60
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 61
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 62
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 63
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 64
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 65
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 66
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 67
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 68
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 69
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 70
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 71
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 72
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 73
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 74
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 75
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 76
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 77
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 78
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 79
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 80
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 81
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 82
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 83
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 84
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 85
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 86
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 87
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 88
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 89
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 90
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 91
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 92
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 93
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 94
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 95
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 96
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 97
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 98
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 99
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 100
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 101
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 102
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 103
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 104
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 105
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 106
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 107
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 108
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 109
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 110
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 111
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 112
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 113
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 114
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 115
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 116
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 117
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 118
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 119
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 120
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 121
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 122
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 123
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 124
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 125
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 126
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 127
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 128
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 129
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 130
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 131
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 132
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 133
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 134
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 135
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 136
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 137
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 138
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 139
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 140
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 141
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 142
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 143
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 144
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 145
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 146
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 147
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 148
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 149
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 150
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 151
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 152
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 153
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 154
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 155
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 156
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 157
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 158
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 159
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 160
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 161
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 162
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 163
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 164
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 165
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 166
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 167
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 168
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 169
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 170
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 171
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 172
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 173
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 174
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 175
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 176
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 177
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 178
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 179
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 180
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 181
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 182
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 183
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 184
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 185
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 186
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 187
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 188
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 189
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 190
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 191
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 192
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 193
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 194
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 195
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 196
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 197
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 198
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 199
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 200
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 201
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 202
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 203
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 204
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 205
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 206
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 207
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 208
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 209
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 210
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 211
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 212
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 213
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 214
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 215
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 216
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 217
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 218
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 219
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 220
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 221
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 222
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 223
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 224
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 225
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 226
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 227
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 228
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 229
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 230
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 231
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 232
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 233
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 234
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 235
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 236
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 237
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 238
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 239
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 240
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 241
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 242
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 243
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 244
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 245
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 246
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 247
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 248
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 249
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 250
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 251
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 252
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 253
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 254
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 255
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 256
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 257
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 258
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 259
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 260
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 261
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 262
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 263
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 264
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 265
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 266
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 267
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 268
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 269
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 270
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 271
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 272
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 273
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 274
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 275
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 276
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 277
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 278
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 279
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 280
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 281
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 282
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 283
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 284
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 285
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 286
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 287
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 288
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 289
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 290
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 291
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 292
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 293
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 294
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 295
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 296
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 297
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 298
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 299
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 3,
+      "desiredTotal": 300
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 0
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 1
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 2
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 3
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 4
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 5
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 6
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 7
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 8
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 9
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 10
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 11
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 12
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 13
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 14
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 15
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 16
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 17
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 18
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 19
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 20
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 21
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 22
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 23
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 24
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 25
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 26
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 27
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 28
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 29
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 30
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 31
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 32
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 33
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 34
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 35
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 36
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 37
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 38
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 39
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 40
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 41
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 42
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 43
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 44
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 45
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 46
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 47
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 48
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 49
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 50
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 51
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 52
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 53
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 54
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 55
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 56
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 57
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 58
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 59
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 60
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 61
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 62
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 63
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 64
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 65
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 66
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 67
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 68
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 69
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 70
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 71
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 72
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 73
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 74
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 75
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 76
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 77
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 78
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 79
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 80
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 81
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 82
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 83
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 84
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 85
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 86
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 87
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 88
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 89
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 90
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 91
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 92
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 93
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 94
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 95
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "maxChoosableInteger": 4,
+      "desiredTotal": 96
+    },
+    "output": false
+  }
+]

@@ -1,0 +1,1383 @@
+[
+    {
+        "input": {
+            "grid": [
+                "M",
+                "F",
+                "#",
+                ".",
+                ".",
+                "C"
+            ],
+            "catJump": 4,
+            "mouseJump": 2
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "F.",
+                "..",
+                "..",
+                ".C",
+                "M.",
+                "..",
+                ".."
+            ],
+            "catJump": 4,
+            "mouseJump": 2
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                ".CMF.#.."
+            ],
+            "catJump": 3,
+            "mouseJump": 8
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                ".MC",
+                "...",
+                "...",
+                "..F"
+            ],
+            "catJump": 3,
+            "mouseJump": 3
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "..M",
+                ".C#",
+                "..#",
+                ".F."
+            ],
+            "catJump": 6,
+            "mouseJump": 8
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "..#",
+                "F#.",
+                "C.#",
+                ".M#"
+            ],
+            "catJump": 1,
+            "mouseJump": 2
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "#...##M",
+                "....###",
+                "...F#..",
+                "..#..#.",
+                "C......",
+                ".##....",
+                "......."
+            ],
+            "catJump": 4,
+            "mouseJump": 7
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "...C...",
+                "....F.M"
+            ],
+            "catJump": 8,
+            "mouseJump": 7
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "..#C.",
+                "##...",
+                "#M..#",
+                ".F..."
+            ],
+            "catJump": 5,
+            "mouseJump": 6
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "CM.#...#",
+                "#..#F...",
+                "..#.#...",
+                "#...##.#",
+                "#.#..##.",
+                "........",
+                "...#...#"
+            ],
+            "catJump": 2,
+            "mouseJump": 7
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "..",
+                "FM",
+                "..",
+                ".C",
+                ".."
+            ],
+            "catJump": 1,
+            "mouseJump": 7
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "C",
+                ".",
+                "M",
+                "F"
+            ],
+            "catJump": 5,
+            "mouseJump": 6
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                ".F",
+                "C.",
+                "..",
+                "M#",
+                "..",
+                "..",
+                "##"
+            ],
+            "catJump": 7,
+            "mouseJump": 5
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "...F.M.",
+                "..C#..."
+            ],
+            "catJump": 1,
+            "mouseJump": 4
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "M#..",
+                ".#..",
+                "....",
+                "C#..",
+                "....",
+                "..#.",
+                "...F"
+            ],
+            "catJump": 3,
+            "mouseJump": 6
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                ".......",
+                "#......",
+                ".#...C.",
+                "M......",
+                ".......",
+                "#.....#",
+                "...##..",
+                "...F..."
+            ],
+            "catJump": 4,
+            "mouseJump": 5
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "C",
+                "F",
+                "M"
+            ],
+            "catJump": 3,
+            "mouseJump": 8
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "CF#",
+                "M..",
+                ".#."
+            ],
+            "catJump": 4,
+            "mouseJump": 3
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                ".C",
+                ".F",
+                ".#",
+                "..",
+                "..",
+                "M#",
+                "..",
+                ".."
+            ],
+            "catJump": 2,
+            "mouseJump": 6
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "#....",
+                "....M",
+                ".CF.."
+            ],
+            "catJump": 3,
+            "mouseJump": 6
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                ".",
+                ".",
+                ".",
+                ".",
+                "C",
+                "F",
+                "M",
+                "#"
+            ],
+            "catJump": 2,
+            "mouseJump": 4
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "..#.",
+                "..F.",
+                "....",
+                "..MC",
+                "....",
+                "....",
+                ".#..",
+                "##.."
+            ],
+            "catJump": 8,
+            "mouseJump": 2
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "..",
+                ".#",
+                "#M",
+                "##",
+                "..",
+                "F.",
+                "C."
+            ],
+            "catJump": 2,
+            "mouseJump": 3
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                ".",
+                "#",
+                "M",
+                "C",
+                ".",
+                ".",
+                "F",
+                "#"
+            ],
+            "catJump": 4,
+            "mouseJump": 2
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "C.....",
+                "#..#.#",
+                ".#.#..",
+                "..##M#",
+                "F.#.#.",
+                "#..##."
+            ],
+            "catJump": 1,
+            "mouseJump": 4
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                ".M..",
+                "F..C"
+            ],
+            "catJump": 5,
+            "mouseJump": 7
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "..#",
+                "M..",
+                "...",
+                "...",
+                "#.C",
+                "#F."
+            ],
+            "catJump": 4,
+            "mouseJump": 5
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "........",
+                "........",
+                "........",
+                ".M....F.",
+                "........",
+                "#.....C."
+            ],
+            "catJump": 6,
+            "mouseJump": 4
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "##.#..#",
+                ".M#.#..",
+                ".###...",
+                ".#.F...",
+                "#......",
+                "......#",
+                "##..#C."
+            ],
+            "catJump": 5,
+            "mouseJump": 4
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                ".##.....",
+                "...C.#..",
+                "#..#....",
+                "#..##.##",
+                ".#...#..",
+                "##...#..",
+                "#F......",
+                ".#..##M."
+            ],
+            "catJump": 6,
+            "mouseJump": 2
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "#.#...",
+                "###.#.",
+                "M.#F#.",
+                ".....C"
+            ],
+            "catJump": 3,
+            "mouseJump": 4
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "CMF"
+            ],
+            "catJump": 4,
+            "mouseJump": 6
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "..M.",
+                "#.#.",
+                "....",
+                "F.#.",
+                "#.#.",
+                ".##C",
+                "...."
+            ],
+            "catJump": 3,
+            "mouseJump": 5
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                ".....",
+                "...#.",
+                "..FC.",
+                ".....",
+                ".....",
+                "..M.."
+            ],
+            "catJump": 1,
+            "mouseJump": 1
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                ".M.FC"
+            ],
+            "catJump": 3,
+            "mouseJump": 1
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                ".#.F...",
+                "..#....",
+                "#..C...",
+                ".#.#...",
+                "#....M."
+            ],
+            "catJump": 1,
+            "mouseJump": 2
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "...",
+                "#..",
+                "#.#",
+                "#..",
+                "#.#",
+                "#F#",
+                "CM.",
+                "..#"
+            ],
+            "catJump": 5,
+            "mouseJump": 1
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                ".",
+                "M",
+                "C",
+                "F"
+            ],
+            "catJump": 5,
+            "mouseJump": 5
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                ".......",
+                "#.#...#",
+                ".....##",
+                "..##C..",
+                "..#####",
+                "#..##.#",
+                ".###..F",
+                "#M#..#."
+            ],
+            "catJump": 2,
+            "mouseJump": 3
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                ".#..",
+                "....",
+                ".#..",
+                "M...",
+                "C#..",
+                "#.F.",
+                "...."
+            ],
+            "catJump": 3,
+            "mouseJump": 6
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "#",
+                ".",
+                "F",
+                ".",
+                "M",
+                "C"
+            ],
+            "catJump": 7,
+            "mouseJump": 2
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "F.M.#C."
+            ],
+            "catJump": 2,
+            "mouseJump": 4
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                ".CF##M."
+            ],
+            "catJump": 8,
+            "mouseJump": 7
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                ".C.#",
+                "..FM"
+            ],
+            "catJump": 5,
+            "mouseJump": 4
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "..",
+                "#F",
+                ".M",
+                ".C"
+            ],
+            "catJump": 2,
+            "mouseJump": 7
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "#..F....",
+                "........",
+                "......#.",
+                "........",
+                "..#...#.",
+                "...MC..."
+            ],
+            "catJump": 4,
+            "mouseJump": 6
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                ".M",
+                "..",
+                ".C",
+                "..",
+                "..",
+                "..",
+                ".F"
+            ],
+            "catJump": 1,
+            "mouseJump": 2
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "...C#.",
+                "M.....",
+                "......",
+                "......",
+                "F.....",
+                "......"
+            ],
+            "catJump": 3,
+            "mouseJump": 8
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "F##",
+                "...",
+                "...",
+                "CM#"
+            ],
+            "catJump": 2,
+            "mouseJump": 4
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                ".....#C.",
+                "........",
+                "........",
+                "........",
+                "........",
+                "#.M..#..",
+                "....F...",
+                "....#..."
+            ],
+            "catJump": 5,
+            "mouseJump": 1
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "..#",
+                ".C.",
+                ".##",
+                "###",
+                "..M",
+                "F.."
+            ],
+            "catJump": 4,
+            "mouseJump": 5
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "..###",
+                "#.#.#",
+                "#...#",
+                ".C...",
+                "##F..",
+                ".....",
+                "..M.#"
+            ],
+            "catJump": 2,
+            "mouseJump": 1
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "#.C",
+                "F##",
+                ".M#"
+            ],
+            "catJump": 7,
+            "mouseJump": 2
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                ".M",
+                "F.",
+                ".C"
+            ],
+            "catJump": 3,
+            "mouseJump": 5
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "#",
+                "M",
+                "C",
+                "F"
+            ],
+            "catJump": 1,
+            "mouseJump": 7
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "MCF.."
+            ],
+            "catJump": 1,
+            "mouseJump": 3
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "F.",
+                "M.",
+                "..",
+                "..",
+                "#.",
+                "C.",
+                ".#"
+            ],
+            "catJump": 2,
+            "mouseJump": 3
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "#.C..",
+                ".....",
+                ".....",
+                "....F",
+                "....M"
+            ],
+            "catJump": 6,
+            "mouseJump": 5
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "..#M#F",
+                "...#..",
+                ".##...",
+                ".#....",
+                "#...##",
+                "##.C..",
+                "......"
+            ],
+            "catJump": 1,
+            "mouseJump": 2
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "#.#",
+                ".F.",
+                "CM.",
+                "..."
+            ],
+            "catJump": 6,
+            "mouseJump": 4
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "M..",
+                ".CF"
+            ],
+            "catJump": 8,
+            "mouseJump": 1
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "..#.....",
+                "....#..C",
+                ".#..M##.",
+                "#..####.",
+                "#...F#.."
+            ],
+            "catJump": 6,
+            "mouseJump": 5
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "F",
+                "C",
+                "M"
+            ],
+            "catJump": 3,
+            "mouseJump": 1
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                ".F",
+                "MC"
+            ],
+            "catJump": 5,
+            "mouseJump": 6
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                ".",
+                ".",
+                "M",
+                "C",
+                "F",
+                "."
+            ],
+            "catJump": 4,
+            "mouseJump": 4
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                ".##....",
+                "##.....",
+                "...##.F",
+                "#.....C",
+                "....#..",
+                ".M....."
+            ],
+            "catJump": 6,
+            "mouseJump": 4
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "...",
+                ".#.",
+                ".M.",
+                "...",
+                "...",
+                "..C",
+                ".F."
+            ],
+            "catJump": 1,
+            "mouseJump": 8
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "...",
+                "..F",
+                ".#.",
+                "...",
+                ".M.",
+                ".C."
+            ],
+            "catJump": 4,
+            "mouseJump": 3
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                ".M.....",
+                "....CF."
+            ],
+            "catJump": 5,
+            "mouseJump": 6
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                ".....C#",
+                "###.F..",
+                "..#..##",
+                "....M.."
+            ],
+            "catJump": 2,
+            "mouseJump": 7
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "M.",
+                "FC"
+            ],
+            "catJump": 4,
+            "mouseJump": 1
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "#C..M",
+                ".....",
+                "..#.#",
+                "...#F",
+                "..#.#",
+                "##..."
+            ],
+            "catJump": 4,
+            "mouseJump": 4
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "...#.",
+                ".C..F",
+                ".M.#.",
+                "###.#"
+            ],
+            "catJump": 3,
+            "mouseJump": 6
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                ".....",
+                "..C#.",
+                "#....",
+                "...M.",
+                "...F#",
+                "....#",
+                ".#..."
+            ],
+            "catJump": 4,
+            "mouseJump": 4
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "...M...",
+                "...C...",
+                "F......"
+            ],
+            "catJump": 1,
+            "mouseJump": 1
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "C#F..M."
+            ],
+            "catJump": 4,
+            "mouseJump": 1
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "...M.C",
+                ".##F#."
+            ],
+            "catJump": 7,
+            "mouseJump": 3
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "#....",
+                "....C",
+                "F...M"
+            ],
+            "catJump": 3,
+            "mouseJump": 7
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                ".#M",
+                ".F.",
+                ".#C"
+            ],
+            "catJump": 1,
+            "mouseJump": 1
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                ".....",
+                ".C...",
+                ".....",
+                "...F.",
+                "...M."
+            ],
+            "catJump": 1,
+            "mouseJump": 5
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "#.C.MF.",
+                "##...#.",
+                ".#.#..."
+            ],
+            "catJump": 8,
+            "mouseJump": 4
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "F.CM"
+            ],
+            "catJump": 7,
+            "mouseJump": 8
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "FC..#...",
+                "#...#.#.",
+                ".#......",
+                ".##M#..."
+            ],
+            "catJump": 2,
+            "mouseJump": 1
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "..M",
+                "#..",
+                "F.#",
+                "...",
+                ".#C"
+            ],
+            "catJump": 8,
+            "mouseJump": 3
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                ".....#..",
+                ".M.....#",
+                ".......#",
+                ".#..#...",
+                "##.F.C..",
+                "......#.",
+                "##...##."
+            ],
+            "catJump": 6,
+            "mouseJump": 3
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "M..C",
+                "F#.."
+            ],
+            "catJump": 5,
+            "mouseJump": 1
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                ".#..",
+                "....",
+                "..M#",
+                "##..",
+                ".#F.",
+                ".C..",
+                "...#"
+            ],
+            "catJump": 4,
+            "mouseJump": 7
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                ".#..M",
+                "##..#",
+                "...#.",
+                ".#.FC"
+            ],
+            "catJump": 8,
+            "mouseJump": 8
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                ".#....##",
+                ".#......",
+                "........",
+                ".#M##..#",
+                "##.#..C.",
+                ".#...#.#",
+                "F.##.#..",
+                ".#.....#"
+            ],
+            "catJump": 8,
+            "mouseJump": 1
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "......",
+                "..#.#.",
+                "..C.##",
+                ".M....",
+                "..#...",
+                ".....F",
+                ".....#"
+            ],
+            "catJump": 7,
+            "mouseJump": 6
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "..",
+                "C.",
+                ".M",
+                ".F"
+            ],
+            "catJump": 7,
+            "mouseJump": 6
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                ".....C.",
+                "FM....."
+            ],
+            "catJump": 6,
+            "mouseJump": 8
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                ".#..",
+                "F#C.",
+                "....",
+                "#...",
+                "#...",
+                "#.M."
+            ],
+            "catJump": 5,
+            "mouseJump": 5
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "..C",
+                "F..",
+                "...",
+                "#.#",
+                "..#",
+                "M.#",
+                ".##"
+            ],
+            "catJump": 8,
+            "mouseJump": 7
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "...F",
+                ".C.M"
+            ],
+            "catJump": 6,
+            "mouseJump": 1
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "...",
+                ".#F",
+                ".#.",
+                "...",
+                "#..",
+                "...",
+                "..C",
+                "..M"
+            ],
+            "catJump": 3,
+            "mouseJump": 2
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "....",
+                "C...",
+                "....",
+                "....",
+                "...M",
+                "....",
+                "....",
+                "F#.."
+            ],
+            "catJump": 7,
+            "mouseJump": 1
+        },
+        "output": false
+    },
+    {
+        "input": {
+            "grid": [
+                "M",
+                "F",
+                "C",
+                ".",
+                ".",
+                "."
+            ],
+            "catJump": 6,
+            "mouseJump": 4
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                "M",
+                "C",
+                "F"
+            ],
+            "catJump": 3,
+            "mouseJump": 7
+        },
+        "output": true
+    },
+    {
+        "input": {
+            "grid": [
+                ".M",
+                ".C",
+                "F."
+            ],
+            "catJump": 5,
+            "mouseJump": 8
+        },
+        "output": true
+    }
+]

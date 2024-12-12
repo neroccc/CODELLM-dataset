@@ -1,0 +1,723 @@
+[
+    {
+        "input": {
+            "x": 36,
+            "target": 124670894
+        },
+        "output": 91
+    },
+    {
+        "input": {
+            "x": 47,
+            "target": 142052502
+        },
+        "output": 155
+    },
+    {
+        "input": {
+            "x": 35,
+            "target": 137188312
+        },
+        "output": 155
+    },
+    {
+        "input": {
+            "x": 85,
+            "target": 58581471
+        },
+        "output": 151
+    },
+    {
+        "input": {
+            "x": 98,
+            "target": 90845858
+        },
+        "output": 205
+    },
+    {
+        "input": {
+            "x": 52,
+            "target": 189083232
+        },
+        "output": 162
+    },
+    {
+        "input": {
+            "x": 98,
+            "target": 137425787
+        },
+        "output": 181
+    },
+    {
+        "input": {
+            "x": 94,
+            "target": 48633021
+        },
+        "output": 277
+    },
+    {
+        "input": {
+            "x": 81,
+            "target": 19656553
+        },
+        "output": 195
+    },
+    {
+        "input": {
+            "x": 31,
+            "target": 70522516
+        },
+        "output": 136
+    },
+    {
+        "input": {
+            "x": 23,
+            "target": 26668062
+        },
+        "output": 67
+    },
+    {
+        "input": {
+            "x": 54,
+            "target": 25622049
+        },
+        "output": 102
+    },
+    {
+        "input": {
+            "x": 100,
+            "target": 159996039
+        },
+        "output": 245
+    },
+    {
+        "input": {
+            "x": 75,
+            "target": 125522962
+        },
+        "output": 179
+    },
+    {
+        "input": {
+            "x": 31,
+            "target": 83111576
+        },
+        "output": 78
+    },
+    {
+        "input": {
+            "x": 79,
+            "target": 186306318
+        },
+        "output": 118
+    },
+    {
+        "input": {
+            "x": 41,
+            "target": 82590857
+        },
+        "output": 120
+    },
+    {
+        "input": {
+            "x": 63,
+            "target": 155840272
+        },
+        "output": 127
+    },
+    {
+        "input": {
+            "x": 63,
+            "target": 125947659
+        },
+        "output": 103
+    },
+    {
+        "input": {
+            "x": 29,
+            "target": 149835355
+        },
+        "output": 139
+    },
+    {
+        "input": {
+            "x": 87,
+            "target": 181031196
+        },
+        "output": 168
+    },
+    {
+        "input": {
+            "x": 63,
+            "target": 27452020
+        },
+        "output": 150
+    },
+    {
+        "input": {
+            "x": 57,
+            "target": 16082300
+        },
+        "output": 154
+    },
+    {
+        "input": {
+            "x": 51,
+            "target": 71670598
+        },
+        "output": 153
+    },
+    {
+        "input": {
+            "x": 54,
+            "target": 64105444
+        },
+        "output": 136
+    },
+    {
+        "input": {
+            "x": 85,
+            "target": 115972856
+        },
+        "output": 201
+    },
+    {
+        "input": {
+            "x": 55,
+            "target": 59156144
+        },
+        "output": 191
+    },
+    {
+        "input": {
+            "x": 64,
+            "target": 150972863
+        },
+        "output": 72
+    },
+    {
+        "input": {
+            "x": 52,
+            "target": 76026942
+        },
+        "output": 203
+    },
+    {
+        "input": {
+            "x": 30,
+            "target": 159967461
+        },
+        "output": 172
+    },
+    {
+        "input": {
+            "x": 43,
+            "target": 3111645
+        },
+        "output": 46
+    },
+    {
+        "input": {
+            "x": 61,
+            "target": 87323016
+        },
+        "output": 155
+    },
+    {
+        "input": {
+            "x": 50,
+            "target": 36640905
+        },
+        "output": 84
+    },
+    {
+        "input": {
+            "x": 11,
+            "target": 104391292
+        },
+        "output": 91
+    },
+    {
+        "input": {
+            "x": 57,
+            "target": 129735961
+        },
+        "output": 208
+    },
+    {
+        "input": {
+            "x": 63,
+            "target": 178114563
+        },
+        "output": 203
+    },
+    {
+        "input": {
+            "x": 5,
+            "target": 90735821
+        },
+        "output": 95
+    },
+    {
+        "input": {
+            "x": 47,
+            "target": 67558218
+        },
+        "output": 122
+    },
+    {
+        "input": {
+            "x": 68,
+            "target": 112600090
+        },
+        "output": 147
+    },
+    {
+        "input": {
+            "x": 23,
+            "target": 111375533
+        },
+        "output": 95
+    },
+    {
+        "input": {
+            "x": 22,
+            "target": 144701082
+        },
+        "output": 91
+    },
+    {
+        "input": {
+            "x": 75,
+            "target": 155054504
+        },
+        "output": 186
+    },
+    {
+        "input": {
+            "x": 11,
+            "target": 74634538
+        },
+        "output": 80
+    },
+    {
+        "input": {
+            "x": 74,
+            "target": 5993860
+        },
+        "output": 122
+    },
+    {
+        "input": {
+            "x": 35,
+            "target": 192095433
+        },
+        "output": 111
+    },
+    {
+        "input": {
+            "x": 25,
+            "target": 81363958
+        },
+        "output": 130
+    },
+    {
+        "input": {
+            "x": 15,
+            "target": 58168048
+        },
+        "output": 72
+    },
+    {
+        "input": {
+            "x": 2,
+            "target": 158067554
+        },
+        "output": 146
+    },
+    {
+        "input": {
+            "x": 79,
+            "target": 39536375
+        },
+        "output": 111
+    },
+    {
+        "input": {
+            "x": 21,
+            "target": 118030735
+        },
+        "output": 79
+    },
+    {
+        "input": {
+            "x": 57,
+            "target": 120274217
+        },
+        "output": 172
+    },
+    {
+        "input": {
+            "x": 76,
+            "target": 23790842
+        },
+        "output": 166
+    },
+    {
+        "input": {
+            "x": 44,
+            "target": 173015090
+        },
+        "output": 64
+    },
+    {
+        "input": {
+            "x": 32,
+            "target": 130750020
+        },
+        "output": 95
+    },
+    {
+        "input": {
+            "x": 68,
+            "target": 131945297
+        },
+        "output": 119
+    },
+    {
+        "input": {
+            "x": 80,
+            "target": 96995242
+        },
+        "output": 281
+    },
+    {
+        "input": {
+            "x": 79,
+            "target": 40159110
+        },
+        "output": 129
+    },
+    {
+        "input": {
+            "x": 54,
+            "target": 68251923
+        },
+        "output": 136
+    },
+    {
+        "input": {
+            "x": 24,
+            "target": 164846401
+        },
+        "output": 83
+    },
+    {
+        "input": {
+            "x": 20,
+            "target": 29028665
+        },
+        "output": 108
+    },
+    {
+        "input": {
+            "x": 99,
+            "target": 54213990
+        },
+        "output": 217
+    },
+    {
+        "input": {
+            "x": 9,
+            "target": 30280512
+        },
+        "output": 70
+    },
+    {
+        "input": {
+            "x": 39,
+            "target": 147466132
+        },
+        "output": 123
+    },
+    {
+        "input": {
+            "x": 63,
+            "target": 10449813
+        },
+        "output": 107
+    },
+    {
+        "input": {
+            "x": 21,
+            "target": 88644422
+        },
+        "output": 61
+    },
+    {
+        "input": {
+            "x": 16,
+            "target": 103381849
+        },
+        "output": 128
+    },
+    {
+        "input": {
+            "x": 97,
+            "target": 165885772
+        },
+        "output": 211
+    },
+    {
+        "input": {
+            "x": 9,
+            "target": 58461016
+        },
+        "output": 66
+    },
+    {
+        "input": {
+            "x": 83,
+            "target": 12390764
+        },
+        "output": 202
+    },
+    {
+        "input": {
+            "x": 38,
+            "target": 70895103
+        },
+        "output": 63
+    },
+    {
+        "input": {
+            "x": 78,
+            "target": 31748873
+        },
+        "output": 111
+    },
+    {
+        "input": {
+            "x": 28,
+            "target": 75851112
+        },
+        "output": 134
+    },
+    {
+        "input": {
+            "x": 26,
+            "target": 144830008
+        },
+        "output": 112
+    },
+    {
+        "input": {
+            "x": 99,
+            "target": 117592807
+        },
+        "output": 137
+    },
+    {
+        "input": {
+            "x": 72,
+            "target": 52994091
+        },
+        "output": 48
+    },
+    {
+        "input": {
+            "x": 62,
+            "target": 189558070
+        },
+        "output": 176
+    },
+    {
+        "input": {
+            "x": 79,
+            "target": 98516982
+        },
+        "output": 251
+    },
+    {
+        "input": {
+            "x": 98,
+            "target": 91310521
+        },
+        "output": 56
+    },
+    {
+        "input": {
+            "x": 43,
+            "target": 44331009
+        },
+        "output": 130
+    },
+    {
+        "input": {
+            "x": 96,
+            "target": 67226495
+        },
+        "output": 111
+    },
+    {
+        "input": {
+            "x": 34,
+            "target": 140795458
+        },
+        "output": 97
+    },
+    {
+        "input": {
+            "x": 57,
+            "target": 33025236
+        },
+        "output": 97
+    },
+    {
+        "input": {
+            "x": 55,
+            "target": 194154837
+        },
+        "output": 152
+    },
+    {
+        "input": {
+            "x": 14,
+            "target": 121923526
+        },
+        "output": 75
+    },
+    {
+        "input": {
+            "x": 81,
+            "target": 188463325
+        },
+        "output": 231
+    },
+    {
+        "input": {
+            "x": 45,
+            "target": 149639435
+        },
+        "output": 138
+    },
+    {
+        "input": {
+            "x": 53,
+            "target": 78985832
+        },
+        "output": 128
+    },
+    {
+        "input": {
+            "x": 7,
+            "target": 108151813
+        },
+        "output": 96
+    },
+    {
+        "input": {
+            "x": 17,
+            "target": 102887067
+        },
+        "output": 108
+    },
+    {
+        "input": {
+            "x": 8,
+            "target": 41459357
+        },
+        "output": 85
+    },
+    {
+        "input": {
+            "x": 22,
+            "target": 61378597
+        },
+        "output": 93
+    },
+    {
+        "input": {
+            "x": 6,
+            "target": 22778279
+        },
+        "output": 76
+    },
+    {
+        "input": {
+            "x": 52,
+            "target": 99715589
+        },
+        "output": 183
+    },
+    {
+        "input": {
+            "x": 40,
+            "target": 89530630
+        },
+        "output": 67
+    },
+    {
+        "input": {
+            "x": 14,
+            "target": 52368207
+        },
+        "output": 95
+    },
+    {
+        "input": {
+            "x": 80,
+            "target": 42748025
+        },
+        "output": 170
+    },
+    {
+        "input": {
+            "x": 49,
+            "target": 55856771
+        },
+        "output": 118
+    },
+    {
+        "input": {
+            "x": 44,
+            "target": 194992399
+        },
+        "output": 92
+    },
+    {
+        "input": {
+            "x": 51,
+            "target": 117928348
+        },
+        "output": 200
+    },
+    {
+        "input": {
+            "x": 49,
+            "target": 34610277
+        },
+        "output": 62
+    },
+    {
+        "input": {
+            "x": 3,
+            "target": 19
+        },
+        "output": 5
+    },
+    {
+        "input": {
+            "x": 5,
+            "target": 501
+        },
+        "output": 8
+    },
+    {
+        "input": {
+            "x": 100,
+            "target": 100000000
+        },
+        "output": 3
+    }
+]

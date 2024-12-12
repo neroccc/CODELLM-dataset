@@ -1,0 +1,602 @@
+[
+    {
+        "input": {
+            "s": "DIIDIIIDDDD"
+        },
+        "output": 49785
+    },
+    {
+        "input": {
+            "s": "IDIDDIDDIDDIII"
+        },
+        "output": 129475424
+    },
+    {
+        "input": {
+            "s": "DDIDDIDIDDIDD"
+        },
+        "output": 24137387
+    },
+    {
+        "input": {
+            "s": "DIIDID"
+        },
+        "output": 181
+    },
+    {
+        "input": {
+            "s": "DI"
+        },
+        "output": 2
+    },
+    {
+        "input": {
+            "s": "DDIIDDDDDDDDDDII"
+        },
+        "output": 418320
+    },
+    {
+        "input": {
+            "s": "IIDDIDDIIDDDII"
+        },
+        "output": 75692772
+    },
+    {
+        "input": {
+            "s": "DDIDIIIDIII"
+        },
+        "output": 92125
+    },
+    {
+        "input": {
+            "s": "DDDII"
+        },
+        "output": 10
+    },
+    {
+        "input": {
+            "s": "IDDDDDI"
+        },
+        "output": 41
+    },
+    {
+        "input": {
+            "s": "DD"
+        },
+        "output": 1
+    },
+    {
+        "input": {
+            "s": "IIDIIDIDIDIIDDDIDD"
+        },
+        "output": 903729340
+    },
+    {
+        "input": {
+            "s": "IDDIDD"
+        },
+        "output": 99
+    },
+    {
+        "input": {
+            "s": "DIIDDIDDIIIII"
+        },
+        "output": 1496937
+    },
+    {
+        "input": {
+            "s": "IDIDIIDIIID"
+        },
+        "output": 474298
+    },
+    {
+        "input": {
+            "s": "DDIDDD"
+        },
+        "output": 34
+    },
+    {
+        "input": {
+            "s": "IDIIIDIDIDDIDIID"
+        },
+        "output": 98487616
+    },
+    {
+        "input": {
+            "s": "D"
+        },
+        "output": 1
+    },
+    {
+        "input": {
+            "s": "DDIDID"
+        },
+        "output": 155
+    },
+    {
+        "input": {
+            "s": "IIDIDDDDDDIDI"
+        },
+        "output": 661779
+    },
+    {
+        "input": {
+            "s": "IIIIDDIDIIDIDIDI"
+        },
+        "output": 46481595
+    },
+    {
+        "input": {
+            "s": "DDIDIID"
+        },
+        "output": 531
+    },
+    {
+        "input": {
+            "s": "DIIDDIIDDIIDIIIDDIDD"
+        },
+        "output": 753602395
+    },
+    {
+        "input": {
+            "s": "DIIDDDDDDD"
+        },
+        "output": 276
+    },
+    {
+        "input": {
+            "s": "DIIDDDDDIDDIIIIDII"
+        },
+        "output": 228137718
+    },
+    {
+        "input": {
+            "s": "IDDIIIIDIIDIDII"
+        },
+        "output": 480609637
+    },
+    {
+        "input": {
+            "s": "IIDDIDDIIIDI"
+        },
+        "output": 1836912
+    },
+    {
+        "input": {
+            "s": "IDII"
+        },
+        "output": 9
+    },
+    {
+        "input": {
+            "s": "IIDIDID"
+        },
+        "output": 791
+    },
+    {
+        "input": {
+            "s": "DDID"
+        },
+        "output": 9
+    },
+    {
+        "input": {
+            "s": "IIDIIDDDIDDIDDDDI"
+        },
+        "output": 176568523
+    },
+    {
+        "input": {
+            "s": "DIIDDIIDDII"
+        },
+        "output": 397023
+    },
+    {
+        "input": {
+            "s": "IIIIIDDIDIDDDD"
+        },
+        "output": 2326324
+    },
+    {
+        "input": {
+            "s": "IDIDIIDDDIIIIDI"
+        },
+        "output": 490551251
+    },
+    {
+        "input": {
+            "s": "IIIDDIIIDDDIDD"
+        },
+        "output": 20295639
+    },
+    {
+        "input": {
+            "s": "DDDDDDDIIIIIIIIDDDID"
+        },
+        "output": 886921387
+    },
+    {
+        "input": {
+            "s": "IDIDDDDII"
+        },
+        "output": 3356
+    },
+    {
+        "input": {
+            "s": "IDDIDDIDDIDIDDIIDDI"
+        },
+        "output": 600082125
+    },
+    {
+        "input": {
+            "s": "DDIDIDDIDDIDDDIIDDDD"
+        },
+        "output": 41786428
+    },
+    {
+        "input": {
+            "s": "D"
+        },
+        "output": 1
+    },
+    {
+        "input": {
+            "s": "ID"
+        },
+        "output": 2
+    },
+    {
+        "input": {
+            "s": "IIDDD"
+        },
+        "output": 10
+    },
+    {
+        "input": {
+            "s": "DDIDD"
+        },
+        "output": 19
+    },
+    {
+        "input": {
+            "s": "DDDDDDDDD"
+        },
+        "output": 1
+    },
+    {
+        "input": {
+            "s": "DDDDIDDIDID"
+        },
+        "output": 120350
+    },
+    {
+        "input": {
+            "s": "IDDIDIIIDI"
+        },
+        "output": 64109
+    },
+    {
+        "input": {
+            "s": "IIDIDIIIDIDIII"
+        },
+        "output": 68218333
+    },
+    {
+        "input": {
+            "s": "DDIIDDD"
+        },
+        "output": 155
+    },
+    {
+        "input": {
+            "s": "DDIDDIDIDDDDDIIDDD"
+        },
+        "output": 493282950
+    },
+    {
+        "input": {
+            "s": "IIIIIIIDDDDIIDIIII"
+        },
+        "output": 233803549
+    },
+    {
+        "input": {
+            "s": "DIDDIIDIII"
+        },
+        "output": 35300
+    },
+    {
+        "input": {
+            "s": "DDIDIIIDDIIIDIII"
+        },
+        "output": 696771133
+    },
+    {
+        "input": {
+            "s": "DIIDI"
+        },
+        "output": 40
+    },
+    {
+        "input": {
+            "s": "DIDIDDDDDDDIIIIDDI"
+        },
+        "output": 154937470
+    },
+    {
+        "input": {
+            "s": "IDIDDIDDDDDDIIIIDDII"
+        },
+        "output": 826050305
+    },
+    {
+        "input": {
+            "s": "IIII"
+        },
+        "output": 1
+    },
+    {
+        "input": {
+            "s": "DIDIIDIDIID"
+        },
+        "output": 1141086
+    },
+    {
+        "input": {
+            "s": "DIII"
+        },
+        "output": 4
+    },
+    {
+        "input": {
+            "s": "IDDIDIIIDDID"
+        },
+        "output": 3100722
+    },
+    {
+        "input": {
+            "s": "DDIDIIDDDDIDDIDDIDID"
+        },
+        "output": 417533382
+    },
+    {
+        "input": {
+            "s": "IDDI"
+        },
+        "output": 11
+    },
+    {
+        "input": {
+            "s": "IDDIDIIIIDDDDIDI"
+        },
+        "output": 791676030
+    },
+    {
+        "input": {
+            "s": "DIDDDIDIIIIDIDD"
+        },
+        "output": 285905389
+    },
+    {
+        "input": {
+            "s": "IDDIIDIIIIIDDII"
+        },
+        "output": 104622987
+    },
+    {
+        "input": {
+            "s": "DIIDIIIDIIDDDDDII"
+        },
+        "output": 947189202
+    },
+    {
+        "input": {
+            "s": "DIDIDDIDIDDIIIIIDDI"
+        },
+        "output": 683315910
+    },
+    {
+        "input": {
+            "s": "DDDDDI"
+        },
+        "output": 6
+    },
+    {
+        "input": {
+            "s": "DDDIIIIIII"
+        },
+        "output": 120
+    },
+    {
+        "input": {
+            "s": "D"
+        },
+        "output": 1
+    },
+    {
+        "input": {
+            "s": "DI"
+        },
+        "output": 2
+    },
+    {
+        "input": {
+            "s": "DIIDDIDIDIID"
+        },
+        "output": 6963230
+    },
+    {
+        "input": {
+            "s": "DIDIIDID"
+        },
+        "output": 5095
+    },
+    {
+        "input": {
+            "s": "IDIDDDDIIDIIDI"
+        },
+        "output": 83960514
+    },
+    {
+        "input": {
+            "s": "DDDDI"
+        },
+        "output": 5
+    },
+    {
+        "input": {
+            "s": "IDIIIDIDDIIIDIDI"
+        },
+        "output": 831069446
+    },
+    {
+        "input": {
+            "s": "IDIDDDDDDDDIDII"
+        },
+        "output": 2269771
+    },
+    {
+        "input": {
+            "s": "DIDIDIDIDIIIIDID"
+        },
+        "output": 76599404
+    },
+    {
+        "input": {
+            "s": "DIIIDIIIDDI"
+        },
+        "output": 155463
+    },
+    {
+        "input": {
+            "s": "IIIIDIDDDIIIIDIIDIID"
+        },
+        "output": 667074870
+    },
+    {
+        "input": {
+            "s": "DIDIIIDIDIIIIDIDD"
+        },
+        "output": 566149454
+    },
+    {
+        "input": {
+            "s": "IDDID"
+        },
+        "output": 40
+    },
+    {
+        "input": {
+            "s": "IIIIDD"
+        },
+        "output": 15
+    },
+    {
+        "input": {
+            "s": "DIDD"
+        },
+        "output": 9
+    },
+    {
+        "input": {
+            "s": "DD"
+        },
+        "output": 1
+    },
+    {
+        "input": {
+            "s": "DDDDDDDDDDIIIIIIII"
+        },
+        "output": 43758
+    },
+    {
+        "input": {
+            "s": "IDDDIDDDIDIIIIDDI"
+        },
+        "output": 429078576
+    },
+    {
+        "input": {
+            "s": "IDDDIDIIDII"
+        },
+        "output": 280774
+    },
+    {
+        "input": {
+            "s": "IIIDIIIDDDI"
+        },
+        "output": 60765
+    },
+    {
+        "input": {
+            "s": "IIIIIIDIIDDDDIDDI"
+        },
+        "output": 455034086
+    },
+    {
+        "input": {
+            "s": "IDIDDDDIIDD"
+        },
+        "output": 121154
+    },
+    {
+        "input": {
+            "s": "DD"
+        },
+        "output": 1
+    },
+    {
+        "input": {
+            "s": "I"
+        },
+        "output": 1
+    },
+    {
+        "input": {
+            "s": "DI"
+        },
+        "output": 2
+    },
+    {
+        "input": {
+            "s": "II"
+        },
+        "output": 1
+    },
+    {
+        "input": {
+            "s": "IDIDDIIDDIDID"
+        },
+        "output": 63453676
+    },
+    {
+        "input": {
+            "s": "DIDIDIIIDDIII"
+        },
+        "output": 11089364
+    },
+    {
+        "input": {
+            "s": "IIIIIDDDIIIIID"
+        },
+        "output": 580566
+    },
+    {
+        "input": {
+            "s": "DDIIIIDIDD"
+        },
+        "output": 13661
+    },
+    {
+        "input": {
+            "s": "DIDDIDDDDDDIDD"
+        },
+        "output": 3186742
+    },
+    {
+        "input": {
+            "s": "IDDIDIDIDIIIIIDDI"
+        },
+        "output": 488668053
+    }
+]

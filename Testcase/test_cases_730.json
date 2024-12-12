@@ -1,0 +1,602 @@
+[
+    {
+        "input": {
+            "s": "dcabcaadadadaddbaaadaacabdccbcaadccddaddacaddadcbcacbcddad"
+        },
+        "output": 1008447
+    },
+    {
+        "input": {
+            "s": "cdacdbadbcaccdababdcaaddccdacbbaccbcacbcbaacbcccbacacbabcddacccbdaacacadaddbcddaabaccbcabcacbbcccbaadcbadddaabcbcdcabbdabddbbacdaaabbdbacddcbbbbccbbdcbbdcabbbdcbbcbbcadcadbbaacbbccdaabdadbddabdadcacdadacbababbabadbbbdbdcaacadbcccbcdbcddadcaabcacccdbdcadbcccaacbccabcaaacaaccbabdabbbcbdccddcdbccbcacacbcaddbbaacaadaabacadacabaaaddacacdbccdcabbadbacbcdbdaaacadccaabccccbaacdaaabaadacbacabbadbabccbbaabdbdacdcdadbbcacbdbcaababbcdcbdddbcaacbdadddbddacdabbdaaccdcadccbcdabccbbbbbabaddaddccbcbacddbcaababbaccbaabadcbbdaccdcabbaddadcbccbccccaddbbbabbadadbbdbddcdacdabdcbcdbbbabdabcacbbbaabbdbbcaadabbdabbbaabdbbadbcacbaacaabaabccccadcddddbabbbcdccdbcadaccabccbbbacadcdacadddcacacabbababcbaaccbdbd"
+        },
+        "output": 215555913
+    },
+    {
+        "input": {
+            "s": "acbdddbadccdcdbbddaadbcccdaaaabbadaddabcabddbbcbcdddccddbaabaadaabccbbbbdadadbbacbcbdbabdcbcdaccbccabbbbcbaccbbcbcbdcdabcccbbcbccbbaaabdcaabadddbcdbddadbdbcabaaddbcdbdabdbaaadcbadaccdcddabdcbbacddbdccbcbbdaaaaacabcbbdabadcbcdbbdbcababddacaaacccbdadbdacdbaddbbaccccccaccaacdcbabaabccccdbdccbdcdacdccbbacadbbdbcddcbabcacccdbadcadcaacccccbddbbbcaddbdaabaaabdccbdacdabacabadccdaaaadabcbaadcbbcacbbddcdaadccdaaabccdcddddbcdabadcdddcbcacbddbbdcdddccbddbccadaacbabdcaadcccbbddbdcdcdcdbdcdcabccbdcbdddcbcaddbbbaabddaadbdabdddadabababcccbadacacdabcabccbcabbbabadacacadacaaabcbabbcbabdadddabaddcbacdaccdbbddbcdddaaaaccbbccdcdaadcbdddcbcaabcabd"
+        },
+        "output": 333357812
+    },
+    {
+        "input": {
+            "s": "dacbcdbaaccdacabbbbaadacdaabadadbcacdadbcaccaabddbdbcbcbddabdbccddbbbababdcddbcdbbccbbcaadbdbdcabcbbdbccbaadaacbaacbbaaddbbbabbabbcbacbcbbaacaaddaabaababbcabbadbcbaccbbacacabcbcccdcacaccbababadadbbccdadbdabcbbbdcbdbadcbbacdbbbaabaacdaaabcbadbadcccdaddaabcdccdddabadbbaabcdcacddcbdcaccacabbbcdddcbdbdcccbcdbcccbadcdbcadbccbaaaadddcccabcbdaaccdcacaabcadd"
+        },
+        "output": 307360531
+    },
+    {
+        "input": {
+            "s": "ddbbacbaddcbbabaacbaaacaadcbbcababadbabbbcddcadcadaaadaadabdcbbadcbabddaabbdcdbcadabacaaadaddddcdbbadcbdadcaabbacdcbdcacdacdcdbbadcdbccadcbababccccdcddadcccbbadbbdbdacacbbccdccababbcbdcaabbdaaddbdddaabaccadaacdbbcbbbbdbccccbbbaadbbcccbabcadbabdccdcbcbaddaddbacabddbcdccdccbadabdcadcaddcaccdadadbcbacacaaaaddaaaadabcaddbbbababaccddabdbbdbbdcddbcaccabddddbdbbbdadccbcdabcbbbbcccabcdb"
+        },
+        "output": 95107236
+    },
+    {
+        "input": {
+            "s": "dcbdaaaacdbabdbbbcdbbadaacbccaadbcacddcabdabacccbbdbdbaaddadcccdbcdacdcabaaccdbabdbacbacacabadabacbbcdccbcccccccadbccdbdcbbbbbabdbcabcbdccbbdadacacaaacdacdaacacacbaaadccbcdbddbcadbccabdcdacccbcdcaddccadbacadbbadddbdcbabadabcdbacccabddbcaacabaabdabdbcabdccbbcbccdddaadcacabcadaadabbbadbbdadadabbbdccaccdbdaaddbabddddbbbbdcbbdadbbbbddadccbdbbddddcbabddcbaddbbddccdcdcd"
+        },
+        "output": 153056375
+    },
+    {
+        "input": {
+            "s": "cabdbabcadbdcabcdcdbaaccbbbbdcbcacccbbadddcdcadcbdbdacbcdbdaaddcacabccbaaccbbabdadbaaababbbaacbbbdbdabbcaccbdccabcadcaacbcdccabbddaaabddddaabcaaddddbccdcdddcccaababbadcaccccbcbadddcaccdaadbdbccdcbacaccbcccddbbccdabbbcdbacdcabdbccdbcabddcbcccbcadcacbcccdadadaacadbcdaaaabaacdbbbcacbbdbdabbbabaaabdacdadabcdcbabadbbdbacbadaababadaaaacccbdbcdbdcdcabbcddddadddddabcaababdaabccababcccbccbababbdccbccabcccddbbbcbdaaccadbdcbbdbdddbbbdbbcaaabcccbccbaadbdbbcdabdbccbaaadbcdbbddaaabbadcdddabadccccadcbbddaacddddaabadbacaabdcdcccdabddcbddacaccabcdcdcdbdacbdadadcaadbddbccbcdaabdcdbaabbaaababdacbbbddaabdaabdddabccdcacdabdcbcbcabcababccaccaaadcdbcbdaadacbbdaaddcadbdccbccdccdbbcbccacbbadd"
+        },
+        "output": 884821753
+    },
+    {
+        "input": {
+            "s": "cdbabbbccbdbccddabbdcbbaaacadcdcdadaaaaabcaabbcccabacabdccdaadaabdbcadcbcdbbdccddadaacddbcbdbadddbbbcddbabdcdaadbacdabcbdaacbdcbbcadbaacdabdadcababbccccdcdbdadcbadbdddcabddccadacacddbaadddbcbabaadabcbacccbbdadabbadcbabcddabddcbaabcdabbadcbbdadbadabadbbaaccddabbbaadcdacabadaacdbcacddcacbbbcbbbdbbdcababdaaabbcddadcdcddbdabcccdaacbadbccacbdbdbdaaddabcbaadddacdbbcbccbcadcbbdadacdbadbdadaddabcddcaadcddcbdcbdacbcacdaccddcaadabcacddabdaaadadbddcddadadccbaaabacadcacdccaacccabdbdbdbbccaddcbbcadbcbccdddcaabbcddbcdbcdbbaddbabdadadbdabaddadbbcddbcacacdbbcddcdddadbaaddbbddcdcbcdbaddccbdabbcddaadbccbdacbcadcddabdcdbdcbaabddacaaaadaabadbdcbdddccddbcbcbcccdccddaaaacabacbbdcaabddbbbcdbaddbdbcdbddbcddcbdacbaadbbacbccbbdcbccabdbaddabaaabaddaddadacdaddaccabacadbaabadcccbbc"
+        },
+        "output": 713066345
+    },
+    {
+        "input": {
+            "s": "bbdccbbdbddbaccddddcbdbddacbdcbcabbcaadddcbcbcbdcdacaddbcddcddcbdaaacdaddbcaccacccadbcdbdabddddbaaadabdbdaabacccdbdcabdbdcbacdaaccdbcdcdddcbbbababbbcccdaaaabbdbbcbcabadcbcdbbbdcaaccbacdbdcacabccddadbdaadaabcbcacaadacdcdacadcbbccbabcacdcabcddcbbcccbdbadacdcadadbbdbacabaaaadabdabbdddbddbbabbcacbaaadbcadcbdbadcdbacdabcbccaccbddabccabbdacddbddccaaabdcccdabbbdabbaaacbcdabbcdbcbcabbcabcabdbcbcbabadacccabcbbbaadacdcccdcdbcadbdabdababbdcacbbaaccbdccaaddc"
+        },
+        "output": 5112040
+    },
+    {
+        "input": {
+            "s": "dbdbabddbcbabcdbbcaaabccacaaabdbaadcabcbcbabaaaabacbbcbcabdbbccdabddcddaccdcadaccaaddcdbdaccccbbbbccbdcabaabbccdcccabddadcaccaadccbacbdbcdbbabbdaacaadaadaddbbbbcababcbdabacddabcbcdababaacaabbbacdcbdccbaacbbcabaabbccdbbbddcaaadcbcadcbadbdabadaddbbacabddaadccacabbabcdbdaaccabacdcbcbcdcccbbaaaacdcbaa"
+        },
+        "output": 826549525
+    },
+    {
+        "input": {
+            "s": "aaddcdadcbbdbdabacdddcaadbbddcdbdbccbbcaaddaadcaccaaabbdbaddabadbdbbdaadbbacadbdcbbadbbdccbabcbbbdaacbdcababbacadcdcbabbacbbdbdcbaaaaccdcadccdbbba"
+        },
+        "output": 841283585
+    },
+    {
+        "input": {
+            "s": "cdabbcdcdbacbbccdaccddcbcbbaaaaaacbadcbccadbcdbdaadbddcaabddabddcadabcdddabdddcaabbdddcbcddbabaabadbbdbadbdcddabdaacabbbacbcabababcddadbadbbbdcbbacdabaddcbcccddcdbcbdbcdbdcdabcbccbcabddcaccdbadcbcbbabadcbaaaadacbddacbabccacbcbbdbdddabcdaccacbdcadabbcaadbabaabcddbbacdaaabdadbdbbbacbdbbdbddccdcdacbccabbcddccadcadacbbacadcadaccaddbdcbbadcbacbdabcdbadaacbdaccaacdbbcbcdbbaccbddddbacabcbbaadbacdabdbbccddbdcaabddcccbbdddabbbdbbbabbacacdcbbbabdddbcabccbbbcbbcdcddbddbcdbddaabbcaabdbabddcccbdddddadabaaabcdbccbcbadaacccdcbcdababacaaabdbccccaddadddaabbbdccadbcacbbcdbccaccadbccacdabcaaadcccbacbbcad"
+        },
+        "output": 138981506
+    },
+    {
+        "input": {
+            "s": "bdabbddbbbcbaccbbdaadcaaccbdcdadaabcbcbdbcdcadacdcabdabcddcbaaacddcdcdcbcbcacaaaacbabcddbddcdaabbddbbddcbcbdcabcaaacbdaacbadcbcbdcadacccdabbbbdbbcabcccabdbcdaaccabdcdaddaabcaaccaccaaddcacaaacbadcdcaaaccbdcdcccbaacbcccdabccabccacdadccccddddcdcdadbcadcbdcddaacabbbddbacaabcddadbcdbdabaaadcbcaaaaddcccbcbabbdabddadacababbdaadbbbddbdabbbacbbacadacdcdadcdabcccbdabcdbbcadaabdbaaa"
+        },
+        "output": 753450250
+    },
+    {
+        "input": {
+            "s": "aabdaaacdabddcddbbcaaccdacbdcbbdbabdcbbaddacdccaccdcdbbbbcdcbccbdabdaadacccadbbddbcbbabacacdcccbcbcccdabcbccacccdcbcbdcadbaacccbacdbcdaaacddbbdbcdadabdcddbbacadbcacdbdacccdaaadadbcbcadbdbbdbbdacdbaacadddccaabdcbbbbabaaacacaaaaddcdadcbaaaddbbdbadacddababadcccbbdbbacdcbbcdcabcddaddacbdbdabdcddbdbccbccadadaacdadbccbbacacbcadbbcdabccdbdbddbdddccbccddaaababaaadaccbccddacaabcacbadbbadbbadbbcacccaacbdadcdcddbccbcbddacdccdaacabbadacbbcbbbbddabcbdddcadcacadcbbccbbdcdcccbdbadabbbcaadcbbdadabdcbcbaabbccadcabcbccabcbccbbddcbcbaaabdadbcabdcdddaabadaddacddcddaddddbddadbadadacbacadbdababdabbdadcdddcdccbdaaacdddcbcbcdbcdcacadacb"
+        },
+        "output": 7686644
+    },
+    {
+        "input": {
+            "s": "babccacdcbcdccbcbbdbabdbbccadcccbaccbdadababdbcdbdabdacbbcacccadbcadaaabdbcdddccaadbdddcabcbdcdbaabcbcbaaaaadcddadabcbadaabcccdccdbadaadbdcddbdcbadbdcbaaababbabdcbdaadbbdacabbcacadcbaacaabcbcaadacccdbbdabcaabbaaddddcdcadddcbcbbdcddcacdaabdcadddabcbcbddadaadddbbbddbabbcbabbbb"
+        },
+        "output": 879483764
+    },
+    {
+        "input": {
+            "s": "bcaddbdbdabaacdbadcbacbbacacdbabcbcadadbbcbbccbbaadbabacbbbcbccadddcdcccacbaaadcdcdacdbbbbcadadcdcbbbbbdbcdacdcbcaddaaccdbbcdcbcbacbbdbdbdcddadcdadaaaacabdacccbbbcbdaaabaaccabddcdadcadaacddcdbadccabaadcbdabdcdaacdccbbdabbaaacaaccbcdabdaadbabbdaddcacccccccadcadaabccdbacdbabaadbbaaadaddaababaabddbadbbcbdaabbbcbbdbcdddbbdaa"
+        },
+        "output": 380013109
+    },
+    {
+        "input": {
+            "s": "ccddbcadbdddcbcbaadabadbbbdcdbdbbbabcddcadaddccabbcbcabcabcdbbcddabadaacbabbbddcccddacbcbbdcdbbdbcdabcccaddbadbddbdccadbdbdbddbbdbdccbcccdbdadcdcaadbdaacbcccacbaacbbbbddbbcaabadddaacbbcabdbbddabdbddbdbacccaabcbcbbbcaaacbbddbadcbbdaaaadbadcbddacdddaaabdcdacdcccbabbbcbdbbbccdcddbccdadbabacbcbbadabdacbddbbadccdbdbaabdbdaacdcdcccadcbdadaccaacbbbdacdbaacbcbdbcdbdbdaaddcdbaaddcbbcbbaabdacacdbbdaccdcaabadbdbdabaccbacacaabcaaacccccaaadccaabacabbddbcadadbadadddacaaaaccaaaaadbdbaccccccacadbbabadaaadcbdcdaccccabbadddababddaccadaccacccbbadddadababbcccacbbddaaccccbbadaabddbdcababadccbabbcbaacbcbddbacadbbbabccacbbcacbaddaaacaadcbadacdabdabbdddadaddadbadacbdbaaaddcddddddbabbabbcccdcaabaacdbbcaaaabacacbacbdddaccdbaccbcdbbadaabcdbddbcbadacbaaddbaccabbddbaabadaaabccacdcbbbbadbdabacdabcbddbdaacbcbdcdcabbaadcddbaacabbbbabacdcbaabacdacbbdcadbdbdcadaadabacdbcabbcdcdcbcdadadcdbdcbbabbcacccbcdbacdabaccaabdacdacdcddabcccdbdacaacbbcadcabddcadbdbacdaaddabdacccbdcadabaaaacca"
+        },
+        "output": 880544401
+    },
+    {
+        "input": {
+            "s": "ccacaaccdabacaccacbadabcaaaaaabbacbdbccdaddadcdcbcaaccbccacddabcacccdbcbdcbcbbacacdbcabcbbdadccbccddcbccbbadddcccccbbdcddaadbdbacaacccbaaacaaddbbdacdbcdabdcbbdcbbdcdaabcdcbdcabdccdbbbabcdabcbcaaabbabbcccdaadcccacacacbabdbaddbaadaabcbaddbcccababaaadadacdabadcabdcbbbdbccdabacbddacdcbaaddddbdbcdbacbaaabaccacccacddbdddacbbcacccdaacadcabaddcbcdcddccaddbddcdccdacccbbdcdcdbaabbacbbbbacacdddacbdcbdcccbcbbbdabdbdacadabdbcacdacdccddcdabacdadddcacdcdbdadabccd"
+        },
+        "output": 847815738
+    },
+    {
+        "input": {
+            "s": "cabbccdbdcbaaaddadbaabcaccccdacbdabcdabdbdabbdccbbabcdbbccbaddcbabbbadbbadadbadbbbdddbddcdaddcdacbcbaacabadddccaccbbbddabbddaadbcadbcbdcacccadbcbbbcaccabbddddacdbbadbdbbcbbcaaadbdbcbcacadbbcabddccbadbddabbabaadcbbdbacbdcddbcaadadbbabbaccdcddbbccccacbdcbbbbdbccadbbcbdcbcaaacbdabbadcabdabcbcadccabdcccccccdabcbdaddcccacddcadddcaabcdcdcacddcdddcabadaabaaaaaaabcbddabccddccddacdaabcbcabaccbbacbbacdadbbdbdbadbbadbddcccbbcbaabcadccacdaacdbbcacbadcccdacbbcccdcddccdcbaaccaacccdacabccdbcacdcbdabacdaaddabbcdbaaaccaddabdbdccccbdcdcdbababaadabddcaabababbcaccbdcdccadbacbadbcabaabddaddbbacdbabbcbbbabccdbdbcadaaabacdbdcdaadbadabbcbdbcdcbadcadcbaabadcbbdbbcbccbdcdbabdbddcbcbbdacdcbadaabddacdbaabdaabbcdbaaacbdccdaacbdaddacbabcdddabcacdddbcaabdabcbbdccbbccbcaaababadcaccabccccaddbbdadcdbbdbbbcaadbbccaccbdbadccacacbadadaabbadcbcdcabddacddbaaaaacddbdbcadbbcdabbbccdcadbdbcaadaddababcbddaddcaccdbdbbacacaddcbdcabacdbbdbabccaadcabaaaaacbccbbcdacc"
+        },
+        "output": 24379631
+    },
+    {
+        "input": {
+            "s": "dbabddbdaadcdbbbacaadabdcabacbbacbdbbccbcbbabccccaababcdaabaaadbbaacabbbcdbccbdadadaabcdccaabaacadabbccabddbbbbadababacdcabddadaacbdabcacbacccccabdcdbdbddbdcdcbddaaabdcababcbacaccbbdcccbaaadbaabbbbcddbcbcccccabababdcbccdcaccaadaaddbaadcaaadbddbbcbabdbaaacaabbbccdbabbdbacccbccddddbbacccbcacbbccadadaccbbcadcbaabcabcabdbbbcabdacccaadcdbdadbacacacbbcddddabcdcdccdcaadbacdbcccdbaaccdbcbbbdadcabaacdbaabcadccbddbccbdbcdbdcaacdcdcdbcdbdbbaddadacdddcccadaddbcdccbacbacdcbdcbbbabccdccbccccaadccaddbcdcbbcdbdbbaadadaabadbbbddcccbabdabdccabcdadcdcabbdbacddbdcdacaadbcaadabccbdadccdddabcdcbdabddbacdbaabcacaccbaccabadcbcbdbaacbadbaccdabbbbacbbddcbbbaabcddadbbacccccdddcc"
+        },
+        "output": 426477275
+    },
+    {
+        "input": {
+            "s": "ddcbcaadadddbaadbbcacdbbabbbcbcaddbaabbbdcddacbaddaabcbdcaadacccacbabcbbaacbdccdacaadadbbccdccddadabbbccabbcdcacbddccdbbcdbadacacacccbbdcacbaacddadbbbacdcddadbbbbbdddbababaabbdaccadcdabdccabdbbabadabbcbcddcdccdbddadcdabbadbadbddcbaaaadcdddccbaddbacbadbccbdcadcbbadbdbbcabcccaabdcbdbbcabcdcdcbaddabdbdcbdbbdcadcabcacacbdcaccadcacdcbbdcdddbaaabacadcdccdbddadcadababaddaccdabacbbddadcaaadbbdddbabdcbabcbaacaccacacaccbaacccabaacdacaacdccbbcabdddcdddbcadbbbaacbbccbddccdbccbaaccdcdcddaabdcbbaaaddbddbadacabbaddcbdadcacabbbadccdaadcaddcbdbccbdabdbcabbabbbddacbbabbbaaadacbaaddaacabdbddadddcbbacdccdccbacbccacaddcbdaacbcbcbaacabbcccdcdbadbbcbccaaabddacddadbdacbdddbcaacdddcbaaddabbbcccaaccdbdcadcbdaabddcdacddaacddcadadccbcccbbacdaaccccbddacaccbbbdccccccadcbbbddccbbdca"
+        },
+        "output": 442324887
+    },
+    {
+        "input": {
+            "s": "abadbbbcbcccacdcbadaccaaabbbbdabbcabddcbabcabcdaaabadbdbbbbacaabdbdabbbddbcbaddcdbbdccbbcbabacbaccdadbbddaaaccdbcbccaddabdabcdcbcacbddbbaaadbabaaaccbcaaccbaaddddcdcccbcaccbcdccaaabdcaadaaaaadbbadaabaabadbabacbcbabcdbacdbdbdbcbbbdababaccdbdcbcddbacdabbcccaadcdbcdabcdcacabbcbbcdcabbdbcbabacacbaacaddbcbbaaddaadbabbabcbaaadbcdddbcbcbcbaaccbcbaacddaadccdadcbacbbcccadcaccdcbdbdcdbbdabbaddddaaddbaadddabbdbacbcaccbaaabadbbbdcdbabbbcbdcbcdcaaddacaddbccdaccdcababbdbabacaacddbcaaddbbcbcadaadabdcbaddbdbacdbacdbbbccaabcdcddcccdbdacbccbadbccdbacabbbabbbbdddcadbdbddabaabdadcdbaacddaccacbbaacbdcabacbbbacdcdaccdbbaddcdabdbbdbcdbcbbcaaaacaddbcdbadddccaacbaccdcaadcccdccabbcdacbcabdcbdabbccadaaddbbacbbccdcdacaccabbcdbcabccbdcdccabaccbaabaadadabdbddaaddddcbcddcaddccdaaaadccccccdcabcadccdabdacbddcadcbdbcbbdcccadaacddbacbcbddcbdabadbbcac"
+        },
+        "output": 73394442
+    },
+    {
+        "input": {
+            "s": "ddaccabdccbaccbcdababbddcacabbaddcdcdcddbccbacdddccaaccaadddaabdbbddaaaaccadadcbdadbdbbdbccdbdbbdbcbbcccadcaabbabbdcdbdcaabccaaaadccbaaadbaccacc"
+        },
+        "output": 527244808
+    },
+    {
+        "input": {
+            "s": "baaacdcadccdddaaabcccdcdcdbdcbccdaddbaacbaaacdbcabaddbaabbbdbcccbdcbcbaaadccdaccaaaadabbdaddbbcdccbdacbbdcadbddbdabcbcaaddddbcdacdcbaaccacbcccbdcbcdabbddcacdadbbbcdbaadbbcbaaaabdacadaddcdcabccbccaddcddaadbdddcaccbcbdbdadcddbcdaddacaabcddbbddaccacaddababddcbbbdbdbbabaabcacacdabcddcdcdbcabcbbcbddcdacccdcaaddacdacacbddcadbdbdaadacdccbcccdddbaaadccabbbcbbcbabddaaacdabcadabdadbcbdadddabbdcabbdbddacbddbbdcdaabccbbbbccccacaabdaaabbcadaacbdbadbddabcadcddabdcaabcacbdbdddbcadbccaaddaaacdacaaacddadcbaddcbddbcaddadcaabccbdacaabaabccdbcacbdabcccbdadcbbdcacdaacabcdccaccccbbbccabbbbcaabbdbdcadbcbaabbaddddabcbdbadddcbdcbbbcddaacabdbdbbccabbdbaacdcaaddaacbdbdbdacdcbabddabbbdcacabdcabdbaddabdadcbddbab"
+        },
+        "output": 681391882
+    },
+    {
+        "input": {
+            "s": "cbaddbaacdcdbcadddbccacbaadddccbacabbdacaccbbaaacaadbccacadadacdadcbcaccbcadddccaadaddccbdadcbabaadabbdcccbaaddbabbcbcdbcaaacabbcddcbcccaabaccbaabbaababcdbdaddbbcbddccdcbbbaadccdcabbbbbccdababbdcadabadcbcbdadcbccbcccbaccbbccdcdcbccaddbccaddbbdadbbcaaddadccbbccadcbbcacdcbddacadacdadcdcdbdbbcdddabbdadcbbadbaabdaacccddacbabdcbbcabcbabdacbadabadbbccdbadbabbccdabacdcbcabdacddbabdbbcdbadbddabbabcddadabcaaddaababaccdbdaababccadaddcabcbdcaabdadcadabdbadadabbddaabcbdaadddbcdbbdacddbdcbcdbdccdacbddcdbdcbbcbbaccabcddabddcbbaaaaddcaccccccdcadcaaccadcadbbcababbbbbaabaabbcbdcdbdcddccddcdaadbacbdaccaddbccdadbbaacdcbbdabcccaaddbdccccdabdcbddbabcdbbcbbdbbacaddbdbdcaccbadacdadbcdbda"
+        },
+        "output": 858309251
+    },
+    {
+        "input": {
+            "s": "cddcbddaacbdcdacbbabccaccdacbdcadccaccacadcdddbcadcaabcadddccbdadcdcdabcdadabaccbbbabbbdcddbabaacccbddcaacbdcbdbbbdbcacdbccacdbbcccacdaddacacccbdbbbbddbddbdbdabbcdbacdadbbddbbcaddacabcbbaddbcdcbcaaddddbcbdbbdccbcddbcbdbadbadbcaacbacadcababbacabbddacacabbddbcbccbadbaccbbccddcbdacacbdcacaaabbcccbdbabaabcadabaccdaccadcdbbccb"
+        },
+        "output": 744635336
+    },
+    {
+        "input": {
+            "s": "bbdbdbbdcabbadadcdbcdaacdbdbddcacbbaacabbdbcdcddbadbdcdccbccbbdccdccdbabdbcadaccccaddaccbcbbcdaacdbcacaacbdaabddbabdcadbdbdcccdccdbacbcaddacabcabdbdaddbcdccdbcbccbdaaaddabacbcabdaadcddddcabcacabbaddbcbcabaabacacaccbcddbccaaccacbcaacabcdaabdbbdbddabddbbddabbabacddcacccaccbdabdcbccaaaabaaccbbdaabaaacadacbbdddabbcacacddababcbdbdabcbbdccdcbcddadacbbdaccdbacadbbcbbadabdbaadcddcaaadccacbcccabcbbdadbbcdbcdcbadddcbdaaddabbdcbbccddbcdadacddaacbbdcbdccdcbcaccbdbabdabdadbcaddbcbcabcacbacaacbcdbbcaacbcccdabdcbabdbabccddabbaacabbbaaacccbdbbddbbcdcbcadcbbabbddcacdaddabcccdcbcccbabbcddadcbadbcdbcbdacdbbcdbbddddaaaacaadacabbccbdbcabbcbabcddcbabbbbcabdaabccabdcbbdbccccdccdcbabcacddaaabadcbcbdbdbcddbccdadccbbdbdabcdbcddcbbacddcbcaacacaccbbabdbcdbcbbcdbadcbdcbccddabbabccbdcbbbcbcbacaaccddbcbbbaadabcaddcbdacdddaabcdddbdaaacacbdcbadcddaddbcaacbbbdcbdbcdcdaacddcbdcaabcaaaccddbdbaabdbcbbdbbccadbcbdbcbdbaadbbbccdabddbcbaddaacbbcddccbcaccbbccdddccddbbcddcbabbaadabaccadabccacadbabacdcaabacabdadb"
+        },
+        "output": 759131601
+    },
+    {
+        "input": {
+            "s": "cabbbddcacaabbbbdbaaddbbdcbcabaaddbdbbcbdbdadacaadadbaacbcdcdcdcbcdbbc"
+        },
+        "output": 6961796
+    },
+    {
+        "input": {
+            "s": "bbcacacaaccaacaadbdabadadcbbdcbcdabbabbacdcccaadabbbcdadddadbdbababdaccdbadcaccddabdcaabbcabacabddadbccabdcabbbcbdabcabbdcddbcddaabddabdbdbaacddaddbccdbcbdddbcaaacabdadbaaabbcbaadaddcabbdbbdccadcddccaaacaacbdddabacbcacadddabcccacacccaccbcdabaaddcbdcbdbdcdadbddccdcaabcdcacabdd"
+        },
+        "output": 498820742
+    },
+    {
+        "input": {
+            "s": "bcbaacdcaabbcbaccadcbaabdbcbccbbdddaadcccbaccabbcbbadccddbcaabdccbcccdcaccbdabdccbdbbdbdaacdcdcaabbcdcdbdabddabcdcbcdadaaccddcbcdcdadabacbccbbbabbddccbabbcdcddabcdbbaadbbdccbdaccbdcabdaaddddcbbabcbddbbbacdaabccaaaaccabaabcabdbaaabcdccbbdbdbcdacadacdabbccddaabcadabbdaaddbabbaccaaccbdcdbddbcbcacdbdddcbccacdbbcadccdadcbabbbbcdcbbaddaababbbbdbaababbacbbaaaadcbccdbccbaabaaccaddadabbdcdbdbbdbadccdbacaacbbacccaabcddabaddbddbdbcbbcdcdcdadcbacdbdbadbacbcbdcdabbdbcccdbcabaaddaaabdbdacccdcdad"
+        },
+        "output": 537406077
+    },
+    {
+        "input": {
+            "s": "ccdcabbbdabddcadbadcbacabadcabbdbabbbcabbbbadccacbbcdcdadcdcddbacccacdaddabacabdbbcbaddcabccccdddbcaadbcddacadddbaddccaacbcddbdbbdbadadbcacbadaaddbbddbbadccadbcbbbbbdbcaababcbabdaddcabdcaabadbccddbbdbdcdabcaadcdccadbcadaddaabcccdaddcbbbdbcdcabbbbdddaacdaabdacadccabcccdddacbdaccacdcbcddbcbdbcdccaaaaccbdacbadabcddbabdcabcabacaacdacabbaabbdbadbabacbadccdbbbccadacabbbdaabcbbbccdbaaadcdaccbddacdddbbbbabccccdaabddbabbabccabadaaccaaabcccaccdbadaaabbcabdcdddadcbabcccbdcdcdbccbddacdddaaaccabbadccbacdbabbddadcabbdacdadcaababcdbacaabdbcbcbcbccdcaadacacccdcacaccdababdbdabbcccbbaadcbbabcaccbdcabcdccbcdcbdcdadbccbcbadcddcbcdbdaabaaabbcdbbabaddccdaaaddabddaadadacaabdbcdccccbcccdcaccdbdcababcadbcdddddaddacaadcddcacdbbbdcdaadabbbcbcbdddcaaaadabdcdddbbabbabddcdbaaaabcbcaaabcaaabbbbbcadbbdacbdcabdddacacabcdcddddcdcbdabbdbbadccbccbbabcdbadaaaddbbcdacdaddbdcdaaaaccaabcddbbbbbbaaddbbddccdcd"
+        },
+        "output": 722170166
+    },
+    {
+        "input": {
+            "s": "cacdaaabdbdbccaddccbdaaaabbaccdaacabcacbaababaaccccdcdcadbcdcdcaaadacabdcdcdaabcdbdadcaaabacbababcdcacabcdcdcdcabbabbbabdbabaacbdaccacdddadbdcaaccaccdcaccddaaaaddbbadbbbbcbccccdaacdaabdbbdaabbcabcbbcbbdccdcbacacddccaaaadbcacdccddbcdadddddddaaabcbabbcdbdbddcacdbddccabdbcdacbdcdbdadaacadbacdbadcbbbcbaacaaabddaadcdbbaacbadaabababbbbbccdcadbcdbcdbacbbd"
+        },
+        "output": 615260584
+    },
+    {
+        "input": {
+            "s": "dbccdcadcddcaadaaccccabaaadccbbdbcddddbbdacbdadbbdabbcbabbaacacbbdcbbbacbbcaacaacdbdabacaddcddacbcdbbdadcbdddacbccbccadcbdacbcddaaabccbcbbbbbaddddddbbddcbaddbccddabcdaccbcbdcbbccaddadccaccbccacadacaaaccdbdccdcbaabcddcbabcbabbdccdababcccdbdacaaadabddcdcaabbcabbcabccacddaadbadacddaacbcadabddbdadcbaaadcdaadacadddaaddbaabcbbcbcbcdccbbcabccbcabdbcddbdccbdddcbdbdcdabbacabcacddbbccbacdbbbcbbcbcbadbbaadcabbadaabcadbacddaddddcccbabaadddbcacbaacdcdbcacacccddaaddaaccdaaccbcadcabbdbacccbabadbbdabaacbddbbcaadaddcbaadaadbbbcbabdcbcbbcbdbbaaaaaacbdaaddcaacabcdbadbdddbcacbabbbbcccbbcbbddcdcdabcacbcdaabcabcacddbbaaabadadbbbbaaccbdddcbadaa"
+        },
+        "output": 676845252
+    },
+    {
+        "input": {
+            "s": "ddaaccadadcbdbbacccbbccccabadbbacbbaabbaadacaaccbbbbaacdcbcccbbbccbabccbaadacbaaccaabcdcabdbcadcdddddbacdbcdccbbadbdbadaacadccadbbadbbccdcaacaadbbabcbacaabcddbccacbcadbaaabbdabccadbadccbdcacdbcaadaaacdcaaabddbcdcbcaccdbccddbddcabadadccaccbcadbbccabdbbdbacadbabbdcbabcbddaabcdcdbbabdbddcacbbddabcdcdadddaacbbcacaca"
+        },
+        "output": 151874210
+    },
+    {
+        "input": {
+            "s": "dbcdcbdcddbaccdadcddbdaabaaacbcdacbacabdcbdbbbcbabacadabddacbbbadcaaddbacaaabcdccdbdcadaadddacbbcbcbdddabacbadacaadcdadcccabdabdacdbbabadabbdcbbadbbbcdcbdbdcbcbcdbdacddcabcbcabbdccdddbadacdbaaaabccccbbadbdcdbbcabcddcbbbcabdaacadabbdcdbbcacdbddaabbcddcaddadabbaaccaddcdabdbbcdbabaadbbdcccaaabdbadccdcacdbbdabacbaddcdacbcaacdaccdbbcabbcbabccdbddababbddacacbddcdacacbdbdacbdacabdbccbdabaaadadbbdbcbddcaaacbaddbcacdbcbdbcbbbcaaaabacdbdaababdcdcacabcdadbdadcababacbdadbdcccbcbaaacdccccbaacdabaccdbabadcdaddacbbdcaaaadabcabdacdbdbccadbbdbbddbcabcccccdbcbcdacdcbcccbbccbaadbdacbabcadadbcabbacaccaccabdacabcbcbccacddbccbdbbcdcbacbaacbadbbdaacddddccbacdaabdaacacbdadcaadccddbcbcaccabbdcacdaddadacdabadddbacaccbabcbbcdccaacbcdbaadcddadaccdbbcdaabaaacbdbacbabdadddaaddacacbcaadddbabbcdaaaadadbcdaddbabdccadadbcadccabcadabbacabbcbaacaaaacabddcbddcabddccbdcabdcdbaabbbccbcbcadaccbabaabadbbdadaacdbacbaacddcbbdddaddbaacbbdcbdbabcabcbccbbdcbbacbbdcbbdbdbacabbbdabdaaccbcdbbddabddd"
+        },
+        "output": 931184844
+    },
+    {
+        "input": {
+            "s": "aabbcbccdcbaddadbcaaaaddaacadccddaaadccdadbdddcdbabcbbdacbaababadbdcddcdaaccabddcadbbcdbccbcaccbaacabdddccadbcddbadabdaddbbdaaadabddcdaabcddbbaabccaaaaaabaabcbcacbddcdbadabbbadbacbcbcbcccbbbcdababddadcadbacbdccddcbdbdabbcbaaacdbbaadbaadcbbcbdbadbcdbcdaabdbaccbacaaabddabdcadddadbcabcaaabaacbdaadcaaacabbcccaddadaaccbbdcddccbaaaddbccabcabcadcbabbccbdaacbdcaabdbbacdbacaabbddaadaaccbdbdddddcabdaacddacccbccabadbcccbcaadabaddcccccacbcbccacdabacdddaaaaadbccaccdddcddcbcddabcdaacbabbdcbbbadaaddcbbaaacdbaccccddcaabbbbbcadbbaddbdbcdbcdbaccadbdbbaddbaacbbcdccacabcbcabcbacabddbaacabcdaaacdbadbcbccdcdbcbddddddbdbdccbbaacccdcddbcbabdcbddddcbabaddccbbdbcbccbbbcbddbdddacbbdabbdbadbcbabcdcadbbdbbdcbcbdadabdbaccaddbdccbbaabbcbbdcdbadcacacdacbbdbabbddbbdabccdacaacbbccdaaa"
+        },
+        "output": 501553480
+    },
+    {
+        "input": {
+            "s": "bdcacadbcbacdbcbccddcddcbaabbaaacbdbdddcbbcdbbddcabcdbcdbacdbcdbcadbbaabcbbccdbcacbcbaaabcacbacabadddaddaabdbacaddcdbddcdaccdccdacdabbadcdabdcbbcdccccacaadcccaaddcbadabcaabddabaccbdcbbccdadccbdbcdcbbbbbcdcdbbbdacabddcbababbbadcdcddadaaccabcbabdcaacdcbccdbdbabbdbcbcbaacadaacbcdadbdbbbdbbacbccdcbabbbddbcbcdbcaaaccbcbabcacbcadddcddaddbacacddcaadaddccbdbbbabbdadccdaaacdbbdccdabbadacabdabcdabccddcadaccbbdac"
+        },
+        "output": 563685592
+    },
+    {
+        "input": {
+            "s": "cbddabccbbbcbcdcbadadbcaaaccbdccbdabadcbddcdcadaaadccddabcadaadcdaaaaddaaccbddadbbdabdacbcabcdadaabccbbbabcabacbbdacbbddbbbcaddbabdbaababdcacbccddcbbadcbccbbccdbacbcabcbaddbadbbaaabacdcdcababcbccccdacdddcdcddbabaccdcacacadacaabdacbdbabbbcccccbabbccbdbcbbdddacddcaaacadcccbcccbbaddccabcbbdbaacdcdbcbabcaaadddabcbbbbaadcdccdaccadabaabbacdadddadaacabddcacaadcbaaccbccdaacccddabbadbdbaacacbdbcdbbbcdabadcddacbbddcdadbdcdbbaddadddbbcdddbadcdbaaadaaaadaacdbdabbcdddbcbbcaa"
+        },
+        "output": 956100034
+    },
+    {
+        "input": {
+            "s": "bbaaaaabcabbdccdbcadadaabbabdcbbbababbdcdbdadacadcdbbbbcabdddadbacbcaacbbcaaadcaabbccacaccccadabcdadaddbbbabbaddacccaadaacdacdabdaddabdcbcacbaddbccbcbdacccabdbccccbbabdaaaddadcadcdbbabbdaddcbabbcdbcbbbcccadabbcbcbbcaacadbbaacbcbcabbcabbabcddacdbdcabddccdcacabadaacbbbaaddbdbdacbddbbbcdccdcaadbabbdcbabadaddbdaadbddcadcacbcbbdacabdbdaabdacdccdacdadcaadaaccddacacadabcabbdcdadabcdccaabcbcaccccddbdcdcbbbcabaccccddaacddbabbbccacccbbcbbbdaaabdaaaccbaabdbbbcdbbacdcbcdddddcdcacdcabcabdbbacabccccbcdbdadadcbaadbcabcbccadbcacbcabddadbcdbcaacacdbaddcdddaaadbdaddbabbbddcabdddbabbdbbaaadccababbbaaabdaaadbbbadcdcdcdddaddbccadccdbaacbcdcdbcdccaddabddbddbdbdaacddacbbabdbcdcbcdabccaacccacbbbaddadccddbcacdddababbddbdcacaccddbddccbdbdbcbdccddbbdacaadccdcabbcdccbaabacacbadadbcaaaadacddacbcbacdacdadabcccbacdcbbaaabacddaabbccccbadbbbdaaccccdaccacdcacaadd"
+        },
+        "output": 485328655
+    },
+    {
+        "input": {
+            "s": "cdcccaaaaccabacababddcbbbddcadccdddbdadbacdbaaacacbccacbbcabdcbdacaacdaaabadabdbdcccdacaabbadbadaadaaacdcaaccdcdaacdcababbacbccbabbbcbcaaacabcccdccbddbbaaacdbdcbbcabcacbddbadbacdccdcadbccbaaacababbbdbabbbacabaccbaababbdccdbacbcacdaaaabdcaabddacaabddbacaacdcccccadadabbacccbcddccdadccabddcbbaaddacbacccbbcdaadcdabccaaadadbdcbbcdabccdbaacbacaadbbdadddcdaadabcaaacccdcdcccadbadbbacabbdcbcddcdbcdbdaabcadbdacadbd"
+        },
+        "output": 759867529
+    },
+    {
+        "input": {
+            "s": "dcdbdbabdcaccadaabcbbcbaadababbbdcadabbadadcbddadaadcbccabcbaddddcbbccdcccbdddcbccbabacbadbabbcbdddddacacacddbccadbbcdddacadacccbdcadaccbaabcabcbaadcabdccbddcabcbddddbbbaaacdacdbadbaaacbbbcdcccbadbbadcbacbadaabcdabbbadbacccbdabbdbcabaaddbbcbcdcdcabdacbacbbbaddbccccbdcacabbdddbbaacdbaccbbdcdbabbbabdaccdacdacdabccaacbadaabaabdbdccacdccbcabddaadbbcababadaaaddcdbcbdccddbddabbddbccaaabcbaaadaadbddcbaacbacaaabccbaaacdcdaabddbdadbdcbcdabbcaccdaaccbcbadcbcbabbccabddbbadccacabddabbcadcdddabccbbcbadaaccdbacacabaabdcadabbacbddcdbabddcbdddddddcbcdcbadcadacaabbbdcbccabcdaccddddbbbdaddababbbdaadbcacabbbbddcacaadbabbaadaacaabbbdcdcbbbcbdbacdacbacdabdabbdcab"
+        },
+        "output": 491804204
+    },
+    {
+        "input": {
+            "s": "bcbbcbdadcbccdbdadcdcdcdbbbabaacddadcaddaddcaabdaadbabcddcacdcdcddabbbbddbcadccabbdbacbdcbdaadaaadbdadbdddbacdcbabcabdbccbbcacabdbbabbbbdacbcdcbbcdddabcacacdabdcbcdaadaacddadddbdcc"
+        },
+        "output": 56979992
+    },
+    {
+        "input": {
+            "s": "bbbdbcdaccdabcacbcbbaacbdbcbabddddaaabdbdadcaaddddaadccdcdacccadcbbdaaacaabdbddcbbabadadaaddbdbdacbaaacaabaadacccbdbdbcddadbcacadddcaacbccbcdcdbccdddcbddacbcccdcdbadcccccabbaabddaaacbcbbbabadbaddcccadadcdcbbaccdcccabdbccccaabdcdccaadacddbbdbdadaadcabbacbdacbaabbaacdbdbbddccdacdbaaababcabbddacddbabd"
+        },
+        "output": 334478552
+    },
+    {
+        "input": {
+            "s": "abbbdbbdabdbcbcdbcaaadbbbccdbccbacbcccbaacbbcabbdcbaaaacbaddbdacbbbdcabaaabbdcacaccdbcbbbadaabbbbbdbacbdddadcadbddaccbcbbcbccacbbdccbbaacccadacaabadcaacadcdcacacbaddbcccbdadbbdbbacdcdbcdbaaacbadbcdccdbaddccdcdccddccadadddbadcaddabdbdadbccbdbcdbcbabcadddadcdcdbcbddbbaacaadcbacdbdbdbdccdadddbcbbbccbcbbdacaabcdbdabbcddaadaadddccbbcbcccaacbdcabbcabddabcdccbdcbacaddbccdbcbababcdddaccbbbdcacdacbbcccadabdccdddcdbacacdabcaacbcdcbabdddbcbbbaaccacbbbcbdbcdbcdcdbcdacdabbcbbbbbbaddaacddbbbbaabdacdaccaccddababdbbbbcbdadcaddbdbcbbccdcbcaaaddacdccdaaabcbbdcdbdbdddaabcbbddbadbcbcbcbadbaaabcccbcabcccbbddddaaacaabaaaabdacbdaadccbbdcacadcadbacacbbbcaadcddbccbcbbddbcbbbdaaadbabdbcbddcbcbbcbbdaaaaaabbbabdbbbc"
+        },
+        "output": 836150210
+    },
+    {
+        "input": {
+            "s": "ccacbbacadddbcbccbbccaacadbabccccbcbbdddbabdaccadcbdcbcdacaadcdbabdcabbbcdaadcadacababcdcaabbddabaaadcbbdadddcabcdbcaadbaddacdadddacadbcadddaacdbbcbccbdbdaacbdbcca"
+        },
+        "output": 185801665
+    },
+    {
+        "input": {
+            "s": "adbdbccacdacdbaadcabaacbabbccadaaccdddbabccaaddbdaccdbddcddadcbddcacbcdabcdaabcaacbacabdaddccacddabddabdabcacddccaacbdbddaddccdcbacdddbadadbcbdbbabdbccadcbdcddddbacbddcadcacbacdbdabbadccabbdabbaaccbdabcddacccaddacdcbddbbbbadbbabadbbbdcabbdadabbdbabccabaacddbbdddcdaabcccacddddcaccdbadcaadccdcbaacccbbdcdabbccbbbacdaaabbacbdddabcabdabcadcbacacbbdbbadaaaaaaabddaddddaadadbadabacdacdabdaddccbadadcacabbccdbbaccbbaddbaaddddadaddadbbadaddcdccdcaccddabbadcababadbccddccabbbdaacdddbbdcaadbbdacbacbadaccabaabdbdaacbcdcbbddcbdcaddcaddddbcdbddbaddcaaacaaadbadddbadacd"
+        },
+        "output": 203934882
+    },
+    {
+        "input": {
+            "s": "abccabbddccccadaacabcbbcabcbdddcabccddcbadbdcbaadaadbbdbddbbdbddddcbcbbacbdbdabcdadcaccbaddabcacbbdccdccdbbabbcabcdbcdbbbdbbccddabbbcdacacadaddadbdcaabacbbcbccbbddcdccdadadaabcddddabbbddbdabbbcbbabddbdadadcddabcaaacaacbacbdddcbdacadbcbacbbacdddabcbbcbbcadabdccaacdbbdcaadccdccaaacdaadadbaaababacdbbbdabdbbcaaabacbbdccdcdadcadccdcdbacdbbcccddbbcddabcdcccaddbcdadabdcbdbcbabcadaccadadaadaaddbcbbbbbadbabbaaacccacddacacbaadbccccbbaadcacbabccacdcccbbdcbbabbbabbdacdcdbbdccbbabadcbcddcabbddabaabadabadccbabbdadabddabcacbabdadcbbcdbababcbddcdbadcdbaabcadcdaabacdcdbcdcbacabbbbbdacadccbccbddadcbaadbcdaadbdbbcdbbdddcdcdcbdbccdacddadcbdaabbbadbccbbbbbdcbaccabbaacadbcdbbcccddbaccccdcabaacbcabddacbbcbdbbadbcbadbdadadcccdbcddadcadaabbbbadbaaddbcbdc"
+        },
+        "output": 635146195
+    },
+    {
+        "input": {
+            "s": "aaccaabdaabbaaabbcabbddbcdccbcbaaaadcaadbdabbbcdcccaabdabddcdbacaaadadbddcaadcccbbdadabbcdcccdcdacdaaabbacbdccacdabddcbaccdcdacbdcdddaaabbbcadbccaccaadacbdddbddbaddabcdbbaadadabcbbaddaadacdabbdccacccdacabbcdbdacababccbbadaadcbccadbbcdcbbcdbcadaacdabbacabbddbdbdcbbcdbbdcbdadcdaabaabaabaaaaddcdbdadddbccccbaacdaaccdacdddcaacbcdbdcddabaacbabcdaaabdbbadbcbccaacbcaacddcbdbcbcabbbdcadcbcbcaccdcabacaddbbaaadaabdbaabddbbabdccaadaccccabbaccacbbbbddbadddcdbdbbbbacabddbabdcadccca"
+        },
+        "output": 582597018
+    },
+    {
+        "input": {
+            "s": "adcccaabbadcdcdbbbadcdbcbdcccbbdaddcdcdaabcababacbadbaabdddccaacdadbcacabaabbabdbccabdcacaadaabcddddcbbacdbbabdbccbdbaddccbcbdcccdbaaadbcbaadbdbcdbabcbbcacbbbadadbcdbddaadaabdcdabaadbccccacbbcaababbadbbacbdddbacdcbabcabdabdcadacaadbbcdcbaacccacacbdbadaccbcccbbaacdaabdbbdadaadddabbddacbdbbaacadaaddbdbaabdadddacaaaabbbabcbccdbbaadaaabcddcbaaabddcabbcdaadadbdcbaddababdadcdcdbcdbaabbdabbcdcbabadcacdcbdabcabcdcdbcbbabaaccccdbddabbbcddcdaabdbcaadbcdccdadbbcbacccaddcacaaaaaadbcbbabaccccdcaaabdbbcbaacdbdadaaacdacbacbbaacbabcabbdabdacccbbccdaacbcdaabcdccaddcbbadddbacddccdab"
+        },
+        "output": 786808510
+    },
+    {
+        "input": {
+            "s": "adbddcbdacbbcdbacdddbaccccabcddbbccccccddaabddaabdbdcdadccdadcaccdccbcbdccdccaccaddddbaaaabdadcbccdccbaddaacdcdccddbbabbdcabbbbcdabdbcbcdbabdbacbcccbabaccbdbbdabdccbddbccaddcbbcdcddacccaccdddcdcddabddcccaabcbbdaddbcdbdcdbddcccccccddbdbacbcbdbbbcaccadaaaddbaddbcabcaadabbcbabcabbaadcbadbddbbccadbbaadcdccaaadcacddadbacbaabdbabbddaaacbbabbccbbadabbabdddbacdcccbacdbaadbcdbdabaddabbbccdbcdbdabbcacaaaacabdddccabdbabbadccddddddcaaddabbcbbbbdaddbaaacdaccaadaddabbddbcdbadbacbacacdbdbbaaadbccbbacbcccbbdbbaccbaadbacdbdcddcccddabbdccaaadbaaadaddacbaaabdcbbacacbaacddabbcdcacbccccabaccadbdbbaaabcdadaaddbccbcbabcdabdddbbdadaadacdbdbdacacaddcbaccbbbabdcbcaccadaddbaacbcdaccbcbbdcbddadbbadcaddddbbabaddcdaaacbabcdcddbcacccaadddddcdbbddabacdbdddacaccbaabadcbabbaaabaabccaacccddddbcccabcbaabdbdbacdaaadabbbdcdaccbbbbddabdbbbbbddbbccddaabdbbccbdcbaacdcadbccca"
+        },
+        "output": 474304895
+    },
+    {
+        "input": {
+            "s": "bacbdbdcbdbadbcbaabdaccddbaabccbdddbacabbccbaaacadacdbacacbcbbccabbbbccdbca"
+        },
+        "output": 72185969
+    },
+    {
+        "input": {
+            "s": "badaccaaaadcdaabdbaadbbdabcdcbddbcaabccaacbbcabbcbbcaaccccdbdbcbddabddbadacdccbccdddbcbbccbdbcbacbbcadabcadbadbcbdcccbbadccdaaadadaddabdaadccbbbddcaccbdacbbaacbcdccacbccdcccaabadbbbdcdaabbcbcddbddccbacccddbdabdbcbbaaabdbddbbbcbdbccdcdbcabbaaaacdbdbcaaaacbdbdaddabccacdcbbaacbbbdcbaaadacdbbbbbdcbcacaccbbbccabbbddbcccababccaaaddccddaaccdbccdcddcddcdbaaccbaabaabdcccbdadbabaabdbdcbbaabbbdbdccdbbccccddbdbaabcdcbbccbcabaddddbadbccdcabdcbbdccbbcaababbdcaaccaaccdcaaacbddbabaabccccddcddcbdbbccdaacadccbaaccbdbdbbdbdbdcbadcacdacacdcbadcacdaddbddbcaabbbbacbccdacaccdbbcbbaddabbcdcaadbbbaabcdacadacacdbbdadbabcbddadddbcdaaacbdbabaddbbaabacddddabccddbbdcbacbd"
+        },
+        "output": 885347148
+    },
+    {
+        "input": {
+            "s": "adababacbbaacdcbadcdcbdbbabdaaaabdbdddbddddaadabacaabcabacaabbaddadcadababbbcabacabbcdadabcdccbcdaadaddbdcacdaddcccadaaaacacadccbbbdccdacdcbadbbabcddbaaccbcdadcaabdacdddbbcbcaacbbcdbbaddcbacacddddabbababccdaacdadddbbdbabcbdbaccaacaabbacdacbaacbacbabbdabdddccdccabbbbdacdadccbbdaaaaaabdcabdbabdcbabbcaaccddbbbcadddcbdabadbbdaccaadccdadcdbaddbabadacabbacbaabdaacdbbbbbabcbcddbddaaaadbdbcaccabaaccdacdddcdbabcdadcadccdddacaacdccdbbcacdbcaacccdcaacabbdacadbdcdabadcaaadbacadabdbabcbddccaacbcddbdacbabdccaaadaadaaaaaaabaaaacdacacdbdaddbaabbcdcdcddbbcaddaabdcbbaccdbcaababaaabacccdacddbddbddcadadbdcdcdaadaacbddbccccdbcdbcacdaaabcccdacdcdcbbdbbcdacbdaacddadbcdcdddbcbaaccbdbbcaacacbccabbdbcdddbcbdbccbdddbcdccacaacaadbcbadcbabbcccddcccaccbdabdcdacccbcbdacbddcbaabcdcdbacccbcaadaddcdaaabacbabdbaccacdccdacbbdacaadaadcdbdbbddbbdcdabacaaddabbbcaadbcddbdbabadacdaabbdccbababbaccacdddccabbabcabbaabacbadbadcaccdbadcddcddabaacbccbcdcbddaacdaaaabbaaacbcdacaacdbb"
+        },
+        "output": 291486005
+    },
+    {
+        "input": {
+            "s": "bdccccbcbccabdbdcdacaabcbaaddababddbdabbbdbcddbababcadcdbd"
+        },
+        "output": 810564
+    },
+    {
+        "input": {
+            "s": "caddccacadbdacacabbcddadbcbcdbaaccacdacaababdbbdbbbddbcadbaccadbacabbbddacbbcbadbdaabcabcdddbbaaddaddbb"
+        },
+        "output": 759727124
+    },
+    {
+        "input": {
+            "s": "ababddadacbabaabbacdcddccacddcdaadcbbccacbcaabddbcaacacbcbbbdcbdcdacddaaabbcdcbccaacacdcccbdcbadbccdbbacabaadbdddcacabcccaaaacaaacccdddcbbdcdbcdaaacdacdcdacbbbbbadcdbdabbdcdbddacbcbbbdabdbcbdcbbbcdbcccaadbababbbbcaccddcdcabcdddddcaaccccbddadccadbdacdaaadbcdaccaaadaabdacdaadcbcadbcbaababbdcadcdbbcbacaaadbbdadadbccaadcacdcadaaaccbacbccbcdbdaddccdcddaddccccbdadcbadacbdddadccdbcdcadcddddaaabcdcbbcbabddacccdbacaccabcdbadbcddaaadbbdccccabcbbdcaaccbbacbbaabdddbcadccbcadcdbacabcaacbabdbbbdbccaccdabddcdbadcacdcadcbaccbc"
+        },
+        "output": 409531783
+    },
+    {
+        "input": {
+            "s": "ccaaccaadcbbacaadbabbddbabbbabbddcddabcdccbcdcddaabbbdbbcbbcbdcdadbbcaaadcddddcbbbdabbbdbaadcbdbaccdbaacddbaccbaaacacdcdaccbbadccacbabcbdbbdcaabdacdbddcdbdbaabdbddaddacaabbbdacdbdaabdddccccbccaadbaddadabbaccbcbbdcdbdcdabaddacacaccbcaddbdbaadccdcbdcdacaacdbabdbdbacdcaaacdabcdaadcccbbbdaabacbbcadabdccbabcbdcaabcdcdabdadcddacbdcdccbdbdabdddccadcbaccaccdcccbcbddabdcabadcbcbcdabbadbdbcbbcadacbacaaaaacadcdbdbbccccaaaaadbddcacadbabacaadbdccaddbbbdcdabdddcaabdacaaadcdcacbabaccbddccadaddadadcdcbcabadacbdbbdcddaacdbcbdabcbcdaabcbcbddccacdbdaadbcaacdcbdcbcbcdddccdbcccadcbcaaccbdaccaadbdbaaabdccaabdbbcabbddbadddaddbadbdabbcbcbcbbacbddddcbaaaabcbcbccaaacbaabcadcaadaacaccdbddadcaccacadbaadcbdcbcbddcbccbbdbbdccbdabdacdaadcaddacdaddbabbdccbbbbcaaacabcddccdabdbbbbadcaabdbbdbcbcbbbabbbdccccbbbcccdaaabbbacbbdcdddbbaaacdabbcdddbcdacdbaccadbbcccbcccadacbbdbbadcbddccabdabbbdcacddabdcabacacacdabdbdabdbcbdbcbcbcbbcdaaabccbbc"
+        },
+        "output": 414935889
+    },
+    {
+        "input": {
+            "s": "adcdbcbbdccdbdcdcbccbdbdbadbdab"
+        },
+        "output": 3458
+    },
+    {
+        "input": {
+            "s": "ccacdbadbadccbadabccdabadabbdadbcabdcbabdcaabbdbdcacdacadbbbbbadccbccdacacddcbacbacbccbcbddaadbddccdcdbcbbdbbbbaabbadbdbddbcadaacccbbddabacddddbaadbadcccbaddddacaaaabbbcabaaaaddaaaddaddbacbdacccbdbadcddbcccbccbdbdabacdadadbdbbaabbccdcbcbdddbddbcaaddcaccccbabcdcbaabcdbddbabdcacabdcbddbdabdbacbdacddbadabdbabcddccbdabdbabbdbbaaaaaabcadcbdcbdccaabbdbbddadadbbadcbcbcdccbacbddaacabadbadbaacdacabaddaabcbbccaacdbdbdbadbccbcdabbcdbadbcadbcccadcbcabcbabbabbbacdcdcdbadbaabbadcbaddaccacbcacbbaccdcadacaadcaccabaacbbcdcccdddabdaabdacbbadaccdacbdddabbaddacbacbcdcbcaabdc"
+        },
+        "output": 12888972
+    },
+    {
+        "input": {
+            "s": "dadbbadabadadaacaacbbcddadadabaacbbdcddabcddbbbcabcbadcdcbddbabbdabdbacdbdcddbbcbacdadbacdbadbbbddcacdacadbcdaaaacacdcbdcbdbbadcddaccaabbacabcacabcdbaacdbdaaaabcbbaaabaadaadcacbcaaadbbbcbcddbbcaaabddacbbabbdbacbbccddabaaddcadbcbdbccbcadcbdcdccbacadadbdcbdbaabccabddbdabacdabbccbcccdabbbaaccbcbadbbbaaddccbcbbdbabcdaabadbbbabccbdadbcaccbccacaccabdabaccbcaccaadbbcaadbaddbdbdbbdddbacbbcbdadabaadaddcbcccaabcbacabbbddcddabbcddbcdbbbcbddddbadccdbbdddabbbbbbdbbdbabbadadcddabaaaadcdabaabccabcdddcabacbbcccbcdccbacabcbcabadadcccacaccabcbabcbdcdbaccdcbacbabddcdcdccdbcbbcdccbbbcdadcbaddbbdababdbacdcacbdb"
+        },
+        "output": 446433852
+    },
+    {
+        "input": {
+            "s": "dbbdddacdccadbabcddadccbabdcbcacbdbbabdbdaadadacccccacdaadbcdacabddaacdcddaadcacccadabacaadaaaaccaccadabacbcbcdcbdcbadbaccbccbadbbbbdacdaabddcbaacccaccbdbabadbdadacaccadadccdaddbddbddbcdddadbddbcccdabddbabadaacdddccbcaacaccbbbcddcbcbabbccdddabdbddcccdaacbcbdadddcadcdabcdcbbcbcdbdaccdbcadbaaadbaaacadbdcbdbbcbbbaacdcaabbdbcbcadabcacdbacaaddadabdbdbcbbcbcdaddabdbadadbaddcdbcaccddbccaddcbcacddbabadadcdcdabddbadddbaabcadbdaccadbcbccbcbadadddcccccccbacbbacbcdadabacddbadadddddbbdadbbdbdcbbbdccdabdcdcbccbdadcddcaccdadacabbacadacbdbcabbaabbbcbcdaccbddddddaabdcaacacadbdccdbdabcaccbbbbccabcccaadadcadabaadbcdadccdcbacdbabadcdcdacdaccdbbbda"
+        },
+        "output": 21914558
+    },
+    {
+        "input": {
+            "s": "bacddccbadbabbbdbbddaabdabcabbcababdddbbdddcadcbdcdbbacbacaccbacaacaaaacaddcbbbaccaabaacdbbbbcdbbbbdcbabcbaaccbadddbcdddcbaaddcaaadbccbdbddadabadbaddabdbbdbaacaadcbbbdbcbcccbbbcbaccbdcdaccdbacccdadbaddaabdacbdcbcbddcdadcadbbbcacbdbacaaacdbcbbcccbcadadbdbdadddacccbddbddcdaadccdbadbadddbdbaddacaadbbabdcccdbddcbacaabaabccabdabcadbcbaabddaabddbaaccbacbabbcbbadaadcccbcbbcbcaaacabcadadcaadbabaacbbaccbdcdaadadadbadddddbcaabdbcdbaababcdcdbdadbcaacdbccacacbcbbbaaaacabcbadcdbabbabaacadbbcadcdadbdccccabadaaadcdbcaababbcaacbadcbbbacdbcdbdacccaddabdddcaccbbdbdaadddbadaddbcbadadadddabadbbacbadbaaccbccadaadacdbbabaccadccdcdbbadacbdcabadbaddbbcccacaabcccbdadaadcbbccdcdbcbaacabccbdbdcbdbddcdbabdcacbcbbaacabbddcaaabbbaabacadacbadccabbcbbadcdabdabdadccbcaabcadadbb"
+        },
+        "output": 445500739
+    },
+    {
+        "input": {
+            "s": "dacdbacabdccbbbabaacaadbcabcaaaccbbcbbdbbbbccddcabcadbdcadabcdaabaccdaacabcbcbbccbccadcbcdaabdaababbbadddbdcdabccdacaadcdbabbacddaccdaccccacddcaccbdbccadcdddabbcbacbbccbbaadacabcaadcdaadadababcbccdddaddaddcddacbcdbcbabdcdcbbcababbacdbddbbcacbdcacbaaabbabdcdccdbacdbcbdcbbcbcbbbcccacddbabababbaadbcccbbcddadacacacccddddbabacbacbadbbbabcdacbbcbcccdabbdbbdbaaccacdbbbbacdaaabbdadaccdacbbcdabbbdcbbdcabbadcbbdcccddccbdadbacbaacdcabbdcacbbbddaccdacdaaadbbcdcdbbaddbcaaccdbddabaddacaaddcddbbaacdbddcadaadaaacacadbdddcccabbbbdcbdcdbdcccaaddcadddadbbccddbdcbcdacbbcbbbcbbadbcbddacadbcdcddccbcababbdccdcbaadacabdbcdbdabcccabccbdbbbabaaadbdadbcaacdbaacbcdcbabdcaabbbbccbaacbacdadcbbaababccadcdbddbaaadbdbbadbcaaadcacdccdaadcabadacbadadcccaaacadbbbadcbdbcdbdabcaaccccbddbacadbdbbcaaddbcdcbbccbdacacbcbddaacbadbcadbdcddbbbccdaccadadccdddcdcdcbcabddabddcccadbaddcbbadcadccbadbcdbdbccabcacddbaccacbacbdaadaacdcbbacbbbbabbaccadbacdacbbbacdcbbddaaadacdbccbbacabdccddadacdbddcbcacbacadbbdddadaabaaadbbbadcbcdbcac"
+        },
+        "output": 909131449
+    },
+    {
+        "input": {
+            "s": "cbdbbdabbdccabadbbdadaaabdadcccabccbabddbcddcdddadacbcdcdbcbabdaaddaccdacccddaccaabadadbcacbbacaddadbaccbacabbbadacdbbdadabdbadacbccbcabbaaacbbdcbaaaacacddbadaaccdbccabaacbddcddbabaacabaadbdabaadacccccabacdbddbcadacdcccaaabddccadccccbbcadaacdbddbdaabacbbcacaacdbabaabaccabbaadbabdcbaaaddaccdaadbbbdaaabdabdbdcaaadbddbacdbacbcadbdbdaddadbbbcddbbcbdbacbbccbbacacdbacacbaccabdabadaccdbbcdbadbacddcdbacaddbabbddacacbadadcbda"
+        },
+        "output": 504941940
+    },
+    {
+        "input": {
+            "s": "adccbadddaadacbdbbcaddccdcadacdddbbbbcbcdaddacccbaacacabdcdbddbcdccdbabaaaabbccbadbdcadaaacaabbacaddbdbcdbdddbadadbbcbdcaccbcbcdadbabbbadbcdbdbbabacbcaaacaaddbcdabbccaabbabaacacabddcadabbacdaacccadddabdbcbbacdadcdcdccbbdcadaabbbcccaabbcdcacdabbcabbabcadcdddcbbabababcabdcadcaacbadbabbadabacadbbddcbbbbbcabacabbcbadcccdaccdccaddcabbbaddbddcabadabacddcdaccdcbdacddbbcdadbdabbcacaaccbabbaaccbcaaabbbdabbdacddddbdacabbdbbbdabacdaabacbcbadaaaddcabdcaccdacaaaabadcdbabcbaadacddababccacdccabdabdacdbadaabccdcbbddacddcdaaccbbbaadaaaabddcdaddcddbbcddccdcbdddabddacdcccadcadabcddadcdcaaddcaddadbdcaadbccbcacaabdbcacadadacbbadcadcbdacaadccccdadabacbbccbddcddddbccccbacbaddaddbbadcadcdcbcbcabbcccaabcdacababdacaabbbabdbccdcdacacdbaaadccbdadcbbcbcdcbdcacbbd"
+        },
+        "output": 474917204
+    },
+    {
+        "input": {
+            "s": "dbdccaaaaabbcdbbdbddbdabcdaccadabdbababcbcaacbbaddbcbdbdddbddbcbadbbcdbcddbcaabadccabbaaddbaabdbcbccddcdbcbddddabdddadbbcccdaaddccddcbdadcaaddcdabdcabaccadbcbabcaaaac"
+        },
+        "output": 519333247
+    },
+    {
+        "input": {
+            "s": "cbccadcdacaccbdbdcddabddcdcacacdcddbaacadcaabaababaaccbdbbdccbdddaadbbcdaabbadabbcddcaabcdabaadbdcaabcdabdbacabddacbbdaccaabcadcacdcdccdddbccdabbcddaadabaddbccacdcbdcabbcbdacacdabaadbbaddadacccdcdbcddacaaccbbbdddcbdcbabccadddbcdcaacaabbccccdacbbccaddcadccbabbcaacdccadbbbddadddababacaacaadabcacaddabacdaaadaccbcadaabbadadaadcdbbbcaadbbdaacddbcbaddddadbcddaaadbdadaacadbabcdadadacbbdbdddacdcdaacaacdbacbaabbbabbcccacaaacdcdcabcbdaddaddadadbcbcdcaccadadadcccabdcabdbacccbbcaaddabadcaaaddbcacadcacbacadbcdbccddbd"
+        },
+        "output": 9301853
+    },
+    {
+        "input": {
+            "s": "dcddbabacccabccbabcadaadddbcdbabbabaabcaabccbbddbddcdbacdabdbdbabdcacdabcabbbdbacbbbbcaccabaddacccbacbaaabcdcddcdcdbbcbcabaccaddbcdbbbdacdadbbcabbaababdbbbdcddbadbaaaaccacccacbcacbbacbcdbcadbcdcdadabbdcbbcbcbcbbbacbbacbdbcccbccdacccccbababadaddcaaacddcaaabdaabbabbdabddbdaddccbadaacdbdccaddcdccaccacdbaccccbababdadbdcacbacbdcdacaddbabdcbcbcccaadccbaaddacb"
+        },
+        "output": 195940821
+    },
+    {
+        "input": {
+            "s": "aacdaacdbbdcbbccccdaadcbcbddbabdddcbdaacbcddcdb"
+        },
+        "output": 86121
+    },
+    {
+        "input": {
+            "s": "cbcacdbacabddccabbadbbcccdbacbdccbbdabbbadcbbdbcbcbbbdadbdcbdcbaddabcaaacbbdadcacbcabadddbdbacadadbddbccdbcbccaaaabcddadcddacadcbaacbddc"
+        },
+        "output": 746371816
+    },
+    {
+        "input": {
+            "s": "bcdcdddbdbabbbbbbbadcdddabbbdcbaadddcddbabddcabadcbdcbcbbdbbccbbdaaadddbabaabbdddaadaaccddcadcdabbabacabbcadbcacdcaaacbddbcdbbbaabababbaaabaadcddcbcdcaadccbbcdcacdbcabcabbbaacbdddacdccdaabbcbbaaacbcccabcdacadcacbbddcbcadcbaaabbaadaddaddddbbcdaacbbddbcabcdbbccaadbdbcadbcdcbabdcddaaacdabcabbcbbbdcbcaccdabddbdbccbbdabbacabdabacaadabcbdcaabddddcbbabdcdbadacdddacaaaaaaacacddcababaadbdadcdcbababbdcbcdabcaaaacaccccbcdabbdbadacbadbbabababadacbbbbbcddaadccbcbdbddccdbdbacaaaacdbccbaccccddccdaabcabbbbdcacadcadcaabbcdbaccadbadbacdbaadbaacccadaababcdbdabdddbcbbabdbbddacbcadacdbcbaaacaddcdaaccacadccbdaaddacbadbacddabcbaacaabbdbadbaddcaaacaddcabdadbcabcddcabbcdccbaccdaaccdddadcacddbbddcbccaaccbdcbadccbccbaccdacbcbcddbcabaaadaaccaabcddddbdbbdabadcaaccccbcbbcccdacbadcbbdaaaddbcbbddcbddbbcacccdbddcdbd"
+        },
+        "output": 108255401
+    },
+    {
+        "input": {
+            "s": "cccababcaadbabdbabcdbcbcabcdabbdbaccddbddcccbbbcbadabdddcacdcdbacacccdbadadcdcaccaccacddaccabaddbddbcccabbccdabacdccccabccbbdaaaacccadddcdddaabbbbdcaccaaccbabbdaddbbdaabbacdbbbbbbbabbcadbadaacbacdcdcdbcbabdbcaccbdbdaadaaadbbabddbdbdbdadbcbcbcddbacaacacbddaaacddacdaadaccadcacbadcdaadbaaadacbdbdbbcbbcdbddddabbbccbdbacccdccbcccdbdabdcbdbabdcbcbdbdbcbadddbacddadcaddacadcdcacbaabacbbbaacdaddbdbbadbabccadabddaaadaacccadbaccbdaadbbbccdcaacadcaddbccbaabcacbdaacbaccdddddabddaabdcccadcdccdaadbbdabdaaabdaacbcabcdaddccabcaabbddccbadabdbbdbcbbbdaccaaacddbddbdcaadbccacbbadcbdbcbdabbbdcbbaaaddabcbdbacdacccbcddaccaaabccbadcbcbbdbaaabadbaaaaabdbcbcacdadbccbcacabacdaababacbbdcddbaaddcbdddaadddadbcbaabccbddaaaaaadbbaabacddabcaccccbdcbddbcbddacabac"
+        },
+        "output": 566349841
+    },
+    {
+        "input": {
+            "s": "abbbbbccaadbbccdcbaccdbddccdcbababcbbadcccdcdabccbdabdcdacbcbbabdcdccccbaacbbacabbcdddccdadddaaaadabdcbbbbddbaabbabdaabbaa"
+        },
+        "output": 906023387
+    },
+    {
+        "input": {
+            "s": "cbbccbbcbbacbcbabdddbcdacccddddaddcdabbacabccdbddcdcdbcdbdcdddadcadbdcbbbacaaccabadbadbadcabdaccccdddbbbbbdaddcabadbababaadcacacbccabcbcabdbaaadcdabbdbbcddcccdbdabdaabcbdacccdcbbdbadcccdcaacccccaddbaacdacbaabddbaacdbcdbdccddcaccbbcccaacccbdadcccbbbadadbacdbdbcbabcadcbdbdcdbabddcbcbdabcdbdcddaaaccddcaabccdccdbbbbccadcababbaddcbdaadcaaabababdbcacbcaaaaaacabdddadaacdbdcaccbcaddcccbccbdcdddabdcdacdabdccaadcaaaaaddadbdbadbcaaddbdacdadaacccdbabdbbaabbddabdddacbcdcacdbadbdcabddcaccbdabdbadaadaaccdbacbbccdbcbbbbdbbdcbbaabcbbbbcdccbbdabddbdbccbcaaddaadabbdcabdbccdcacdcbaccadaabadbadcddabccbccdadcad"
+        },
+        "output": 384472477
+    },
+    {
+        "input": {
+            "s": "aacaccadbaccaacacaaaacaccdcadbdbbdcdcccdbcacadbaacdbcadbdbdddcaabbddcbabccdadbdbbaacbaddaaccaadbabbbaacbbccabcabaccddbacdbcbddcbababbaaddacbcdbaaddcabaaddbacabdadbbddcadccbcacabadacabccccbacaccacdaabbcdaddbababbabcaabaaccddbdbcadcadbbcdcacbcdadccbbdbdbcdcccddbbdccaccddabadddbcccdcdacababbaacddadcacababbdbaccaacabddbcddbabbcbabaccbccdaacbdbdccdaabadcdcddddaadbdabbabbacadabcccaaaaacaabdddbdbbcdbbcacbddcadcbbddabdcbaaadabcdabbdddddcdbcbdbdcdbbdabdcbbadabdbaccdbababbbdcdbaaabcadabbdcddcbcbbbccbacbacaccaabccabbddcbbbccbcdadbcbcaabbbaccbcbbcccbbccbcdccdadacadcbbccdbbccacdbbdcdacccbdcbbcdaddabdcacdaaabdccdabcacadbcdadbaaaaddcdacdbbabdbacacbcdbccadbbdabdbcadacdaababadbbbaddcacbdcbaababacbabaaadbcabacdccbcc"
+        },
+        "output": 324458936
+    },
+    {
+        "input": {
+            "s": "aaadddccbdabaddcdccdaacbbaacaddaadbdadadccbbbdddbbdadbcbaadaacbcabdddcddcddaddaddbadcbaacdbadbcccccbcaddabadbdcbcdbccdbcdbbdabbaabacdcdcabadaddabdaacadcadbadbcbadcbbcbaddbdbbaaddadabcccadbdacbacbdabdaaaddaaaaacbccdbcaddaddbadaddacaaddcaaadaacacababcdadcbccbbadcbbcddbcdaadddccbdcabcccccbacccccdcdadcbddcbcbaaabdccccabcdbadbaccbbdadaadabdcabddcabdcbccbadbbbacacaaccaacbdacadaccadcaabbdbbdbcddaaaadbdababbcddcacadbbabcadccaaabdacacbaabbdabcbcddcbdaacbabaadddddbbdadcccabbacdccddcabdbddddcdbbccccdaadaccbdbadccbcbdddbdccadaacaabdcccdaabbbabbccaddccdcaacbcabcccadccacadabcdccdabbaaabcbbadcaaabcdaabacbcdccdbcacdabcdbdbaabdaadaccacaabcdadddabaccddbaabdccbaddbdcbcdaabdbcaaaddddcddcdbdcadcccadacccdcadcacdbbcbaccadadacccdcacdccaaddbbbbabaaabbdcdaaaddabdbacbccdaacdaaccdcbadcadbdacbbbabdccaacacbaaacbaabcbbdadabbbcadbbdbcacbcbcdbadcccacbcdaccadbaaabbbacbdadcaddbcddababccb"
+        },
+        "output": 175682097
+    },
+    {
+        "input": {
+            "s": "ddbdcccdabdddccaddcccadadbabacacbacaccaccbcddadcdbcdbddcdacabbaaaaababbcaacddbdaaacbbbdcbdadcbbabbbcbcbbaddbdbbccccacbacaddcdcdaccddcddbaaadcccbcaaaaabadccdcdaabcaddadcbcdabbcdbdcabdbaadcdbbdbbbacccadbbdbcaaadccbbabbbccaaddcdccbadddbbdaabcaccbcdbccccbdbcdbdacbbddbcadaddbbbcdacdacaaadacaabcacddbddbcdaabacaabdbdbbbdabbdd"
+        },
+        "output": 465953529
+    },
+    {
+        "input": {
+            "s": "acadaddaababdcbbbabbabacadacaddbcaccbbdabadabbaccdaaccbccdabbbcdabdbaaacabdacaccccddabcabbddaccbdacbdaaaaacaaccdbdbcdcacabdddbbbacbdbbbbcabddacddcddbabdcabdadcadddcdcbadbbbdddcdaacbaacdcaaccbdbcbdbdcddadacdababadcdbbdcbbbadddcaacaaadacaccabbcdbdabdabcabccaabdacdbb"
+        },
+        "output": 978264415
+    },
+    {
+        "input": {
+            "s": "aadadccabcdabcdadacbccbccabadcdbcdcbdbabddcbbaccddbbdbbacdcbaaddbddbcdcdcacbbabccaaacdcbaacccbbababcabdcabcccdbcacdbabbabdcccdadabccbaacbacbbcdaccdadcaccabaacacbbdbaccdbabbccaaddaddcaccadaccdcbddcacdcdaabcdddbabcdddcaaaacbbcadbbcdbaddacbcabddbcdbccaddbbbdabbdbbcdbdbadcacabacdbaccabddcdbbacadddcaaaaaadbaccbcacadccccacddaacbdaabcaad"
+        },
+        "output": 255641088
+    },
+    {
+        "input": {
+            "s": "daaadcadaacaaabcaaaabacdababdddbaccbabcbdcdacbcccdbacdbaabbabacadadbcbccbbbdaaacddbdcbbbbbdcaddacccdadbcbbdcdccbcccdabdadccdabbcbacdcacaccadaaaadccdacadbcbdbcdcdcacdbdbcabbbbcdcdcddcdabdbaaccdccdbdcbcdcdccaabbdbaabddddbbbdbadbadcaaddbdddbdadbcddbbbbdbcdcbcbdacccdbcbbbbbbddcaccdadbdab"
+        },
+        "output": 233121269
+    },
+    {
+        "input": {
+            "s": "bdcabdbcdcdbbadbaaddacbacdddcbaadcaacaabadccaabdbbcddacddbaacdbbcabdcaccbabaadaabcdbdaaddcbadaabdddcddbcacbdacaaabdacaadccdcdadcbbddadbbdccddaddcdadddabdccacbddacdaacbcbccbadabcccdcdaabddabcbabdcadddccdccbbbcaccadddddbcbcaccabcaaaabcacabaccbddacacdacbbdccdddbdbabdddddccdbacdbbcaaacdaddbaaadcabcaacadbbdadbcbaccbcdcabaccacaccacbcbbcccbdbaabcbdbcbcadabaadadadcbaccaabcbabcacddacdbcdbaadccbdbadddbdbabbadbdaabbacaaaabacbacaacadabcbbbdbddabdbcbababacdcababbabccaaaacdaccacadbbdabdcdbacaadbdcbbcaacdaadbddbacabbbbbdabaddadbdbdddadbdbaabdcacaaacbdcacbcdadcabccbcabdbdbdddbcabdbcdabadbcbcccaaaccbdaadbcadddbcdabdbabdbdadadcbadabdddcaddccadbdaadcabdbdbbdcbbcacdacdaaaacacdadccacabbcadabdbbdadcbacaaddcdcddbaaadcaadcbaabdccdcbbdcdcddabdccaaddcccbcabddaccbbbaccabbbcaabdaadbcbdaadccadbababaacccddbacbcabbbdadbcbadadcbcbdbaabbbccddccccdbcdbcbcdaddacbddaaababccacdacdbbcdaaacaacaccdccacdddcdbcbcbbaababdcdcbcacda"
+        },
+        "output": 354344974
+    },
+    {
+        "input": {
+            "s": "bcbacccdcaddddcbaccaadcbddccdbdacaadbcccbcabdcbdbcbbcbaabaacaddaddcaddababbbacaddcacaabbcbbcdccbcbdcaadbacacbaccabbbddccddbacddbcdbddccadcadbbdadaccadccbdbddddcdcbcbadbbdbcbadbcaaccbcabccadbbbaccdacacccddccacabadacadbdbdbdbdacbdbaaaaacdabbddabddadabbdbdcdcdcbbdaaccbacdcbaabdbbdddbdaddbaadddbcbbbcbdaabdddbddcbacbacadbdaadcddbbbdbcdbbbaccdbdababdcaabdbbdaadcccbdaabdbbbcddbcbdadadcabcccacbdbbcccacaccdccbcdbaaddbbddbcdacdadccddadbdcbabdabdaabdbbdbbabaadaabcacdcadacabdbaddcaaadbaacccaadbcdbbaaadacddbdcabbdabdaabaadccacaaaccadacbabcbadbcacadcdaaccbaabdacbaabdcddcababcaccacaaabbacabbdadbadbbccadbbabbbadbabacdbbddabbbadaaddbbaadacbcbdbdbbdacbcdabaddacabdbddbacdacccbcbbcbcbddbdddaacbaacaccdaadbddcdaacdccdaaaacddbbababccdbdbbccbbdacaabcbdbccdddacdbacaabdbcdcccbddbcbdbdddddcaabadccaccbcaaccacdcdcacdaccabddbcddbcbbdcddbdcbacbbaaccdbabbbdbbbaaaadbdbabbaadabacadadcaadbdcabbbaabdacbbcbdadcdacabdcdababcddacaaddabdadbbdbcbdaddabdbdcbdcabadaadbdbdaaadcbbdbbcbda"
+        },
+        "output": 195438054
+    },
+    {
+        "input": {
+            "s": "dabaaacaccacccbdaacacdcbaaadadaacddbcbdbbbcdbacbbbaabadacaaadbcbaddaccbdbbbcbacbcacdacbbaddbddacdccbdcacbacdaaacbcdadaaabcacabbacacddaacdadabdaabddcabccdbddbcbaadbbaacaadbaaabaaabacdaacaadaacabdcdcdabbbccb"
+        },
+        "output": 151882833
+    },
+    {
+        "input": {
+            "s": "bbaddbccdbcababdcdbddcaacdadcbbccdacbdbcbcdbacbdbcddcdcbbcaddadbddbbbabbcdacdadbdbdbcbabbbdcaadacbaccadadccdddbccaabcbccabdbbdcdadaabacbbaccbddbbcddcbbabadacbbaadcbbdabcbbcacdbbdcbcbcddbdbcbbccdacbabaaacacabaabbdcbbabaccccabbaccddacdcdababdcddbdcdcdddbdadddcdcaacbcaabdacabbcaacacaaaabbbbaddaccdcbdadbccaabadbaacdbdadcdbbabcacadbbacabcddabadaddabbdacabcdadbccbdbbadacbaccbccaabddccbccdbdddccadacdbacadccbbbcdabdadbbdacccaaacabababcbdcbbaabdaadacbcbbcadccdcdaddcaabbcdbcdadaddaacaddcbcabdbbcabbdccdccacbccacaddcabdbbbbcbbcabdcabddabcbcddcadaacaaabbcabdddacbccdaadabbbaabbdcaadcbabcacabacccccdddbabdbdbcabaccbaaaccbcbdcaaddabdbabbdabdaabdccbacdcccddcdaaaccddcbadccabccadcdbdadcbdbbdabcabdaccaddacbcaacbdcacddaaadbbcabcaccbcbbabbabadaabbcabdcadddabcdbbddaabcaaabdbdbdacaacccaadaaababacabdcdbdacddacdabbadbadadadbbbbcaccdbdbbdaaacccbabacccdccabcdbabbcabd"
+        },
+        "output": 890810436
+    },
+    {
+        "input": {
+            "s": "bdcbabdcaabbabbdbccacdcabddcbdcbddabbbcbbbabbbbcbabbcaaccadaaabadabccabddcdddbcbcaabaaccbacdccdabbdbbdabadbaacdabbcaacabbdadadcdddcdddcbaabadbdabaacbacdcaacaddbcdbcaababdddbadbcddbbaabcdadcbccbadabbcdbababbbdbdbcabcbbccbbdcddbbadcddbcccddabcbddbabbccbcadcdbadddbcddccddaccabddcbadbbcbdbdbaacacdbaadddabaccabccdaabaadcbdddacbcddcbdcbddbbddbadacabccdbaaadcadbdadccaacacddcdacabcacbbaabadcbadcacddbdacdcdbbccaaacacdcccaaabda"
+        },
+        "output": 291712844
+    },
+    {
+        "input": {
+            "s": "adaaabbdaabcdcadcaabdcbdcaabaddddbaadccadbaccdbcabcdcaabdddcbcccdbdbdaacaadbcaacdbabbdabbbbdabbdaccccbccccddcdcbcadbaccabdabcddabaddacaaddbbabbbabcaccbacbcaacbdaccbbaadabdadbdadbacdcaaacacbaabdbdbadcccabbcacdbccdbccbddcddddccacddccbbcdbaccddddccadcbccabbabadbdbcbddcddccbcccabdbcbcabbbbdabaaccababdcdbdbbadbcbcaadddadabdcbaddbbbacaacacabdccddbaadccbbacbcbbadbdbbdadbdaadcbaccdcacccadacbbdbaddcbbccaaaacbbdcaccdacdcbabcdcdbbbbbdcabddabacadaacdcccbabdddcdbccbbbdccdadbcccbdcddbbdbddbcdcdabacaabacbaddbdaddccbbcacdbcbbbadcbbaadadccaacddadabbccacdcdaaacbddcbccbdbcaacddacdadcdcabcbbaddaadbddbbbdbbabbadddbddbaaaddccacbdbbcddcadbdbddbaabcdbdcddbabdcbabdcbaabacbaccaabbaacccdbcddabdcaaaccdaddbcabacadbcabadbaccbbaccddcdaacadaddacbbdcbbbcbadcdcbacdcadaaabdddcdbbdaddadbcbbdadbbdaabcbad"
+        },
+        "output": 25683325
+    },
+    {
+        "input": {
+            "s": "babbcaaacdcbdadcbcabdaacdaddcbbdbacacddabbcacacaaccbbbacdaacbaacacdcdbdcaddbdbcdbbcdabbcaabdcdbbcbacdacddbccabdbbacddcadddcddbbaaacdcdabcbdcadddaadbcaaacccbdcaaabbbcacccccbdabdcdaabddcdcadaadcbccdddbddabbdbdcdadcdddadadadbbaacabdccadcdddbbbdadccaaaaabbcabbbcddadcdacdcdaaadccbadbacbbcdbaadbaaddddbadbabbabbacadabdaabcbbdccddbaabdcbbbddcadcacaadaacddaabbdabababccbacdacaaaddaddcdbbccdadabdbbbcbbbadcccddcccbdccbacbddcbbaaaaaccbaadaaaccbbcadddbdcbaabbdaaaddcabbadaadaccddadadccdddbaccdcaadbacbcdacbbabcacbbbbaaaddcccddcdbccacbadbabbcccadcabdbaabdcdccbdabcbbcdadddbdabbdcbbccbaadbbaddabcaccdcdaadbadbbabcbdcbdaadabcacbdcabdaadbdddbdaacddaccabdabdbaacbdabadcbcdccaaaabdbbddbadbbaaddbcaddcbdaddaacbdabdacacbabcccbaaaacaccbdaaacccccbcdbacbcbddcbcadabcdbdcabaadbadbdbabcccbcbddbaabddacb"
+        },
+        "output": 866609795
+    },
+    {
+        "input": {
+            "s": "adabdaabdbccaccdcbcbabbbcbcbadcabbcdccaccdcbadaddbaadbccaabcbcbcddacababadacdccadadddaccccdbcdbbbbbdcccadaadddcdacaacccabbbbdcbbcdcababaccaacadaddddcbcdcbdddaaabdaaabccdddacbcbccbbddaddcacabadadabcbcaadcdabbabacabdadabbdaacdacadbabbaccccdbcbdcacdbaddcadbbbababdadbcdcbdbbdcdddaaddddababbabccadacddcdcdadccdacccacabbcabbadacacddaddcaccbdabcdaabdcacaccaccdccdcddddddbbcbcbbcbabbcbdb"
+        },
+        "output": 72542918
+    },
+    {
+        "input": {
+            "s": "dbaadbbddddbabddbcadcbabdabbabbcbbdaaabcdbddacdccbaabcdbabbdbcdbcddbaddacadaddbdbacdcbacbdbacdbdacaabcaacccacadbddacdbdcabaaabbbcbbdbbddbcdcbacbbcbbbcabdbbacbadacdbbadadabbcbccaacadaabccbdbcbbbcbcbbcacaddabaadcdbabdccbcdbabaadbdbddbdbbdacabaccddababaadcaccabaccacbbbdddadbaadddabacdcccccabbbcbaaaabadbbccbadddcdbbdbaadbabbaaacbdcdcdbdcbddcbbdcbbcbacccadbbccccacabcdcbbcccdd"
+        },
+        "output": 506070670
+    },
+    {
+        "input": {
+            "s": "aadabcabaaccdcaacadcdacadbbdcdbbcacbbbdbbddbbccacbbcaacabbacbbdabdacdccaaccdbdcabacbaabadcabcdcaccdbacabbcabadacddcdbacdcccbcaadabcdbddcaacdaddcaadbbdbbccacaddcadacbcccbcdbcbcbaaababacdabaccbbcddabcddabbbacaccaddcbdacccaacaaccbdbbbaaadaacaaadbabacdcccbdccaddcccadadadbbdbdcdbcdcbcbabcbcdcbcabdcacdbdddbabbcbcdbcaacddcbbccbccbbddabcdcdadcccdbbbddadcccabcdcdbbadbaadbcbcaaadcbcdabaadabddbbbacdabadbdbbcabdaddddbcdaddbaabcadadaaaaadaddcabcdbdddccbdcbbdccadcacbccddbdbaadccccbcddcdcbcdcbadcaddbcdccacadbabddadcdbbdbbccaadbbccdbaccabbccabbadcabcabccdbcdcbddabcbaddabbbbaaddbdbdbababbdcaabbdbddbdaccbcbcaaadbdaddabbcbdaadbdbabcbdbdabdcbbbaadccbcdabccbdbbaaadbaacddabacccaaacacdbdbddcccaccdaaababadaacbcacaccccabbcdbcdddbacbabdcbbabbbaaadbdccdaabbdacdbadcaadbbbdabbaddcbbdadbcbbddbabdaadcdcadacddcadcccdccbcbddacabccddabdbcbdbcabcdbaadddcabbadaacbbbcaddadbdaadddd"
+        },
+        "output": 266049124
+    },
+    {
+        "input": {
+            "s": "aadcaddbacdcbbddcabcdcdbbcdac"
+        },
+        "output": 3997
+    },
+    {
+        "input": {
+            "s": "abaadabcabacaabbdabaabadcdcbdabbadbaaaccabcbcdcdbbdbcbcbcbdac"
+        },
+        "output": 992721
+    },
+    {
+        "input": {
+            "s": "cdaacbcbbbcbbcabdbbdccbcdccdcacacddcbbbcbbcbddbacaabddbabddbbcbaccddcaaccccdaaddbcacddabcbcbbbacaaaaaadbcddadcdacaaabddbbddaacadbbcaadcccbcdbabbaabdcadaaacbcddaacbaddacdcbbcacdcabbccdbcaabdcbbccacbdbbcdbdcaadabbaabcccddaadaaccdbaccadabbbbdabbbdaccacddbaddbdcabacababbcdddddacbaadacdbccdcbacdbaddddbaaabcbdabbcdbdbaacccdbcdcddcbbcdaccccbdddcddbcbabadacabbaccdbcdddadcadaaccdacdbacdcbdcddcaabdccbbdabdadabbccbcbcddcbcaadadbacaccbbbdcddbaaccdbaddcabadabddccbbcddbdbbabaadcdaadbabddcddcabacbdadcaccddacaaabdacddadbbaaacbcccddbcacaddabbaaadbdcdccbdaabacbcbbabdbcbddbbbabbdcdaabbccabdabdbaddacabdcbaacabdcdabbbcbdadbcacdcabbabaddcbcbaababbbcbdcadcbddbcccbabacbbbcdddabdcdcbbcbcacdcabdadadcdddbcaccdbddcccaabaccbcdddddcbbdcccabdadccacdbdcddbbccccbdbaadbcaccabbbdaccbbcaaddcabadcdcbacaccbcabcddccacddaadababbabbcadabcbcdddbababdbaaaadbdbaacadbbaaccccbbcabbadddabcdbdcbcabacdaacddcbdbdacdcbdcdbddbdbbcabbbbddbcdabbbdbdacbbddccbaaaadcbccbdbadcacbaccabbdbabcdcbbbcacbdbbabbdaccdbcdacaddbbcaabbccacccaaa"
+        },
+        "output": 295732914
+    },
+    {
+        "input": {
+            "s": "adccddabdccddcbbadbccbacbcdddddbbcbaddcbdaaacdcdabdddacdbabcbcaaadccbccbdaaccdadbddcadbddddacdaacdabdbdbbacbabdaacdbccdbdbcbbbbbabccadccbabbbbdddddbbccdbcbacbabcdcaddcaccaadacdaabadaaddbbddcacdacddbaadadbcdcbdaaadccbccbccbdbcccaacacbddcadadccbaddcdbcbacdbacbadaacdbaacdadcacaadddbcaacbabacbdbbbcbcbabdaabcabdbbaaccaccccbcdadacaaccbdaccdbbbabdabdbccbacdbcdcdcccdabdaabcbdbdcaabaadbdabaadcdccbabbaabdbadddbbabbbabaccbbdcbdbddcaccbabddbabbdbdaabddcdccdcadabdababbcbcacaacccdcddcdddaddbbcdbcdaaacabdabdbbadddaaccdddddbcbaacdaacbabbadacdabadcabbcbbcadaccdddcaaaaadddccacbabcabaabbdbdcdbbcaacdcbbccadbdaadbadddacccbbdadacadcbacadccdccbcaabbdbbcdbadadacdaacbaccbbbddcbcacdcccbbcbabcbcdbaaababbabbbabbcdaacdcbdcdcdbcabbadcbbbbacdccaaacacdaabdadcbdacccbdcddbdaccdcccdabcbdbbbcababdbbccbccbabbcaaddadbcddaacccccccddcdcdacbbbacadaaaabaabcaddbddbccbdcbcbcdcbabdaabcaaccaacadbddbcaabbcabbcddbacaadccaa"
+        },
+        "output": 671719893
+    },
+    {
+        "input": {
+            "s": "acbbaabbcaaaadbdbcbcdbaacabbddabacabbaadacabdacdcadaaaccdbbbccbdaccdcdcdacbcbdbcdddbddbccbdddaacdaacacccadaadcaccbaacaacabadcbbababcacdbdabbccdaabaadcbccadcadddcadbdcbacadbabddbabcadcadaddcccdbbdbacbababbaabbabbad"
+        },
+        "output": 978668047
+    },
+    {
+        "input": {
+            "s": "bddacbbbddbabcaccaaddddcdbaaabdbccdddacaddacdbdadddabdbcccaccddaacacadbcbbacdbbabbdcadaacdbdaddadcddaaacbcaaabdacabcbbbbcbcccbadbcbdbacabbdbcdadbbbabdcacaababbabdbbdbcddddbbbbaabadbadacbabcddbacaccabbcaacdccbbbacacbaaddddbdabcbdcbaccdaadbccbabcadddabcdcaccbaccabdcdddccadcbcadcaccdadabccbcabdcbaddbabdacbdadcbbbcdddadddcadaabbcabacaacddcbdcbbddccabcdcdbbcbaaacdbabdacbdbaacdabcddbdddcaadbacdcdbcabdddbbcddaabcdbadcccddddabaadcdbdcbcbbdaddadbbcacbbcacaadadcdabbaacaababdbbddcacdbabdcdaacbacabccabcbcbbbcbcdbdbbbccdbbddacbcdcbacbdadadbcddbdaabddcccacbdbbabccadacabdddbdaccbabbddabbdaacabaadabbcbcadcacbcacbcdbccacbddbaadaadbcdaacaadbacb"
+        },
+        "output": 172617987
+    },
+    {
+        "input": {
+            "s": "abaaccdddbdabdccdbdacdbaddcdacddaacdaaaacbacdccabcaaadddbbbcabadcccdacbdacdacdacccbaccccccbdacadcacdaabaccadcdadcbbbabbcbcababaaddbdcdacaaccabcdcdbdbbbabdddddbadcbdadbcabbbacadccbddaaadcbcbabcbbddbaadcbacddabbdcbbbcbdadcacbdbbadcdadbdbaacbaacdacacdcdcbbdcacbbbabbcdcbbdadadacacdabcabddacccacaabaacaacbdaabbcbbadddacaaabbacaaaccabadaccbdddacbddc"
+        },
+        "output": 28662118
+    },
+    {
+        "input": {
+            "s": "bcaabbbcadbacccadabadccaacbddcacdbbaaaccabcbcdddaccdbcbddbabcadddbccadccbbacbcdadddadddcababcdddccdbcdcdaabdbbccaabaaaadabbbdccdabadbcbcdcdababcdbacacdbaabbabcaccaddaddcddaadbaabbbbadbdabbdcbddddcbcdbbdabbdadbbcaaccdcddaabccbcdcabacacbbabdbbccabccccddabcbabccadaabcdbbaabaccbbcbdbdccabdcacdcccaabdaddbcbabdcbdadcabacacbadcabdadbaddccdcadcacccacadbbaabacdcaadccdbdaddabdaadbadadabccccbdabcdcacabbbdadcabababbccbbbacbdaabcbdabbbbbbcdababcdccaccadadabcbabdcdabbacdacdbdadadbbdbacbbbcbaaadddcaadcbcbcbabdaabbbbdbdbaddbbbcdddbcdddccdcadbcdaaddbacbdddcddaabdccbacaadadbdadd"
+        },
+        "output": 975185839
+    },
+    {
+        "input": {
+            "s": "dddbdddbaccbbdbbacacdbadacdddbaddbaccdcacadccadccaccdbbcaaddbdcaacdabdcbccadcddabcdabbadddcabbcdcdbbbaaccbacbacacdcacdadbddbcdccbcbcbcbbcbddcdbdbdabacbcaacddcbadabddbdccabcddabdddcdacabbcdaabdadaccbdbdbdabddcacaaacccbcbdabbddbcddcbabbbacccddcccdadbbabcbbdcbdbbcdbcdabddcadcdabacdcacbcbcaddcaccdbabdcbbcbdbaddcdddaaccabdbdaccbddccbdbbdbabccdbdddccccaabacaccbabccdbdbcabbbcdddadccaccbcbbabbabdbaccdcadbacdcccaaadddbccdcaccadacadddcdaaccbbccbbaabcbbddcccccadcbdbbdaadbbdadbddcbacabcaacdccbdcbcadacddbdcdaccbbabdcbccacdacdddbdbdaddddccabcbcbcbbacbccdccaaacdadadabacbaaabaadababddddabbbbcacbcddaaababddccdadbbbdaaddadcadccbcccccaacdadaaabbbccddadddbcddbbdacbaaadbddcadcdcbcdddcaccbabdccaacbbdaccbcbcdccbdaaddbbcddacddacdaddbbccdadaaaacbccccddcabdccdaaccacaaabbacadadabddcdacabccdbaccbcdddbcdadddaaaddcddbcadabcdaabbdaadacdabdbccbcdaccbadadcdabbcaabcccab"
+        },
+        "output": 387053054
+    },
+    {
+        "input": {
+            "s": "cdcbaacccdbcdbccbabdabaacbdcaaacbcdaacabacdadcabadbcbbabcbbadcdaaababcdabdbcbddccbbbdddacbadcbbdcccbdacccacbdcdcbacccdcaaaadbdadbdaabcccccacddbbcbacbddacaddadbcdcddbbbcdcabcdbaccbabdddcccdcdccdababdbcbbbadcaacdcbbdbccccbcccaabddaaacaccaddbddbbbccbadaadccdbacdadadabcdbaabacdadabccaddddbccdbbccbbaadacbddacddbbdcabcbdbaacadaccdbdddbbccadcadcaccdddadbbbdbcadccadcbcdbdbaccdcdcbdddcbbcbbabaccdaddcbacbcbcacadcbdbdacbcadccbccbdacdabbbadcdadbabbccaabccabdabcbabdbccbbddccaddaaabccdbbadddaaccacdbbdacabccddbccbcaabcddddcadcdddabcbcadbbbcbaacaaadbcbacbbcbbcbdcadbbbaacabbdaaabccabacadacdbcdaddbbdccbacabccabcbaddcbccadbcbbbcdaadddacbbdcbabbaacbaaddbbbdbaccacaadadaddcdcbdbdddcdacdaddadbdbbbbbbaacbcdcdbbabddcdcbbaabdcddbbdcacbddbdabcccbdccbccdabaabbdbdcacdbccaacaaaaaadcbbcaadcccdaadddabcdcbbcbdaabdcaaaabbdbdbcaabacacdaaadaccdcdccddc"
+        },
+        "output": 349798653
+    }
+]

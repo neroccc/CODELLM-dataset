@@ -1,0 +1,302 @@
+[
+    {
+        "input": {
+            "n": 209
+        },
+        "output": 20
+    },
+    {
+        "input": {
+            "n": 498
+        },
+        "output": 32
+    },
+    {
+        "input": {
+            "n": 908
+        },
+        "output": 43
+    },
+    {
+        "input": {
+            "n": 617
+        },
+        "output": 35
+    },
+    {
+        "input": {
+            "n": 296
+        },
+        "output": 24
+    },
+    {
+        "input": {
+            "n": 253
+        },
+        "output": 22
+    },
+    {
+        "input": {
+            "n": 720
+        },
+        "output": 38
+    },
+    {
+        "input": {
+            "n": 807
+        },
+        "output": 40
+    },
+    {
+        "input": {
+            "n": 924
+        },
+        "output": 43
+    },
+    {
+        "input": {
+            "n": 133
+        },
+        "output": 16
+    },
+    {
+        "input": {
+            "n": 121
+        },
+        "output": 16
+    },
+    {
+        "input": {
+            "n": 584
+        },
+        "output": 34
+    },
+    {
+        "input": {
+            "n": 723
+        },
+        "output": 38
+    },
+    {
+        "input": {
+            "n": 903
+        },
+        "output": 42
+    },
+    {
+        "input": {
+            "n": 234
+        },
+        "output": 22
+    },
+    {
+        "input": {
+            "n": 358
+        },
+        "output": 27
+    },
+    {
+        "input": {
+            "n": 496
+        },
+        "output": 31
+    },
+    {
+        "input": {
+            "n": 204
+        },
+        "output": 20
+    },
+    {
+        "input": {
+            "n": 355
+        },
+        "output": 27
+    },
+    {
+        "input": {
+            "n": 689
+        },
+        "output": 37
+    },
+    {
+        "input": {
+            "n": 202
+        },
+        "output": 20
+    },
+    {
+        "input": {
+            "n": 329
+        },
+        "output": 26
+    },
+    {
+        "input": {
+            "n": 185
+        },
+        "output": 19
+    },
+    {
+        "input": {
+            "n": 645
+        },
+        "output": 36
+    },
+    {
+        "input": {
+            "n": 569
+        },
+        "output": 34
+    },
+    {
+        "input": {
+            "n": 198
+        },
+        "output": 20
+    },
+    {
+        "input": {
+            "n": 763
+        },
+        "output": 39
+    },
+    {
+        "input": {
+            "n": 742
+        },
+        "output": 39
+    },
+    {
+        "input": {
+            "n": 113
+        },
+        "output": 15
+    },
+    {
+        "input": {
+            "n": 313
+        },
+        "output": 25
+    },
+    {
+        "input": {
+            "n": 772
+        },
+        "output": 39
+    },
+    {
+        "input": {
+            "n": 474
+        },
+        "output": 31
+    },
+    {
+        "input": {
+            "n": 259
+        },
+        "output": 23
+    },
+    {
+        "input": {
+            "n": 856
+        },
+        "output": 41
+    },
+    {
+        "input": {
+            "n": 882
+        },
+        "output": 42
+    },
+    {
+        "input": {
+            "n": 575
+        },
+        "output": 34
+    },
+    {
+        "input": {
+            "n": 158
+        },
+        "output": 18
+    },
+    {
+        "input": {
+            "n": 840
+        },
+        "output": 41
+    },
+    {
+        "input": {
+            "n": 442
+        },
+        "output": 30
+    },
+    {
+        "input": {
+            "n": 426
+        },
+        "output": 29
+    },
+    {
+        "input": {
+            "n": 205
+        },
+        "output": 20
+    },
+    {
+        "input": {
+            "n": 153
+        },
+        "output": 17
+    },
+    {
+        "input": {
+            "n": 71
+        },
+        "output": 12
+    },
+    {
+        "input": {
+            "n": 282
+        },
+        "output": 24
+    },
+    {
+        "input": {
+            "n": 665
+        },
+        "output": 36
+    },
+    {
+        "input": {
+            "n": 994
+        },
+        "output": 45
+    },
+    {
+        "input": {
+            "n": 868
+        },
+        "output": 42
+    },
+    {
+        "input": {
+            "n": 418
+        },
+        "output": 29
+    },
+    {
+        "input": {
+            "n": 512
+        },
+        "output": 32
+    },
+    {
+        "input": {
+            "n": 154
+        },
+        "output": 18
+    }
+]

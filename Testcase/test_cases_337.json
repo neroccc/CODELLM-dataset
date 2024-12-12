@@ -1,0 +1,1539 @@
+[
+    {
+        "input": [
+            18,
+            36
+        ],
+        "output": 36
+    },
+    {
+        "input": [
+            42,
+            1,
+            null,
+            30
+        ],
+        "output": 72
+    },
+    {
+        "input": [
+            17,
+            41,
+            null,
+            null,
+            5,
+            50
+        ],
+        "output": 91
+    },
+    {
+        "input": [
+            7,
+            44,
+            12,
+            15,
+            30,
+            null,
+            null,
+            34,
+            47,
+            46,
+            null,
+            null,
+            null,
+            4
+        ],
+        "output": 183
+    },
+    {
+        "input": [
+            33
+        ],
+        "output": 33
+    },
+    {
+        "input": [
+            31,
+            39,
+            28,
+            null,
+            38,
+            28,
+            null,
+            45,
+            null,
+            null,
+            35
+        ],
+        "output": 147
+    },
+    {
+        "input": [
+            8
+        ],
+        "output": 8
+    },
+    {
+        "input": [
+            9
+        ],
+        "output": 9
+    },
+    {
+        "input": [
+            21,
+            30,
+            44,
+            49,
+            18,
+            null,
+            null,
+            21,
+            null,
+            null,
+            null,
+            null,
+            23,
+            28,
+            null,
+            25,
+            19,
+            35
+        ],
+        "output": 188
+    },
+    {
+        "input": [
+            46,
+            null,
+            9
+        ],
+        "output": 46
+    },
+    {
+        "input": [
+            26
+        ],
+        "output": 26
+    },
+    {
+        "input": [
+            38
+        ],
+        "output": 38
+    },
+    {
+        "input": [
+            14
+        ],
+        "output": 14
+    },
+    {
+        "input": [
+            33,
+            41,
+            null,
+            1,
+            38,
+            27,
+            null,
+            null,
+            null,
+            23,
+            14,
+            38,
+            44,
+            null,
+            null,
+            null,
+            null,
+            23,
+            null,
+            null,
+            12,
+            19
+        ],
+        "output": 199
+    },
+    {
+        "input": [
+            31
+        ],
+        "output": 31
+    },
+    {
+        "input": [
+            19,
+            null,
+            43,
+            41,
+            22,
+            null,
+            null,
+            38,
+            null,
+            47,
+            1,
+            25,
+            null,
+            null,
+            null,
+            45,
+            37,
+            null,
+            null,
+            34
+        ],
+        "output": 212
+    },
+    {
+        "input": [
+            50
+        ],
+        "output": 50
+    },
+    {
+        "input": [
+            23,
+            41,
+            22,
+            null,
+            3,
+            null,
+            null,
+            24,
+            null,
+            28
+        ],
+        "output": 91
+    },
+    {
+        "input": [
+            28,
+            null,
+            24
+        ],
+        "output": 28
+    },
+    {
+        "input": [
+            0
+        ],
+        "output": 0
+    },
+    {
+        "input": [
+            1,
+            50,
+            null,
+            null,
+            34,
+            null,
+            20,
+            28,
+            47,
+            27,
+            9
+        ],
+        "output": 133
+    },
+    {
+        "input": [
+            15
+        ],
+        "output": 15
+    },
+    {
+        "input": [
+            33,
+            18,
+            30
+        ],
+        "output": 48
+    },
+    {
+        "input": [
+            23,
+            1,
+            38,
+            8,
+            null,
+            null,
+            null,
+            8,
+            40,
+            null,
+            22,
+            null,
+            null,
+            null,
+            50,
+            null,
+            12,
+            31,
+            9,
+            48,
+            49,
+            null,
+            null,
+            42
+        ],
+        "output": 243
+    },
+    {
+        "input": [
+            11,
+            31,
+            null,
+            37,
+            null,
+            37,
+            29,
+            34,
+            null,
+            50,
+            null,
+            null,
+            null,
+            39,
+            null,
+            null,
+            45
+        ],
+        "output": 177
+    },
+    {
+        "input": [
+            4,
+            50,
+            null,
+            49,
+            42,
+            null,
+            44,
+            18,
+            null,
+            30
+        ],
+        "output": 125
+    },
+    {
+        "input": [
+            32,
+            49,
+            27,
+            8,
+            39,
+            null,
+            null,
+            null,
+            null,
+            null,
+            33,
+            17,
+            40,
+            15,
+            38,
+            null,
+            null,
+            14,
+            24,
+            null,
+            null,
+            20,
+            2,
+            null,
+            null,
+            0
+        ],
+        "output": 203
+    },
+    {
+        "input": [
+            31,
+            15,
+            null,
+            20,
+            3,
+            49,
+            null,
+            12,
+            27,
+            22,
+            null,
+            37,
+            null,
+            34,
+            48
+        ],
+        "output": 202
+    },
+    {
+        "input": [
+            48,
+            40,
+            30,
+            17,
+            null,
+            null,
+            null,
+            18,
+            46,
+            null,
+            49,
+            null,
+            null,
+            16,
+            null,
+            5,
+            36,
+            null,
+            null,
+            null,
+            12,
+            33,
+            26
+        ],
+        "output": 265
+    },
+    {
+        "input": [
+            49,
+            32,
+            null,
+            27,
+            33,
+            23,
+            null,
+            null,
+            null,
+            24,
+            null,
+            28,
+            33,
+            null,
+            43,
+            null,
+            null,
+            20,
+            11,
+            42,
+            43,
+            null,
+            null,
+            null,
+            16
+        ],
+        "output": 270
+    },
+    {
+        "input": [
+            44
+        ],
+        "output": 44
+    },
+    {
+        "input": [
+            42
+        ],
+        "output": 42
+    },
+    {
+        "input": [
+            45
+        ],
+        "output": 45
+    },
+    {
+        "input": [
+            35,
+            20,
+            null,
+            31,
+            20,
+            42,
+            null,
+            null,
+            null,
+            38,
+            14,
+            null,
+            43,
+            null,
+            null,
+            null,
+            48,
+            12,
+            null,
+            38,
+            1
+        ],
+        "output": 225
+    },
+    {
+        "input": [
+            10,
+            13,
+            26,
+            7,
+            23,
+            null,
+            null,
+            null,
+            null,
+            43,
+            50,
+            49,
+            19,
+            null,
+            null,
+            29,
+            18,
+            null,
+            null,
+            35,
+            null,
+            null,
+            null,
+            27,
+            28,
+            42
+        ],
+        "output": 249
+    },
+    {
+        "input": [
+            12,
+            23
+        ],
+        "output": 23
+    },
+    {
+        "input": [
+            23
+        ],
+        "output": 23
+    },
+    {
+        "input": [
+            0,
+            null,
+            26,
+            8,
+            37
+        ],
+        "output": 45
+    },
+    {
+        "input": [
+            29,
+            13
+        ],
+        "output": 29
+    },
+    {
+        "input": [
+            43,
+            3,
+            19,
+            10,
+            null,
+            null,
+            null,
+            47,
+            6,
+            null,
+            null,
+            7,
+            36,
+            null,
+            5,
+            null,
+            8,
+            null,
+            null,
+            43
+        ],
+        "output": 176
+    },
+    {
+        "input": [
+            20,
+            34,
+            13,
+            null,
+            49,
+            null,
+            null,
+            37,
+            26,
+            42,
+            26,
+            null,
+            null,
+            null,
+            26,
+            null,
+            null,
+            38,
+            5,
+            null,
+            null,
+            23,
+            5,
+            35,
+            7
+        ],
+        "output": 226
+    },
+    {
+        "input": [
+            0,
+            2,
+            43,
+            null,
+            null,
+            null,
+            44,
+            10,
+            49,
+            null,
+            null,
+            16,
+            20,
+            null,
+            42,
+            42
+        ],
+        "output": 188
+    },
+    {
+        "input": [
+            10,
+            null,
+            5,
+            16,
+            null,
+            34,
+            24,
+            null,
+            41,
+            24,
+            16,
+            20,
+            39,
+            null,
+            null,
+            null,
+            null,
+            20
+        ],
+        "output": 143
+    },
+    {
+        "input": [
+            48,
+            43,
+            null,
+            41,
+            1
+        ],
+        "output": 90
+    },
+    {
+        "input": [
+            46,
+            32,
+            49,
+            43,
+            44,
+            null,
+            null,
+            36,
+            null,
+            null,
+            null,
+            null,
+            47,
+            35,
+            null,
+            21,
+            null,
+            45,
+            16
+        ],
+        "output": 244
+    },
+    {
+        "input": [
+            34,
+            27,
+            2,
+            5,
+            28,
+            null,
+            null,
+            null,
+            5,
+            16,
+            25,
+            null,
+            null,
+            49,
+            20,
+            null,
+            null,
+            47,
+            null,
+            30
+        ],
+        "output": 157
+    },
+    {
+        "input": [
+            23,
+            null,
+            14,
+            31
+        ],
+        "output": 54
+    },
+    {
+        "input": [
+            23,
+            null,
+            32
+        ],
+        "output": 32
+    },
+    {
+        "input": [
+            1
+        ],
+        "output": 1
+    },
+    {
+        "input": [
+            6
+        ],
+        "output": 6
+    },
+    {
+        "input": [
+            22,
+            44,
+            null,
+            null,
+            9,
+            20,
+            null,
+            39
+        ],
+        "output": 83
+    },
+    {
+        "input": [
+            4,
+            23,
+            null,
+            48,
+            null,
+            24
+        ],
+        "output": 52
+    },
+    {
+        "input": [
+            43,
+            44,
+            null,
+            17,
+            22,
+            34,
+            24,
+            null,
+            null,
+            27,
+            35,
+            null,
+            null,
+            35,
+            null,
+            null,
+            null,
+            48,
+            null,
+            17,
+            21,
+            null,
+            48,
+            null,
+            null,
+            25
+        ],
+        "output": 247
+    },
+    {
+        "input": [
+            38,
+            45,
+            null,
+            null,
+            35,
+            21,
+            null,
+            47,
+            null,
+            27,
+            22,
+            24,
+            32,
+            null,
+            null,
+            38,
+            29,
+            null,
+            null,
+            36,
+            26
+        ],
+        "output": 243
+    },
+    {
+        "input": [
+            42
+        ],
+        "output": 42
+    },
+    {
+        "input": [
+            20,
+            15,
+            45
+        ],
+        "output": 60
+    },
+    {
+        "input": [
+            25,
+            null,
+            5,
+            null,
+            26,
+            36,
+            null,
+            22,
+            null,
+            20,
+            23,
+            38,
+            25,
+            null,
+            null,
+            48,
+            38,
+            null,
+            null,
+            22,
+            null,
+            null,
+            null,
+            37,
+            27
+        ],
+        "output": 259
+    },
+    {
+        "input": [
+            33,
+            34,
+            20,
+            null,
+            37,
+            null,
+            null,
+            11,
+            5,
+            null,
+            14,
+            9,
+            24,
+            30,
+            34,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            8
+        ],
+        "output": 167
+    },
+    {
+        "input": [
+            26,
+            null,
+            27,
+            null,
+            28,
+            0,
+            null,
+            18,
+            null,
+            null,
+            31,
+            null,
+            49,
+            10
+        ],
+        "output": 121
+    },
+    {
+        "input": [
+            34,
+            35,
+            14,
+            24,
+            24,
+            null,
+            null,
+            11,
+            44,
+            null,
+            null,
+            12,
+            8,
+            null,
+            null,
+            7,
+            34,
+            null,
+            null,
+            17,
+            11,
+            null,
+            null,
+            null,
+            null,
+            18,
+            null,
+            46
+        ],
+        "output": 221
+    },
+    {
+        "input": [
+            30,
+            6,
+            null,
+            35,
+            42,
+            null,
+            20,
+            8,
+            null,
+            null,
+            22,
+            null,
+            null,
+            29,
+            null,
+            null,
+            34,
+            null,
+            15
+        ],
+        "output": 163
+    },
+    {
+        "input": [
+            22,
+            44,
+            null,
+            null,
+            36,
+            null,
+            31
+        ],
+        "output": 75
+    },
+    {
+        "input": [
+            38,
+            null,
+            21,
+            37,
+            11
+        ],
+        "output": 86
+    },
+    {
+        "input": [
+            0,
+            null,
+            33,
+            31,
+            17,
+            null,
+            40,
+            33,
+            46,
+            null,
+            null,
+            null,
+            null,
+            null,
+            26,
+            null,
+            41,
+            13
+        ],
+        "output": 193
+    },
+    {
+        "input": [
+            33,
+            5,
+            null,
+            null,
+            23,
+            1,
+            null,
+            null,
+            12
+        ],
+        "output": 68
+    },
+    {
+        "input": [
+            9,
+            10,
+            35,
+            null,
+            25,
+            null,
+            null,
+            null,
+            5,
+            6,
+            5,
+            15,
+            null,
+            null,
+            null,
+            9,
+            49,
+            null,
+            null,
+            32,
+            null,
+            14,
+            15
+        ],
+        "output": 158
+    },
+    {
+        "input": [
+            3,
+            33
+        ],
+        "output": 33
+    },
+    {
+        "input": [
+            6,
+            14,
+            null,
+            26,
+            null,
+            35,
+            null,
+            null,
+            0,
+            30,
+            null,
+            15,
+            44,
+            null,
+            null,
+            29,
+            27,
+            35
+        ],
+        "output": 143
+    },
+    {
+        "input": [
+            27,
+            10,
+            10,
+            null,
+            10,
+            null,
+            null,
+            3,
+            1,
+            47,
+            39,
+            null,
+            null,
+            null,
+            null,
+            50,
+            null,
+            23,
+            14,
+            null,
+            null,
+            29
+        ],
+        "output": 175
+    },
+    {
+        "input": [
+            25
+        ],
+        "output": 25
+    },
+    {
+        "input": [
+            5,
+            null,
+            46,
+            31,
+            5,
+            null,
+            null,
+            33,
+            8,
+            3,
+            null,
+            36,
+            null,
+            45,
+            null,
+            12,
+            42
+        ],
+        "output": 186
+    },
+    {
+        "input": [
+            7
+        ],
+        "output": 7
+    },
+    {
+        "input": [
+            19,
+            31
+        ],
+        "output": 31
+    },
+    {
+        "input": [
+            12,
+            34,
+            42,
+            46,
+            3,
+            null,
+            null,
+            24,
+            23,
+            null,
+            41,
+            21
+        ],
+        "output": 164
+    },
+    {
+        "input": [
+            33,
+            16,
+            null,
+            null,
+            7,
+            null,
+            6,
+            21,
+            null,
+            null,
+            46
+        ],
+        "output": 86
+    },
+    {
+        "input": [
+            40,
+            null,
+            5,
+            2,
+            null,
+            42,
+            49,
+            null,
+            15,
+            null,
+            null,
+            15,
+            11,
+            null,
+            null,
+            4,
+            null,
+            null,
+            6,
+            null,
+            44
+        ],
+        "output": 201
+    },
+    {
+        "input": [
+            11,
+            5,
+            30,
+            null,
+            null,
+            11,
+            0,
+            41,
+            15,
+            null,
+            null,
+            24,
+            null,
+            null,
+            36,
+            null,
+            null,
+            31,
+            null,
+            null,
+            42
+        ],
+        "output": 154
+    },
+    {
+        "input": [
+            32,
+            null,
+            12,
+            null,
+            5
+        ],
+        "output": 37
+    },
+    {
+        "input": [
+            49,
+            24
+        ],
+        "output": 49
+    },
+    {
+        "input": [
+            3
+        ],
+        "output": 3
+    },
+    {
+        "input": [
+            50,
+            46,
+            20,
+            33,
+            null,
+            null,
+            8,
+            null,
+            null,
+            46,
+            21
+        ],
+        "output": 150
+    },
+    {
+        "input": [
+            39
+        ],
+        "output": 39
+    },
+    {
+        "input": [
+            20
+        ],
+        "output": 20
+    },
+    {
+        "input": [
+            44
+        ],
+        "output": 44
+    },
+    {
+        "input": [
+            46
+        ],
+        "output": 46
+    },
+    {
+        "input": [
+            36
+        ],
+        "output": 36
+    },
+    {
+        "input": [
+            24,
+            9,
+            31,
+            null,
+            48,
+            null,
+            null,
+            null,
+            0,
+            46,
+            49,
+            null,
+            42,
+            null,
+            null,
+            8,
+            47,
+            null,
+            38,
+            48,
+            29
+        ],
+        "output": 289
+    },
+    {
+        "input": [
+            11,
+            19,
+            null,
+            1,
+            33,
+            9,
+            8,
+            18,
+            8,
+            null,
+            null,
+            17,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            18,
+            27
+        ],
+        "output": 98
+    },
+    {
+        "input": [
+            49
+        ],
+        "output": 49
+    },
+    {
+        "input": [
+            30,
+            39,
+            49,
+            null,
+            null,
+            null,
+            6,
+            48,
+            26,
+            null,
+            37,
+            null,
+            null,
+            39,
+            3,
+            null,
+            null,
+            47,
+            48,
+            19,
+            23
+        ],
+        "output": 296
+    },
+    {
+        "input": [
+            23,
+            null,
+            11,
+            43,
+            null,
+            null,
+            42,
+            28,
+            18,
+            45,
+            46,
+            null,
+            null,
+            1,
+            null,
+            null,
+            null,
+            null,
+            41,
+            36,
+            null,
+            25
+        ],
+        "output": 241
+    },
+    {
+        "input": [
+            42
+        ],
+        "output": 42
+    },
+    {
+        "input": [
+            41
+        ],
+        "output": 41
+    },
+    {
+        "input": [
+            30,
+            9,
+            19,
+            28,
+            null,
+            null,
+            null,
+            38,
+            null,
+            null,
+            41,
+            null,
+            22,
+            5,
+            null,
+            46,
+            30,
+            49,
+            5,
+            null,
+            null,
+            24,
+            17
+        ],
+        "output": 216
+    },
+    {
+        "input": [
+            48,
+            27,
+            5,
+            43,
+            null,
+            null,
+            null,
+            27,
+            48,
+            null,
+            25,
+            null,
+            null,
+            null,
+            3,
+            48,
+            null,
+            18,
+            46,
+            null,
+            7,
+            null,
+            null,
+            4,
+            27
+        ],
+        "output": 221
+    },
+    {
+        "input": [
+            13
+        ],
+        "output": 13
+    },
+    {
+        "input": [
+            3,
+            23,
+            null,
+            44,
+            21,
+            16,
+            null,
+            null,
+            null,
+            19,
+            49,
+            null,
+            26,
+            41,
+            38,
+            32,
+            null,
+            null,
+            null,
+            null,
+            null,
+            11
+        ],
+        "output": 198
+    },
+    {
+        "input": [
+            15,
+            25
+        ],
+        "output": 25
+    },
+    {
+        "input": [
+            10,
+            13,
+            43,
+            null,
+            7,
+            36,
+            46,
+            null,
+            null,
+            24,
+            null,
+            null,
+            null,
+            18,
+            null,
+            null,
+            6,
+            36,
+            null,
+            19
+        ],
+        "output": 153
+    },
+    {
+        "input": [
+            35
+        ],
+        "output": 35
+    }
+]

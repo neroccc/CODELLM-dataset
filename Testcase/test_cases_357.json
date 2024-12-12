@@ -1,0 +1,42 @@
+[
+    {
+        "input": 5,
+        "output": 32491
+    },
+    {
+        "input": 1,
+        "output": 10
+    },
+    {
+        "input": 6,
+        "output": 168571
+    },
+    {
+        "input": 1,
+        "output": 10
+    },
+    {
+        "input": 5,
+        "output": 32491
+    },
+    {
+        "input": 6,
+        "output": 168571
+    },
+    {
+        "input": 4,
+        "output": 5275
+    },
+    {
+        "input": 3,
+        "output": 739
+    },
+    {
+        "input": 1,
+        "output": 10
+    },
+    {
+        "input": 7,
+        "output": 712891
+    }
+]
