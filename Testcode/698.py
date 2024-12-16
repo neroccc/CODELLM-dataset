@@ -81,14 +81,14 @@ def generate_test_cases(num_cases=100):
         # Append the test case
         test_cases.append({
             "input": {
-                "arr": arr,
+                "nums": arr,
                 "k": k
             },
             "output": output
         })
 
     # Save to a JSON file
-    with open("../test_cases_698.json", "w") as file:
+    with open("test_cases_698.json", "w") as file:
         json.dump(test_cases, file, indent=4)
 
 

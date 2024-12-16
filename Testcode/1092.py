@@ -70,17 +70,17 @@ def generate_test_cases(num_cases=50, max_length=1000):
         s2 = generate_random_string(1, max_length)
         expected_output = solution.shortestCommonSupersequence(s1, s2)
         test_cases.append({
-            "input": {"s1": s1, "s2": s2},
+            "input": {"str1": s1, "str2": s2},
             "output": expected_output
         })
 
     # Add predefined edge cases
     predefined_cases = [
-        {"input": {"s1": "abac", "s2": "cab"},
+        {"input": {"str1": "abac", "str2": "cab"},
          "output": solution.shortestCommonSupersequence("abac", "cab")},
-        {"input": {"s1": "aaaaaaaa", "s2": "aaaaaaaa"},
+        {"input": {"str1": "aaaaaaaa", "str2": "aaaaaaaa"},
          "output": solution.shortestCommonSupersequence("aaaaaaaa", "aaaaaaaa")},
-        {"input": {"s1": "abc", "s2": "def"},
+        {"input": {"str1": "abc", "str2": "def"},
          "output": solution.shortestCommonSupersequence("abc", "def")},
     ]
     test_cases.extend(predefined_cases)

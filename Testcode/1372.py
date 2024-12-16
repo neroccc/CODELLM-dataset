@@ -82,7 +82,7 @@ def generate_test_cases(num_cases=100):
         # Serialize the tree
         serialized_tree = serialize_tree(root)
         # Add the test case to the list
-        test_cases.append({"tree": serialized_tree, "output": expected_output})
+        test_cases.append({"input": serialized_tree, "output": expected_output})
 
     # Save the test cases to a file
     with open("test_cases_1372.json", "w") as file:

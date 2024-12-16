@@ -35,7 +35,7 @@ def generate_test_cases(num_cases=100):
         # Compute the expected output
         expected_output = solution.minDifficulty(jobDifficulty, d)
         # Add the test case to the list
-        test_cases.append({"jobDifficulty": jobDifficulty, "d": d, "output": expected_output})
+        test_cases.append({"input":{"jobDifficulty": jobDifficulty, "d": d}, "output": expected_output})
 
     # Save the test cases to a file
     with open("test_cases_1335.json", "w") as file:

@@ -46,7 +46,7 @@ def generate_test_cases(num_cases=100):
         # Compute the expected output using the solution
         expected_output = solution.maxJumps(arr, d)
         # Add the test case to the list
-        test_cases.append({"arr": arr, "d": d, "output": expected_output})
+        test_cases.append({"input":{"arr": arr, "d": d}, "output": expected_output})
 
     # Save the test cases to a file
     with open("test_cases_1340.json", "w") as file:

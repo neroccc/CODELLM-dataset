@@ -29,7 +29,7 @@ def generate_test_cases(num_cases=100):
         # Compute the expected output using the solution
         expected_output = solution.maxSatisfaction(satisfaction)
         # Add the test case to the list
-        test_cases.append({"satisfaction": satisfaction, "output": expected_output})
+        test_cases.append({"input": satisfaction, "output": expected_output})
 
     # Save the test cases to a file
     with open("test_cases_1402.json", "w") as file:

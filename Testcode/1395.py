@@ -102,7 +102,7 @@ def generate_test_cases(num_cases=100):
         # Compute the expected output using the solution
         expected_output = solution.numTeams(rating)
         # Add the test case to the list
-        test_cases.append({"rating": rating, "output": expected_output})
+        test_cases.append({"input": rating, "output": expected_output})
 
     # Save the test cases to a file
     with open("test_cases_1395.json", "w") as file:
