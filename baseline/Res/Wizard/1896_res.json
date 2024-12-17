@@ -1,0 +1,6002 @@
+[
+    {
+        "input": "1|0&(1)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&(0|1)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1|0&1&0&((1))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1&((1))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1|1|(0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(1|0|0)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "(0|1&((1)))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&0&1&((1&((1))))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1|1|0|(0&(((0))))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "((0|0))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0|1|(1|1&1)",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "((((0))))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0&0&1",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1&(0&1&1)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0|0|0&1&1&0",
+        "expected_output": 2,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "(1&0&0&0)",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0|0&1&(0&0)",
+        "expected_output": 2,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1&0&(0|1)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0&0|1|0|(0)",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "((1))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "(0|1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|1|(0)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1&0&1|0|1&1|0&0&0|(0)",
+        "expected_output": 1,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "0|1&1|(1|1)",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "((1|0&(0)))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0|0&1&0&(0|(1&1))",
+        "expected_output": 1,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(1&1)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0&0|1&1&0&0&((((0))))",
+        "expected_output": 2,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "(0|0&0|1|1|0|1|1)",
+        "expected_output": 2,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "1|0&(0)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1&1&(0|0)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1&1|0&1&1&1|(1)",
+        "expected_output": 2,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0|((0&1))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "((0))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1|1|1|0&(0)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0|((0|(1|1|1|1)))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0|(1&)",
+        "expected_output": "invalid literal for int() with base 10: '&'",
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|1&1&(0|1|(1|1&1))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "0&0&1|(0)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0|1&1&0|1|0|((1))",
+        "expected_output": 2,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "1&1|0|1&((1))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "(0|1&1)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|0|(0&1)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0&0|(1|0)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0&(((1)))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "((0))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0|1|0|0&1|(0)",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "1|0&(0|1&(1|0))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1&1&0|(0&(1&(0&((1&0)))))",
+        "expected_output": 1,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "(0|((0)))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(0|1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(1&((1)))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1|0&(1&1)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(1&0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(1|(0))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|0|0|(1|1)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0|1&(1)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(1&1)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(0&((0)))",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1|((0))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1&0&0|(0|0&1)",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "1&(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|(1|(1))",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "0&1|1|0|1|((0))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "0|1|0|(0|1)",
+        "expected_output": 2,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1|0&(((0)))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1&0&1&0",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1|0&0|1&((((0))))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0|0|0|1|(((1|(0))))",
+        "expected_output": 2,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "0",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0|0&((1))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&(1&1&1&1&0)",
+        "expected_output": 2,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "((1&()))",
+        "expected_output": "invalid literal for int() with base 10: '('",
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0&(1|(1&0))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0&0|1|1|0|0",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "1&0&0&(1)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1|0&0&(0&1)",
+        "expected_output": 2,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1&(((((0)))))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(0|0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|1|1|0&1&0&((1))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "((1|0&1))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&0&0|((1|1|1|1|(1)))",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "1&(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(1&1|((0|1)))",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0|((0&(1)))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1|0|(1&1)",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(1|0&1|1|0)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0&1|((1))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&1&((0))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|1|1|0&1|0&",
+        "expected_output": "invalid literal for int() with base 10: '&'",
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1|(0|0&1&0&0)",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "0|1|0|1|0|1&0|1|(1&0)",
+        "expected_output": 1,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "1|1&0&1|0|1&((1))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "((0))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1&0|(((0)))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(((0&((0|0|)))))",
+        "expected_output": "invalid literal for int() with base 10: '|'",
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1&(1)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "((0))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0&(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|((0&1&(0|0)))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "0|1&",
+        "expected_output": "invalid literal for int() with base 10: '&'",
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&",
+        "expected_output": "invalid literal for int() with base 10: '&'",
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "1&1|(1)",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0|1&((1&0&0))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0|(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|(1&(0))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(0|0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&0&0|(0)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1|0&((0&((0))))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "((0))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1|1&1|1&0|1|1&0&0&1&",
+        "expected_output": "invalid literal for int() with base 10: '&'",
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "1|((0&1|((1|(0|(1))))))",
+        "expected_output": 2,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1&1|0&1&1&(1|(((0&(0|(0))))))",
+        "expected_output": 1,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "(1|(1|(1|0)))",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "((0))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1|(1)",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "1&0&0|1&(1)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0|1&(0)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0|0&0|1&0&1|(1&0)",
+        "expected_output": 1,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "1|0|1|(0)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1&0&1&(1)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&(0|0|0)",
+        "expected_output": 2,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0|(0|1|(0))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1|(1)",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "0&0&(1)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(1|)",
+        "expected_output": "invalid literal for int() with base 10: '|'",
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "0&0&0|0|0|1|(0)",
+        "expected_output": 1,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "(0|0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1&1|0|(1|0|0&0)",
+        "expected_output": 1,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "(((0&(0|0&1))))",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1&(1|)",
+        "expected_output": "invalid literal for int() with base 10: '|'",
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|1&1&0&1|1&(0&1&1)",
+        "expected_output": 1,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "1|0|1&0",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "((1&0|1))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&(1)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0|(0&0|1)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0|0&((((1))))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1|((1))",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "1|0&(0)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0|1&0&0&0&((1))",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1|(0&0|(0))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0&(0&(1|1|0|(0)))",
+        "expected_output": 2,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "0&((1))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|(((((0|0|0)))))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1&1&((0))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0|1&((0))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&0|1|(1&1&1&0|0|0)",
+        "expected_output": 1,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "((((((0|0))))))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0|1|1|0|(0)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1|1|(0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(0&0)",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&1&1&1|0&(0)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0|1|1|1&(1|(0))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1|(1)",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "1|1|((1&(1)))",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&0|0&(0)",
+        "expected_output": 2,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1&1&(((1)))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1&0|1|(0)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1|0&1|0|1|1|1&0",
+        "expected_output": 1,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "0",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "((1&1|1))",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "0&(0&0)",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1|0&1&((0&0))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1&0&((1|0|0|0))",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "((((1))))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0&0|0&(((0|1&1|0)))",
+        "expected_output": 1,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "0|(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "((1))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1&()",
+        "expected_output": "invalid literal for int() with base 10: '('",
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "0&0&1|0&1&1|0&1&(1)",
+        "expected_output": 1,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "1&((1))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1|1&1&0|0|0&(((((0)))))",
+        "expected_output": 2,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "(1&1)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0&0|(0)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1&(((((1)))))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0|1|1&0|1&0|1&0|1|(0)",
+        "expected_output": 1,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "1|0&(0|0)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "(0|0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0|0|0|1|0&1|1&1&1|(1)",
+        "expected_output": 2,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "0|0&(((1)))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "((((0|0&0|0&(((0&0)))))))",
+        "expected_output": 2,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "0|0|1|(0&1&1&(1))",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "(1&(1))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0|(1|0)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "((1))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1&0&(0&1|1&0)",
+        "expected_output": 2,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1|1&1&0|((((1|0))))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0|1&1&1&0&(0|1)",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "0|1|0&0|1&1|0&(1|((0)))",
+        "expected_output": 1,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "1&((1))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1|1&0|1",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&1|1",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0|(0&0)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1|(())",
+        "expected_output": "invalid literal for int() with base 10: '('",
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0&1&0&(0)",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "((((0))))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1|1&1&0|0|1|1&0|0",
+        "expected_output": 1,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "1|0|0|(1)",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1&(0&0)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1&1&0&1|(0&((1&(0))))",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "((1&(0|((0&1&(0))))))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1&(0&1&1&0|0|1)",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "((1))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1|0&1|1&0|1&0|1&1&0|(1&(0))",
+        "expected_output": 1,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "(0|0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "((1|1|))",
+        "expected_output": "invalid literal for int() with base 10: '|'",
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "((0&1))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1|(1)",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "1&0&(1)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&0&1|1&0|0|1|(1&0|1)",
+        "expected_output": 2,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1|(((1)))",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "(((0)))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0&1&1|((0&((0&(1)))))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1|((((0))))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1|0&0|1&((1&1&1|0|(0)))",
+        "expected_output": 1,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "0|1",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(1&(0&0))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&1|0&((0&0&(((1&0&0)))))",
+        "expected_output": 2,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "1|0&1|0&1&0&1|0|0|1&1&(1&(1))",
+        "expected_output": 1,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "0&1|((1|(1&1|(1|1))))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "(0|0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "((1))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1&(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "((0&0))",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|0&0&1&(0|1|0)",
+        "expected_output": 1,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0|0|0&(0&1|0)",
+        "expected_output": 2,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "1|0|1|1|1&1&((1&1))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "0|1&1|1&0&1|(1&1&0|1|(0))",
+        "expected_output": 1,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "(1&(0))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|0|0|1&(0|(0&((0&(1)))))",
+        "expected_output": 1,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "((1))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0|1",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(1|)",
+        "expected_output": "invalid literal for int() with base 10: '|'",
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "0|((0))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0|0&0|((0))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "(0|(0))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1|0|(1&0&1&(1))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1&0|((0|0&1&1&0))",
+        "expected_output": 1,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "1&0&((1|1))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0|1|(1&0&1)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0&(0)",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&1|1",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "0&(1|1)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&((1|0))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&0|0|1&1&1&0&1|1|1|(0&(0))",
+        "expected_output": 1,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "0&0&0|(1|((1)))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "(0&1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0&1|1&0&((0&1))",
+        "expected_output": 2,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1|0|1&((0&0|1))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "0&0&1|0&0&((1))",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "1&0&1|(0)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0|0|((0))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0|1&0&(1)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0|1&0|(1&0)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1|((1))",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "0&1|0&0|1|0|1&0&0|0&1&(0|0)",
+        "expected_output": 2,
+        "predicted_output": 21,
+        "result": "different"
+    },
+    {
+        "input": "(((0|1&1&1&1|1)))",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "(0|0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|((1))",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "0&1|1&0|(((1)))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0&1&",
+        "expected_output": "invalid literal for int() with base 10: '&'",
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&1&0&0|1|0|(0)",
+        "expected_output": 1,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "0|1|(1|0|(1))",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0|0|1|1|(0|0)",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "0|0|0|((((1&0))))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1&0&1&((1))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&1&((0))",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "((0|(0|1&(1))))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "((0&0))",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&0|1|1|(1)",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1|0&(1&(1))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&1|0&(1&1&1)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1&()",
+        "expected_output": "invalid literal for int() with base 10: '('",
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "((((0&1))))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|0&1&(0|1&(1))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0&1&1&0|0&0|1|(1|((0)))",
+        "expected_output": 2,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "0&1|1&1|1&0|1|0&1|0",
+        "expected_output": 1,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "1|(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0&1&1&1|0&(1)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "((1))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0|1|1|(0|(1))",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0|(0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|1&1|0|(0|((1&(0&0|0|1|1))))",
+        "expected_output": 2,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1|0&0&(0&1)",
+        "expected_output": 2,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0&1",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(1|1|0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "()",
+        "expected_output": "invalid literal for int() with base 10: '('",
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0|((0&1|(0)))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1&(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|1|0|0&0&((0&1))",
+        "expected_output": 2,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "0&0|0|0|0&1|((0))",
+        "expected_output": 1,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "1&1&1|1&1&(1)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0|(((1)))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|1&(1|0&0)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1&0&",
+        "expected_output": "invalid literal for int() with base 10: '&'",
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(1&0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|0|0|0&1&0&1&0&(0&1|(((0&1|(0&((0)))))))",
+        "expected_output": 2,
+        "predicted_output": 22,
+        "result": "different"
+    },
+    {
+        "input": "((0))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1&0&0&0|0&(0|0&((1)))",
+        "expected_output": 2,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "0&1|0&(1)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1&1|0&(1)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1|1&1&0&0|(0&0|1)",
+        "expected_output": 1,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "1&(1)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1&0&0&(1)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0|((((0))))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "((0))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0|1|1&0|1&0&((((0))))",
+        "expected_output": 2,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "(1&1)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "((((0|1|1|(1)))))",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(0&(1&1))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "((((0))))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1&0&0&1|1|((1))",
+        "expected_output": 2,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(1|0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0&(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|0&(0&())",
+        "expected_output": "invalid literal for int() with base 10: '('",
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "(1|)",
+        "expected_output": "invalid literal for int() with base 10: '|'",
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "0&0|0&1|1|1|0|1&0&((0))",
+        "expected_output": 2,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "0&0&(((1|1)))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1&(0&(0))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1|(((1&(0&0|1))))",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0&1|0|(1&(0))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "(((1&(0|1))))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&(1&0|(1))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1&((0))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|((0&(1|1|1|1&1&1&0)))",
+        "expected_output": 1,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "((0&((1))))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(1|1&1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|1|((1))",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "1&1&(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(((1|(((0&(((1)))))))))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|0&0&0&1&(1&1&1&0)",
+        "expected_output": 2,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0&0|0|0|1&(1&1&0)",
+        "expected_output": 1,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0&1&1&1&(1|(((1|(0|(0|((1|1&(1)))))))))",
+        "expected_output": 1,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "0|1|1|0&((1))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0&(1|1|)",
+        "expected_output": "invalid literal for int() with base 10: '|'",
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0|0|(((0)))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0&0&1|0|1|0|0|0&((((0))))",
+        "expected_output": 1,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0&0&1|0&(1)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1&((0|1|((0&(0|0)))))",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "0&0|0&1|(0)",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1&0&1&1|(1|0)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1|(1)",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "0|(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0&((0))",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&1&1&0&(0&0&1&0&1|1)",
+        "expected_output": 1,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "(0&1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|1&1|(1)",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0&0|1&((1&0))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1|0|1&1&(0)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1|1&0|0|(((1)))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0&1&0|0&0&1&((0))",
+        "expected_output": 2,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "0&((0&0|0&))",
+        "expected_output": "invalid literal for int() with base 10: '&'",
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1|((0&1&1|1|0))",
+        "expected_output": 2,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "(0&1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0&1|((0))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(1&0&0)",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1|0|0|1|(0)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0|(1|((0|0|1)))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "((1))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1&1|(1&0|((((0)))))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0&0|(1&1)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0|0&1&1&1|0&0|((1&1))",
+        "expected_output": 1,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "0|((1))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0&1|((1&(1&1)))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0&(0)",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&1|(((1)))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|(0&1)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&1|1&0|(1)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "(0&0|0&0)",
+        "expected_output": 2,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0|1|0|((1|0&0|1&1))",
+        "expected_output": 2,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "1|(0|(0))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0|((0&0&(0|(((0|0&1))))))",
+        "expected_output": 1,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "0",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0&(0)",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(1&0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1&0&((0|1))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0&(((1)))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1&(0|0|1|(1&((0&0|1))))",
+        "expected_output": 1,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1|0|(0)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0|1&()",
+        "expected_output": "invalid literal for int() with base 10: '('",
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0|1|0&1|0|((0|0))",
+        "expected_output": 1,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "1&(((0&1&1)))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1&1&((((1))))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|(0|0&((1&1|0&1&1&1)))",
+        "expected_output": 1,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "0&1&0|0&1|(((((0)))))",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "1|(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|(((1&0&1)))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0|1|1|(0&(1&0))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "((1|0&1|(0)))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1|1&1|1&1|1&1&1&((0))",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "((0&0))",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&",
+        "expected_output": "invalid literal for int() with base 10: '&'",
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0|1&0&",
+        "expected_output": "invalid literal for int() with base 10: '&'",
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0&0|0|0|1&((0&(1)))",
+        "expected_output": 1,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "0&(0&0&1)",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1|(1|1|(0))",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1|(1&1&1|0&1&0)",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "0|0&0&((1&0))",
+        "expected_output": 2,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1|(0&(((1))))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&1|((0))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&1&0&1&0|(1)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1&(0&0)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(0|(0&((0|1))))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "(0&1&1|(0&0))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1|(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|0&0|(1)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1&((1&1|(1)))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1&1|((((1&(((0)))))))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0|1|0|((0))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0&((0))",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0|(0|(1))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(0|1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1&(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0&(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1&1&0|0|0&0|0|0&0|(1)",
+        "expected_output": 1,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "0&((((1))))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|1|1&1|1&1&0|1|0|1|0&0|1&(0)",
+        "expected_output": 1,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "1&((1))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0|1&1&0|(0&0|1)",
+        "expected_output": 1,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "1|0|(0|(((1&((1))))))",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0|0|0&1|0&0&0&(1)",
+        "expected_output": 1,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "(0|0|((0)))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1&1|0&(1|(0))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1|0&(1)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0|(0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&((((1&0))))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|0&1&(0|1)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0|1|((0))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&0&0|1|1|(0|1)",
+        "expected_output": 2,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "0&0|0|(((0|1|((1)))))",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "((1|0&(0|1)))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "((1))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "(1&0&1&1|1|(0|1|1&0|0|1))",
+        "expected_output": 2,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "0&(0&(1))",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0|1&0|0|(1)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "((0))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "((0))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0|0|(1&0&(0))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "0|1&1&((1))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(1&((1&0)))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|1&0|1&0&(0|(((1))))",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "((1))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0&1&(0|(1&0|1))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1&(1|(1&1))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "((1|1&(0)))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "((1))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0&(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0&1&0&(((0)))",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1&0|(0|((1)))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0&0|0|(((1)))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0&0|(0)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1&1|1|(1|1|((0)))",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0|((1))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "((1&0))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|()",
+        "expected_output": "invalid literal for int() with base 10: '('",
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|0&(0)",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0|((1))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|0|0&1|1&1&(1)",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "1",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0|(1|1)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&(0|1)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1|1&1|1&0|0&1&1&1|",
+        "expected_output": "invalid literal for int() with base 10: '|'",
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "0&(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|0|(1|0)",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1&0|0&1|1|0&1&0|(0|0)",
+        "expected_output": 1,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "1|0",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|1&(0|(1))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1&(1&(1))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "((0|0&1|1))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0|0&(0)",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "((1&0|0&1))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1|0&1|1|((1&((0|1))))",
+        "expected_output": 2,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1|(1&((1)))",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "0|1|0&1&1&((1&1&1&(1|0)))",
+        "expected_output": 1,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "1|(1|(0&0&1))",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "(1|1&0|(1))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1|(0&(1))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|1&0&0|((0|(1|)))",
+        "expected_output": "invalid literal for int() with base 10: '|'",
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "0|(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|(1&1)",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "0|1&(((0)))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(((0)))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1&1|(1)",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "0|1&((1))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&(1|0)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1|0&1",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|1&1&1|(1)",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1&0|1&(1)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(1|1)",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "0&1&0&(1)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0&0&0&(0|1&0|(1|0&1&0|1&(0&(1))))",
+        "expected_output": 2,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "(0|((0)))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0|1&(1)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(0|1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|(0|(1))",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&0",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(((0&((1&(1&(0|1&0&0)))))))",
+        "expected_output": 2,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "((1))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1&1|((1))",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "1&()",
+        "expected_output": "invalid literal for int() with base 10: '('",
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "0&0|1|1&",
+        "expected_output": "invalid literal for int() with base 10: '&'",
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "((1|1))",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "0|(1&((0)))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0&1&(0)",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&1|1|1|0|1&(1)",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "(1|0&0)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0|0&(1)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0|1&0&(1)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0&1|(1)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0|(1&0)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0&(((1|1)))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(0|1&0)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1|0&0|(0|(1))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1&1&0|(0|0)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0|1|(1|0)",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "((1))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1&0&(1)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "((1))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0|1|1|1|1&0&0&(1)",
+        "expected_output": 1,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "0&0|1&(1|0|0&((0&(0))))",
+        "expected_output": 1,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "1&0&0|1|0&1&0&(1&(0))",
+        "expected_output": 2,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "((1&1&1&1&1))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&(0)",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|((1|0&0))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0|1|0|1|((1))",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "(1&0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(1&(((1&((1&0))))))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0|0|((0|1))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0|(0|1&0)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1&0&(0&0)",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1&(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "((1|0&1))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(1|0&(1|0&0))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "(1&(1|(0|0|((1)))))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0&1&1|0|((0&(1|((0)))))",
+        "expected_output": 1,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0&0&0&0&0|0&((1&0))",
+        "expected_output": 2,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "1&1&(1|(1|(0)))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "(0|0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0|(0&1|1|(0&1))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "0",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0&1|(0)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&0&(((((1&1)))))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1&(0&(0))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(0&1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(0|((1&(1))))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0|1&0&(1)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1|0&1|((1|(1&((0)))))",
+        "expected_output": 2,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0|0&(1|(0))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1|0|0&(0|1)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0&1&0&(0)",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1|0&0|0&1|1&(0|1&1)",
+        "expected_output": 1,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "0|1|0|1|1|0&1",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "0|1|0&(1)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1|1&(((0&(1))))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1&0",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1&(1|(((0))))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&(1|(0))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0|",
+        "expected_output": "invalid literal for int() with base 10: '|'",
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|1&1|0|0&1|0|0&(1)",
+        "expected_output": 1,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "((1))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1&1&1&(1&((1&1|0)))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "(1|0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "((1))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0|1|(0&1)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0&1",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|0|(0)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1|1|1&(0)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "()",
+        "expected_output": "invalid literal for int() with base 10: '('",
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1|1|0&1|0|0|1|(1|((0&0&((1&((((1&0&1)))))))))",
+        "expected_output": 2,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "1|(1|(1))",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1&1|(1)",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1|0&((0|1))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "(1|(1))",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "((1))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1&0&(1&1&0|1)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1|0",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|(0|1&0)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0|0|(1)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "()",
+        "expected_output": "invalid literal for int() with base 10: '('",
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1|((0|0&1|0|0&0))",
+        "expected_output": 1,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "0|1&(1|0)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "(((1)))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1|1&0",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0&0|(1)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1|((0|1|(1)))",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(1|1)",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "(1|0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0&0|1|(0)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0&(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1&1&0&0|(0)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0|((0&(0&1|((0&((1)))))))",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "1&(1|(1&1&(1&0|0)))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "((0|1))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0&0|0&1&0|0&(0)",
+        "expected_output": 2,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "1&1|0&((0&0))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1|0&1&0&0|0|0|0&0&1",
+        "expected_output": 1,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "0&((0))",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "((0))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1&1&(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|0|1|1|0|1&((0))",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "1&1|(0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0|1&((1))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&1|(1|((1)))",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(0&0)",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0&0&0|((0))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0&(0|0)",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0&1&1|0|(0&0|1|0&1|0)",
+        "expected_output": 1,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "1|1|(0|0&(1|1&0&(1)))",
+        "expected_output": 1,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "0&1|()",
+        "expected_output": "invalid literal for int() with base 10: '('",
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&(((0)))",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|",
+        "expected_output": "invalid literal for int() with base 10: '|'",
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "1|1&(((((1&((0&(0|1))))))))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0&0&((0))",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "((0|((0&1|1))))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1&1|((0))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&(1|((1|0)))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&1|0&0|0|(0&0)",
+        "expected_output": 1,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "((0))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(0&1&(0))",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&(((0|((1|0)))))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "((1))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(((1&(0&(1&1&0&0&0)))))",
+        "expected_output": 1,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "0&(1|0&1|1)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1&1|(0|1)",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "((0|1|1))",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(0|1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|0&1|0|((0&((1))))",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "(1&(0&0|0))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "(1|(0&0))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1&1|0&(0)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0&1&((1))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(())",
+        "expected_output": "invalid literal for int() with base 10: '('",
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1&1&((((1))))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|(1)",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "1|1&1&1|1&(0&1|1)",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1|0&1|((1))",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1|1|0|(1|((((0|0|1|1)))))",
+        "expected_output": 2,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "((0&1))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|((0))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0&1|(0&((1)))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1|0&1&((1|0))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1&1|1&(1)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|0|1|((((1&(((((1&0|1)))))))))",
+        "expected_output": 2,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "0&0&1|1|(0)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0&1|0&1|((1|(1|0)))",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "1|1|0&0&(1)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "()",
+        "expected_output": "invalid literal for int() with base 10: '('",
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "(1|1)",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "(1&0|0&(1&1))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0|1|(1)",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&1&((1))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|((0))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|0|0|0|0|1&0&1&1&(((0)))",
+        "expected_output": 2,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "1&(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(0|(1|0|0))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0|0|1|1&1|(1)",
+        "expected_output": 2,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0&0&0&(1|1)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "(0|1&((1&1|0|((((0|1)))))))",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "(1&(1))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0&1&0|1|(())",
+        "expected_output": "invalid literal for int() with base 10: '('",
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0&1|0|0|0|0|1&(1)",
+        "expected_output": 1,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "0|1&(1|1)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0|1|0|(1)",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0&1|((0|(0&(0))))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1|1|0|1&1&(1)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "(1|(1))",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "1|0&(((0|0)))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0&((((((1))))))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0&0&(0|0|1|1|0)",
+        "expected_output": 1,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "0|(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0&(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1&0|(((1&((((0)))))))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "(0|0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(1|0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(0&0&(((1))))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0|1",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1&1&(0|0)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0&(1|1)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&(0&(1))",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(0&1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1&1|1&0&0&(1)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0&1&1&(1)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1|(1&(1&0|(1)))",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0|0|(1|0)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1|(0&0&0&0)",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "0|((0&1|1))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1&0|(1&)",
+        "expected_output": "invalid literal for int() with base 10: '&'",
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0|(0&0)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0&(1&1|1&(1|0&1))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1&((0))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|0|(1)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&0|(((0)))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "(1&1)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1&0|0&1|1&0&(0)",
+        "expected_output": 2,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "1|0|1|1|1&((0))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1&0|0|1&(1&1)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "(1|0&1|0)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1&((0))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|1|0&0|0&0&((1&0))",
+        "expected_output": 2,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "0|(0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0|0&(1)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&1|1|0|1&(((0|((1|1)))))",
+        "expected_output": 1,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1|(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|1&(1|(1))",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "((0|1))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|1|0&1&((1))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1|1&0|0|0|(0)",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "0|0|1&0|(0)",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "((1&0|1))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&0&1|1&1&((0))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1|0|(1&(0|0))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1&(((((0)))))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1&(1)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1|(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|1&((1))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|1&0&1&0|(1)",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "0&(0)",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0|((1|0|0))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "(0|0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1&1&(0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|1",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "1|1&1&0&1&1&(0)",
+        "expected_output": 2,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1|0|(0)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&(0)",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0&1&(1&1|(1|1))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0|(((1|0|0&0)))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "((1|(((0)))))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|1&0|1|1&(1&1)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1&((1|((((1|(1)))))))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|(1|1|1|(1|0|1))",
+        "expected_output": 2,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1&(((0)))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|0|0&(1&0|1)",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1|0|((0))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1|0&1|0|(0)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0|0&1|1&0|1|1&1|((0))",
+        "expected_output": 1,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "1|1|0|1|0|0&(0)",
+        "expected_output": 1,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "0&1&1&1&(0)",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "(0&(0|1&0&1))",
+        "expected_output": 2,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1|1&(1&(1&((1))))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(1|1|(0))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&1&",
+        "expected_output": "invalid literal for int() with base 10: '&'",
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0&0|1|(0)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0&1|1",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&0|0&0&(0|0)",
+        "expected_output": 2,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "1|1&1|0&0&0|",
+        "expected_output": "invalid literal for int() with base 10: '|'",
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "1&0&0&1&1|1|0&0&0|1|1|((0&1))",
+        "expected_output": 1,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "((0))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0&1|1&1|0|0|1&0&1&0|(((0)))",
+        "expected_output": 1,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "(0|(0&1&(0&(0))))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "(1|1)",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "((0))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "((0&0))",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|(((1&(1))))",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "1",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1|(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(0&1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1&1|0|1|(1)",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "(1|(0))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0&0|0&((1&(1)))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0|0|0|(1&0|0)",
+        "expected_output": 1,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "((((1|1&1&(1)))))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&0&0&0|1&((1&(0|(1|(1)))))",
+        "expected_output": 1,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "1&(1)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(0|1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "(1|((((1|1)))))",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "0&1&0&1|1|0&0&0|(0|1&0&(1))",
+        "expected_output": 1,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "0|(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1&0|0|0|(0&1)",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "1&0|1&0&0|1|0&(0)",
+        "expected_output": 1,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "0|0&1&1&(((0&0)))",
+        "expected_output": 2,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "1&1|1&(1|0)",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1&0&1|(0&((1&(0|0))))",
+        "expected_output": 1,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0&(1)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0|1&(0)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&0&1&1|0|((0))",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "0&(((0)))",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(0|0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "((0))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1&1&0|1|1&0|1&0|0&0|(0|(1|0))",
+        "expected_output": 1,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "0&(0&(0&0|1))",
+        "expected_output": 2,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "0|1&1|(1|1&(((0|(1)))))",
+        "expected_output": 2,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "0&(0&(0|0|1))",
+        "expected_output": 2,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "(1|1&(0))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "(1|1|1)",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "((0))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1&1|0|0|1&0&0&1|0&(((0)))",
+        "expected_output": 2,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1&0|1|(0|0)",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "(0|((0)))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1|0&1&1&0|1&0|0&0|((1|(0)))",
+        "expected_output": 1,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "0&0&0&(0&0&0)",
+        "expected_output": 3,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0&((1&0&1&0|(0|((1)))))",
+        "expected_output": 1,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "1&(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1&0&0&0",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0|(((((1)))))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|",
+        "expected_output": "invalid literal for int() with base 10: '|'",
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "((0&(0|((0)))))",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1&(1)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1&1|1&1|(0&((((1)))))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1&1&(0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "((0|0))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0&0|(1)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&0&(1)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0|0&1&1&1|1|0&(1&1&((1)))",
+        "expected_output": 1,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "1&((1))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1|1&1|1&1|0|0&1&(1)",
+        "expected_output": 1,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "0&0|()",
+        "expected_output": "invalid literal for int() with base 10: '('",
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0|1|1|1&((0|1&1&0&0|(0&0&1)))",
+        "expected_output": 1,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "0&1&(0&1)",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "((1))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0|0|(((0|1&1|)))",
+        "expected_output": "invalid literal for int() with base 10: '|'",
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1&0&(1)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0|(0|(0))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1&1&1|(((0|1&(0))))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "(0&)",
+        "expected_output": "invalid literal for int() with base 10: '&'",
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0&0|0|0&1&(((0|0)))",
+        "expected_output": 2,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "1|(1|0)",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&(1&1|(0))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1&0&1&0|0&0&1&1|(1&1)",
+        "expected_output": 1,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "1|1|((0|((1|1))))",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "((0&1|0))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0|1&(((1)))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(0|(1&1))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&0|1&1&1|1|1&0|1",
+        "expected_output": 1,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "1|(1&1|((1)))",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "((0&((0))))",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "((0))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1|((1))",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "0&1&(0)",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1&0|0|(0&(1|0&(0)))",
+        "expected_output": 1,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "1&((0))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|0&1&0|1&(((1)))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0&0|0|0&0|1&1|1|0&(0|((1)))",
+        "expected_output": 1,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "1&1|0|0|((0))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "((0&0&0|(((1)))))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0&(1|(0))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&0|1|",
+        "expected_output": "invalid literal for int() with base 10: '|'",
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1&0&0&0",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1|(1|(((0|0))))",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1&1&1&0&(1&(1|0|(0|((1)))))",
+        "expected_output": 1,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "0|(0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0|1|1&0|0|0|0|0&(0)",
+        "expected_output": 2,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "1|0|0|(1)",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0&((1))",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1|1&1&(1|(0|0))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "((0&1&0|1))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "(1|1)",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "0|((0|0&(0|(0))))",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "0|(0&((0)))",
+        "expected_output": 1,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "(((1)))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0|(0|(0&((0))))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "(0|0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "(1)",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "0|(0|(1))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1&0|0&",
+        "expected_output": "invalid literal for int() with base 10: '&'",
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "(((1)))",
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": "1|(1)",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "1|1&0&(1)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "((0))",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1&0|0|0|((0))",
+        "expected_output": 1,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1&1&0|0|(1|(1&(0)))",
+        "expected_output": 1,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "1|0&(1)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&(0)",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0&0&1&((0))",
+        "expected_output": 2,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0|1|0|(((((1|1&1|(0))))))",
+        "expected_output": 2,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "1&((1&((1&(((1)))))))",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1&0|1|1&1|0&1&0",
+        "expected_output": 1,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "0",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "(0)",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0&(0)",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|(0&1)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|1|0|(0&1)",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0&1|((0))",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1|1&(0)",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1|0|0|((0))",
+        "expected_output": 1,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0|((1&0&1|((0))))",
+        "expected_output": 1,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1&0|(0)",
+        "expected_output": 1,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0&1|0|0|",
+        "expected_output": "invalid literal for int() with base 10: '|'",
+        "predicted_output": 7,
+        "result": "different"
+    }
+]

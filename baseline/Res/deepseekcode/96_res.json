@@ -1,0 +1,116 @@
+[
+    {
+        "input": 1,
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": 2,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 3,
+        "expected_output": 5,
+        "predicted_output": 5,
+        "result": "same"
+    },
+    {
+        "input": 4,
+        "expected_output": 14,
+        "predicted_output": 14,
+        "result": "same"
+    },
+    {
+        "input": 5,
+        "expected_output": 42,
+        "predicted_output": 42,
+        "result": "same"
+    },
+    {
+        "input": 6,
+        "expected_output": 132,
+        "predicted_output": 132,
+        "result": "same"
+    },
+    {
+        "input": 7,
+        "expected_output": 429,
+        "predicted_output": 429,
+        "result": "same"
+    },
+    {
+        "input": 8,
+        "expected_output": 1430,
+        "predicted_output": 1430,
+        "result": "same"
+    },
+    {
+        "input": 9,
+        "expected_output": 4862,
+        "predicted_output": 4862,
+        "result": "same"
+    },
+    {
+        "input": 10,
+        "expected_output": 16796,
+        "predicted_output": 16796,
+        "result": "same"
+    },
+    {
+        "input": 11,
+        "expected_output": 58786,
+        "predicted_output": 58786,
+        "result": "same"
+    },
+    {
+        "input": 12,
+        "expected_output": 208012,
+        "predicted_output": 208012,
+        "result": "same"
+    },
+    {
+        "input": 13,
+        "expected_output": 742900,
+        "predicted_output": 742900,
+        "result": "same"
+    },
+    {
+        "input": 14,
+        "expected_output": 2674440,
+        "predicted_output": 2674440,
+        "result": "same"
+    },
+    {
+        "input": 15,
+        "expected_output": 9694845,
+        "predicted_output": 9694845,
+        "result": "same"
+    },
+    {
+        "input": 16,
+        "expected_output": 35357670,
+        "predicted_output": 35357670,
+        "result": "same"
+    },
+    {
+        "input": 17,
+        "expected_output": 129644790,
+        "predicted_output": 129644790,
+        "result": "same"
+    },
+    {
+        "input": 18,
+        "expected_output": 477638700,
+        "predicted_output": 477638700,
+        "result": "same"
+    },
+    {
+        "input": 19,
+        "expected_output": 1767263190,
+        "predicted_output": 1767263190,
+        "result": "same"
+    }
+]

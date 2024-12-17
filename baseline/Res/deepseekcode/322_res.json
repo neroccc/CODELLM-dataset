@@ -1,0 +1,1546 @@
+[
+    {
+        "input": {
+            "coins": [
+                9,
+                48,
+                49,
+                45,
+                18,
+                26,
+                7,
+                10
+            ],
+            "amount": 75
+        },
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                17,
+                15,
+                48,
+                18,
+                50,
+                10
+            ],
+            "amount": 516
+        },
+        "expected_output": 11,
+        "predicted_output": 11,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                37
+            ],
+            "amount": 122
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                19,
+                2,
+                27,
+                22,
+                30,
+                23,
+                18
+            ],
+            "amount": 582
+        },
+        "expected_output": 20,
+        "predicted_output": 20,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                35
+            ],
+            "amount": 430
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                36,
+                30,
+                3,
+                49,
+                26
+            ],
+            "amount": 233
+        },
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                14,
+                22,
+                16,
+                41,
+                3,
+                39,
+                38,
+                1,
+                8,
+                10
+            ],
+            "amount": 89
+        },
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                9,
+                34,
+                20
+            ],
+            "amount": 784
+        },
+        "expected_output": 26,
+        "predicted_output": 26,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                33,
+                6
+            ],
+            "amount": 72
+        },
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                9,
+                28,
+                2,
+                46,
+                18,
+                30
+            ],
+            "amount": 123
+        },
+        "expected_output": 5,
+        "predicted_output": 5,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                18,
+                29,
+                39,
+                28,
+                21,
+                3,
+                15,
+                8
+            ],
+            "amount": 984
+        },
+        "expected_output": 26,
+        "predicted_output": 26,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                11,
+                29,
+                49
+            ],
+            "amount": 158
+        },
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                37,
+                12,
+                35,
+                45
+            ],
+            "amount": 442
+        },
+        "expected_output": 10,
+        "predicted_output": 10,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                12,
+                2,
+                20
+            ],
+            "amount": 283
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                44,
+                2,
+                47,
+                25,
+                42,
+                35,
+                46,
+                33,
+                31,
+                26
+            ],
+            "amount": 857
+        },
+        "expected_output": 19,
+        "predicted_output": 19,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                35,
+                16
+            ],
+            "amount": 620
+        },
+        "expected_output": 34,
+        "predicted_output": 34,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                13
+            ],
+            "amount": 542
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                14,
+                39,
+                18,
+                37,
+                12,
+                15,
+                43
+            ],
+            "amount": 23
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                27,
+                20,
+                38,
+                3,
+                2,
+                46,
+                4
+            ],
+            "amount": 466
+        },
+        "expected_output": 11,
+        "predicted_output": 11,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                9,
+                47,
+                38,
+                50,
+                18
+            ],
+            "amount": 970
+        },
+        "expected_output": 20,
+        "predicted_output": 20,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                22
+            ],
+            "amount": 268
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                13
+            ],
+            "amount": 876
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                9,
+                11,
+                31,
+                44,
+                12,
+                34,
+                30
+            ],
+            "amount": 544
+        },
+        "expected_output": 13,
+        "predicted_output": 13,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                19,
+                32,
+                16,
+                20,
+                26,
+                33,
+                40
+            ],
+            "amount": 504
+        },
+        "expected_output": 13,
+        "predicted_output": 13,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                18
+            ],
+            "amount": 978
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                20,
+                5,
+                10,
+                48,
+                32,
+                9,
+                3
+            ],
+            "amount": 403
+        },
+        "expected_output": 10,
+        "predicted_output": 10,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                5,
+                7,
+                42,
+                8,
+                35,
+                24,
+                17
+            ],
+            "amount": 392
+        },
+        "expected_output": 10,
+        "predicted_output": 10,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                39,
+                22,
+                49
+            ],
+            "amount": 261
+        },
+        "expected_output": 8,
+        "predicted_output": 8,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                36,
+                35,
+                4,
+                6,
+                13,
+                41
+            ],
+            "amount": 85
+        },
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                18
+            ],
+            "amount": 168
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                5,
+                1,
+                19,
+                7,
+                6,
+                39,
+                24,
+                40,
+                17,
+                33
+            ],
+            "amount": 279
+        },
+        "expected_output": 7,
+        "predicted_output": 7,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                17,
+                42,
+                35,
+                5,
+                8,
+                14,
+                24,
+                16,
+                31,
+                49
+            ],
+            "amount": 35
+        },
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                46,
+                34,
+                22,
+                42,
+                21,
+                25
+            ],
+            "amount": 41
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                27,
+                25,
+                23,
+                43,
+                39
+            ],
+            "amount": 453
+        },
+        "expected_output": 11,
+        "predicted_output": 11,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                8,
+                4,
+                20,
+                34,
+                46,
+                14,
+                47
+            ],
+            "amount": 427
+        },
+        "expected_output": 10,
+        "predicted_output": 10,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                44,
+                49,
+                24,
+                48,
+                18,
+                46,
+                45,
+                31,
+                3,
+                43
+            ],
+            "amount": 90
+        },
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                42,
+                32,
+                45,
+                34,
+                4,
+                22,
+                19,
+                33,
+                13
+            ],
+            "amount": 430
+        },
+        "expected_output": 10,
+        "predicted_output": 10,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                24,
+                46,
+                4,
+                8,
+                26,
+                18,
+                25,
+                22,
+                27,
+                11
+            ],
+            "amount": 485
+        },
+        "expected_output": 11,
+        "predicted_output": 11,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                44
+            ],
+            "amount": 207
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                42,
+                17,
+                30
+            ],
+            "amount": 988
+        },
+        "expected_output": 25,
+        "predicted_output": 25,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                31,
+                48
+            ],
+            "amount": 54
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                41,
+                36,
+                17,
+                11,
+                33,
+                10,
+                20,
+                2
+            ],
+            "amount": 172
+        },
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                29,
+                46,
+                11
+            ],
+            "amount": 783
+        },
+        "expected_output": 20,
+        "predicted_output": 20,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                17,
+                14,
+                6,
+                2,
+                9
+            ],
+            "amount": 439
+        },
+        "expected_output": 26,
+        "predicted_output": 26,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                44,
+                7,
+                12,
+                25,
+                10,
+                48
+            ],
+            "amount": 293
+        },
+        "expected_output": 7,
+        "predicted_output": 7,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                23
+            ],
+            "amount": 362
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                30,
+                48,
+                18,
+                11,
+                13,
+                22
+            ],
+            "amount": 448
+        },
+        "expected_output": 11,
+        "predicted_output": 11,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                32,
+                35,
+                27,
+                31,
+                1,
+                4
+            ],
+            "amount": 309
+        },
+        "expected_output": 9,
+        "predicted_output": 9,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                44,
+                36,
+                5,
+                19,
+                49,
+                1,
+                46,
+                12,
+                15,
+                13
+            ],
+            "amount": 964
+        },
+        "expected_output": 20,
+        "predicted_output": 20,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                26
+            ],
+            "amount": 481
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                13,
+                10,
+                6,
+                40,
+                46,
+                50,
+                22,
+                1,
+                39
+            ],
+            "amount": 988
+        },
+        "expected_output": 20,
+        "predicted_output": 20,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                10,
+                3,
+                6,
+                49,
+                44,
+                5,
+                29,
+                2
+            ],
+            "amount": 583
+        },
+        "expected_output": 12,
+        "predicted_output": 12,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                16,
+                48,
+                25,
+                33,
+                46
+            ],
+            "amount": 780
+        },
+        "expected_output": 17,
+        "predicted_output": 17,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                49,
+                19
+            ],
+            "amount": 125
+        },
+        "expected_output": 5,
+        "predicted_output": 5,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                10,
+                49,
+                41,
+                1,
+                33,
+                26
+            ],
+            "amount": 185
+        },
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                42,
+                37,
+                32,
+                12,
+                31
+            ],
+            "amount": 647
+        },
+        "expected_output": 16,
+        "predicted_output": 16,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                34,
+                36,
+                27,
+                8,
+                9,
+                35,
+                6,
+                29,
+                18,
+                21
+            ],
+            "amount": 267
+        },
+        "expected_output": 8,
+        "predicted_output": 8,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                18,
+                25,
+                15,
+                43,
+                44
+            ],
+            "amount": 594
+        },
+        "expected_output": 14,
+        "predicted_output": 14,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                24,
+                10,
+                13
+            ],
+            "amount": 351
+        },
+        "expected_output": 16,
+        "predicted_output": 16,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                28,
+                20,
+                50,
+                1,
+                40,
+                43,
+                30,
+                36
+            ],
+            "amount": 300
+        },
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                30,
+                42,
+                48,
+                3,
+                47,
+                5,
+                25
+            ],
+            "amount": 198
+        },
+        "expected_output": 5,
+        "predicted_output": 5,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                19,
+                16
+            ],
+            "amount": 886
+        },
+        "expected_output": 49,
+        "predicted_output": 49,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                49,
+                30,
+                15
+            ],
+            "amount": 521
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                42,
+                34,
+                16,
+                38,
+                45,
+                30,
+                24,
+                11,
+                50,
+                6
+            ],
+            "amount": 904
+        },
+        "expected_output": 19,
+        "predicted_output": 19,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                41,
+                5,
+                7,
+                33,
+                10,
+                38,
+                23,
+                16,
+                21
+            ],
+            "amount": 189
+        },
+        "expected_output": 5,
+        "predicted_output": 5,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                36,
+                49,
+                2,
+                20,
+                16,
+                22
+            ],
+            "amount": 443
+        },
+        "expected_output": 10,
+        "predicted_output": 10,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                43,
+                30,
+                23
+            ],
+            "amount": 899
+        },
+        "expected_output": 24,
+        "predicted_output": 24,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                38,
+                48,
+                33,
+                49,
+                43,
+                28,
+                44,
+                39,
+                2,
+                14
+            ],
+            "amount": 935
+        },
+        "expected_output": 20,
+        "predicted_output": 20,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                50,
+                32,
+                34,
+                3,
+                21,
+                16,
+                41
+            ],
+            "amount": 590
+        },
+        "expected_output": 14,
+        "predicted_output": 14,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                14,
+                19,
+                50
+            ],
+            "amount": 900
+        },
+        "expected_output": 18,
+        "predicted_output": 18,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                1,
+                50,
+                46,
+                15
+            ],
+            "amount": 121
+        },
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                45,
+                19,
+                27,
+                34,
+                48,
+                23,
+                17
+            ],
+            "amount": 719
+        },
+        "expected_output": 16,
+        "predicted_output": 16,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                50,
+                27,
+                30,
+                1
+            ],
+            "amount": 922
+        },
+        "expected_output": 22,
+        "predicted_output": 22,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                32,
+                42,
+                29
+            ],
+            "amount": 978
+        },
+        "expected_output": 24,
+        "predicted_output": 24,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                30,
+                4,
+                39,
+                21,
+                22,
+                23,
+                46,
+                40,
+                9
+            ],
+            "amount": 887
+        },
+        "expected_output": 20,
+        "predicted_output": 20,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                48,
+                14,
+                11,
+                1,
+                16,
+                5,
+                41,
+                19,
+                23,
+                21
+            ],
+            "amount": 216
+        },
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                49,
+                5,
+                42,
+                11,
+                25
+            ],
+            "amount": 778
+        },
+        "expected_output": 17,
+        "predicted_output": 17,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                50,
+                5,
+                3,
+                25,
+                36,
+                4,
+                47,
+                20
+            ],
+            "amount": 68
+        },
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                5,
+                34,
+                36,
+                10,
+                27,
+                17
+            ],
+            "amount": 116
+        },
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                35,
+                14,
+                13,
+                26,
+                44
+            ],
+            "amount": 58
+        },
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                33,
+                44,
+                35,
+                49,
+                29,
+                20,
+                23,
+                16,
+                40
+            ],
+            "amount": 162
+        },
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                28,
+                17,
+                47,
+                41,
+                37
+            ],
+            "amount": 199
+        },
+        "expected_output": 5,
+        "predicted_output": 5,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                21,
+                5,
+                9
+            ],
+            "amount": 583
+        },
+        "expected_output": 31,
+        "predicted_output": 31,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                33,
+                18,
+                29,
+                15,
+                16,
+                32,
+                14
+            ],
+            "amount": 284
+        },
+        "expected_output": 9,
+        "predicted_output": 9,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                46,
+                35,
+                22,
+                14,
+                4,
+                18,
+                6,
+                44
+            ],
+            "amount": 524
+        },
+        "expected_output": 12,
+        "predicted_output": 12,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                34,
+                28,
+                40,
+                42,
+                38
+            ],
+            "amount": 705
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                23,
+                4,
+                18,
+                46,
+                27,
+                7,
+                10
+            ],
+            "amount": 31
+        },
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                46,
+                9,
+                30
+            ],
+            "amount": 633
+        },
+        "expected_output": 17,
+        "predicted_output": 17,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                21,
+                33,
+                44,
+                48,
+                7
+            ],
+            "amount": 922
+        },
+        "expected_output": 20,
+        "predicted_output": 20,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                6,
+                22,
+                36,
+                12,
+                39
+            ],
+            "amount": 593
+        },
+        "expected_output": 17,
+        "predicted_output": 17,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                24
+            ],
+            "amount": 156
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                17,
+                11,
+                15,
+                14,
+                4,
+                37,
+                29,
+                19
+            ],
+            "amount": 777
+        },
+        "expected_output": 21,
+        "predicted_output": 21,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                38,
+                30,
+                1,
+                3,
+                23,
+                45,
+                34,
+                11
+            ],
+            "amount": 377
+        },
+        "expected_output": 9,
+        "predicted_output": 9,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                50
+            ],
+            "amount": 473
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                23,
+                16,
+                7
+            ],
+            "amount": 792
+        },
+        "expected_output": 39,
+        "predicted_output": 39,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                32,
+                17
+            ],
+            "amount": 572
+        },
+        "expected_output": 31,
+        "predicted_output": 31,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                21,
+                5,
+                30,
+                35,
+                43,
+                13,
+                25,
+                17
+            ],
+            "amount": 147
+        },
+        "expected_output": 5,
+        "predicted_output": 5,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                48,
+                45,
+                16,
+                39
+            ],
+            "amount": 845
+        },
+        "expected_output": 19,
+        "predicted_output": 19,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                19,
+                17
+            ],
+            "amount": 67
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "coins": [
+                44,
+                23,
+                48,
+                1,
+                28,
+                43,
+                21,
+                31,
+                41
+            ],
+            "amount": 732
+        },
+        "expected_output": 16,
+        "predicted_output": 16,
+        "result": "same"
+    }
+]

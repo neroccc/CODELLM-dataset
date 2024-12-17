@@ -1,0 +1,1684 @@
+[
+    {
+        "input": {
+            "nums": [
+                785754,
+                30088,
+                862526,
+                761135,
+                760125,
+                715956
+            ]
+        },
+        "expected_output": 30,
+        "predicted_output": 1418462164146148794,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                570026,
+                700962,
+                2395,
+                670892,
+                310080,
+                362822,
+                23493,
+                661193,
+                423198,
+                545818,
+                959087,
+                722191
+            ]
+        },
+        "expected_output": 698,
+        "predicted_output": 1571923928844796618,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                140707,
+                96496
+            ]
+        },
+        "expected_output": 1,
+        "predicted_output": 13577662672,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                370498,
+                1005,
+                677284,
+                190526,
+                483605,
+                708381,
+                856625,
+                307966
+            ]
+        },
+        "expected_output": 144,
+        "predicted_output": 571094302645677250,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                558332,
+                609276,
+                265260,
+                475606
+            ]
+        },
+        "expected_output": 26,
+        "predicted_output": 161791174845792624,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                131411,
+                251297,
+                252206,
+                606807,
+                396549,
+                568656
+            ]
+        },
+        "expected_output": 76,
+        "predicted_output": 89694302863276188,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                896876,
+                553682,
+                701814,
+                472851,
+                749841,
+                794773
+            ]
+        },
+        "expected_output": 14,
+        "predicted_output": 1498636954321407328,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                641662,
+                733725
+            ]
+        },
+        "expected_output": 1,
+        "predicted_output": 470803450950,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                798670,
+                26278
+            ]
+        },
+        "expected_output": 2,
+        "predicted_output": 20987450260,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                461704,
+                832381,
+                465180,
+                412522,
+                256645,
+                877798,
+                330595,
+                790654
+            ]
+        },
+        "expected_output": 69,
+        "predicted_output": 755001602834752776,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                341942,
+                757411
+            ]
+        },
+        "expected_output": 1,
+        "predicted_output": 258990632162,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                600885,
+                813672
+            ]
+        },
+        "expected_output": 27,
+        "predicted_output": 488923299720,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                696754,
+                519343,
+                440751,
+                299204
+            ]
+        },
+        "expected_output": 5,
+        "predicted_output": 251372071035257560,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                253326,
+                702394,
+                818805,
+                978604
+            ]
+        },
+        "expected_output": 47,
+        "predicted_output": 348680508003301584,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                273298,
+                347088,
+                891469,
+                27809,
+                926922,
+                673992,
+                469112,
+                316319
+            ]
+        },
+        "expected_output": 298,
+        "predicted_output": 608100499881043732,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                660985,
+                124036,
+                935487,
+                894244
+            ]
+        },
+        "expected_output": 27,
+        "predicted_output": 629646264430360060,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                388384,
+                326290,
+                117379,
+                750697
+            ]
+        },
+        "expected_output": 5,
+        "predicted_output": 95132816139121280,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                927998,
+                176590
+            ]
+        },
+        "expected_output": 2,
+        "predicted_output": 163875166820,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                292518,
+                884159
+            ]
+        },
+        "expected_output": 1,
+        "predicted_output": 258632422362,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                651020,
+                653235,
+                157007,
+                50940,
+                757861,
+                984724
+            ]
+        },
+        "expected_output": 87,
+        "predicted_output": 808141007124012680,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                261111,
+                624615,
+                174203,
+                647650,
+                255735,
+                431281
+            ]
+        },
+        "expected_output": 48,
+        "predicted_output": 178561193148175665,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                663908,
+                515371,
+                745805,
+                837502
+            ]
+        },
+        "expected_output": 5,
+        "predicted_output": 669869869365695488,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                240322,
+                795559
+            ]
+        },
+        "expected_output": 1,
+        "predicted_output": 191190329998,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                281944,
+                714963,
+                737731,
+                61243
+            ]
+        },
+        "expected_output": 27,
+        "predicted_output": 161450140691979256,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                224238,
+                712789,
+                788035,
+                164253,
+                746634,
+                984460,
+                17672,
+                255803,
+                894557,
+                694525
+            ]
+        },
+        "expected_output": 296,
+        "predicted_output": 759506710166609202,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                943067,
+                959863,
+                290143,
+                925222,
+                388520,
+                227939,
+                850809,
+                417571,
+                690999,
+                374434,
+                762074,
+                356317,
+                733090,
+                652596
+            ]
+        },
+        "expected_output": 922,
+        "predicted_output": 3678196315499998599,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                412059,
+                331558,
+                505719,
+                395252,
+                964738,
+                755091,
+                459602,
+                302820
+            ]
+        },
+        "expected_output": 1179,
+        "predicted_output": 809102394710543736,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                920790,
+                454856,
+                444714,
+                181858,
+                142328,
+                467108,
+                817593,
+                179162
+            ]
+        },
+        "expected_output": 55,
+        "predicted_output": 864066188060236980,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                148731,
+                230760,
+                725896,
+                56289,
+                276917,
+                824295,
+                956659,
+                197035,
+                471014,
+                773863,
+                309689,
+                247709,
+                573344,
+                455014
+            ]
+        },
+        "expected_output": 613,
+        "predicted_output": 459400518282733863,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                427904,
+                663006,
+                695643,
+                189592
+            ]
+        },
+        "expected_output": 28,
+        "predicted_output": 253791785195182080,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                685899,
+                661267,
+                645610,
+                837140,
+                467015,
+                213547,
+                130550,
+                938309
+            ]
+        },
+        "expected_output": 493,
+        "predicted_output": 1232250832820145528,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                134839,
+                373753,
+                82097,
+                501676,
+                782439,
+                575794,
+                593577,
+                12965,
+                456923,
+                523536
+            ]
+        },
+        "expected_output": 683,
+        "predicted_output": 253870895703400772,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                88911,
+                430855,
+                490096,
+                625983,
+                591259,
+                211817,
+                542503,
+                66603
+            ]
+        },
+        "expected_output": 18,
+        "predicted_output": 110690878485088746,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                860349,
+                408781,
+                110949,
+                694760
+            ]
+        },
+        "expected_output": 7,
+        "predicted_output": 244343500631883009,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                477588,
+                956010
+            ]
+        },
+        "expected_output": 6,
+        "predicted_output": 456578903880,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                409902,
+                218412,
+                618068,
+                44616,
+                842012,
+                583971,
+                304672,
+                369457
+            ]
+        },
+        "expected_output": 203,
+        "predicted_output": 589278297888997824,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                38205,
+                27090,
+                637585,
+                276981,
+                559271,
+                373591,
+                266865,
+                706822,
+                386753,
+                144032,
+                152700,
+                733384
+            ]
+        },
+        "expected_output": 442,
+        "predicted_output": 54561401919240795,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                701553,
+                95504,
+                947171,
+                895911,
+                515362,
+                905623,
+                181558,
+                255322,
+                696622,
+                842097,
+                972527,
+                973335,
+                418605,
+                395351
+            ]
+        },
+        "expected_output": 1949,
+        "predicted_output": 3804856867980949983,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                622373,
+                494692,
+                170984,
+                844595,
+                342563,
+                846943,
+                907513,
+                369640
+            ]
+        },
+        "expected_output": 194,
+        "predicted_output": 1392375113401869308,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                884259,
+                418970,
+                861160,
+                790579,
+                117986,
+                98038,
+                398353,
+                526143,
+                26151,
+                570111,
+                858912,
+                827834
+            ]
+        },
+        "expected_output": 613,
+        "predicted_output": 2711852082199454751,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                767621,
+                498213,
+                394163,
+                794636,
+                242850,
+                660226,
+                158544,
+                499155,
+                810647,
+                57387
+            ]
+        },
+        "expected_output": 151,
+        "predicted_output": 1393191659868762840,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                357521,
+                132437,
+                418716,
+                26060,
+                543905,
+                626503,
+                685090,
+                899651,
+                821092,
+                906509,
+                103584,
+                433373,
+                689329,
+                384211
+            ]
+        },
+        "expected_output": 159,
+        "predicted_output": 1469043320819799537,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                305340,
+                504439,
+                518016,
+                418029
+            ]
+        },
+        "expected_output": 25,
+        "predicted_output": 145907845071630180,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                880580,
+                645311,
+                212267,
+                178077,
+                670731,
+                430506,
+                288477,
+                29187,
+                239478,
+                635413,
+                958892,
+                319902
+            ]
+        },
+        "expected_output": 5060,
+        "predicted_output": 1746252465074834000,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                996839,
+                915136,
+                262332,
+                186334,
+                745519,
+                126363,
+                73025,
+                240470,
+                350441,
+                384413,
+                941607,
+                892686
+            ]
+        },
+        "expected_output": 100,
+        "predicted_output": 2275820445790252494,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                56003,
+                969402,
+                795808,
+                130415,
+                432636,
+                18133,
+                746271,
+                198102
+            ]
+        },
+        "expected_output": 39,
+        "predicted_output": 88846267596336312,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                286659,
+                177641,
+                641235,
+                232400,
+                49947,
+                438262,
+                502871,
+                169879,
+                32342,
+                293261
+            ]
+        },
+        "expected_output": 937,
+        "predicted_output": 218663611438603761,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                94457,
+                679137,
+                810445,
+                30925,
+                673213,
+                944680
+            ]
+        },
+        "expected_output": 288,
+        "predicted_output": 163597335594437239,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                635385,
+                297726,
+                534490,
+                934640,
+                747753,
+                291118,
+                514440,
+                527311,
+                5266,
+                439247,
+                786462,
+                258271,
+                370781,
+                598716
+            ]
+        },
+        "expected_output": 854,
+        "predicted_output": 1976973145418928510,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                187148,
+                730221,
+                713148,
+                274982,
+                548341,
+                228696,
+                294942,
+                604698
+            ]
+        },
+        "expected_output": 557,
+        "predicted_output": 240112933248329388,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                765956,
+                487823,
+                779285,
+                446627,
+                781212,
+                648996
+            ]
+        },
+        "expected_output": 39,
+        "predicted_output": 1213364067263723444,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                488446,
+                197468,
+                146948,
+                999828,
+                883126,
+                815898,
+                607715,
+                848981,
+                669677,
+                646696,
+                846433,
+                806562,
+                193783,
+                725101
+            ]
+        },
+        "expected_output": 476,
+        "predicted_output": 2749592432178159148,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                64880,
+                527808,
+                275490,
+                954896,
+                874174,
+                422384,
+                731288,
+                136578,
+                524729,
+                81254
+            ]
+        },
+        "expected_output": 287,
+        "predicted_output": 158516979372085280,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                372393,
+                368483,
+                161318,
+                435629,
+                131561,
+                996547,
+                473531,
+                330384,
+                171485,
+                181249,
+                702617,
+                327209,
+                398991,
+                185037
+            ]
+        },
+        "expected_output": 297,
+        "predicted_output": 703602145909031733,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                862159,
+                929404,
+                539577,
+                160083,
+                451646,
+                454378,
+                594756,
+                527927,
+                594092,
+                894926
+            ]
+        },
+        "expected_output": 497,
+        "predicted_output": 2051885939086707182,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                257858,
+                392553,
+                813939,
+                363742,
+                46134,
+                630938,
+                596480,
+                406540,
+                552920,
+                763316,
+                808977,
+                534014,
+                654336,
+                547418
+            ]
+        },
+        "expected_output": 4123,
+        "predicted_output": 997363469969925208,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                851156,
+                303363,
+                244339,
+                538043
+            ]
+        },
+        "expected_output": 3,
+        "predicted_output": 174987973823670532,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                964714,
+                476380,
+                47363,
+                343787
+            ]
+        },
+        "expected_output": 5,
+        "predicted_output": 157994807693552160,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                885112,
+                296531,
+                757783,
+                784146,
+                636666,
+                164294,
+                424233,
+                704698,
+                661250,
+                200968,
+                949040,
+                370133
+            ]
+        },
+        "expected_output": 5641,
+        "predicted_output": 2949205753909216880,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                676687,
+                660645
+            ]
+        },
+        "expected_output": 1,
+        "predicted_output": 447049883115,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                34149,
+                28099,
+                254348,
+                597021,
+                127489,
+                450884
+            ]
+        },
+        "expected_output": 19,
+        "predicted_output": 14622098663079027,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                507251,
+                659096
+            ]
+        },
+        "expected_output": 1,
+        "predicted_output": 334327105096,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                920697,
+                364106,
+                817866,
+                74543,
+                424311,
+                133832
+            ]
+        },
+        "expected_output": 29,
+        "predicted_output": 645966734551350060,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                177730,
+                96336,
+                738837,
+                826902,
+                516768,
+                571438,
+                534504,
+                95515,
+                624762,
+                301786,
+                502597,
+                281481
+            ]
+        },
+        "expected_output": 653,
+        "predicted_output": 448911537666509890,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                20725,
+                379296,
+                485949,
+                870765,
+                875377,
+                599443,
+                845632,
+                513005,
+                6007,
+                533286,
+                576793,
+                936377,
+                651376,
+                893828
+            ]
+        },
+        "expected_output": 651,
+        "predicted_output": 106704641633999350,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                272122,
+                314858
+            ]
+        },
+        "expected_output": 2,
+        "predicted_output": 85679788676,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                352098,
+                20510,
+                808086,
+                969504,
+                14788,
+                106991,
+                621100,
+                532083,
+                796364,
+                909384,
+                115901,
+                642821
+            ]
+        },
+        "expected_output": 296,
+        "predicted_output": 1220074397878763268,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                25910,
+                553678,
+                914608,
+                847818
+            ]
+        },
+        "expected_output": 6,
+        "predicted_output": 33211956387743860,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                49657,
+                219091,
+                5881,
+                226791,
+                705328,
+                270210,
+                878310,
+                522500,
+                584420,
+                173795,
+                737136,
+                823837,
+                943969,
+                869529
+            ]
+        },
+        "expected_output": 3099,
+        "predicted_output": 210048371640433542,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                33060,
+                967333,
+                816425,
+                426485,
+                519635,
+                659803,
+                223182,
+                595443
+            ]
+        },
+        "expected_output": 441,
+        "predicted_output": 69270524459771520,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                268221,
+                625717
+            ]
+        },
+        "expected_output": 1,
+        "predicted_output": 167830439457,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                728428,
+                538998,
+                458790,
+                320018,
+                844489,
+                983575,
+                37889,
+                128669,
+                916075,
+                423850,
+                115046,
+                275853
+            ]
+        },
+        "expected_output": 638,
+        "predicted_output": 2113319385177443120,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                825763,
+                251299,
+                946092,
+                134049,
+                781064,
+                831175,
+                683708,
+                456425,
+                122982,
+                179844,
+                685549,
+                653046
+            ]
+        },
+        "expected_output": 668,
+        "predicted_output": 2697644395173735062,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                612119,
+                960508,
+                252013,
+                634711
+            ]
+        },
+        "expected_output": 3,
+        "predicted_output": 373175871530441824,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                710213,
+                534163,
+                94211,
+                321943,
+                173203,
+                554098,
+                428936,
+                152932,
+                330528,
+                298759
+            ]
+        },
+        "expected_output": 1986,
+        "predicted_output": 588450317712208462,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                425861,
+                151272,
+                700050,
+                247728,
+                783235,
+                364735,
+                195987,
+                855719,
+                507423,
+                271627
+            ]
+        },
+        "expected_output": 546,
+        "predicted_output": 807633520711534645,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                905289,
+                828774,
+                195229,
+                534224
+            ]
+        },
+        "expected_output": 7,
+        "predicted_output": 400818325353103350,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                997004,
+                641512,
+                770929,
+                403115,
+                682041,
+                250916,
+                766523,
+                903202,
+                880789,
+                993070,
+                62031,
+                523852
+            ]
+        },
+        "expected_output": 1448,
+        "predicted_output": 4472397723520027188,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                263502,
+                129901,
+                331731,
+                477528,
+                464957,
+                835989,
+                717474,
+                405913
+            ]
+        },
+        "expected_output": 4834,
+        "predicted_output": 448813596697237134,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                600056,
+                77016,
+                511313,
+                209305,
+                672921,
+                548066,
+                851114,
+                565095,
+                360832,
+                552441
+            ]
+        },
+        "expected_output": 614,
+        "predicted_output": 1261874201767597784,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                122200,
+                522445,
+                981186,
+                770764,
+                463755,
+                622925,
+                206367,
+                373907,
+                684803,
+                672785
+            ]
+        },
+        "expected_output": 175,
+        "predicted_output": 350091167394163000,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                100923,
+                774618,
+                986730,
+                426607,
+                486652,
+                474488,
+                376224,
+                831821,
+                860787,
+                142770,
+                668161,
+                642624,
+                180832,
+                13317
+            ]
+        },
+        "expected_output": 961,
+        "predicted_output": 399092577912044982,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                319813,
+                368346,
+                954022,
+                201856,
+                716899,
+                328048,
+                542429,
+                922308,
+                309885,
+                849658
+            ]
+        },
+        "expected_output": 452,
+        "predicted_output": 873857355344634388,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                564393,
+                243216,
+                135806,
+                527401,
+                12469,
+                977042,
+                948431,
+                73685,
+                348403,
+                564352,
+                192987,
+                360337
+            ]
+        },
+        "expected_output": 268,
+        "predicted_output": 1303086526269968016,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                320170,
+                46320,
+                312572,
+                631798,
+                623674,
+                917157,
+                148477,
+                254027,
+                374654,
+                508516
+            ]
+        },
+        "expected_output": 95,
+        "predicted_output": 548175158986726760,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                39410,
+                186548,
+                104004,
+                496048,
+                562733,
+                861689,
+                2796,
+                261782,
+                24536,
+                122285,
+                776370,
+                721839
+            ]
+        },
+        "expected_output": 2429,
+        "predicted_output": 82208629338834530,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                177869,
+                809922,
+                875090,
+                915982,
+                803498,
+                44155
+            ]
+        },
+        "expected_output": 20,
+        "predicted_output": 405859758961057452,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                901226,
+                510837,
+                596250,
+                892265
+            ]
+        },
+        "expected_output": 11,
+        "predicted_output": 753965742199341162,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                391037,
+                582844,
+                424795,
+                569999,
+                257703,
+                894292,
+                104143,
+                457644,
+                398503,
+                588736,
+                57292,
+                857678,
+                380898,
+                559947
+            ]
+        },
+        "expected_output": 1671,
+        "predicted_output": 1122525456607209771,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                649112,
+                490152
+            ]
+        },
+        "expected_output": 8,
+        "predicted_output": 318163545024,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                256460,
+                258221,
+                177450,
+                327794,
+                398394,
+                851251,
+                408311,
+                8367
+            ]
+        },
+        "expected_output": 52,
+        "predicted_output": 237149731175237540,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                355089,
+                382773,
+                117301,
+                773934,
+                800749,
+                614295,
+                19078,
+                796069,
+                102709,
+                726661,
+                446841,
+                309405
+            ]
+        },
+        "expected_output": 2445,
+        "predicted_output": 1043363219540882394,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                457296,
+                765549,
+                231964,
+                878176
+            ]
+        },
+        "expected_output": 33,
+        "predicted_output": 307434395654216208,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                562285,
+                852925,
+                249783,
+                187697,
+                389472,
+                899970,
+                353250,
+                343863
+            ]
+        },
+        "expected_output": 142,
+        "predicted_output": 678673368757991125,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                228327,
+                834733,
+                649161,
+                808399,
+                361086,
+                369270,
+                643108,
+                158543,
+                348707,
+                998708,
+                555269,
+                337560,
+                808778,
+                871631
+            ]
+        },
+        "expected_output": 1410,
+        "predicted_output": 934225197630731391,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                721977,
+                685560,
+                573204,
+                333437,
+                239424,
+                873308,
+                169762,
+                270350,
+                860651,
+                410710,
+                789131,
+                364308,
+                149388,
+                456035
+            ]
+        },
+        "expected_output": 5031,
+        "predicted_output": 2005618737341402373,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                927762,
+                837903,
+                908086,
+                130874,
+                992601,
+                830045,
+                726110,
+                394453,
+                916149,
+                602488,
+                979253,
+                607045
+            ]
+        },
+        "expected_output": 1416,
+        "predicted_output": 5093873469415764066,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                971783,
+                738370
+            ]
+        },
+        "expected_output": 1,
+        "predicted_output": 717535413710,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                308755,
+                933520
+            ]
+        },
+        "expected_output": 5,
+        "predicted_output": 288228967600,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                572349,
+                915339,
+                675847,
+                858182,
+                318514,
+                745826
+            ]
+        },
+        "expected_output": 14,
+        "predicted_output": 1052369069457600342,
+        "result": "different"
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "input": "nkcdoqfepcuuumoztobv",
+        "expected_output": 17,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "dpkipq",
+        "expected_output": 5,
+        "predicted_output": 5,
+        "result": "same"
+    },
+    {
+        "input": "knyadub",
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": "l",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "izajvkxecoofgbfzhadq",
+        "expected_output": 18,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "hc",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "ucxmwro",
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": "seqpzfgkqfkqw",
+        "expected_output": 12,
+        "predicted_output": 12,
+        "result": "same"
+    },
+    {
+        "input": "nhhytioqleqifk",
+        "expected_output": 12,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "t",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "eufenhipfgdxiooqdus",
+        "expected_output": 17,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "p",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "kwvqztwyk",
+        "expected_output": 8,
+        "predicted_output": 8,
+        "result": "same"
+    },
+    {
+        "input": "cmdxhjeureinvvdrxsu",
+        "expected_output": 17,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "cranjvhxxs",
+        "expected_output": 8,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "niajgivmu",
+        "expected_output": 8,
+        "predicted_output": 8,
+        "result": "same"
+    },
+    {
+        "input": "o",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "jqd",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "dlsgz",
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": "h",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "mwupdmzi",
+        "expected_output": 7,
+        "predicted_output": 7,
+        "result": "same"
+    },
+    {
+        "input": "zjjlqomc",
+        "expected_output": 6,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "ybvatugmae",
+        "expected_output": 9,
+        "predicted_output": 9,
+        "result": "same"
+    },
+    {
+        "input": "ljjbmvrsakuepe",
+        "expected_output": 10,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "yjkareyajirny",
+        "expected_output": 12,
+        "predicted_output": 12,
+        "result": "same"
+    },
+    {
+        "input": "zeedhbyizzzcssdtt",
+        "expected_output": 11,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "fo",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "sfwininehvrlll",
+        "expected_output": 9,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "lgidshwjybjezhfpb",
+        "expected_output": 16,
+        "predicted_output": 16,
+        "result": "same"
+    },
+    {
+        "input": "ycngyrwmechxnxa",
+        "expected_output": 12,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "qeljghkanucpi",
+        "expected_output": 12,
+        "predicted_output": 12,
+        "result": "same"
+    },
+    {
+        "input": "bmu",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "kucqnhycqf",
+        "expected_output": 9,
+        "predicted_output": 9,
+        "result": "same"
+    },
+    {
+        "input": "pvybzlfxaujsep",
+        "expected_output": 13,
+        "predicted_output": 13,
+        "result": "same"
+    },
+    {
+        "input": "lrhmgqxouyryyraxtvw",
+        "expected_output": 15,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "hkucyvmmoxuudrm",
+        "expected_output": 12,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "o",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "scfnn",
+        "expected_output": 3,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "bzyludxpj",
+        "expected_output": 8,
+        "predicted_output": 8,
+        "result": "same"
+    },
+    {
+        "input": "wvnyvexnvsrj",
+        "expected_output": 11,
+        "predicted_output": 11,
+        "result": "same"
+    },
+    {
+        "input": "xatipxxnm",
+        "expected_output": 7,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "lsf",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "eiuld",
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": "qorblraerfcjekmfmvl",
+        "expected_output": 16,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "luqjlllrln",
+        "expected_output": 6,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "nqkhlsq",
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": "pjr",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "ruaopqrufqohhm",
+        "expected_output": 12,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "u",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "oekwuetttkdhimlrjl",
+        "expected_output": 15,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "xralqki",
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": "guldasgri",
+        "expected_output": 8,
+        "predicted_output": 8,
+        "result": "same"
+    },
+    {
+        "input": "d",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "zzkrhtc",
+        "expected_output": 5,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "fqhkvysyoedqbpudk",
+        "expected_output": 14,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "fqkxliaa",
+        "expected_output": 6,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "ndd",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "whlhtjmmyr",
+        "expected_output": 6,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "mwnffmg",
+        "expected_output": 5,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "taivdtwg",
+        "expected_output": 7,
+        "predicted_output": 7,
+        "result": "same"
+    },
+    {
+        "input": "hkzwgkrhuoiuasppkk",
+        "expected_output": 15,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "ptqskbjrmp",
+        "expected_output": 9,
+        "predicted_output": 9,
+        "result": "same"
+    },
+    {
+        "input": "cdcmfkzapd",
+        "expected_output": 7,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "dsbe",
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": "uitczswnagnzfqoklcdw",
+        "expected_output": 19,
+        "predicted_output": 19,
+        "result": "same"
+    },
+    {
+        "input": "yltjdmxwhhzcyecdc",
+        "expected_output": 13,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "vfwh",
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": "ntwdlgjvimfhnppw",
+        "expected_output": 14,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "nbnpd",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "od",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "vyddlxhomhevozm",
+        "expected_output": 13,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "odsduirceydpgtqlmau",
+        "expected_output": 16,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "xccstblplcimnbl",
+        "expected_output": 11,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "kosxhsqegizd",
+        "expected_output": 11,
+        "predicted_output": 11,
+        "result": "same"
+    },
+    {
+        "input": "twagncmarjqbrr",
+        "expected_output": 12,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "ngeehzovohfuxqsdg",
+        "expected_output": 13,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "cbrwyrsf",
+        "expected_output": 7,
+        "predicted_output": 7,
+        "result": "same"
+    },
+    {
+        "input": "a",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "wnjxdycwiq",
+        "expected_output": 9,
+        "predicted_output": 9,
+        "result": "same"
+    },
+    {
+        "input": "xep",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "ckbxozmaomewkszkvb",
+        "expected_output": 17,
+        "predicted_output": 17,
+        "result": "same"
+    },
+    {
+        "input": "ticaiytvlcyznvly",
+        "expected_output": 15,
+        "predicted_output": 15,
+        "result": "same"
+    },
+    {
+        "input": "pksumdf",
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": "nfpw",
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": "zu",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "emdryzwjyn",
+        "expected_output": 9,
+        "predicted_output": 9,
+        "result": "same"
+    },
+    {
+        "input": "heeqmaatdaxkzygqj",
+        "expected_output": 14,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "gquuhzxtmvfklyvx",
+        "expected_output": 14,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "hqfqitcjxfl",
+        "expected_output": 8,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "xqpsqrtjyptu",
+        "expected_output": 11,
+        "predicted_output": 11,
+        "result": "same"
+    },
+    {
+        "input": "gozscb",
+        "expected_output": 5,
+        "predicted_output": 5,
+        "result": "same"
+    },
+    {
+        "input": "ax",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "qdrv",
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": "ugllddfvq",
+        "expected_output": 6,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "baehoejkccoy",
+        "expected_output": 10,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "pz",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "oghm",
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": "vrcjqqyuazitdvbcmn",
+        "expected_output": 16,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "mcoerteuhqk",
+        "expected_output": 10,
+        "predicted_output": 10,
+        "result": "same"
+    },
+    {
+        "input": "emgiuknvi",
+        "expected_output": 8,
+        "predicted_output": 8,
+        "result": "same"
+    }
+]

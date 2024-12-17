@@ -1,0 +1,632 @@
+[
+    {
+        "input": 428,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 330,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 671,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 74,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 199,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 844,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 485,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 29,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 538,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 484,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 901,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 941,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 667,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 846,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 388,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 43,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 743,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 61,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 939,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 348,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 559,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 645,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 258,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 728,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 236,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 915,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 83,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 461,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 913,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 311,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 522,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 318,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 446,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 327,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 579,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 251,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 247,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 219,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 705,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 784,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 56,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 432,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 644,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 123,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 496,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 180,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 875,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 470,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 963,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 842,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 767,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 308,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 507,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 175,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 195,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 787,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 29,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 269,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 290,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 543,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 244,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 927,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 589,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 945,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 604,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 18,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 488,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 97,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 777,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 876,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 934,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 766,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 42,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 84,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 90,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 615,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 189,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 239,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 605,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 399,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 785,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 941,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 318,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 134,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 581,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 601,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 706,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 492,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 467,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 558,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 257,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 656,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 80,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 382,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 778,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 721,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 514,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 6,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 509,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 758,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 1,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 2,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 3,
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": 1000,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": 10,
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    }
+]

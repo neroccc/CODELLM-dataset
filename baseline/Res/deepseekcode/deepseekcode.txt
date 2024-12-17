@@ -1,0 +1,249 @@
+5.py: 31.20%
+10.py: 100.00%
+22.py: 100.00%
+32.py: 100.00%
+42.py: 100.00%
+44.py: 100.00%
+45.py: 100.00%
+53.py: 100.00%
+55.py: 100.00%
+62.py: 100.00%
+63.py: 100.00%
+64.py: 100.00%
+70.py: 100.00%
+72.py: 100.00%
+85.py: 99.00%
+87.py: 100.00%
+91.py: 100.00%
+95.py: 0.00%
+96.py: 100.00%
+97.py: 50.50%
+115.py: 100.00%
+118.py: 100.00%
+119.py: 5.88%
+120.py: 100.00%
+121.py: 100.00%
+122.py: 100.00%
+123.py: 100.00%
+124.py: 100.00%
+131.py: 100.00%
+132.py: 100.00%
+Error in 139.py: list index out of range
+Error in 140.py: can only concatenate str (not "list") to str
+152.py: 100.00%
+174.py: 100.00%
+188.py: 100.00%
+198.py: 100.00%
+213.py: 100.00%
+221.py: 100.00%
+Error in 233.py: invalid literal for int() with base 10: ''
+241.py: 26.00%
+264.py: 100.00%
+279.py: 100.00%
+300.py: 100.00%
+309.py: 100.00%
+312.py: 100.00%
+313.py: 100.00%
+322.py: 100.00%
+329.py: 100.00%
+337.py: 100.00%
+338.py: 100.00%
+343.py: 100.00%
+357.py: 100.00%
+368.py: 35.00%
+Error in 375.py: list index out of range
+376.py: 100.00%
+377.py: 100.00%
+392.py: 100.00%
+396.py: 100.00%
+397.py: 100.00%
+403.py: 100.00%
+410.py: 26.00%
+413.py: 100.00%
+416.py: 100.00%
+435.py: 100.00%
+446.py: 26.00%
+458.py: 62.00%
+Error in 464.py: unsupported operand type(s) for +: 'range' and 'range'
+466.py: 91.20%
+467.py: 1.00%
+Error in 472.py: list assignment index out of range
+473.py: 100.00%
+474.py: 100.00%
+486.py: 100.00%
+488.py: 97.80%
+494.py: 100.00%
+514.py: 0.00%
+516.py: 100.00%
+518.py: 100.00%
+526.py: 100.00%
+542.py: 100.00%
+546.py: 100.00%
+552.py: 100.00%
+553.py: 100.00%
+576.py: 0.00%
+583.py: 100.00%
+600.py: 0.00%
+629.py: 100.00%
+Error in 638.py: maximum recursion depth exceeded
+639.py: 0.00%
+646.py: 100.00%
+647.py: 100.00%
+650.py: 100.00%
+664.py: 100.00%
+Error in 673.py: Solution.findLongestChain() got an unexpected keyword argument 'nums'
+678.py: 100.00%
+688.py: 72.00%
+689.py: 6.00%
+691.py: 47.50%
+698.py: TLE: 698.py exceeded time limit of 30 seconds.
+712.py: TLE: 712.py exceeded time limit of 30 seconds.
+714.py: 100.00%
+718.py: 100.00%
+730.py: 3.00%
+740.py: 66.00%
+Error in 741.py: expected ':' (741.py, line 22)
+746.py: 100.00%
+764.py: 100.00%
+787.py: 100.00%
+790.py: 100.00%
+792.py: 100.00%
+799.py: 100.00%
+801.py: 98.00%
+805.py: 18.00%
+808.py: 100.00%
+813.py: 0.00%
+823.py: 100.00%
+828.py: 0.00%
+834.py: 100.00%
+837.py: 29.00%
+838.py: 55.00%
+871.py: 47.00%
+873.py: 100.00%
+877.py: 100.00%
+879.py: 22.00%
+887.py: 100.00%
+894.py: 100.00%
+898.py: 100.00%
+902.py: 0.00%
+903.py: 0.00%
+907.py: 100.00%
+Error in 913.py: list index out of range
+918.py: 100.00%
+920.py: 0.00%
+926.py: 0.00%
+931.py: 100.00%
+935.py: 100.00%
+940.py: 2.88%
+Error in 943.py: '[' was never closed (943.py, line 36)
+956.py: 6.80%
+960.py: 0.00%
+Error in 964.py: maximum recursion depth exceeded
+968.py: 28.00%
+Error in 975.py: expected ':' (975.py, line 14)
+978.py: 1.90%
+983.py: 100.00%
+1000.py: 0.00%
+1012.py: 0.00%
+1014.py: 100.00%
+1024.py: 81.55%
+1025.py: 100.00%
+Error in 1027.py: max() iterable argument is empty
+1031.py: 0.00%
+1035.py: 100.00%
+1039.py: 100.00%
+1043.py: 100.00%
+1048.py: 100.00%
+1049.py: 100.00%
+1092.py: 6.80%
+1105.py: 4.85%
+1130.py: 100.00%
+1137.py: 100.00%
+1139.py: 100.00%
+1140.py: 3.85%
+1147.py: 5.71%
+1186.py: 12.38%
+1187.py: 52.38%
+1218.py: 100.00%
+1220.py: 100.00%
+Error in 1223.py: name 'j2' is not defined
+1227.py: 89.52%
+Error in 1255.py: '(' was never closed (1255.py, line 23)
+1262.py: 100.00%
+1277.py: 100.00%
+1289.py: 100.00%
+Error in 1301.py: '[' was never closed (1301.py, line 16)
+1312.py: 100.00%
+1320.py: 0.60%
+Error in 1326.py: cannot access local variable 'farthest' where it is not associated with a value
+1335.py: 6.00%
+1340.py: 0.00%
+1349.py: 13.00%
+1359.py: No Solution class found in the file.
+1372.py: 0.00%
+Error in 1388.py: cannot access local variable 'n' where it is not associated with a value
+1395.py: TLE: 1395.py exceeded time limit of 30 seconds.
+Error in 1397.py: string index out of range
+1402.py: 59.00%
+1411.py: 0.00%
+Error in 1434.py: list index out of range
+1444.py: 15.00%
+1449.py: 100.00%
+1458.py: 100.00%
+Error in 1463.py: list index out of range
+Error in 1473.py: '[' was never closed (1473.py, line 18)
+1477.py: 100.00%
+1478.py: 3.00%
+1483.py: No Solution class found in the file.
+1493.py: 0.00%
+1510.py: TLE: 1510.py exceeded time limit of 30 seconds.
+1524.py: 1.00%
+1525.py: 100.00%
+1526.py: 100.00%
+Error in 1531.py: cannot access local variable 'len' where it is not associated with a value
+1537.py: 100.00%
+1547.py: 0.00%
+1553.py: 0.00%
+1563.py: TLE: 1563.py exceeded time limit of 30 seconds.
+1567.py: 100.00%
+Error in 1569.py: multiple starred expressions in assignment (1569.py, line 21)
+1575.py: 100.00%
+1611.py: 100.00%
+Error in 1617.py: Solution.countSubTrees() missing 1 required positional argument: 'labels'
+1621.py: 0.00%
+1626.py: 100.00%
+1638.py: 0.00%
+1643.py: 9.00%
+1653.py: 0.00%
+1659.py: 0.00%
+1668.py: 100.00%
+1690.py: 6.00%
+1696.py: 100.00%
+1723.py: 97.00%
+1728.py: 0.00%
+1751.py: 71.00%
+1755.py: 100.00%
+1770.py: 100.00%
+Error in 1771.py: list assignment index out of range
+Error in 1787.py: cannot fit 'int' into an index-sized integer
+Error in 1799.py: gcd() missing 1 required positional argument: 'y'
+Error in 1815.py: tuple index out of range
+1824.py: 2.00%
+1866.py: 0.00%
+1871.py: 54.00%
+1872.py: 100.00%
+1879.py: 0.00%
+1884.py: 0.00%
+1888.py: 4.30%
+Error in 1896.py: '[' was never closed (1896.py, line 18)
+Error in 1900.py: '{' was never closed (1900.py, line 19)
+1911.py: 100.00%
+1916.py: 1.00%
+Error in 1928.py: '(' was never closed (1928.py, line 24)
+1947.py: 100.00%
+1955.py: 100.00%
+1976.py: 100.00%
+1977.py: 10.00%
+1986.py: 100.00%
+1987.py: 0.00%
+1994.py: 0.00%

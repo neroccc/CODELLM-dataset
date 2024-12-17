@@ -1,0 +1,602 @@
+[
+    {
+        "input": 2866,
+        "expected_output": 85011805,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2690,
+        "expected_output": 426604979,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1084,
+        "expected_output": 804596501,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 920,
+        "expected_output": 107891763,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4216,
+        "expected_output": 542172637,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4312,
+        "expected_output": 982203752,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1882,
+        "expected_output": 387269928,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1683,
+        "expected_output": 817243966,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1161,
+        "expected_output": 600422360,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1683,
+        "expected_output": 817243966,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4044,
+        "expected_output": 441158199,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 3852,
+        "expected_output": 939352273,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 3207,
+        "expected_output": 402118845,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2563,
+        "expected_output": 525141936,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4559,
+        "expected_output": 405481624,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 3151,
+        "expected_output": 79967269,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1635,
+        "expected_output": 386639892,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1930,
+        "expected_output": 267558065,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 3343,
+        "expected_output": 696620076,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 947,
+        "expected_output": 440984478,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2802,
+        "expected_output": 817187852,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1914,
+        "expected_output": 514213459,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2032,
+        "expected_output": 289945688,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 3454,
+        "expected_output": 254530669,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4335,
+        "expected_output": 206633015,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4535,
+        "expected_output": 922727893,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 5000,
+        "expected_output": 406880451,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4748,
+        "expected_output": 50233605,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 486,
+        "expected_output": 369123843,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2763,
+        "expected_output": 681278462,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1376,
+        "expected_output": 511428630,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1281,
+        "expected_output": 889431199,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1260,
+        "expected_output": 635926784,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2110,
+        "expected_output": 424659465,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 3755,
+        "expected_output": 400756545,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4095,
+        "expected_output": 852995606,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4395,
+        "expected_output": 762254527,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2888,
+        "expected_output": 644387867,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1436,
+        "expected_output": 96587122,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1735,
+        "expected_output": 87060996,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4221,
+        "expected_output": 54501032,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 527,
+        "expected_output": 799981676,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 3123,
+        "expected_output": 755977457,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 355,
+        "expected_output": 431184760,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 410,
+        "expected_output": 329378324,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4330,
+        "expected_output": 412879405,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 3496,
+        "expected_output": 981460852,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4732,
+        "expected_output": 395716636,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4556,
+        "expected_output": 165403101,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4168,
+        "expected_output": 766090170,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 3518,
+        "expected_output": 395436097,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1230,
+        "expected_output": 819462819,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1961,
+        "expected_output": 350569751,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4252,
+        "expected_output": 580602283,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 981,
+        "expected_output": 504740961,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4773,
+        "expected_output": 644845934,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1394,
+        "expected_output": 804499702,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2043,
+        "expected_output": 604620709,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 301,
+        "expected_output": 857804352,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2267,
+        "expected_output": 492027928,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4271,
+        "expected_output": 341349049,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 816,
+        "expected_output": 2118911,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2710,
+        "expected_output": 112029774,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2861,
+        "expected_output": 56550024,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4265,
+        "expected_output": 161357217,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4093,
+        "expected_output": 423939777,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2405,
+        "expected_output": 182211695,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4383,
+        "expected_output": 986999912,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 687,
+        "expected_output": 784469547,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4836,
+        "expected_output": 302080859,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1362,
+        "expected_output": 880551014,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 3258,
+        "expected_output": 584367743,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 617,
+        "expected_output": 516815189,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2520,
+        "expected_output": 499018248,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2228,
+        "expected_output": 167150109,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4697,
+        "expected_output": 256047274,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4093,
+        "expected_output": 423939777,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1346,
+        "expected_output": 829844495,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2686,
+        "expected_output": 52111514,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1720,
+        "expected_output": 600129069,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4322,
+        "expected_output": 356674805,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2226,
+        "expected_output": 94515576,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4495,
+        "expected_output": 117053645,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2593,
+        "expected_output": 89373176,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 819,
+        "expected_output": 102460753,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2260,
+        "expected_output": 730801417,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1616,
+        "expected_output": 25984953,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4283,
+        "expected_output": 299390073,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1967,
+        "expected_output": 642757404,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4474,
+        "expected_output": 749799600,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 3276,
+        "expected_output": 810080899,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 37,
+        "expected_output": 951454324,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4433,
+        "expected_output": 51489691,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4847,
+        "expected_output": 853792112,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 1455,
+        "expected_output": 898649518,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 4979,
+        "expected_output": 285245711,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 327,
+        "expected_output": 884831841,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 824,
+        "expected_output": 356532768,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2624,
+        "expected_output": 69928419,
+        "predicted_output": null,
+        "result": "different"
+    },
+    {
+        "input": 2557,
+        "expected_output": 758652146,
+        "predicted_output": null,
+        "result": "different"
+    }
+]

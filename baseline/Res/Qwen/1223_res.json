@@ -1,0 +1,1682 @@
+[
+    {
+        "input": {
+            "n": 42,
+            "rollMax": [
+                2,
+                6,
+                13,
+                10,
+                9,
+                12
+            ]
+        },
+        "expected_output": 537386494,
+        "predicted_output": 691177423,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 22,
+            "rollMax": [
+                2,
+                3,
+                9,
+                15,
+                4,
+                14
+            ]
+        },
+        "expected_output": 200767318,
+        "predicted_output": 278177551,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 27,
+            "rollMax": [
+                8,
+                14,
+                9,
+                2,
+                8,
+                1
+            ]
+        },
+        "expected_output": 320976378,
+        "predicted_output": 348687622,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 5,
+            "rollMax": [
+                11,
+                12,
+                8,
+                11,
+                8,
+                15
+            ]
+        },
+        "expected_output": 7776,
+        "predicted_output": 7776,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 23,
+            "rollMax": [
+                8,
+                3,
+                2,
+                2,
+                13,
+                11
+            ]
+        },
+        "expected_output": 146710873,
+        "predicted_output": 998110677,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 12,
+            "rollMax": [
+                2,
+                2,
+                12,
+                13,
+                12,
+                11
+            ]
+        },
+        "expected_output": 8884451,
+        "predicted_output": 188652208,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 23,
+            "rollMax": [
+                9,
+                13,
+                13,
+                8,
+                9,
+                7
+            ]
+        },
+        "expected_output": 149468684,
+        "predicted_output": 535338861,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 24,
+            "rollMax": [
+                9,
+                4,
+                15,
+                2,
+                6,
+                12
+            ]
+        },
+        "expected_output": 669056626,
+        "predicted_output": 277291112,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 44,
+            "rollMax": [
+                6,
+                3,
+                10,
+                14,
+                3,
+                11
+            ]
+        },
+        "expected_output": 544722077,
+        "predicted_output": 702781227,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 25,
+            "rollMax": [
+                1,
+                10,
+                7,
+                9,
+                12,
+                7
+            ]
+        },
+        "expected_output": 658940674,
+        "predicted_output": 994756034,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 31,
+            "rollMax": [
+                8,
+                12,
+                5,
+                14,
+                4,
+                4
+            ]
+        },
+        "expected_output": 61794608,
+        "predicted_output": 863966850,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 3,
+            "rollMax": [
+                3,
+                10,
+                1,
+                6,
+                11,
+                14
+            ]
+        },
+        "expected_output": 205,
+        "predicted_output": 200,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 6,
+            "rollMax": [
+                10,
+                12,
+                14,
+                5,
+                9,
+                4
+            ]
+        },
+        "expected_output": 46644,
+        "predicted_output": 46624,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 46,
+            "rollMax": [
+                6,
+                9,
+                6,
+                14,
+                4,
+                3
+            ]
+        },
+        "expected_output": 915782563,
+        "predicted_output": 439812508,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 32,
+            "rollMax": [
+                2,
+                1,
+                11,
+                12,
+                13,
+                1
+            ]
+        },
+        "expected_output": 418469579,
+        "predicted_output": 783716844,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 45,
+            "rollMax": [
+                14,
+                2,
+                2,
+                4,
+                12,
+                13
+            ]
+        },
+        "expected_output": 3356102,
+        "predicted_output": 494591972,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 3,
+            "rollMax": [
+                6,
+                4,
+                15,
+                3,
+                6,
+                14
+            ]
+        },
+        "expected_output": 216,
+        "predicted_output": 216,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 5,
+            "rollMax": [
+                9,
+                4,
+                10,
+                6,
+                1,
+                10
+            ]
+        },
+        "expected_output": 7024,
+        "predicted_output": 6249,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 44,
+            "rollMax": [
+                9,
+                12,
+                10,
+                11,
+                2,
+                5
+            ]
+        },
+        "expected_output": 8473168,
+        "predicted_output": 359554185,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 44,
+            "rollMax": [
+                2,
+                4,
+                13,
+                1,
+                11,
+                9
+            ]
+        },
+        "expected_output": 360887824,
+        "predicted_output": 760303891,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 45,
+            "rollMax": [
+                9,
+                12,
+                7,
+                1,
+                1,
+                11
+            ]
+        },
+        "expected_output": 98468819,
+        "predicted_output": 799071779,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 10,
+            "rollMax": [
+                15,
+                10,
+                11,
+                11,
+                6,
+                13
+            ]
+        },
+        "expected_output": 60465420,
+        "predicted_output": 60450000,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 23,
+            "rollMax": [
+                1,
+                2,
+                10,
+                8,
+                2,
+                2
+            ]
+        },
+        "expected_output": 111648211,
+        "predicted_output": 822982104,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 49,
+            "rollMax": [
+                10,
+                15,
+                7,
+                5,
+                6,
+                1
+            ]
+        },
+        "expected_output": 977121670,
+        "predicted_output": 128241250,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 14,
+            "rollMax": [
+                7,
+                5,
+                7,
+                14,
+                14,
+                6
+            ]
+        },
+        "expected_output": 348813847,
+        "predicted_output": 641444993,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 15,
+            "rollMax": [
+                9,
+                7,
+                2,
+                5,
+                12,
+                15
+            ]
+        },
+        "expected_output": 481285434,
+        "predicted_output": 680324628,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 20,
+            "rollMax": [
+                5,
+                2,
+                15,
+                8,
+                10,
+                10
+            ]
+        },
+        "expected_output": 436203394,
+        "predicted_output": 379482191,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 1,
+            "rollMax": [
+                14,
+                7,
+                11,
+                9,
+                7,
+                15
+            ]
+        },
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 19,
+            "rollMax": [
+                6,
+                3,
+                8,
+                1,
+                6,
+                8
+            ]
+        },
+        "expected_output": 584387281,
+        "predicted_output": 303609617,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 32,
+            "rollMax": [
+                11,
+                6,
+                14,
+                5,
+                9,
+                9
+            ]
+        },
+        "expected_output": 405551258,
+        "predicted_output": 772769552,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 29,
+            "rollMax": [
+                8,
+                8,
+                2,
+                9,
+                10,
+                11
+            ]
+        },
+        "expected_output": 360092257,
+        "predicted_output": 640252714,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 11,
+            "rollMax": [
+                8,
+                8,
+                1,
+                3,
+                1,
+                6
+            ]
+        },
+        "expected_output": 215185892,
+        "predicted_output": 90348247,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 11,
+            "rollMax": [
+                12,
+                13,
+                13,
+                5,
+                14,
+                13
+            ]
+        },
+        "expected_output": 362756880,
+        "predicted_output": 361125000,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 25,
+            "rollMax": [
+                11,
+                12,
+                13,
+                9,
+                3,
+                1
+            ]
+        },
+        "expected_output": 422570493,
+        "predicted_output": 895500370,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 48,
+            "rollMax": [
+                12,
+                14,
+                10,
+                13,
+                5,
+                1
+            ]
+        },
+        "expected_output": 244817651,
+        "predicted_output": 80303836,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 10,
+            "rollMax": [
+                1,
+                9,
+                3,
+                5,
+                15,
+                3
+            ]
+        },
+        "expected_output": 47795722,
+        "predicted_output": 26787625,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 44,
+            "rollMax": [
+                12,
+                14,
+                8,
+                9,
+                15,
+                3
+            ]
+        },
+        "expected_output": 784071025,
+        "predicted_output": 296301549,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 48,
+            "rollMax": [
+                1,
+                12,
+                6,
+                7,
+                7,
+                11
+            ]
+        },
+        "expected_output": 264689272,
+        "predicted_output": 812068411,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 50,
+            "rollMax": [
+                10,
+                8,
+                10,
+                4,
+                15,
+                14
+            ]
+        },
+        "expected_output": 217429889,
+        "predicted_output": 763599230,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 20,
+            "rollMax": [
+                4,
+                5,
+                6,
+                9,
+                7,
+                14
+            ]
+        },
+        "expected_output": 654687921,
+        "predicted_output": 838981594,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 50,
+            "rollMax": [
+                11,
+                15,
+                7,
+                8,
+                1,
+                6
+            ]
+        },
+        "expected_output": 599525927,
+        "predicted_output": 844211749,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 22,
+            "rollMax": [
+                2,
+                9,
+                5,
+                9,
+                15,
+                11
+            ]
+        },
+        "expected_output": 191510413,
+        "predicted_output": 86651046,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 30,
+            "rollMax": [
+                5,
+                6,
+                3,
+                5,
+                1,
+                1
+            ]
+        },
+        "expected_output": 112076551,
+        "predicted_output": 363667182,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 42,
+            "rollMax": [
+                11,
+                13,
+                7,
+                3,
+                2,
+                13
+            ]
+        },
+        "expected_output": 477605594,
+        "predicted_output": 255078519,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 39,
+            "rollMax": [
+                11,
+                12,
+                5,
+                8,
+                6,
+                12
+            ]
+        },
+        "expected_output": 627355002,
+        "predicted_output": 946359241,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 18,
+            "rollMax": [
+                1,
+                15,
+                15,
+                13,
+                1,
+                11
+            ]
+        },
+        "expected_output": 55507072,
+        "predicted_output": 652877433,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 12,
+            "rollMax": [
+                9,
+                2,
+                4,
+                8,
+                2,
+                13
+            ]
+        },
+        "expected_output": 7031949,
+        "predicted_output": 177323275,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 14,
+            "rollMax": [
+                6,
+                3,
+                15,
+                7,
+                1,
+                9
+            ]
+        },
+        "expected_output": 268495357,
+        "predicted_output": 168321962,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 39,
+            "rollMax": [
+                4,
+                4,
+                4,
+                5,
+                13,
+                3
+            ]
+        },
+        "expected_output": 127372854,
+        "predicted_output": 51481582,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 24,
+            "rollMax": [
+                6,
+                6,
+                3,
+                1,
+                10,
+                1
+            ]
+        },
+        "expected_output": 194184509,
+        "predicted_output": 881295598,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 3,
+            "rollMax": [
+                13,
+                3,
+                10,
+                4,
+                15,
+                3
+            ]
+        },
+        "expected_output": 216,
+        "predicted_output": 216,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 15,
+            "rollMax": [
+                5,
+                1,
+                10,
+                8,
+                13,
+                4
+            ]
+        },
+        "expected_output": 556190588,
+        "predicted_output": 413142708,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 46,
+            "rollMax": [
+                3,
+                1,
+                5,
+                4,
+                14,
+                3
+            ]
+        },
+        "expected_output": 157456943,
+        "predicted_output": 636168370,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 4,
+            "rollMax": [
+                1,
+                12,
+                2,
+                15,
+                6,
+                9
+            ]
+        },
+        "expected_output": 1189,
+        "predicted_output": 1107,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 8,
+            "rollMax": [
+                14,
+                10,
+                1,
+                3,
+                6,
+                15
+            ]
+        },
+        "expected_output": 1404109,
+        "predicted_output": 989031,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 33,
+            "rollMax": [
+                8,
+                13,
+                5,
+                9,
+                9,
+                9
+            ]
+        },
+        "expected_output": 553418447,
+        "predicted_output": 72364557,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 24,
+            "rollMax": [
+                5,
+                12,
+                12,
+                4,
+                13,
+                15
+            ]
+        },
+        "expected_output": 68822716,
+        "predicted_output": 858431564,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 33,
+            "rollMax": [
+                10,
+                3,
+                3,
+                14,
+                14,
+                13
+            ]
+        },
+        "expected_output": 766553076,
+        "predicted_output": 676650609,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 4,
+            "rollMax": [
+                4,
+                12,
+                15,
+                2,
+                2,
+                7
+            ]
+        },
+        "expected_output": 1274,
+        "predicted_output": 1256,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 25,
+            "rollMax": [
+                8,
+                6,
+                13,
+                10,
+                1,
+                1
+            ]
+        },
+        "expected_output": 284517820,
+        "predicted_output": 359530325,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 47,
+            "rollMax": [
+                13,
+                12,
+                3,
+                3,
+                10,
+                1
+            ]
+        },
+        "expected_output": 729183862,
+        "predicted_output": 107475594,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 22,
+            "rollMax": [
+                11,
+                1,
+                5,
+                14,
+                4,
+                2
+            ]
+        },
+        "expected_output": 816391488,
+        "predicted_output": 688152827,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 3,
+            "rollMax": [
+                13,
+                4,
+                9,
+                11,
+                1,
+                6
+            ]
+        },
+        "expected_output": 205,
+        "predicted_output": 200,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 13,
+            "rollMax": [
+                3,
+                12,
+                10,
+                11,
+                5,
+                11
+            ]
+        },
+        "expected_output": 973210398,
+        "predicted_output": 922307906,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 22,
+            "rollMax": [
+                1,
+                12,
+                2,
+                10,
+                7,
+                5
+            ]
+        },
+        "expected_output": 439546439,
+        "predicted_output": 480032500,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 8,
+            "rollMax": [
+                2,
+                12,
+                6,
+                8,
+                4,
+                4
+            ]
+        },
+        "expected_output": 1638006,
+        "predicted_output": 1443870,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 38,
+            "rollMax": [
+                15,
+                5,
+                8,
+                2,
+                8,
+                12
+            ]
+        },
+        "expected_output": 614894307,
+        "predicted_output": 78320993,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 38,
+            "rollMax": [
+                13,
+                7,
+                3,
+                6,
+                12,
+                13
+            ]
+        },
+        "expected_output": 570174011,
+        "predicted_output": 62433884,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 2,
+            "rollMax": [
+                1,
+                4,
+                9,
+                1,
+                11,
+                12
+            ]
+        },
+        "expected_output": 34,
+        "predicted_output": 34,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 1,
+            "rollMax": [
+                12,
+                5,
+                10,
+                11,
+                11,
+                12
+            ]
+        },
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 34,
+            "rollMax": [
+                2,
+                3,
+                7,
+                8,
+                8,
+                8
+            ]
+        },
+        "expected_output": 730673469,
+        "predicted_output": 743191631,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 13,
+            "rollMax": [
+                6,
+                1,
+                2,
+                15,
+                14,
+                9
+            ]
+        },
+        "expected_output": 237853714,
+        "predicted_output": 306395900,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 29,
+            "rollMax": [
+                10,
+                3,
+                13,
+                3,
+                6,
+                15
+            ]
+        },
+        "expected_output": 758327506,
+        "predicted_output": 554098206,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 15,
+            "rollMax": [
+                4,
+                13,
+                12,
+                7,
+                2,
+                1
+            ]
+        },
+        "expected_output": 446565241,
+        "predicted_output": 633004386,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 3,
+            "rollMax": [
+                6,
+                4,
+                9,
+                9,
+                4,
+                7
+            ]
+        },
+        "expected_output": 216,
+        "predicted_output": 216,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 10,
+            "rollMax": [
+                7,
+                2,
+                9,
+                2,
+                5,
+                6
+            ]
+        },
+        "expected_output": 56684033,
+        "predicted_output": 40064749,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 49,
+            "rollMax": [
+                3,
+                12,
+                4,
+                11,
+                6,
+                15
+            ]
+        },
+        "expected_output": 927109011,
+        "predicted_output": 227337402,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 13,
+            "rollMax": [
+                13,
+                13,
+                2,
+                13,
+                8,
+                14
+            ]
+        },
+        "expected_output": 502044332,
+        "predicted_output": 202878969,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 35,
+            "rollMax": [
+                9,
+                13,
+                4,
+                10,
+                12,
+                13
+            ]
+        },
+        "expected_output": 931183611,
+        "predicted_output": 728546294,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 15,
+            "rollMax": [
+                12,
+                9,
+                11,
+                3,
+                15,
+                13
+            ]
+        },
+        "expected_output": 502218356,
+        "predicted_output": 323291879,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 24,
+            "rollMax": [
+                4,
+                13,
+                11,
+                2,
+                4,
+                7
+            ]
+        },
+        "expected_output": 712949918,
+        "predicted_output": 535379320,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 44,
+            "rollMax": [
+                12,
+                1,
+                13,
+                8,
+                10,
+                15
+            ]
+        },
+        "expected_output": 581219298,
+        "predicted_output": 156715060,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 19,
+            "rollMax": [
+                1,
+                9,
+                14,
+                15,
+                10,
+                8
+            ]
+        },
+        "expected_output": 969919506,
+        "predicted_output": 605854356,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 48,
+            "rollMax": [
+                4,
+                6,
+                3,
+                9,
+                5,
+                6
+            ]
+        },
+        "expected_output": 457616893,
+        "predicted_output": 679336811,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 30,
+            "rollMax": [
+                11,
+                10,
+                11,
+                2,
+                3,
+                13
+            ]
+        },
+        "expected_output": 809470139,
+        "predicted_output": 933676421,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 31,
+            "rollMax": [
+                15,
+                2,
+                15,
+                9,
+                11,
+                1
+            ]
+        },
+        "expected_output": 900338565,
+        "predicted_output": 196107450,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 6,
+            "rollMax": [
+                13,
+                15,
+                1,
+                4,
+                15,
+                15
+            ]
+        },
+        "expected_output": 41114,
+        "predicted_output": 34349,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 10,
+            "rollMax": [
+                6,
+                14,
+                11,
+                6,
+                1,
+                1
+            ]
+        },
+        "expected_output": 37993290,
+        "predicted_output": 18474254,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 25,
+            "rollMax": [
+                9,
+                13,
+                15,
+                14,
+                5,
+                8
+            ]
+        },
+        "expected_output": 307236547,
+        "predicted_output": 988580248,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 40,
+            "rollMax": [
+                10,
+                12,
+                13,
+                5,
+                4,
+                11
+            ]
+        },
+        "expected_output": 638152374,
+        "predicted_output": 213514424,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 16,
+            "rollMax": [
+                15,
+                15,
+                10,
+                8,
+                5,
+                14
+            ]
+        },
+        "expected_output": 543593407,
+        "predicted_output": 987005254,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 43,
+            "rollMax": [
+                11,
+                9,
+                7,
+                11,
+                3,
+                10
+            ]
+        },
+        "expected_output": 458424122,
+        "predicted_output": 959770340,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 6,
+            "rollMax": [
+                5,
+                11,
+                5,
+                13,
+                6,
+                9
+            ]
+        },
+        "expected_output": 46654,
+        "predicted_output": 46654,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 1,
+            "rollMax": [
+                1,
+                12,
+                11,
+                5,
+                1,
+                7
+            ]
+        },
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 20,
+            "rollMax": [
+                6,
+                10,
+                5,
+                2,
+                15,
+                1
+            ]
+        },
+        "expected_output": 635236335,
+        "predicted_output": 393750036,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 46,
+            "rollMax": [
+                3,
+                13,
+                6,
+                9,
+                10,
+                6
+            ]
+        },
+        "expected_output": 875794629,
+        "predicted_output": 589611093,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 41,
+            "rollMax": [
+                5,
+                4,
+                15,
+                12,
+                12,
+                10
+            ]
+        },
+        "expected_output": 47842773,
+        "predicted_output": 298436753,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 27,
+            "rollMax": [
+                2,
+                6,
+                1,
+                8,
+                14,
+                11
+            ]
+        },
+        "expected_output": 985665537,
+        "predicted_output": 628424686,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 33,
+            "rollMax": [
+                4,
+                3,
+                4,
+                5,
+                2,
+                11
+            ]
+        },
+        "expected_output": 4096704,
+        "predicted_output": 590898175,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 20,
+            "rollMax": [
+                13,
+                5,
+                10,
+                3,
+                4,
+                15
+            ]
+        },
+        "expected_output": 612854624,
+        "predicted_output": 893028953,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 2,
+            "rollMax": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                3
+            ]
+        },
+        "expected_output": 34,
+        "predicted_output": 34,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 2,
+            "rollMax": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        "expected_output": 30,
+        "predicted_output": 30,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 3,
+            "rollMax": [
+                1,
+                1,
+                1,
+                2,
+                2,
+                3
+            ]
+        },
+        "expected_output": 181,
+        "predicted_output": 172,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 10,
+            "rollMax": [
+                15,
+                15,
+                15,
+                15,
+                15,
+                15
+            ]
+        },
+        "expected_output": 60466176,
+        "predicted_output": 60466176,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 1,
+            "rollMax": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    }
+]

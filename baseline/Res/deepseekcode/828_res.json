@@ -1,0 +1,802 @@
+[
+    {
+        "input": {
+            "s": "DKDREEVXZVMMBSQDMCBGSDUMABUFZEMGFTIQSVBPIIJZXSMEKUXQYSMMXSHZPSIOMOFAU"
+        },
+        "expected_output": 16899,
+        "predicted_output": -111,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "GVRCMOPBUMDFZVLPCDUOGBCZPUHBFOKPPIRALMLDRTHLCLFZFPVLAJQFUEECHBIZPJRRZMMXBBFMXUQ"
+        },
+        "expected_output": 21269,
+        "predicted_output": 943,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "WGSVOGFFKOKONJWJQWDFBWIHZIPPSSGGLWNBGXZHKZUBQRMQDZHLDVPJSIIXFEUGPVSLJK"
+        },
+        "expected_output": 16018,
+        "predicted_output": 1050,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "ZNWTTACHVORBFQYZXBOGWPHRKSRQRFT"
+        },
+        "expected_output": 3781,
+        "predicted_output": 1171,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "QWMQPVHFKBLQRYYIWVEEKBFRYKXMFAPDCVFIIGNZCAGPLQIWFQYJZQHXAIUKHICHCRZIHSFOTMGMRJQLXGIMPIAAEISBBZYFBUQ"
+        },
+        "expected_output": 39228,
+        "predicted_output": -1542,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "UNXXLBMSTRSTHLFDFTDBAJFNLYXIXGHBPGFTYZJAQDDXPGWMSWGEMCKHXDRJGANMAGQXS"
+        },
+        "expected_output": 18175,
+        "predicted_output": 1834,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "CWHMDPIVPIXMAZSBUWAXLMJRGVJDHOTP"
+        },
+        "expected_output": 3802,
+        "predicted_output": 2469,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "QWSBZUSXARITQFMXXQRWEHVJGQXOGFPRDRFLQROSBXOSOLWIRKHWVBRZ"
+        },
+        "expected_output": 12470,
+        "predicted_output": 292,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "TPKLHSFDVGEHKKZYWCCIPZKENMQIAHBADBYKFMZGCQKGSCNNDX"
+        },
+        "expected_output": 8802,
+        "predicted_output": 855,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "GYYAFCMMRPNBHBXKCRSHLJXCRSRGKRAZUQXDYOXCFOELYVKVXGMWQCHEJLQXWAFCKXBFGORUDY"
+        },
+        "expected_output": 20784,
+        "predicted_output": 1511,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "QLAKPARMFCPDISJQUYPAGGHXRIJGLGRBNSPYAVNXQBTFFMAHPBDLDJZRUCLAOSJDKJIIXIHAKBMBVHXPYEV"
+        },
+        "expected_output": 27374,
+        "predicted_output": -737,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "ARLMIRZYGPZUUZRHXFMLCTYRZSWWOCHJMZ"
+        },
+        "expected_output": 3981,
+        "predicted_output": 1541,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "KMPMFIYDRUQJCENAJZKISAMGVWFILGXBIIOJRJABSRMHLLWVYZWGRG"
+        },
+        "expected_output": 13147,
+        "predicted_output": -112,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DVQDBKTU"
+        },
+        "expected_output": 110,
+        "predicted_output": 151,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "GIHWXNRI"
+        },
+        "expected_output": 116,
+        "predicted_output": 152,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "LCPOGIUDWVWIUORTEWHFIASLIEVUMRZWBLPQONKEYCLFSO"
+        },
+        "expected_output": 9941,
+        "predicted_output": 3227,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "XQWVANTWVKAQNDBIUPQIRHUIOUJUSCLAVVHAOFWEDQZNCJATNDBEYPFYBZMIQIPMNONUARKTLQVQNEHHLPOUPMITYFMUQMLMDHX"
+        },
+        "expected_output": 32937,
+        "predicted_output": 1226,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "ALNWLNTQDHWYX"
+        },
+        "expected_output": 347,
+        "predicted_output": 407,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "AMJDGVSXIVNTFAOOKPLDDZEMWVMUPFMKGAPHIHWYCFXRWIQEHWRWCVQTUBEJKMTLKRXNECWQFEUCQFHM"
+        },
+        "expected_output": 25547,
+        "predicted_output": 1792,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "JHYGFWWLWSDXAGOUVYTVKHIBYNOSBETGCTFCZJLGWDWNVCRETPVP"
+        },
+        "expected_output": 11696,
+        "predicted_output": 3125,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "GCZJFTPQOHXCIUJFCUPAJOHROBIIGYURUVGEPGZIGLXUEYDVTJXLSMKD"
+        },
+        "expected_output": 11149,
+        "predicted_output": -3096,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "KNHOMQFTODIWLSLCVXCLVDCFUHYIYLPZJEIGVZOSNYYAZAUCXOUFQWVIEASRYYWJWSOXR"
+        },
+        "expected_output": 19329,
+        "predicted_output": -1540,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "QZKVJTLUVXRRLNKKZKUXEVNVFKBEYPXQOFQCACDKJVLCDOBRBJLWPGVXLPIFLI"
+        },
+        "expected_output": 12466,
+        "predicted_output": -360,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IAPIGQTRIUGVF"
+        },
+        "expected_output": 370,
+        "predicted_output": 417,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "MOYFXPPRRNNJXWIPXPGROGUJDBDAAKRMWAAXUEAGOXTJDXLXJGMGZDMYVWUFQKEKLYQPNB"
+        },
+        "expected_output": 16734,
+        "predicted_output": 3346,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "YZBXNMUYGKXFYUGCI"
+        },
+        "expected_output": 708,
+        "predicted_output": 514,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "GTFEYWQQKVAXAKFZ"
+        },
+        "expected_output": 536,
+        "predicted_output": 405,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DLRMWDURUVMPCVEEXZXWFAROAKAYGEGPDFLEHEMQLFQCDYUDQQUNCHQUATYFNQUYVZVHOOKPEIGO"
+        },
+        "expected_output": 17417,
+        "predicted_output": 3321,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "GDKJX"
+        },
+        "expected_output": 35,
+        "predicted_output": 50,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "KGGMMGWDDPPRPNUEIPHFOYVOHZQDSVBRQXMFRAOCMLOLPCEKXKOLQZHTOJQZMVJNFJZSDJWHR"
+        },
+        "expected_output": 21127,
+        "predicted_output": 1811,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "QLENDXKBWNXQFTLZIDIXNWXTZKVQOFIMXNYJVSN"
+        },
+        "expected_output": 5109,
+        "predicted_output": -1516,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "SPMGACHTDAXYCGYRYG"
+        },
+        "expected_output": 782,
+        "predicted_output": 414,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "QN"
+        },
+        "expected_output": 4,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "NJOXVXXGXRFTPUXGSOAXMYNMMIUYNVKYF"
+        },
+        "expected_output": 3518,
+        "predicted_output": -160,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "FGUSGZWH"
+        },
+        "expected_output": 104,
+        "predicted_output": 140,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "NWYMQCRJGEHDOPEVITXBVNCGGGZTYCPOPLLQWDTOIOWPA"
+        },
+        "expected_output": 7642,
+        "predicted_output": 3243,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "HCZZTYKYXFLZWKLPWPZOESXWLAKBVLZNUKUNQVBMPFASQUMEXUFOQFKWDPXRWYHHSDJW"
+        },
+        "expected_output": 13395,
+        "predicted_output": -3534,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "YKNMV"
+        },
+        "expected_output": 35,
+        "predicted_output": 50,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "KWULWWVWNYXGGQVPO"
+        },
+        "expected_output": 589,
+        "predicted_output": 369,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "UBKTMNXSKFUK"
+        },
+        "expected_output": 321,
+        "predicted_output": 355,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "KVMGYEDRKLPNECJSYHNCIGNIXBFJZZVQFLQAP"
+        },
+        "expected_output": 5149,
+        "predicted_output": 1421,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "NQVJISCRLXCAMKEIHYYQIUCCRVIZXHXJQJEHTASTYAB"
+        },
+        "expected_output": 6146,
+        "predicted_output": -49,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "GEXARZXSUACPGYFSTHSBRRWAOBHIAWMHLRVWIIW"
+        },
+        "expected_output": 5386,
+        "predicted_output": 1116,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "MNELMYWOOOYLETCUDYYAKZORTAMBFUROKVNAABTSENFLARVHEJALODTVNFYCAXTVJFTHESSMOTHQUCWGWBMEKUXB"
+        },
+        "expected_output": 26909,
+        "predicted_output": 26789,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "E"
+        },
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "MKJSCPMYIGKODOTPFLHRYJUVIIUCDLJCEKBNACDVOXZCPQGJQBTYHHT"
+        },
+        "expected_output": 13541,
+        "predicted_output": 4896,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "CTCVNIAJXBMHMAXKCGVXQWNOAADEIRWKJTVIDCGPKEKKOBOBSIZOAOOYEJBG"
+        },
+        "expected_output": 14006,
+        "predicted_output": 1919,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "FURRLXQTCRBGBYCILBCWUIKFFMXQNGAJZQGBWFJLFVOBSLE"
+        },
+        "expected_output": 8411,
+        "predicted_output": 1334,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "TDLCRONVZLCMBZNSDMKEKYUVTPJGYOTYUOGRKJOZNVVWGWTOYWTHLTXNVUWXSEDIQDSMHGDORQDC"
+        },
+        "expected_output": 20539,
+        "predicted_output": -2238,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "SEEWSDDVHKRAPJSEZUXZVGDQTSNWFFTKODQPKPGWHHCSHMEMFMTOEKAAQ"
+        },
+        "expected_output": 11624,
+        "predicted_output": 1050,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "AGIOSOQTRWWSPNSTPITEIIFMZVKLOTYNGFIHCHYFPJUNLUUGIVIJKPALGX"
+        },
+        "expected_output": 12024,
+        "predicted_output": 2479,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "TABBHADBBCFEWAEHMMQFDHZFLTAMMRWDFLNJRQNXUNMRTFHMKAAENMWG"
+        },
+        "expected_output": 9478,
+        "predicted_output": 923,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "VGXRMHELFCUOZ"
+        },
+        "expected_output": 455,
+        "predicted_output": 546,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DCBOBNCPIMBRBNSWHVULCFMMJRNBRAQHAOIUDWGFFCBWILNVNUIWIESWIRTXOQNCNMYBKOLKY"
+        },
+        "expected_output": 21773,
+        "predicted_output": 7039,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "ZXVIXNUCZRNRWZUCMFOOBW"
+        },
+        "expected_output": 1043,
+        "predicted_output": 295,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DKSFLTKEXQNCLQHZ"
+        },
+        "expected_output": 676,
+        "predicted_output": 656,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "RKRPECHYCQRMUKKGTGCXXZESOITKRNZFRFOXOYYUCHMZRSFPGCFCALTTHSCPBBCFASHDFPQDEZMGFMELUFJ"
+        },
+        "expected_output": 21432,
+        "predicted_output": 2466,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "WWRUVOVEXBTKIWMSBZNJTGLMYWFJSYCELQEEQQPJPBFVNWOWSGLBXBIKAAMYKZMZTDZYWARHAXEHUMKYOIXTSVTRDHWBUAOYZNY"
+        },
+        "expected_output": 34674,
+        "predicted_output": 9908,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "TDJSXIESKJPUWQOUGMDUGDHOSAMIATNMNVRRCTYHKQWRTAIXWYZMSFEQGIWUQDRLB"
+        },
+        "expected_output": 16292,
+        "predicted_output": -563,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "OWBTQIUIDEFVYSAJFUCFXNVTNAFDRZUSPEIXWLBVSG"
+        },
+        "expected_output": 7341,
+        "predicted_output": -1137,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "BJDURCEDAKAXIUWPIVUSDSFWUGGHBAXBLSKF"
+        },
+        "expected_output": 3958,
+        "predicted_output": 972,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "TLDBBTUVNHGUCVLRZHZTVPGSOYKUAXXZUWACJMMIYDLPDRHUPJRXPDXNTIOIPQIIZDGQKEHMOXSHXKILKDXMWKWREKHUXAYB"
+        },
+        "expected_output": 32457,
+        "predicted_output": 12110,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "NWXVDHLOTHNAHDLKBKFNZCKDOBXCBZAXGQFCPQPIXTPGGGBYJTBLFJEWELLTBVLNAJUGGKKRWAXRIIOLOVXIWPOIKTWRDDG"
+        },
+        "expected_output": 24250,
+        "predicted_output": 8117,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DJJRTQTFQMGTPZAIDHAUFKRJCOVSEXYOZTLMQDAGZEYPSSIFRXJDJVRCVFMUBGMLJYRBWOPHWLMQVTKZRVTMWWVEL"
+        },
+        "expected_output": 32374,
+        "predicted_output": -2309,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "YMDQMCCWPFDVCYXLXXWWOAQGMSRUFLQOQSWOSPYSVHNFTFOANFJLWKNWPSEEGNODZ"
+        },
+        "expected_output": 16186,
+        "predicted_output": 2979,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "WABPMJDGEGEQWBCLUVUNYJLKXSHHMLXKUNSRIXZKCEWAMOEADLFQAFPCMYYZFQCDQYQGIUINKBKICHZWCIFZXKMVP"
+        },
+        "expected_output": 29722,
+        "predicted_output": -1499,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "KFSHKXVNFWBWFMUFJVKGIJTASQUAXQFHEJYNXQTVSISRQBABTLKGDYFGGFTQRANRJGSKQFXDHVVNOEKRFVCHTKJSZPPRDBDI"
+        },
+        "expected_output": 31872,
+        "predicted_output": -5733,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "BXEARIBWBNVYEXZHNGVFVMXFMBCPCANYTNVBVVFQ"
+        },
+        "expected_output": 4970,
+        "predicted_output": 681,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "RHUKGCPIOCDVXQUCXNOSIQLRMRSUKCODFTYECDVYWXHKKQZDYXZQSEABDRIJRWECLKMEGJALCJHGYLJYUZURM"
+        },
+        "expected_output": 28241,
+        "predicted_output": -2818,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "HPSFHKXJBVCWLPJXEWQLIKPDJIKSFUJIJEMIHZSZRNGAPN"
+        },
+        "expected_output": 7831,
+        "predicted_output": 4197,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "YPXSJPIQDWUHSONRESBTEUXNOIYYRKZURETXDLUEMAVNIHHGLQBGBWWURFZAHHRDEQWLXDRFQRXIBRZS"
+        },
+        "expected_output": 22378,
+        "predicted_output": 3352,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "CJCIBIHVDSFNGPJWQQHTNWEDYALGNMCLRXJQAJRIWDUSDIAAUTUJLHAPGNTMBRJCVFZJW"
+        },
+        "expected_output": 19486,
+        "predicted_output": 2150,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "BAPNWISFEWFBWSCOWIE"
+        },
+        "expected_output": 791,
+        "predicted_output": 58,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "WZDVNGNXMDDBTBJXXNHYPT"
+        },
+        "expected_output": 1039,
+        "predicted_output": 435,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "XAEDXNIBWBCJEHYYHFAREIWOWBDODTMQKSLZEZGDTSTWJWUYXIYPAFKUMSSXJCXUFDLAEFFWHGSSCV"
+        },
+        "expected_output": 23260,
+        "predicted_output": 1670,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "YREKINOMNMCOAEMZDFFPZPOEPSWYFYPYVUOMTTJUSXTOXXZJJGXRCHBSNFAPGXMWNEQAQQCDF"
+        },
+        "expected_output": 18689,
+        "predicted_output": 2250,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "KOAZPBZZDMLVQWVF"
+        },
+        "expected_output": 598,
+        "predicted_output": 432,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "ESJKNJLGWNRZIGJBKDGVQKKRIUFHONYNDDTOJXAUTHHPZJQRUKCHVIHBFLIBKAWDQQIMPC"
+        },
+        "expected_output": 19768,
+        "predicted_output": 3076,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "ZDBOXEGYBMXKHOGEXTAZSIOGBZAPDWDBUEPAGJCUDZTKVKENOWFQUZ"
+        },
+        "expected_output": 11182,
+        "predicted_output": 3482,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "KMQBVEZZBRKJWXL"
+        },
+        "expected_output": 502,
+        "predicted_output": 432,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "CQESGFUBANRKVJPXCKWJEQOWVGCFLS"
+        },
+        "expected_output": 3568,
+        "predicted_output": 534,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "PDEJSMNGELHUSZWUTGSKKAPXKBITDVBVHXGMXPBGNHIEJAGKZSBAOOKHCWFGDGDGILAPUQNXZAVHOD"
+        },
+        "expected_output": 23751,
+        "predicted_output": 208,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "THYQAVDRZGTMTABBAYZQYQFWBNZIAXWPWRXTCMKNIVEHFWZNNX"
+        },
+        "expected_output": 8800,
+        "predicted_output": -587,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "HLRAUGVIAQNPUCSAZWMWGUD"
+        },
+        "expected_output": 1736,
+        "predicted_output": 1078,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "SHUBBFGIYBKQOZUG"
+        },
+        "expected_output": 652,
+        "predicted_output": 626,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "HXUZEQKUDALSRRCWNHAICEDQWLMWLZQDVOOVVSJMKBEAMZUBOFJTOYSCQMHKBOLCCZNWEWKSZVBWFRBYJQDLVPHYNQVWZOYUL"
+        },
+        "expected_output": 33685,
+        "predicted_output": 4567,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "YYBYTMGFODXQMVDIODSAQYRMKPUFQXWGOGEUTEXMUELBCPUDQYIAFFEMWDTDYFGCZ"
+        },
+        "expected_output": 17732,
+        "predicted_output": -1407,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "YTLLJCZXMUEOOESGSNBPKCEJVSYOJIOKJKHKUSSEZJDDADAO"
+        },
+        "expected_output": 8377,
+        "predicted_output": 663,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "MMXLIOJRJRGCYZVXEGPTCFRCGSHSBPNEVXRUJJRSHAZGRFU"
+        },
+        "expected_output": 8122,
+        "predicted_output": 1948,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IWUPIMPROKEWLFWBAILM"
+        },
+        "expected_output": 1137,
+        "predicted_output": 814,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "ARWCYJBMMCQZGITBY"
+        },
+        "expected_output": 723,
+        "predicted_output": 544,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "JGTRBEMRGJUDUKGZAK"
+        },
+        "expected_output": 770,
+        "predicted_output": 569,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "NLFASSGJNGMSDCTTQOUTDCEYYDUOMEAXDOMUQFAHFMAJCNPOWYMEAILTQMMXPICEAKMYGEUZLGQUVLCPVXXTOVKHYWDHRHBSWMD"
+        },
+        "expected_output": 32431,
+        "predicted_output": 3122,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "ETZCFFRTSRIPJDVPESZNAUWZWNKI"
+        },
+        "expected_output": 2385,
+        "predicted_output": 1114,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "ZEBTUFDYCAIQQOFZQCQTUREOZXFYHSJWFQQIEYDTDHKFVEYVDKCETXMYOWSCIHQVQXLVYK"
+        },
+        "expected_output": 17053,
+        "predicted_output": -1533,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "QXMBIZKNGVTCOXGASDATWIHNFOLRDDCQYMXBMYMCHEZFMWNBPAGFYOGTNIQHTHVHCGWNECWJWSTEBQFRAAPCFT"
+        },
+        "expected_output": 29986,
+        "predicted_output": -3599,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "BHOHHLHJJPSSLAOUXLCNWNJPNPQXJNQWGNQEASGDOZZZWQOCDXQVDCXGBQDLUCGNEAICHULZVJNVT"
+        },
+        "expected_output": 15870,
+        "predicted_output": -37858,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "CXFNIGMGRCXMZAVZIAOFBDKRRRJOBWYCMNVXWFCPKQXJWHCGRDHJAOZKAIYWGBGAZJPCF"
+        },
+        "expected_output": 17376,
+        "predicted_output": -586,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IZJBSTCDVPSTWRYVLUNPJKBBHGCXLGFFFZJQOCSZYLHPKNPTXUPXAQUNMKAMCLTAGOAWSTFXSMQ"
+        },
+        "expected_output": 19043,
+        "predicted_output": -7005,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "CPRJQKBPFPCLYUMASPEBVZMDMBVZPIQVVOZFRXEKLSZTCEQGISBBIJSKKKQTRABWDFWYXNCGXBWBJMRFFVUKBVBM"
+        },
+        "expected_output": 30500,
+        "predicted_output": 3454,
+        "result": "different"
+    }
+]

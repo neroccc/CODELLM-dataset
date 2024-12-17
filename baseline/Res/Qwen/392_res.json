@@ -1,0 +1,902 @@
+[
+    {
+        "input": {
+            "s": "zkxllvztempcxfmrlxznzsogotqtvixciqbya",
+            "t": "ghxbugalswulsrxdkcsmcrzvrhttjbjwtybsgmqtivumjowhpzyhpgzhbfzaaeagcquicahydrxugfgqoqcsjjiadyxmekdemhins"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "beasdjwewxdpvgzhwryhkijtqekankqaiantdkobpqbfknewnbfcy",
+            "t": "njvrhydkdesbsomjafccoxalwxxjtfjygixrw"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "wslniktzafenzrrkxnpjchpfwehzhwfuvribw",
+            "t": "qdnmssqlmvjtnmemurtpwidoqhqemdxxfjknicfblfknwkmfstfdsjfaghfasmvblsjcjatxhjavrptpvvvohkgvorikdhdfyfxsrpauxudqszdonqwjgjvqavltxhgvhquuauobldcjofbkznbkialjstcuixhiwfuxyglinvnmbeibkvnzndsehoutgukzjfsplnfmcaoalzxlsttiuijbifzszeponxentgtfsaugshbinfgsloyabqpperguezyjvzxkttusggcabepikcldkrpcindhswjcweleubidylogzxthnqbqlszxcihqrhi"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "sppawaresvusn",
+            "t": "ikhkucgiyverxyyrlgtkmnyturdubrwxgdlwmvfupgsgmifxsyxhrbokwgyfgfqubuhhsfwbyazwadnsjfbeusycoaytgfeaonhbdjmlemifzueuzidxbhshhdxhumhyxgjsjfywkepbjibmnvtnmphmupovzzfocbnkrwiznbombcwgvynhmxcmycbjyvazblyvznaejjobtnazupgegwmpgaczeqritruzroqgcsklnttisndjfgjjrmtfyfeurwynnuslmazdlygjmbiybewcxedeufgesmycogopewraqaehbsdftxmikgrsihwxlcwxxrqxlsghrpkgvpayopgeqyhajlijadbbnwcehebvhpslczgfahgjvygmtgdwaawmxypqfwzevqwlsznooyexilrjzooussesguioosveiujpgkzzgxblcvozpxvzxoxirtqrttdpytvinwtd"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "vengvmgospfxzspyfcjulvzhqq",
+            "t": "sphblomhnohtnjtubeddjipoumvhghanwtdfyjheynfchuetxqqleckonsusdvnccirwoqrgdijiwibqjeznkyjtgplfadddkexuxjqspzibdsiayvawrihokrpslricqpghmpagptlrdqnbiuppxzsgcqxjqoloiydwongkzvwqmxpjytusfnhzmnnjhzlkohztkgjdx"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "ohmpwlczpufvzreoqdpjb",
+            "t": "zqzdexruzwoagtfojbidvizkhvpjkfedidyghivryrtrvjmxzdzesxkqurwyedhvezixwtjrjdriwpgafgtoduldyaanceglgzowchuktnmemilwysjssrgsrftdxiwcofjuyjsfnktbknrdztkutqkhvjnfectbmirlbafiykbtquancyuyjhmgdrjpshuavrbvngkkgzpqfwcuvkqsxkcbouufregxqxippzkpawifxzqljnpezbgculbcoapyqvtomwievbujolhcunvdgtdrbteiuaptmoypjvpzysjsnhuhhxfjtdeyeecyztfyjvhqwnfclhwesizirvzmysqwcqaqnvqqzubsvzlqrrjvlcetkouwbmxrxpeqasecdxgevpudkxdqjplllvqjukqtvqbnoizyluchjgigznbcypjdoxqczsucsywajabrykxvpvhwkcfiukxqlyhqboalvlsmmeiptfkmcvedjqbyzwerfuygmmvwxhwlometjxyqeffeiezslndoaiehhuagvyxkymacnxllflezzdcvzayrdhivmombftqgksvocyamzhrsatgodkdefztwsbbxerzvpczjoklpfyaettttfrnpwlwhkjddkopamcerivajqafguczdpweqiftifxuulbltdyn"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "fxdhkrrxkmbxwhtqvfo",
+            "t": "xacugtfnvrssxoqvmrobksrfnjmjcpzoftajqewrybfursrdcrggqznumzytygwwluukkmnqjboumekfbqzxgbwlsvrjoqddgfcbmckosoyweocxggpzjqposikhrosnzahzdvyljkvbsuakwpodnlcvuwkpwfssiomi"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "nihkwxzhpfgjqdbknpitpqpleuyydhegltixtzztjfq",
+            "t": "rrseojdgtwbxlmqihumlcmllgcogdqnfgboyyhcuwwakrpbtvqokjewckbuknkyaazjyjvdhrmxbbjkrxyvnupnoworxgwdggqypverrphvuiwpdmcqvutrzynxdezfrrdonbnkuphtmfnsrszyrbunjbedkfiuswkemcgimpmoaozmmpddrlbihfvzjrqxdwissjqywthjdbqnmuprddflyjjnbaipbiokrxvxinjqexsynthbeykftuzgzukoimlolhoixhzwecrwhidmerhkpfqmzredxypbaiuiqyggterdpbxvamdkurnhyrdjtyizsoptzyslqdzqyziwgaaejmotsdaishjmjdgcwfmfknxnoxskstnvnmvzjisnpcdgzlhucnzolqovnexqiehqlknzlnxvprpetxkbisjevlpuztoevcligfphxvusvtalpznhqwnkloqdtyazdjfypsyjqdqewzalcyzxriileuemvmecbvvfrqnbeiqawaszluyggvnexmuvyhydtmqixzlmuekwlzzggdzndnwtcphrgagzuryfwpqafcwirwzsubmyalexxeojxiaymgwpjomsqzznzbsnvh"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "xkhctaxxzeftdfiylujevtfj",
+            "t": "gjxkiljcbzqlgwetkxzmqslyteagsufvcjcwmilkmupomhcbzfkjrrafbxzdzturhpvdzbcivwtbirwzrsgbddqkmxczdljoyjuayzkmnqqcagsnpwkpiazesrhzoomethptvvwhdagdfmwyiokpebmbzabtrzkcgctojjbhfjbordpwdzuzuzbijzncxlcorlpgsyrzpevbhlzwadqtcucibyizmxwktfu"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "sceadkcfwkgstwxnyjviujmpflhhznvpaqryurofoirswximjsfqtcjbdumslujsyiednithkomqxkjiwirusroxdiywcb",
+            "t": "xceatafsrfqfrinmagpziidrkcobpagshxipcyphetidrhnekynivffsrqxlvobinrhuggftqukrsashzcttkjrfhtsaubunettrasqelimhriixmyzwyytsezeazkamwxaglnhkpopdedkntvsahckusjyphgtkevlkgjlkdvqrijznkwqbhdjxmzhyujgsfuvuyhxumdlihazhsmsntyepkvexsiflmsxwmyqdpqfmyvubepbzaebdssrpgnzqlydirvqgijbdcwbohicghsagpbnjihvqrcbvvpqkrdvvagfycvjssyqjnxjqlxpqsbetbsnknzigytlnqsraasdnnxlqrsjbqbhmzhaflleewkckumbrwgatlkgkwgcljumopoxuhbgxtujoeihqybwinzvbqhmqwjarqgckwzmlykcophtzcmlrgclstynsslwtorrxgvyltaargfsckjvrqyufsgglizqksrtumdasornbvpqberodohufc"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "wlcykavmlflgjyhttnshqhidtzejsxiivxwvtzftrafyrtbzyxpafdlhbddtiyzkhwctre",
+            "t": "xxdnbfjqrzowvjwdwqvvydtmmbzfmqjpyqemvrorwuwjlnazjyfvqixamhyppaojnszmdcetzmsppdzdepkcrrsmyenxamjtaorvylfckjpynzfijklfmeutydidxtaimuouabteczqmrygbntmtgrfdlxamvhmvzmfbbtveerptsxnabviomhzzknsdjdmmriteboohewryqutoektnbzancoyhihwqhkrhpayyswmgqyliblljegnrnaqofmlejrqhgvotqchyrxozxdnqxniqufmxufnqpvlbavrczhxpnkdajifsoscztwmmklrjlmlkjyudkdqyndjmfwxzybfqandedadehzzrdytqzhcggbmxfgatvydartlaoreuadahuduhblrkjspoowwtwwcwfej"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "",
+            "t": "zocuygdthuzyxxmktkcariwwoqvefpivxwifrqpmxszpvjetcdrhzzdrgnfqcwlokudsovtapjdxhnhdrmeikqvcufvigwdwrbrzexijtixlscrlvgxvgpwhefidfhnsvbrkvjmisloqbzdlzanttszlbmvcavkkbdpbwohlkmgmjobbdeijceiahlouvjmyelmkcfnpodbrzpfhvzjsficdjvmfhltlbqhufwscrosqzyaxbnuuuazkxwcncotxhqtdnqpcmxnxrdwldtubbhfayfptbhpfthnxfbngzxxrzndophkugfiytzaxyztsvpwnnfrghbgfxptzuzljnxsotbsptwxudwfawvcurmvrjqtaqwaplneapsqkchdcfjmkadcoifmqgmmevtmjlkhkhdnvdgtxjaujhvcedqipioxuotaztzudjrjrrmrbzqixobyhlwfmtneiesvbwsvlnrcwojqzidemhhwlnpfzzgjhcvlpprsgggymqigppkrlhumwropvldotioxkmjcaydmptbcqkochilsduedvqvppqpebzlmskogciiycjhybsyyplff"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "tuutwk",
+            "t": "osywdkdsryplcbqjxfzwxuhihaysjezercezyfqqneckrdazmbkuapwjfmibkhkayqctrvjfnrpqqlpqcrilgokjttwgynqshzvdncvvdrypmltnahxkmvujdrudfghohcffnjpnuzqrxxakrdmzjsdasvgocftxdqehzubjhsldkppevgjfprldbjgjzupabqbkqoqcjjrxqpuyaevpcqextseznwboxqyjslvngdslayrbvplffsdfjtpthdilvdzanshqnoleheweapbfyycphqetddkdvcjdebiwifhzwlsmhlzvqnzwtoiktpapzxxylszsvunynriybujtwmnmtnjqteobvsqnekittmhkwdxiqmgkxtychrqciomfyronzodpcgjbqpvhyatdudajpofcktfwpztayipykrvgylniyyoftewbjcivbuivsgcvdummqygxprlivvgxhjqufyfwgfofrzldyibpwveftuuejkjkcnfxvkdjaudfwllfzadytvvmroxuxegwfoogjgzmydpzkvekabvgmvydngwatgtlcbkirvnudvciqybqgcuwvkfidivvfrjmwkblwdaxgyxidxwtmibwshtythiwvqmoweorjvaygydfvkbrliawpkrvvelfmzlsixhocngxbuxvynzdrvigqjljgndfgvxvrfvscsjzgwiimmmcubdblqdshmzsvatzfngiakswcphyjkxrrhkgvvtnrsulbiwtldhveemjiburzls"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "hxbudlqpnnelmgbmawpbrjoxkzwvzbgvxbghlyuxbactqyuefvaprsihuxasyiuciuettzcqhromypmidrdponweb",
+            "t": "ygsqozacjndfzjaogfcxmeedjaobevkolzqlesorghbjnterzrninshiqaqnvumdjrzibtxvzppighbdoheroyrraysfjlipfoxwvftynoeyxcwtfatgkvvcqqyqihzufczdpifsxjeokwcyinwhsgmbavhjzbbxkircmgqaployqhtrcckgkzoteslucvpkfmpoxgzoqzfbstufwpugaikpdsfofjdbcpanaroqdpfltfpedhaooidp"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "aivxgexpdyqivdktozyyzrqthnxyhyppzyyaociuqzsqjqeghdeqfdrkzobxtfvlnseny",
+            "t": "oxuxxoeddmxtregswkvfzynnyavpygffndmkamlqshllwqkunzdzrrylzmuvcazxrurnuqnrjkjqtdaalxudwvomdiscrdzqxntgvewoqsucoqegzamkvhsulkeamkjohhelnkajeggpqoloryubuusgzgvwtdxcazktzmklvnftzedzjtkokczddpgghpzictocyxidnaakvmffvuhklpqvyesvqotoowneqiqbksappsyamaehyaungphnwjqholjhrbdwedwgpznmmrnkvrgbmggqdjsvtiqjvkmkufntweltlmxtpgutysljcjtawjkaoccqkldptobchwepwqmwtztxhnifieqqsvalbikmrtmngsgnbwgubcmavayiryizydqwkwzrjgyporcxskeugyssuniifevovrdeyvxpoqovqjbszocldmmqdyspixlzdkgclppmadnuwnpuzgwkwoquhwmpetyeulzuozgwbxnbtwgwansmaitbjsezdoelbymkkkgycngvtwuwxakybwhicitkak"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "rqbokkkuziognskggohjofaxgammttaahjyychcwyu",
+            "t": "jnmmpwcdzieqgytsgjgrtegxbmplvoeldefnvqiiizbydohqvekyydhsktjsptngigevyxjipbzkqxtcbnsglforgzaeuhitpjioicjewinrxgxhhmzdzrenwnicwiodrgkqzopmxxpcuchdhwtojqfhmbpxotglcpkiwtxqdmnmolcxykkenoxfrsctjdtpbutwrzxlrptvngruvouigflsicgkwqtvmegpapowmsylbfdzphfinkkojiksxakzfhtrfvjfrhuitggbashomtwxredndmjaprejnaideiioarwkhqrzytchzrwjldjrdroodpnxghvmknmjfqxjamebxsszyghzunqmrdfsowyotyjxfwpbdcegvprwqueykemhmorupndurkwvnlhplokbmmyjigjrzgzymezlbahmrcnhilezdwszbzaulajwidfeljlhajnnrtgmmdixagcyfokggrunrwrzeffggcvcmbeuhwubleagrxlikpcibonsapyqgywhpvkededacureffjnqrmsrrrrjaooyqwzhuieficrweunyamuexontpicthpfriuchcckmhknwxlvdqftfxrvwjxdbvefpvhcpelnqnmltnrxtsmbixnhclbpeqfkkabtqkwbyfvawguwvcubbogmrhfbxtbdavlbbpzjarxspbgdedwazzlyljzbmyfowweixzxuiguplzhbfmbjzlwbkzhsvqetisvpmmxrscsbqobcwowmsrrxeivhlezgudvanbzhzyafhbocpkt"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "moxbemmubmjbprsumsomvunwqapgrxxiugvctndsajqbdrqngxrnrvinrssddaizlzankkeeezqweftlxrslbfieiwipkvplrpd",
+            "t": "nqznhwlaperuwavpssaqjssrjkbauvpavtpnirczijjtbflbnzqjpyeswqfjqzzppaaqkubavyydoubocnjrxiythdwmejhkvptdisuzcvedeivhzbjbfwarmnmwibggjcvbhymkxrlijtqtxmrkpmrvwlgoztksjfpxlzibwjptrpaoipfiaconowaeolieronpldavknoackoewkkptkkbzuktopurmtazuchwarhuiyjrwqdgpqokbeuapbnofdbfrbkfpwguvnzueevxudtriwlrbnumjjxhcqqjsbncorzfnenahmdxhlnbtcuebyypcrqxajjtvbpnpxhjtznqdvqizomtlttzabaikvgpnhplxttbcxijfflkphpieuphxbimtpzandaftdlsjdtwqizwdvuvxrttatkknnqltcfulflerlvlhajwwjoaeghlejibdvsbaemxbmeeyhpydjvvwzsmkwmihz"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "odrqdhxkqvykholxsvdxugnxikdgvuuxhahfdybcotuzjqlipcwblkzkdhaitzotpbnyxvxsgpbtwhqwkyiofkxfwqwj",
+            "t": "fhulmrwbrufrbebadcrurmxiupzzphjoevijamscujwltqukhploxjtltmwomqtjrnnnvzxfgllbevvytpzifwmoackgziulrkvpgokjszetsychsjviqtrghvuidsdoixrtnlgapqcbxcfwtehilrphjqdtbeehvpygenbzkivmadpbonllofirbasrdyrlzcbbcohyzawoumwtnflmwrryynrxhuntwymwuhmrprgnjkmuvimfmwoqvikylysidssduikxuthtaryshsmmfoaecfeoryobhianiynxlijaisdeyaublthilrfypbtajbtejaebowynjeahrleekgbizgyznnxjrfsomdinickgnnvwmtdbzonspewctugkgxtiylmlqxygozycrbjiwlbiofxjugpsbfyjiigkhzarmdznqybyhhlkwzodfiheclbdnqrwptrurngtbuzbqbgkbdysihtadmfefjoeyqgqlnzxhgxtmlghprngalvfsszfqunesfhuwmovioxwcfrwzdwzssdyyeiqybabwmbqfoqiwscjdftydxtyfmstrkevxxnhkyardkngkwuyykziqnlgoxqnufirfcyipvfafqmycylofqkhsazvftjowibiexqrofroqrcwjanwvfxxnpwqvzsxdtadoxaccwhnogxdfeoczjquqtlqepreadgbbmxfzyjtlvjrjjqtdebsiducoasccjponernersdnnxdxtwccgydcjysjhxkgwjfaikvybeayczfbuedmzqmcampgmukfftwrumjbywvlhjxczouburxggfxolplgysqwcxtubbpykfgkgvlifbfdjtaxcnrrbgkg"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "bjiiyzojplsqzlazrdfwuibgsnhokjrwyyengwhhzkopctjkkeuukfblidkngniipttwmdprmlqizryyoouarpywyimzpg",
+            "t": "gduusaavdoiqvfjpgokilqwtcoziidiytxknkhdnedgjwsxnybqovrolpgmkjcdoaqddkajephibrlltwxfbeilsqlvuvipvoeoewnwvgkntjkfgkadnlchymkzzhavwvsqjppezazwljixcwpqsxztwihyiteyqyvrgvxbxtiheqgqmqvcahpbvittxzbqznxdvjniqzfowkvxjtwmfnlaccmprmlyoebirnkptkmyonnqwvomqtxcxrjcezpdduqjacndelbmfwmykmjauiepjyswihuqgzbqiyfoqmuhjuvkaqkxyjqiokmciqzgluyqynbethrliobgjyjgekayboqglzckuhyhrjuaphxbsywlmmkrlevolynfxxndfgvovmzohestqugtujusvcedzqdufuoigtyrwnztambrkgchavecpkipapkdepwhcocpyzvkebznekntomqiscomtsapmqqaelgpasustfaldflttjqxicljgarfhgqrhportwaloynkcsfpthtgfxgumsdrdzcsoxeupvjowbmoxpudnrmpzveimblekivuovxxs"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "sfzeuulxmaweqvxaklvrqlrwtlikgyqkxgtcpzlijeaxgsczqrayxxxvvgoco",
+            "t": "whaxbkozbhiawaensdcskremlzmoqrwoxnxnitifyibnuqcehaqwbnkvbirpjsyifmarmynnxmjyaransmfbmrwunbnusxqvexlhsterhligrlplbtgthovuhinwaymsfphiadshuhdioiwrkzzqqluaeqmhiuhgnylqmxooxrfjhjqvshgevgcyzokzrsxhlkigjjddaihimaveldkamsqpmevxvowbmgbahlqzfondsbzianpaartvmjdvdukrtzrexzibzedweobjntsldxbgcpqfiycvrlbkaumeyhqggdrslcskdvyqmuakgiyfesirpueffgqddstlmamuuoeoeinkqxukuvsepzzrmbplsjrwmokindlphldbbvqakvpdpibailocpgucvpkfzredldvivrzlkaivaemhsesaegaanufmrmvpuvbebgkafkkewwxkuvjvtelsxdrlcgjszwioqskcmneeccosmbnvrbhciwnftvj"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "mmrlnfahenrunrjjakfprrnwfdxowcqluneyiawgcywrytmrzecbotdr",
+            "t": "yrqmkxzkjrwawworjanjztdcgvwzqveqlltwhonxxiziwolnubzazttvvbducbkmsihxcenddedrxigozfarmgiytnjfcdxjhdfdcihlvcvfsdofyozixkdseiwlovclkamavoacglqnmcsxojonoyysesddgasoeakaspvbwmvtjtpibcopfzswbjbjscobmzmknlrutxfttpqyqpeezlelopemokofcooqvnipkbrwwaijilwxniiydzkezfxcwjrrnzveswcdtpaifqpescuaigxubgjfvqqjcqcowgthaugrcqoyfscaoodkvzrgszkoykszvmzdlnwmrmkgqhitlfvxuhhzhesiuzgwztyqzfmqwyqnkvvyyybskebyvddoshmydzxlwvjehnwuoigftdvimpipztqjocuuihasuvyocvhpfcpcvwnjwvtmjawchattzyzhaqdlgvcrtaoynofqkpcloemnxtwjlmvyzbgrnxfamjtsodhnrqbuezsjxuqrgjuaywavfbkegbvboedxjxsx"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "tmqhhppckumy",
+            "t": "ckkcqgcibjkuuttmsibogfyrvnlifioslvmauqonesdmzvvjesrtomopsoxmsqnywkfthugssolpvdbogxmarqnoqjrecnedrxepaiztiuueiaxxgrybzqdbzuamhgmgdxikgngmknmnifevinvjpwesjrfqpgzvvavpjjexfvajnpeqwjpdypvgoexuvffojeveteuxqfwjusbozlibbvccmitxhwjbrthjrdktpexjatsbbgsithbwyhfjmsoyapifjetsgaemqngabwrqwbmcedxeskabhlkyhshdcfokidvjapjhcltxmqmtsiogceduhkoncxzexvzzlnarledazdzlhltvsbjcbfwinqwybqvehrvvsuhsnkrpvzskjfxfjffksjksiozrxdajnuueyskbukmitjvxcuofxvboimzzxorwhbivakyybkxkjntiooflpcfmjnqkafdztwdnoojgfwqrvbuhdrsqyxjxuihlypkjbfqcsadofxlqjkshvqevkinrvxbelaomtqv"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "cwfmreqvibisvzokowjsmdrwokcpvsflqqjqqjnglm",
+            "t": "ncgqyvyhmbvowngwfniddgetqqtccrdpbjfuywkcfuszwnrfqtbojwbiadovqjothqvngoemlatzloaefcfvnfwuzvrfsxjaaegkhrxwgjlzekbwpxcewrrearhjoecmnskctabexcwcutfvyfbfiopoxhdabirwjkeckndbzgbtblxxyfkyaafgsowghbkozrvbxckjpisenujhnqdcorvargmznlydavplcjdlcgomfukpowoerpqujmfifuorjlfxsqbrvxljylawbafplxsbuwrlmvyaejqffqqkvdzsafvmhsediyyowdtaebwxplbtwtdwgiwvggyylzrhnvlfoybztbafvhjrgdgmbryyyveqrvqeylmnqztafaampsyzknynumrdvdocemelhsfsjpfhruvmiroparkcormlyohbkrjkvqhmgexhuxhxzailmppplsdcfuxootdkizwcusfvpaylgxpiuohzxaxregllaolktuufqfgviszylyxefjjzlgcvqevdoqaxoswhukezdfyupdrvqfujyfutrjciwxobhlakxjsmfedrfqpsmwcqhjukaipkwuxbwbouyolsryycungefxjphdpoiipgnkryiiprhsmbzdephmjsdintlhdbfltxfjedxzlttqagjbnzmgqoghisdagyolaxvjhdnomawknzvjchnboljxfswpsyycospbyiexbhxmikesylagmutkabvjybhpaeoscbutbinrmhriowwznybg"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "sslcjuvbzuidxqjfpmlhnsefkaauxgtnzxsvh",
+            "t": "crrldustnirtysvdxugboqzvsxbucfqnjmuzkoqnmhkzrxpkwslhzmruvbnxxjcqsxljbwjtglwnwxaoxeuharmvimoxsdumnbkzinevahhebddzcsvdkezepnxatlnwzcgmwohojaorzlplnoidmucuhgabyamzdurpvmrcnjlmkldaaablhykhjiyjudfpxxqghqspbjjrlzudqnncfmsrjevfnznsddoalxnzsfmlytdffcosugxhjgcovzkpeazspbknlnjfnlkobpzrrosdgxrnsnzoaqvggqdcqchinhltxololzphibjeugjlpxlhurghenilpjiwkyhpuyygyrturbvbppjvqfnypvdmlushmmolxcrbtfdgflohoecvvrmwrvkxjapjqyyqieuhdjkydwuicfzeygajszeneqkryrhikkukufclyuildqsmfgcsimljdwzyxeemkkdppekgpmmpvuzetpeqcyflpdmgiregcpgjnhmhwotfyekvpywkxtkzbvzqsawmgmqxijdimjtwyjrekeaavtlctchiokerckfnthyypwwrurjuguocbxxkwvhrqnmhpnwsprbkvceihlqfftmjjujahrqiqdsuthpvzxoyznfsaqcgowvkdqmcjwkdkimksafuuqabgurmahsyjjrnuoxovlwh"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "keixytpmrbormxhepiowvuoujqcsxvimhqsmtpgxxtfwbqtqfyacazrynsme",
+            "t": "hniulwofijvfagcrfywisfwkzamuyijhsqlskpgrdlyitontfugxutlwkmuyrkvpyejvbqzxqbzvorydnjncpmxxzlyglpuisdmqqxnkqbwfisxibbvptrjcyakbiamtyomighhpgrnsgvwnjusqnpruqtezoujutdokwbkzmeqvcdwxamwdkskmcqmrhvsficdiblodyiniyysbuwiadukyakplcimthimuwdlhchrlpkowikyuiflxsheenzrqldsuigtwvdpdlbdnxrhtubpisaoakjysvaycyxvtduousdvxdxnepymchhsopxnuxlilqfpjlpsmaedihldlsrnaraeyyvolfiinezlrhwnsbpzinqbjlwrdcwdvnghcumxahsemihbfduxbnmuhfmjbfyhhhqgptqoxiqvfxvuazycmfqnsihsoagixeaxyiuidwuyomarvoursvxxgyndfqlnloorxtubuoqsfhjekragtchivwyydqgbhuunznjzlkyxccjuvxifwttoxomrrlizjam"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "temcxpjehxmsqtxcuhueahperxrcm",
+            "t": "asnshaqlwlpgbkzdxppuxyrcetcaxsoigyvdfsklbsofwekysbvhspuztjmpheimplwzealejqsondtzvkfcspgnlvdwqrqcfeuaghhuolfkxwdimcbcyoelrfcgnrdujfrjsfvuemcxlbwecmjvwovxchoysajgbckzdwfcrjemnnqnvwchpdpywvrlnrvifbdgvbizgklnyxosbnpajfrgoiwbrnfsqooaqjlxzukumobwvdbbpnwwzwqohvuuvjaloeimxhfxbqhkabuultepjyliydtamjmrlyandhxyoxsizivhfyhiiinfgzztuvshwtnvdsxdfhqtwcsoqbzoaptmibiovhbksmbaylgxbcovisfsbvqqwdksvzdpqjstygvqrhinnaxpgmgzhgnqojnblnltuhqmipprbpjrgskgnkfrfuiuxmvifgfhfixogvhusowqytqszuitnfrlefkxwdfsrwtgxixjlzctqvrjtijzuskaaukuzhzudvzypnqklsokcskinmkctvzfapanqkptniivbaqimdgbazblnfrnyynksddapeqjakxdiwrvlbvbjrsqtcyuvsgfoydnvkzhmsjdxpprligbessoncwmfzyesbsquhgiibifuzkkufuosambkmrnwkchbbvfxblmsbftqdajnyouowlqpiqoxjdsgyoxvuxzxpncksxrsepfsjxctzarxzkojvyeozbynpygrckkrubtjueqdoschz"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "zrizjka",
+            "t": "ycrlwwotkhroagiwbgaefsikkqiduwhuvwarjnqzlgstipdaskmjdrfjnxktndwmfvuusuwoazfpkftgdzgmlfexsbpqhaxqfcqumfkhnwmebkneghmknqpbeptuaqdaxwterdrtpegsphepedqoqfypfctdisokohzsegczgzvvotffivvthdxytxbwynhjqzqggzzaovihvlkkzunlloqrmhbqijpogvcvfxsnrhirqcvliiytgzpythnvuhefgpxurxutwmnnlfxzdipxvegmlyhfvmnaqpoapzihbjekkofikomgtbfwltfytbzxbbbelaqiqltkzbiukhfnzynnpjfshlpuxrrwnatzprbchwzykwuzouxvikqjootuyetdoauywj"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "jrj",
+            "t": "vvbzmsaacrffpchkerobipwjycznswcbaqcpbopnbvufoqcbqachlbvkyzlpgfovdcpryveunrdhcdzbprwizjdocndkxnghgthdrajgizotpxtzldkjcwidyzpxddjoznqettdcikjjpxzdvofmvxmpiwdoznqvptoxdqbetawebvyniuhdrwoaefjgehdipetchmujdtnbnownxfnqdrpivympnajhppvivutzkpuwroxooepijndxavomwcatlzkdndzrpnohstqknrexhslylrikorzywdrufigezfosunmbuklwupsafghdpcxikvjndlcbwkgrqmrblxdunlhqxovyvahfacuzmaunyshrblnkzxobwsfzltcedhixqmohuenppqhdlujrqbelwxcpbkzmlgmybejeyygyidzepsckymemmiuxxhezllwtibfpttvwyrblgqozbqnarbxtuvkfiwyzjwhoilgckhfqlhpoutckhojoilhcgguckhjlivythavtjnfhletlxpxiwwdzkxfattvcplebvhnfrnrwnecmohhyudotowryxprojozsuhvuewfjsbmnrsbiilsegbjniyvbtwrapazwqxfyobrbsvgbmjjvdfuvjmsoruqfwwpsvcmhhjyylhjsdaszfasowtcpgilcaaxndkpgwsqeqfuyqpksfitdupswbykyvkvmmisjubrcolsniifeuiwpeujalvwhrqbkikdplcmlrkwovhrjniykqrwfdjwbqhbtiimvbbsirvqjiavkuqiocaovwjpdlzmbcbixibugatsdgetluslxzfwdsklgefmpclnjslohyuauktjggacgznhszsfmostzfasqxnhernkgxthsfszhnbcrihydbewzl"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "upxwtedywdqdcrlaprboaacbxlepaubauehtwrecprzkjkupzmtuaexatflzdjemxoow",
+            "t": "dwftfaosbvlemjsleyotrekxnrszysresogesurwvsokrhmmsdsylqjzguderoycihgozshcuhfwaelvelfhrdlbhzlggoidhkconfnofjhrwfheowsmecnuoeptktqnzzixhccfygxoenfvewlvcqzdpoanomhxqjgmxchvkbjjflzhvhnqmeundhvrzzvcqmuhljwuosueqksredwukidrkwmymkyngwhjekgxlpdwsicwtwrqweqjxsjfyefmiqyuuyafeuvcfdvoatqxuyuogjspwtkbtqksebqknfiyntjfjfunlfanvkwksnccbjbtfqkiubvzajlwdghhodzmxapaywsynbpftrccicmihhodswrpqmoxgvfjblwqmppskdblkokizfmukacsytbknzsukstnbzpumsvmzcbyrnkttafqtiewpvqozxibvxauwqolilpznwekbgqpjzjkruazwzuhujmdxrxwjgkmmsxhdackekzgbovcywzfkwlbiupbikolmjxawxoizshhfarxflazfkwwjsujnbqfhidkgqjcpsbcgsvxdgifufwjjzswtfuhrtcrxuqvfhrxfrpxgeumhsqrajrbbniicgqhctxnqfscjevzsgbjvpibrpcfblfdbyccvexjypkrowdatvycyalkhpnxdeysillulyoejdcnmkbuygeaefwprpugkszxeegpwupilffvmo"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "oyyzpqh",
+            "t": "jlqpmpsvdpifhydqtdzfwklytmutdjpcnerypvrukxdzijpytkfternddgibcozwypthyjtbzuhfdnhprsquwvyajtmetmzxioxkomsapecqtxrrhkhmazrdoslaotfbiyicsgwjjsgzachpwwypiimsposbhgdotghwvpiiivoprimkvuanxkpejmxcmfzfidnwtezahbmmlqipxmxasdkfcpbzunjrrjrlaeydsngkktuhlo"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "npdthapehemrhbnfvtitqpefbzamkdcpebmlelbiwptnyijenxmatogqsghulnrtcyw",
+            "t": "jvkpmnqagffceyythkrqjlcxxgganhkkfnvivewdegfvygxregwrsqorktakhtidajgkhptsumxamwpxyzdrhtwuopwzaywuhsemhrlhbegvehgylwqwzonzwlnyfnsvlxmvhxafakoehaaugjthijypzjhggzpbkxjfsufofdjxrxrjhtjonkzludcambcidxcadtnkgyuykbnkuimfxabtjyjaesblfsbuys"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "aoucbzsletsytalckshjdvztzlvlewzjqq",
+            "t": "zkdcslgmngdwjtkmbxferfrztuxkdffehrknzxhungkytyjdexntrcsroapfazydxnlwafmadrbzdfdiwgdnfxcraxuaazssantqriqoeihvvzrrumcizcboznnrdhbokrfhewvgnrkxoxneucfretsxxbfkmophagsnxfyxaibhjronynlnsdwasmmpuobmxrostykdqjrsjjiuohghodltksrdwdteandcjcmbswsnefmsskpfuwiesldfdovwuclpfbhvuemqfckfspsucfuwesmgqkipfvtjqkdggicywhrrvbkiytzkteiqcmwufasgdhjxitpcauzzbujukrcymvfslbctnyaleuvcjnmkimslwcaajbcloznrdvlhwhgfpbqhtulctnmiqsnqgrjswfycrqohbedqbrerkqlprhznczxhmgcfclgnkdgfeqgisetvlptvxiblqyebxxlmlzhcviuebjklnttkkrdzoutfbedbxrufienbrjfytsmmiuwfxebvgukmnswinxawrrxibcasbttwysvfzaewpdyxxzqoembouxfjcdzfrtlqbdvmcwnaiowhakepgtmkfsycolewupecsiqzofgcatgrgrzqtjlzvrrmoxkjzcvmyengmoozna"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "fh",
+            "t": "csfalrjbluprsfhzezvtxnoguywvegbxzoqhfsqaygwnrngjhtfhjfmymvytycxpikjctfofacsdgvsmesglscqxnfstonzlqlloemaliaydhxgnuynenobgpcipkhcnbjypofeknevjpslqevnsvlzbmfmlknqhmxodxsjbzoiafrtuwztvoakceoljcsxhqsycakphtiefu"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "hhezluztwjjflzixoxdfywlpfmrgewfnduldwavhhpssyugpucorqneohptdopusjxyfldaemvmzcmd",
+            "t": "awqefvsc"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "qhvgqdrjtmeokyyclsigrktpecetfqbwrezyycmtfogytlxreqpackoigdyhgnncqbansiohi",
+            "t": "tbloofufcsscwasmnetwuzuhcqxckdqafwjuehtgcblbcznjjiohkjlpvlavtowhbmtpwkdpthabxilrtzpajpgvshyvypesucypxfdvenphasrsmuddpyxnozwxuibvrfjxofipujpsfkctakpanvvusfqddgrxbdfkgjcufsdzimdsqizimofmxuyyknhwuehbxvqtslpfimfhcxpwcusmxythefjzepvlkdvzaaervxodqtukijpvvcrgaufdlwwstyanhupoyubeuvegijmcnnisnhfehmqqinqocqgtzcmitctmagxyskceovgtjdudortfakhyvzcfkkhpzbnqbjdvvknrpqwpqnliqsqramjdkwbrhgaoqmucdcryhmjyhmsrittfggvfkmggsohmzeadisxyldzvvlijrzmzyaotdpynhapkibtkpkaclofvqpkwquoehrxlcbtutzhzsoyvfzzdfzfbkrmauzfufgfvcayzwzxlwwjjzehumpmlisdymivwtbkojavzwseglnkpwkscuahbzjkvhodtoyffzrwlvifbhmywxgsbrodhrjcvwdfyzqjvqqxnviegizgvbxdlg"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "dwcqcchwibewukwbgekgbesux",
+            "t": "rfajtujyghotrxsmdftomnqibtxfprmowrpbgmonweqwlnfvpcggshhkllkirkbblcpwbztvrpxwnbfczjusgqvoujnwiwetwpbavmxxsvpqiftkofsxdrjxabwcrgaxljerjqohsrsisrdcgjvmesjbvjfjiybswzejklckyevwjuydhdxptblmfcgagzteegaakhvzyfvkjzbgyfejulpobpkebevdbmlqpdkbexpzneuftqdlyklxdckfbwrtmieobegqhfgkptxaesmmpfjyjinueukgbdfkjrziocwzooasgjngzwjggmpsexomoghumbqdvcrdntqvffnuqjvgykwpauccubw"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "ztecqrkjyjxirsudbedymrctwwlemzjygyprmrdwwwwfw",
+            "t": "tibcojanybyrqpaybellvhqqzmdieqrmppmnrbiyikrrxfafbkdsihrjzyrjduzgndzhihfeuckjzdunqtpkefsabplyywuvcvltsdsyyxsnwnjjoytmofsbnvlbsouyyxttwkjgjfhndwksgfscivktysxcdevjahpiwvwysdtvcrbqyhixvkazduxmhixjyoulgldbromafmbxmzoaslltowohwrjgxliwnyhxuqvlszwxvsnrsjpgoxbcbwpmwfwmmhybngpjbtcdsyvxqbwfpzebcodlvctaewlobnyhfiuvcchcrsxmkqpkhorwbmqclveugeirxaebovianwvmaouqvqoaqsuvowxuxopjjglktuzqbayzojszekkikeppmryliehhgynzrdcxrtluqrcfbwewfmhhwzncperjbhlqzreuurtjmffjdhanzvccuhiyxnvyrscanuqcjctrqkrzpvjfrkmebtibduqykwyatupeixgfbawvvthfibqumtvbozksirxupjescvwufrwzjlyqiwdrpzqjwygvtqjunfjvnezuubckcetsdmnxjwewmzkkbkpxahgncfymfwdbblouefdgciqqqmhsrglpkovvmuvicznpxgompxrrdglgmralqflhlbaqoecnnuhmetnvurxogxitpvdxzjngfbvvieqnreszdirzpmxoypnpkopplpexfxmmhaqzyszxyjmswmvaavqybwhkubdalhozcyxpplbihajosoxgdornnyeipcvag"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "t",
+            "t": "dyopcvxejwlnixsxuavdkjapafwireaqvdvdukpftialzwyftmkyzqmvwsbvnuhebditcsqlhjkrcuecndfhddfhcakbqbwznyfyceyrshjlkxdmpdjsfdhyxvbiubrfnbseafxlerexdfvjkezxfbewqvpiutobxcypmgxqerqmasydtsiaonljlxuuvcltpemyebdufznzlrcirsrxjltehltfaqmhciekhvxszaoqbotuiyvxxkkitpjaspkkqfcwijsypgemmiquyclrdnebvosrwnczwundacryyjzdfcxzmljnhrqpqzzqxemszrpunsgmwavpmgkoagukdcbcpqfpwkzshoytclhlxfeoswaoontemqatnzaexkdkpcgwgyauaegexjhgdwbjcjlhmrhgpfmzichwehmtjlfxfkjicysoamivezrjmowctxesthkrdrksqcqhdnzulmriplgpdvtnausyyjdwmildaygolvfvcgafwkyzgsilushhkxzkkfugzmlebhwfcdhzebnpmfyrjstgqdzxrfrgylqfjjncfqizoenmyggtqmfgdyjyrvmqnwvynuymbdbuvmxptlyqzlkxkfkezqfuuzfzsdfgxkcgfweradifkb"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "vvsffjwiiepzebjnxo",
+            "t": "irdtbgywhhuvayqazqvavxgrsazvozsuhiqscdxlzmuqtzqzfwbsgmopjgjxrmtthcfydvlooiwsqfqiziuhvixbmqgrroaauvywughggoizmvxrhxvlisetpkjxqonjcwigjcbczgqyvjozcaavpgylquxkrtnmimtxkknstxtmsjndcnuebdrbtnkhshhqpxkqwpvoxrhzocekqemnpsvtxazvtixcvhgfvizhozmftluuitwdgbdisbmokuqojqwwwyfjrgctoqufkqgvzselvzfugvzrngvodpakntjmzlzrolrvdfuiqacfdnrouidaudxoifvsyhjiedamjeiuvxlvzzkucquzkavopjpwakzrdzmjmghmgpextpcqwyrlhldxspjdgbqmiseejtbjggkqvowkbpxtqpolpevbaowvpdqjnykfvqrmavbukslcbbwh"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "pmuivyadpojrekjnrwipcjicdcpkxhxshvnzemgurkkyydoyianouckkxwqgqloecvtkvqppmiimgbja",
+            "t": "lomibpuuhmqhhllettutgwcyghoxxitqubrmqzgmctjhbintartqzbvbnwrwskzqhlomnqendhmzjuhdbbcolwtehoclxpysjojatcjjoaxeabvnmglmthgwgcdakuvydpzjvrxzulpyuxnybzasoljcuahuxwroalsxgkmhczjdvedmnpsuzguaxiokdscjzhgfexmlifefsbnuodxoeqjuvhqaecdyexnwepwwwfjzutoikcbwcihjdzcxetvdchongsfjkthiaxihgzjzpqqnkukdscxchnyaumlnrtotbvotqidkiyoyojkwlejdaaztbotpqwyoloxebwnvwrgvwgdoispgtyyavqjdppwsqpducjxwsxjwkiamomqanucpdbwzjmhhdafmjundswvbufopmpjbzbfwmjuifqmyzhbrasfhxprsicxlvvcrggmrhgyjtjbhdaafynqskwfkplaecycwfgljskzfmduxoisqccizlfjudjqtgvvrfzzixaynpxnfyqnaagjhznjpbbjjqakqxqzsxnetliuxvpyoeqguzxaoskxufisvxsmltumdjqcybrwxzydpfbotgrlxtwxbtqwkveighoakwoungnmopusabthlnxaomdzxrzkpnbvhezztsnczmajckvjxjrntmhulufxuwddvssmkqemdoefcdakglfonjukqsq"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "zchnkxwtwuzlyavobmnokufxjyxkfxklpghhhkaphnffjgblaadeatinlefzynwinkbdpdevxhyocnhncipk",
+            "t": "nlpjtyzmwvohxtavdffdogcutkmdzztklfyzjwwxtweqtwithydivuxhptjpasfyrnoounvpbrpuromuzqlkwpxcbzlwuquckkimyzxbhcyhetjitil"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "itqxmglcpymraukxwatljfyutbqeiiqszslradndsyyytmwgcsdrnyehtjcyuqvacojeprrxuifjjppyiztgidpcpnw",
+            "t": "iugvfznvixzdzpislwzkwsuhdybwfyjadhmianyhjfqrlqhxutypzgluzcxbkhurmcgsgbppouxeatwlqhmthlsnefunweubseqgutszvkiusrwwpgnroldejizeqopwjl"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "skizlwyjhudjhjcmetszqcnifjhbqpnqmiwfnpxtpjdswukfstxozgjcdyipkzjnwzuuwkvds",
+            "t": "pmfekftadjvvoevpkixagwbnewemmyoqwcdkxaabsfgijkdtfacfjfhdnnevofpouqbqkhzmnzqegqiopdvxranmhfsrhcsuwhnktmgxlxrgjsbhhgmwcpsxpvlatxcujseuqmiwjqgkepzwkmonsohmfkmvegbljcrxufmnnvpfnihppzixejvusyhlnhfuuxypsqqrhwxmszeisksdvfhilufdkgseyjqujuwvgojbmllusjezvovearqwlmiwantuuqqakvpaxeqxsjroodopbkqtbeumolwlshhezkoavpqdascrmmvrtkrrkobafrfrnqhrsjhdrbzurdthlhxcfirghmnuajgftkggeubhqmrnfjqhjeeqzkxulkxpccybaetpjpmrysikpapwnvzvrbfcxmpmduycmjbygbntmsopayzosbwjndmtqvihuyrplbinmjewvciiuxtknypacxgmhjtrhdiztunzkfktomggcfujdcrxelqiebjenrdoxqkwmvldqxavdpcgowgoqgxhjzwahxrxebsmlmtgstcnsjafrcospmuvkbbostvrluouaxaqrqcrledctjachvefcbrknoefbwvyqkmjxmjltmitznqnwkhgifwzqtjmjfyzpsbowwogbtxxxqfrcrywnrkenddxyyhhanubhnaeemslncocjzdwqrinjcyfmzkumxvqxmitltkhdbvntudpktqowijvkndpsvcnxmnpookavsepdhmnzzpbvheumpdewxmjtbvtiydgnwnouzltuzttcseggunhivvxavvjwjwwrdawtzduedbmdcgkrwfewsynvybyeucdejvtbddhznnlolbydxlvjsgztxolvkwbomtfvbrpfkdkvwwnbjnohexuahktjguvfgzehipgepbsqvwnmybueawgubjhblvgakpt"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "vbipmmg",
+            "t": "dagrldhpmmfyyvwkjfcgtrrfyjmfnvhtzrvqmfvsxriitgvrhecatxpdhxjooxtpqmfbinjhoquvcvhhmhnlnsfuyxcryabjtpboaepywkehmdvsswizmkdtkcvjngztruwzylebhcqgmbukzzguygahpqyfahnqbhvalahxjorepnbwgpnvqtbvpzelznfulawdfgeupqvydkaeucdahhccqnxbprersbjhesoszdgxtgdsgtennpdrbiefhtzjbclcyeyvapwiijbjcncbqigwyzbkonsfmhqqpuvvylxfqhmpdddhdivzpgkvpyfqomdseceswjkbniwhbruhaczwqueeufnlqqrlqpmedscuryjlninmusltkdlnbhswnpqckmjfuzeymrghmyoyeakjrygwhckdmzzuqkzfgwcsqahbjhuutjwruxlkgzbmkarfkbadxsvlrgfzmcycxisjzewtvlvxkgxtkaubraivfmdqcqmvzrwfvndckjnuxvuxjnfjeljgswpwrqmqykqrsklbnuanikxshuuboxcyhzebnuazobjropsclyduqcmrflxqfpxsbzehbsvgravlpkgyonspimruxnefvkkcexilndrngxeztjuaewfphxiuwaotlppgfcwnursieautetamtgcolviewqtvkxhuazvkthabbjpgqblxmtqvqagrwhduqdsgvankegefrmpfkzzbvjiiomglhiescurroyubutinytreaiveotrymsjopuhjvpgdrruwtsgqqpwxzdgxpccvqdkhjqjvkfdxhvsentbkapekwbwctojypbadmhboekjtxwpmkvudhokhccwmvdfsptqkuslbjgreiupwrtaatymodsyxrshkpfmpqbvfvdhsndoxarkkmqvllgtrduzchznenwivvvuynssyzcifzheiighqaegxbtuzeytpjriqlmdjrzfsqwbvdqqlcz"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "rayfhmsggzicgxqwajcsamlzjsehcghtkawergcdouncfyaoatsfchkcwlndvrhkcdvlx",
+            "t": "stoauzlskobnvdeknxovbtbvnlvwyhfyciixzdahxfdtjpsfirmtpuuzeemlkneseidnqlrrtmiwxgreprdeoiwgiylkhxnlbxjnncrujtycwfzwflfrgxcuewmlmayvfsacgdrcgphmtmhlgvuovminigbrjmejdfiqovyzujbpssmqsdqvysynrlaorttbnvcofqbrujuythrsdmnzxehfmapwqtlcfuqsnkckvjtxykmyzpdonbwnhucuvixaikjggvibfmioetyltcjttdjvaogsudtzgscqycmbhqmvwdqamplslvbjfzsdzzghxuddfsinazrmvyjlzyuuxjxsrrtoulskpmtfswaaqvahkfdvirpoyczlwjulzfmrditcrswbggxsxllzwducablstzwjjzuxnudsghhkhklyxkxykfldb"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "ucoenfhtnhonskquchrjtyvpsgifitqzhbblqrwdigvqkzepcnarfhdagqfjjarempwnkijwkckimtnz",
+            "t": "hzjajqxermpphocftfjnjzfknikbtgviepvizrshmgftskhaizipweknghvstdzousxdoddsmrewjszlnrxdfbgrsgqdzdskfwvtejxoybayvpfqinvgultrwbwlzgyhisaxiyvaqclqpyheyimyyhxwfjlwudnddkklqqdwreoybmdfgwuszkddbihitqaxltwqtzujxojicbhetwxvjlngnbphmouglqobgmmxlcjxtsbtvnawhrwfatbetahpsoqsemjtimsucmvmawchiazwmloqezfpuurwrgzieuibwwgfpxafbajlrhmsbxofnibdtmbsznotsdhselfgrgnxzixvvtkmomiuecalhgdlskisxkhekcnfuibzrqfuyqayvhqkttwfzmvfiymhkoqghpaculkghpyjxamhhowuscvdawhjpsnbdnxvbkijaiaaipwgvmvvxfxrlgxauiiicuudspjwfsleglrppbrmtpvgcpobvlhsqkknrnnqnfnlqoznmyqirlukgudyszwhxqyksymusmoassbzvkobszfqtgwpquitblwyimoeaffazihaivhlfthkxpzfmuyoovenjreuinixquqkubzozqxdxwrzdomykexkcvxolrghaaqvnzufvgkkmjwcrhnhailennbobjktwhwmmqmfeoxpbjbhehlqeycsnroksemsvowylayiaozxcnewprprqgsntxjykkbprxuubyvkfbnzlafrjwuopgoorypqwcmbftsrptdgyopvuaokeoyuupwerkdl"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "bokhxtctsdcpgjfswnbnliqksjutakgnmtqkpkbmyxouj",
+            "t": "hxpqhteqqjlvlwyxbunigprlzvrqi"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "jmkmwifincqbvtbqswyaxxtvhkzgujlcxqzxhekruivnvzffosjaakpiwxhldipjbazsurezhhvxlzguhhu",
+            "t": "yhohrczdcdfcyocractmlumjknrfkoibhdwcjkwzgwpwffkeuojxggpxsnphbyijsgmqahnctgbwysmjlyfjmfkcjxmpdhwwdwxgscstugvncrqgqneoecozzuxcynhdezbolvknkmoktblfistpuutbrvsgjnfmqjtwmoiqrapjivcdyytvoqookae"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "zjqirtivmeddsmmzfipucihigummgepmnkmrhngywxkkmihsewrptjwxzwyomernsjsofpgztfuzdmaktevjbefgqdpjocsanod",
+            "t": "gxuwrlkbzafbyoqsdaorjwbkjclqselpvvppxxrureveyrratatiardftnuajuwgtsqcrssadfanmtjqmiijuyohvznmwaponwpunvychhhfiunfpektaphrvdjsrfzbzpsmihnnxhakowklspyscifkfgbqumstoifeekkcgtduvxeuztnqflmbwwmhtnljfgtfntywajnhonuxdpunghagmdbonrqzabgxxkodgayjoghwcgljougsjfftcdumdebdpiinaricqupygwthauyheztajrgpynurhuedcerctzxmqljyyexkkvmxyppiqgmisijlvpzgakqxrguappxqwgllczudaslqmtofaahbeiytfupakrsylsptpjemzbydlkcsampfsxvgxfuzxehjqejbaenogkacmhmghfnvowbgwwhenqcrgukqgalhqiutoxiixuakmfitedoerdsaplhoxorzztkyoxxdxmpkbdrsbmfyemamsjgzupjqpifajxonyaifzaumnswskhwaabudpglmmzbaxxtvuvsshiglydplkdzvxzswkcafxkmejemzgxusjbowuxrkmrohilzxsqtvxnaywuarpyovgbcdxhykngigrznoehojsljvwyuoayzxkvylyailimgjzpolhfrwcnthfkkbgoehgimhvayggkyphfdjzubafinkzxpsgqqnvdmkdyhocdhkvpgwzdnhuwpxlfvzzczasqcalfdpxdproatiqennupqm"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "liprivabsgrgopdg",
+            "t": "qjkulhyuonuarfhilatifutlxztpnwyqbfzrzdbxwcoqhjiucdchmizvnkidpdjardsjjlnejkmxuzynearaqbezmwcuhvbscubkuneohxlpwdbi"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "oiqyqbaaasjoeejyuobwitxaakxksyuuvbwxontfiwdacribpugotmstfmklev",
+            "t": "zwotezeptrfkvzshjloevwipkifxdxwmxmbjaxpuwnqvkdcojaqwljxlbyvbbyetnzaitxdepbijvirvsalwmvzkatboarugzijxdggugmbljuewplogicwtcqazrmdijbdysisrjylriaiuiuvxoydpeznenaysknttgqcbobdknvtypaxghpwppquxuvkyruaoockrdvbeiggnkbqykpihjdzbxlctaebehvkixvnazdbnqxefchfrmldasrbfwwz"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "aqxerpdvcswqtvwlcokjbonoyhzqyvmxrgusiwdrzvicaixytfeime",
+            "t": "pubsgmfwzufemnoeohmyhspsecrniiabasurjmtpcwxbscmvzyjdjxuzbsvhtrjcwwlontfynzgakkhwlzcqwfqgciuwzgyyvhwkvttqjnetkpowkhwfxieprdfmnurydxfdpfttzfhuzcazqntonjdbeqyfnyurjaelgjsyikklnbasagxphxicgqyqaudfsvgqtprimttawjumljhnnydvlpozprebpuioxquvpnibpgnzbfgddhnavhtoxfdxkbtsfpnpcybghlpqlrkqsxitdyivhagkwyvfdvwjiykpzqymmikzqubwlogfntcmldxihkivxrhauxkzenkjecwbfysroisxmpzhmwsjqfjedsmtxeiidespmlnuvaylyqovipdkbidczbqxxcldteiybugiultqiwbnzwntayychapadeddreyqgqxbwfygoguvcokqrcdurtbvneslkchryehughwzmdjvfazqkbjeporknoyvbrdskgasbtbjpeympuitqrxsekkjyhoqmudohtjievwtqiiogsiwpxemvhxmdplthjvgdkqp"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "vsihjfqxdvsqultqlmnaxwtejsooqfqkqhugpypxoqdyqeyiohgbotggsnfwiwddkgzkwxrhrttnvf",
+            "t": "seisizxrvhzavaqqzambanvciyyspwkdlhacgqtnsbftwxkyuddibxqrcnlswjnagxxwsqlpdfqzdinucdzlthllsximqhqxkwjykhlzkdhmoghcrjjlrrdhpoimrxjlzuglkczpekmokkpeezagjysftpfoaimftxzrqpigyelmmismgkzqqfusnyervdjntiincgzjylzvopxmnoeijdecfvzorxytrxehrtmzwsrbliypfaarilvcoiajjrxwuyzaudkftkgtbsxiolwhjzcpcfimjfsbtrcpnpdqvkohfnbsygkaitsmiigxgsujyjdbsqjfayrwqzyujuzsj"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "lpjxrthshwjcbqjrvntpllppoddosznywfgehqxlgrrbqboxnkcwlzpozumharzggptvpngzubhmkqdyrwqpgurist",
+            "t": "vhoalnqkasnottuuqzqaztgrbwofcvcstllmorslaamwvvxuhbzpqxwdeivyrkpksdyxxxvicpivnklilndnijcvmckeuzjggtqanmelhtiebzwqlmdjyntgpgifxjmwpkyuoapeszhdbuendmfuzmioimidymotmukguxwasxpomfyuicrmtvdjfkcrqrkiyvgtpwdxxlselcvvxqbfrphlwuualmxmzrupcmfrsysmwxxiufcxujupqquwcqgkmdujhibdancmpfywirbxnkjeqerkzpyvbowscrnzggdtiorqvrsebikkuuhspwvfreklmfuzywjfmpbeoobsdrvkoxjzuawxqrzhjubornhezkexojsikscfnhilrwjeiwyvvymlucqwkemmffxehurcggphhhsvhfzenybzcnfgyveqxbtunisbbrwfnjhyixccxjndithaguputwnmtzbdyoetumfpzwgjgwxmiljgdlkfpqmepflpxjjymbnbzxoeimzpdwortuwvbyjdjjbtntvxdobzhtxxnblruolzysjbwdrbaajuoeowsvdcljjhogjzqzemtiophnmhnundwzafnqsxomyiilnntnhesgizaiyvfadlnfepbbarbpincqaxyekgdkpyfnkazsfhfuphzybstoiwwfkpwzcilkyjanotagsxgopmjuhqmyuoaltxhrxyqrlrrixcrwrxafypbdfqkaliknmdfmiivbenivdrvmdojsuddmotfzksiclzwgbdwganpuvqxhvsjxhfdlgymjeslb"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "qcroxnhykeqiznopneei",
+            "t": "vlsxcwojzzkurwzbrtjmgsuwqdxlkdoqtcdxttbimmbuailccdeyalaihdzvhfwfrcjbnspajdkbplwhndkmzgphokuwhwvioltyzmqpdvothvlfyvpbwlxvuvbaukltyexudmzdnneftlrpegmyczcmzjtpahqhdyttvzxzouctnasmizfnqpedqpcghuyszwfkvxexnsznnkbrwstffqwdvqoisdcbnqefahonzuhwnqqkhasplpaxlxxoqdytsmmobhtbraojrzyhhwolydezioexatznwztivifskkgpdpkxwzjsqjmewqiwzyblkowfwjjmuguylawpvfhkfcerilmfsfpfronqmjitxznflwvktmevuzczeqynetyuftwpijuozyfmbaeieclclvggvqjskbrhbjyseuretxetuhmsdzabcslh"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "xegybgazgdqmkuybuhyosjyehdqby",
+            "t": "hruirjrqjyqfnhdtwezqmdjisopzvpbancowbrzwavmqaskpznahkjjarzxanbfqtrmhstjbxgmgjakyouaspqkjaheiwemqilqkfqvhxbilvyygghwhhyvemrnamletxevkrkbgrinqfrqzeybbmkagexcrlgghprhhfatiynpnemfhrqxwznwcahvvdfplojqgrdmliqqmgcuuhcsblvbmpwzmypusqsjqtqnemwrhrfwixhssffykqhuoveipdvpoielgiogqwucolhihgbnddgomiplhzopoemeujbfifoagptpkljhlxneatnyshibxylnnusxdwmhbipkunzadnnliyqfdahbjznibwdnlywgfwunakeiunkavqfxuynrrzulciokhdmktpqcbmctxtzbhqmomipgdsudvynhamorfsheoxkbkxqbwkejozrsrbzcxuebhcdajihfzksalopqpedxptfblhurzrhrbcyzzuzdbyqldnnprukpfhflhprrtpukabgohzlcawsnodqyqvazbsqeseuttamkgjeoheevchdkboncaajbvimbjbkgmaoxythofncnwnchnkqfmvtfvfpqzdxhwpsijgahmaywfegwatdhybeddwrklldhvxqypnfzimfkixvupowamtpkxqlkcpwgxstdfithcgqsgmukyctbkrkbjiomhfgzkjfzlclkojzzxhxuqkyn"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "szpqwkebxtdukznflxxrhrjdq",
+            "t": "fzwdzcifpvrcwhcafwiutssctdgaolopktansluydxbptvzfzqfevkibojgtytalttdzbohjwqecntcmrcxrtjcgayzpypqzgjnzyersvaulnvvvkahuoecspmsisvvyrdixuwonawnqpkrwqfohzczirnbabknzdfraubdihlbrgbcfxynkrttuxnktabddowysryctpxj"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "pylcwgpelwocozcydrjgcyaynukaxevwkbrycpntkniarjhvnuaiknilmjkqfopiqsctifiol",
+            "t": "qyrfqazuiwmitpgwofmffdpvexjnucphgyscqsyenaosixrwcklrlujiampxaqmwcqpsijcjcqnemgjyukffemtgkjtpgmbfzxrvozlpulcrhpkytawwjwehjvgxotstagvkpmnkecnphyvzwogfvfnslmdeggkkipfcdvicebeixadcxmnkfdxqqyjkvbtvrpxdylfmveicdvwdttgixulmeuwnauaumtpeoeflkocjuwndgkfwrikhob"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "hnkzotwnlrdgjjkbsccejlpgzjzcvhjuoizgm",
+            "t": "htmhmddoxwuvclbecfnwmsbghxvrcfqhnnvfqwaeavacwcbsremekbkyvoljntefrirpdahufbjfdjjhrbabaeqzgapfvmmyjrmhdycrmtyotkewljgoflbpqfoagtisezqizbpjnuminzbmouwewwumhemltgwgiyknajgypdamabftktgqmpclayjbdesq"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "wocvhhkxuloseqgokmtwxfkthreijtuipfoyrezxqhcieytqqbxeqzbxnlullamvwrflfmenjwzgfhyjxsmtcewmeqpz",
+            "t": "wdlvvpwvthrqwpnqcfqsysbgsgsmemupixerftletwvukuyaonlozqntugaxyixshzedcgtxygboytydfmirrkqwhqzzvazxitvttdfcfsglmcvtnyekcwq"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "axwef",
+            "t": "cjesnisbaznecrmbxnpupcgklzsksdghrvnrftbgicsbnrfqwqzogayiuaqcnkofhalzowzgqqbltrbinsemvuymzknxmmxkttumocvkgbpexweeiobogrmbkpjlwwvoepyttrgsesewaigebttatstnhwwbjbmidxppspovwctwtquxstarasrvagybpsdtylpyeswyvobxxwbrhmyrwtpesoomasxtxzqrogkuctncjyoxmsfumpcedjvujbapsnwlumpneskeevkkorggofynmfbivgvrgpwdypliawdppvgyalvmswdqiqfxefmypcicqsjvmdwpyqbgeaihczwsxuwgqjiaaedixebfyqybjjprfprmqfhelnpuouwoqdpidchcsljphqvayckevyqawwhqvcbqzxidlkwtwncltirbbbwfahnxdxodlbcaltgixuuoesczwjcqijvyczwkvcaddrkfohajgmdpsoncrfembrkeklzpwxyrxsoubbalqyumhuufugktcherqwsizsbwdmlnkjezuvwbugbskpcyhthcjpfthlxhmhouhzmrintmyzgzolfotofqjcksregrcrubisqhppwpsoqhiihuaygpzkfkdmqdpitdunowvelwylfcqkvqjegjpixvtcuvjwlweukhyoheqavcqpbvgaeivdewbnueawbztlyukmowialiiztsdcvlzkujsouvefqbsvginxwyrqgcufwecpnzuxsmzknseyeunjpatxeffvtvslmrfkehxwerrcctxzmhxgzbkvnfxhnwhdtxmehebhwdqavcxorqmaafkniypbvawuduafwynvdvwrwkpixwhoznhilcobwmscxoixahmqvdkypafarhcpdhrfvaavsjc"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "trbenkqxnuwsiejqtwcjlsizffacqugvexcejsqfmuaeibsuktdztcskzweurrbjujwbuwf",
+            "t": "veovttgpjuavmimtkhdphcmfanstsahqqyftzkecvoymgjcrwnuvologsjjbdijta"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "gfoeqgjpvymkrfb",
+            "t": "wycjkbgbaapeyctpauyglrkmudecwqfbdspowmvsfqhtwsujgxnjyntkfrolciqyjfgrgtcolmwfuflxsaijybefqbghklcxpiipixxgmstskikkzojupyxzfwawtadrninqvpmkqbsobguqqsgdyqnzkqsbncajofdxigpxkntnyyfpzkqiguhqikmkkwjjckdhcxfioqspiutinedkwwtznmzaitqyqxwtfsaaibmujdjyuatxlqxxwnt"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "thgsxefhozsagkftwzrmpuuwaytdwhadofkupsfiquhagguphyfrjysubietmhzbiqqzrtfrlvaohwcudqpymgmudjzseehkc",
+            "t": "cujmwmkqqhxrwmxpqgetnxwvzkevpqfypizrhloddsybtofjlpvuvzbvwndhmfhbvebmegvxfatkkljoahqxaaspmhbcgrwczffxmlrzxilapnbjlxokuiqamfdtsgjylnxyhfzurajocpowezmqvtxqhjvoylanjiuappmldzccnqygwvoubqdxaovxsqsajvwntjkebbgarnrkyqymvtfmpspzwchhctnqdhrduughyyecxwekqvlaqwlttiiuqkuwoooktzacstiajnhangyyxixxjrebbnpoedrajmayfzhzmkuyvskmivkeidplhifzdtguzyuzutjomesvqaxfkirgtbsolprrxxkccqtqfhqnrxcufuekpeqtxjxjwgpkklnadmerolihxbfmthtcolnkhzwmcaxbiozvovfbwxlfpqzseyquwjugjiaxwihbvobztjmvyehbdhawoyqobmugqvxmjmqfljzfnawwxplpufxawriomdknsrqevphswirijmzncprpnydyvuhewmkdwipwcpvlyhqfmhrzatbyimvpjtngycgmmxpdxilfgjahqksvlrakeodmaympyhedqkmkazsenqhusbgbqjzosqmosmyduoewhnlhpufqrslgljnjexfakvshzmrwfkwbhdyiqqysrxbhtxzelfhenzpopiiusextseesuhjvibouiegugavloiltoscjcbzefyjqenzdpiklyntqpewltlfjhjongwqdzdfftiglxcumagransmmumepehhursuykzgutjqpkuhzupgdmmctjibjhlyfngfijcumhamorjwubfyiovwfipwarhyilczxpohyenffoadjvkddiefzoojjramfcnqtdcteexizflixrylzooxydcxguoncaxsfcexogqbflhiuwyswoprsehybxjsepeptmliqjdliyk"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "sxamqncmuwanrvlgsycwuruwkgcrklqhqacarqzhhyqchqxaypgf",
+            "t": "cgqfschpigzbtvlfydlpvbwpnmmjdijrfnodqpvbppfzvzzgjzrmeedvxcmpmfwnwmldaxuewziadhqeszwvswozdylfdphyjsznvougwgkedmgiqfovbqqpedmnjskshfhrktepwmojraensenqyjcdxpdxziqpxceacbmhmaroossadbhnbblxctkqfpanxyotnzkpnysiiwmzmsbufwrezqnkdnhlkdmdisneuvhcjeleuosvpqjbmcfgocxchgfgy"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "ephjlxiyrynkjkslurafqgnmuotqvabiauxmjcernzvvxzjlwnhaxp",
+            "t": "fntwqxnkmhemhjqxvgpjikyvhmhkiiaamjlpftqwaippaesrfmdwlfifchzpvptkvjgcymgwidaqgirrnxcdxxcibqytvzkmrazuqbvptcgyjphtlqblizaynesuhbinsuqhfauquykhnugwnzarxoikosibmhbnaflfoavmbsursdbhmlgvynfdfsngfgxikdfzrxtqdkenaulhmaofpqpsidydhaozqhygajvfzgvrepfnvdpwiwmljhtlmxzzosnynvrlejbbtaoscrwnigdplqzxhxbkubfynkofdtxmncmzazirrodacaplmfrnvvqmtgsitgrjjfkirxkkdylhpgmzbzfmancfixsngnjqtxpekjbepbgsqztihrknbxzvbfjrleqkpgnrqfycmhziwnshhpbsenxlrxzyjuzkzfxnjwglqrhbtcipxgwbsjjdhoxljxpyospavojvfpzcxcmkzfrrnuwifsuycxqglgsskhfwioaxdgnschiqzvmznpdyonwzfuatrkystfpmuuoikkrzqsuibajwcivykcykpffyoxsoifcnbgwlnfuouufgcavqshhakuinkkllpawouadhtsfinhxpsikvazfzzeyydjbfspfpgjkyhpiimjxtvdozgrltkzzshzdffuoxevracileilrtfxludjzadzbaagfwloxaoyikraoivrctsepbjkruoxrbxzmcrvxfsamskuwxoxmhgbgumflasbxlettdjjaeqgsyhxwcpmhvnptspougzperxswmyhmwdbjyncgmpgkyivkfjxuomlrqwvkshbtrbfujjpewwnajxgpbdmoahbxkpcgeprntfyaetiifcheuakxbjjlsoxqjvtvcmbqwkscadzlypaxtqalnjzilbcoiizxijtnwabnxqroqxsqyzrhzcajqmnwicgamvqplckvtnclqwsktanehmipcfjhzf"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "cvtywdcimatrbjykosvefheqofmkhvwqjrc",
+            "t": "dyxvhsdssrekulkqffbjibdasgyhzgrldnzggrmgrvxtooxpiwyhhnadoitpyercnxmswvboqmihmftobsgtlqmfmswpvcqjchchvjbeimvjijkury"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "fdwrhxypckurcydunwxitcrshvbrrwuhopikzzcikoehdloinklafukieforhxuddlweslargciktilkcyupfr",
+            "t": "xpmcwthcoysslnlvutpopjxnytbqdajbdxflmagouubdipjpphjxkcmzxflyampxshzobsgshkrilhryjnialsvhkkdodusekzyvrobsnzqkbtvqpipwtlbnpszybojfsxuygrxmpbhdeotwtuyxshqpktggehietnlsoktfxcqpmmsbeoukodsexgrhvqzsfyhnlksvpfxbgvwklqrrhdoayhwyrmjsmnitrtoqydslwggmjnjiouvluwzzwxoieqbejsmrhysbqddzmkgxoqtwnlzrjrkhvezjqodwnepbufdryczagzqmbivyttxbbitgzlvslulbdazhsklgmkjthdifoytxhrydnlflbomyjiayuhcxwccpvvroltjxzvlmdratbjcyoubpgyegwetstoourdueormesgkroxdhvwxskegiwigzibinxmxiavdicfsdcleebhgphjocfdxrhmluuwstcfhtjamztwhjbbzxsttiyvkuchlmhjtlifpdmqovvnpznxudkdnpcfoidaarezxlpaavabuoruvitycrzditicjvnevbuwvrfjbhbrgazwfikiucmijjzuopyuylcynokfcewoyfakysulvumfbkoarurxciesgxpfridubwjdnvnbabzlplexjfgmvggxjkhjplyoqtgyscwnsntmskaekzwosmjninelrttdhxazsdbqkqoojhxejadeobgrailgjgisnfttezhmlirblplxxvyas"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "ynmxyphehoowygmwalnpmuzfrdopqoczytgfqnqunhimomdcxrwtrbjbcidchwoxkkipeghdnewxmwsvahrkskpd",
+            "t": "xzboxwkqultshpzxpzgxfgkifqiyfhiqmaytrcdpimhnqgloejsosbpqnqswzhtmtphmaovhnwsvlcqbclrtgntjeaccjnfurjwwhscibohzgyvzlytshsdxtpxaiaddxpgkuysboahrjrunvkptyexmthzqlmtuqiaovoshyjrwcoysmszxyowiywicppyedtlrclavjeffrzrxwrmpwzecgpypyoleajeqztispiqnwhnerh"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "hvrnbragltvajcruom",
+            "t": "paavnfmavekxfpnsbvkrdyrwqqorqvgvrbetvncwuvorgyqjqvvhsedgrkgrzwxtcftjofpnamuifbxbswqsgsmvhynogwhisegsantrnldvvugnvcbillfrcmjhbmdjjylbsvotghyabcytukkaxzydmdamvghuekokpqugxnbkwiguizolyaesqwioayyqzhlgjlqahjkcrtnbltygwtfnoqotggfsyglphsqjnmbzseywiotecukvizcwgodjeykyegklacujgzxpptzgflkenpmbcqhmibscfitrmqomfjaotrifgdfiuqyamxdqqjvcwkjffmfgmlqixuhsglwavyqcpbcteoimdmwfjbjwfciugaeaayyqdeuydlboorvhufgsyqzuiutapumjyhfknjtrnntphqsojrshayltnkkpzslxlrmwopftesvxpgkxriuaphxxgunjgjlwcuawewtamomdaqgbutyzzihokalnjahwboboagadlhepctwsmlyaxvhpunhabeglajkinshwgtowvysustlgwfdqecblwdxbudjvqdgbmhpwvwyoobrpnymtmvinfitliybunjicgtcvqhqrhzmuzqewpviqokugafahifyhamiistbudqgwsyihjpvuwhujeeiytvbtwisedxjfzvcrcviryqsdzrqmaitcpqtgltssuddfzegkqrsqgfnqvwbnktiqchinntuhwcxltstblxmlelbotxvcxirrsuyyafxjrndhpserdmccrqylieamndlohgrvkvtyzaevrqjwpovrhmlmhskuhwceaufgitrbpgbqjqhjwitomqudfpnefwsqqspxrissiovlhctmxmjlondzifsudpcmhjpxjrgqjcqzbcfgxnhofsvqjqxpirrasprnncyyjurumaseoceypytaqjeppkvnpnlcdgevopzkryxtmwgwehcrvpedbmvnqbeyyzur"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "mngdcdyausbhrtjrqygrjhmsbilwrzzwrxkzysthzppvodcuq",
+            "t": "bvkuknfrkwffvubjnlwqzfcfvhguwycfqvmhgjusvvwfjfoftmbuyylgdmvfmejmtsyhxvshaturzdwvbcphwqhmiddwbufbnngpeiehomfqwpvvsymxrpzbeyuekjcwxwaenihwhejfuyewlcercgxtbhjxjqetqxpwocgygwngjzmaymekowbuihcubwwwiljxggomgouyqqvxlnkupzjfvdwasiwwyrpfwxgaawqnprmqwzxytoxyiggctywkieymkyhlyaesvumoxjrosmzamfunzerltrjkeaksddxkjvvpqayyowea"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "sjjefqtgbissepj",
+            "t": "xvkbmiktuimzqpuqgbxovzkgyilzztsbzdwftwlpqhkvoyavrgbrtcrqlyrlqszxztkahzzxrtzszudfapfydcygleztyngeywceznncrobzknvvakondrqnzcfoozyojzttgsqmnjvhnbxxpyxxchzkqhhbqdhmqqsdgycowtaeekwqsqcofxbgylpuqppbplmemrxkjjcculejocrkxpwtsvkdiqernckfumndivwgmnufvmetcwiggpliaouhgpcsfjfivujnakgeueysogxzaypkveniiaqzmydscbqrqyagsddpaoutkywgcpuwreuoyxvesxfmswafpbcpxxyknufiizxhsldknsptwukkyoprqnpctkajsseyzjeoyyarwngxttyaqoetczxjekpplddtluwjddbronnzbssgmmzxgvdbncjlarrqjebfrvsdhjzsfflpzznnfmmxpyqszmfeawddefmxnzswmxrffkbyfbsujaivzhgbdwqejtihgewhiyxsjzjeqmxibgxglwpkhsrlmgubpoxhltsmpqdmhtjbnqvxkvkmiwwxwxxzdhvifqtcawspqrqgfgglummjpkdjgwasbbvfzbhemowkzepvghjwnvwsdzuyxipodmpxbunytqzmtyqchlvoizeuzmmobcracayuoujdhoabfoqmmnqrttzsrosvgbglfyglasluppxmpugxgszwekwymmnzitmitooncdammddkyulsmtzolaxwcqeenlmwtwpflqzcoptkueowhgctnawhmrsuplpqcagyebyerukjzhbcgtinoyezcrmelhvhrgukitysygigkoknjojocjmdgsgqget"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "phlynbullwtycepzmrffdrg",
+            "t": "peahgixrntcjkkqratnciblpebycbllxqyjdwfzdhdvvhncwyhkqqflfqiajwhmgiehvkraxvfrcotspdylsjfkbjobmpxkoynzqkzzzqiepurifhexmmikhwouholpoajkxqxozrigpzaovxhyyknvljlymalhysetribjmdqulntyczhwjcwxmpghwuefahorvdemokczhiwvsvmbostptvmacltwqlhyavvsfrlpmrwijhawderapksqmvrltuebojvtrhbkogfmvexesbirbmsvtwvruetkinwfxzkbbggckiikrekmypcknhoyrwfyhexfoqteunggjxwwagrherdsuhfcxldxzdinlrxkfnmypcirzigvsmhrkpxzqfukdrbqmbuwgyouprpmgwnhhkynnfwrtharjxevlvwjndfxwuwwisfmkjfqhlweozkvdekuqptseeryrwnlkyzbjxreaswxbqwgrkerpcivbmueedsrpnvxmiutftmtugakjdvhwcohgslvgcptydixqfzukgdfpoekddlyxazyehkzwdrekddtecboannpipyctjntyfcipgvmhxzwxoaslzmeathwuzaqoxigqlxiahgyklmmxwnydlgsfhlwwjzqxbpcmbtmwjgqtisuichxjlmrgnkgroweyqpisvfiqkyoinirvmmkgsmucymdxujvblvzlxzhiekneovwnqqzyeqtwqcbpltqoabbvmvyceqwymvnsumjvgzsgilltutfrjdwyhnymriywytpykpolrjpmmurniutlmtnmzudggmtzk"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "yhuvurdzzyyhninhlgathptxfvydtnvnhduiuxegb",
+            "t": "yxolthphvvoowvbtkkxdskwnuemljbyggcjmnfpeyrxquufgokuflsiefyziosjasouojohvgbjsyugpwmguwyryvgigbfoctqfmxfmphoqstcewxolieyhjircfyjajhkzwjrnepevkxsdfaarhorkazaysqgmjiucvwylfwltlwetqscrpxobmaiaeyejobozlzwkxdowtpfqcitqomlnaytgcqtildrsnhfvggpwvvjottazgzlddtihfheqbtrlkdntokjvkzalnrpwvsqupbtxfxgjfkkxnbyzxccmtqdubrqbeslhpswhwdrcqshvuqkjyzksydskpulahirtejhpzubdhwnusqhrbltkidxpshngpyhuznznrhsoyiuvhotlraxdbsfzvnefwhstofmojcjnojodrwjxrxhdazrikajztdlpmdcqemfsittncxbynbdzdaefhjabsrqnffpouifpaqdbrvidcwhdjthoezumhxgowmiocktyzoiputocffanuplhslcljxonowerwfouxzyfdxmrbnveorylglxfsejhlsmppgtdqwvee"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "rfoayfrvvlghbmgitwjuvhhcqoapquexfllcqhgemeweiabiwyekbxgsyl",
+            "t": "urzqxzlrnjmcyuhkuszwzahrekvoeoaagjuwomxlxcjghztxqiuvbwznowzltcubekorgapnpvfixjnsgawbvvkrjwpyxiosblndrlanmypvjjrhggfzagkqtpnrmoptprrbfhldgshajlhpqucqyeavwogornysctyehftzdjkgevssdykrafpeellbagnzywakrpzyjqqmqockwpkncascffmqaifekxgdiamlgqhrldiclinzexunquzlvtrqbzrdztznyyrwmuhvkbszvymvligrrclppbdbfpznmqfmmohcvgirwjkuedikrotvntvjzsszndsgizfegecqwrnwtqhgthfrfgdikrjelgabwtzttnonymhexarpdhblvlegqxfannkzhouogoywdiodbpjuquohtlvspwtkazwyteahwzkpgjalxpmlvkqrbzxzdfxqkwnzazihqzvjfkaauewuv"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "thuingxvpwgclhmtegdzsmnapyycciqyormtqgksznwdsqmykggziakeqyngwqrlorlnuxlxtdwarrbcmnmmzfmqwdisfkubnln",
+            "t": "jpwqjojuditnkjvfrdlxsvyfhuzqhdwhxhnadjxaeogznuffgdetbmsotsoawxnwygnvhyykhsecewvxjntonuhvjqqpbcbwkjdexolbkilmckfdrkkkmuhyxfjnawpeoamkjoepkodzwxxbgxiigcnosvkhburlplzwlrqprileniunvbvlztoibyvzgjwbgeijagikpmekrodvpfukyfijvzobrwbiboxpeondvqfixttsmfxtpwqizwrwauhcyqykcjovtzmmquvrehqzqjvqncegpohljjkguuxrxehrwwrghmdhkesbmqildpkfavcigyqgqgavuwjfhddkjmnzrwmlfoaaonyykzioepmtxacgzkjcwlwaibfraeivrnbuuqvcfucpx"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "dofhjmfbsxcubecdkb",
+            "t": "hfjdzlhikpvlgaghpaeioeuifzxog"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "adcknxjavnqfdxglbunywijklypsamgbekkrvtqlwxfxkbdmshdzgtqqueecodkaljvgdgbgmpkkxljxemeovqahvwgbwkmvhs",
+            "t": "ktsmnlxwjmqfidfzrypgktlfxmicmmvuuxrqioshjjtqzozhtiiydgbinedeisutipffezubdfpkdvwlelghnzvprbpyphoasashduyrnuwtzfpllompexshgjqgynlouoamebolydbjumqgzkiniaqkhbniywxjhjjmpcvzyqsuzaksasdtpreqilcvhdlvjx"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "rnjsjgzzdhchqixtuiqbfpegjvaoafyawqy",
+            "t": "ggefclcbjxpbqtxtumpybxcguqqbcxroqotszehvduurooywpivjtfabkscsnqtjmozkiuzphcpkqmcdgittgkehlrwarrrfdaazvtupfhouqovyoczzwbmsjyqtqyuudfzdbhokzjcjtzainmqwulfngicrachnqcyhoaddkbcoepcnxhjcusmiubstoqzfxgocmxiqabpaoqebigndstezlecvqwzafdemiwhtpkaoojyyhmnjyjrxmtizjdhcbjbpexhxcnwcuvjgfjqpaocssuemzpfywvklxkxypixodnlrcyjlanudmawmxtghshyvntyrroclstinvwxrrlovcqdwhbypzygrzkvfxqjkmguhfycwggrahwnohsegdlpxtmxwemyjnexoitknaharzetlaatlkrsueoanerivxrhuwvfnfnzuoltnzdyebxgaluyyjqzvlmeuuxpypwinpeewzovvbtfhejlrhynjofluhdtmatimuylhskzezjudxjwbrepmtojtpxahyeynqbafocfikselwrnpdwpvxytnvlvdohkgqowsapyiieviidkexqcdnobaxsmjaplgmyikgxppfkkfrweitbdhvcmieuxjzogqwnjwhsizghqthvmuotdsamvkkrxucotentnimgwozedyxjcpixdguwzioviukrcubqkbyuonbpxeeovixtkvjpblumyzrxpbylkjlfygfcflolkhwgavqsskdngrmpmshmoxwonbbnpooirtrirbusuducgoztwpptnqadlvjsugjozwtgypqxsxdvrfwmcgcjhwxfbgwkzlbpxhohnjqqqofmagrjlzjgswltwfhumarpskxqcvumgyemhruzoorynqatxsiyyyawpmkovlcjevrpetomvnucyzkmsgrdpzyramc"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "iazjkpdrciaabrbeuujmbfnjarrxkcpyxjplmserfvdhxxrvipbbplsatrziznlloojbmucplbgonkbgmijhfoltzyxrdx",
+            "t": "dkymtqjhvhkzlliflzhtkotclewwsf"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "qvulddtepwculbesstlhefeabauhvmxznpxgdtmifvjchqdvqvdggazqh",
+            "t": "babxxrgtlqedmhexfpqvlikzjeqmgflqjzfnlsrvrkfkcbdhlrksutoyjdaorqecfogsswpidnqylralimmeykczuxdxefzhvrnuevamztrqdsbflevigpruqrltrysvradtaatrnvxltlmsnlvqimqmeyqbxjgxbcdyyzvgkqhqrcj"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "whyhhlvrkwbqluynwvqxi",
+            "t": "bbvpwjflqbrbcydwcoxvmpvbovmfryqimvtusmtaqlsacqpmtjaiaifrlsznukfmtiuyaacbnflkookjvggehafnoxxjybtrhukvlecuyltctcadmsurmwrvckxrlodgqxkmunakackhdixxsezzeebapeemesglhtbjrowqwfamjitfbhmkdukivkrucwmzelpgwrpdcqfthwnklnznwzd"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "aflezlcucsyvrmalhezqvrzynaw",
+            "t": "gmrvqckortprvzyqrhugjxdydjwhahrcgsfgqokyfoayiidzkkfegfoztpihfymwjimzgzdyatzderpkwlslbljuwyuumfsubmuggqjdvdykqlbkgxbvnelwntipjwfulpbnltfppmzrxvudkszulxnjbqegwbkohzfesgnxxnqvyfeephdlztslqxhsnobxethnqckhtxebueqiaijwoappplweldfqitrruedrnbwkdxorslklvnlyjlrmcganijfgkalexriukuxytcppowfkxajseatcqbyjbekphqvaboegrsdjyxwedwkpfvygubxuovogzjkxoeylfpyftzsgdsmgyxsmxyzxnsgwsptqzbzagjuqyebxgbsrafyyrprnpkrbjnaglhmfzhuhquwiyettdcqhwsefvfxpyrcacfnrjxgkcwxashoibdsctxdmguymvrnknoeeqiqiyvsopsthfkdunrqheuxggembkdaymgdunucuwnhvlfxkfxzp"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "mbpfszbuudcxacskhghdhokboigmlwmurcszmhzjvsvdxfdojwslshsimyzmmruzbhxguiqbdcpteungq",
+            "t": "zdwdtmwcbnpezosfjejzalfuhpopqrdxckadcejaacqbxpcftfeezzgsnkyzwdgkxoxxitpztdeddbsogudfmfumusdrfytjbueqpbwndxxaebcaqmsiugbpbldnbwftfwtikbzmopzzvrmutckpvalzlerzgphlulrreuseanwljhsbgzcbteqrnddytorhhqtakdsxxjanfzgjzxpkbshzpiawbyicvnrmokdgmohsepgpyzzpfhbwjxbuyjxiqhvxclmjomgeeywcoynijiczmruwzesnmusmenclbpooqccybmojrynkkoaxozlyuqqyfyxaiolsojqzggifzvrcaxmmwbnylnrirzcuvdsflwkkvddrzslhopnpealcsfgpiszax"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "arskvultvdodtzobqjalrktsiolztrpqjumgtmjzadkrndmokyjjzwdmgovkrjvrrcfsizpsgnxiwqkodawir",
+            "t": "jdndthdjmymjcajsjuulthgelmufsbtdifrmxozutgnypbunefyqhqadeubttovqcphrvtqvomdkdyqjdkuojvgxykmlamlswrxcutnrcyceybngpslooolznktqqhbovcgnfelacpbvzkkqklnegafrnsylsslttnmnkfocdxnejeodrbubcoynwblicjxojmcawqxoezxcxraxvkvqpjgupinpkdrexmawxgzjqvgwuyglpnyixkjozeheeooenwctkiprbhoztiogehkcdwmnlsxldhaoqzcsmaxutyjmvszwixjxoijtnvjreutqmsacnaapvycgbpnsypfzxlakeftp"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "ojluvprcuuvqcdvumjrjjotugjucdotubeczbminhwviraryrgpeqwvdtijrqpgfjundyxyzpakaoihetfjzqhvtmpj",
+            "t": "xertguzswhdpxeagxrirfalhsghirwcqbjibftevkvgpdyuqlzhurewfhbyayiyqjmijgrfzfqmccwviuwnmiygyzhhpgnywzlqptiptlwdrcdmxrgqquavblfncsqnmtrzfdmegjctbfmmibgpfuivvxasimnzpswehhotpicyvdnjvxtnmfobdqndymohsaurdhveionmirrdionuvieextbvpjntblneglfcuurlfvxugaefzjezkelqzqkcdwpwjwqvnutpqibfarjfgmqejoalqaqeztsjdgxvygffwgszecbfrhuruitbkxrqzevnztmmcsblhlamytwbeezwamzjihqcvvvdccgrzaqsfbatztglrlgcuuubspwxiiiqdhrgeasoirdyjwverhcemlparzmmigbjeadftrycoofjvoyvnrlucvrkrgxrqbhxvzeotzrsazkdsvodfotlxgydpbbgqolsxuausjulvedipbgecxxrdljzvujuemzaepgrsbkownmhmrbcbehrnnhjmgdiwprfioqzndaisvdhdsozffmpuypiqbisofzqiczxwahctyenuliyelzyujkeqlaostptxclzdxcygjzqkoiuvwnzreepelhdvaiajavbiuzthuloyderggmeseiumxnssgrzeankrfdhyhihuxtmcenqbrtgyzjvotcgxixnwgootobmpbxvbawogljpijurhoevnxdvtsjzgaqibbqioycxcsqjuaspfuaifnrzwfhhcbmknlcyomcel"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "yjygqxohivuwulyeqjncuhuaopajlcdikkizculxsibkuwvxrjcvujvxnchgawixywvleflbnvde",
+            "t": "dvzqqgxxpnvtlcnnmiycaurtqucvwboqnskyabwpsmypplfvxqxfhfmgcguffnpcsebrjxpjrucailcgtvnbxonafenukxoacdazt"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "rhpovuqiaakpeezgibbngvezfrxvpsbpbqjsxaktjpfzkwkepktueyrywparsixpuxwk",
+            "t": "akcnzpdbljseoyfmdwwaqejlysjgwrcriwbdnxatsodnhwtcxmxbrplmxkvhsnsbzciflqpbbeuxeiqicyqigxajohihfckycsizalenhaxibfsivvksfzrznivaywsapadnnjzvhsylbcwaaintfqmlwqnvbvgxumsfxzyezeyhbagzhezkbiuspnhhfbnmrwncdzoywleibbbgslszgkqqexsdaaxjizcmksmaovhdmgdvppvqptsnbodtejizttgopoazggbmlixmdsyvykhvfzljdozocwijatbpgxjvmsnxxyhxplyvglvvqipljcbrfjurxdecpuwnkipclxqsjffyyvcuapbksqpframqvtyysgyqahfncmxqzlykgxnxeuqppsrigrvw"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "wfuykqterpkeupxujkvzqoudvzgdkoleiexrfgbkedbowvjyilyeybplvvmkhivgodqyvbjjgqdfkzcdxubslu",
+            "t": "ggjhltnysdbmovqghjwonxshrkrvzzdshrmlwwmwexkbxqiuiupaubtmfzwvcrvuwwsdcpbhfntreikqktfzioixfeozizhkmrmxslyesvwovtwrdcgrswuaqqrfnoidblodouptpzfhfnecbqynovgcmxebjhvqxlbfjjnwsehjjovqwwmqxjqmmamwfvznriuytivwwguawzysmdedujdgcorzocxhhhwtgasolaujstofrfuiitskpxencrab"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "smhfqgxnkhaxqmplkgnhkcngezmwyltteodvzowagosekczcbjhfavdzxoimuktcsisbfbhyg",
+            "t": "amhjwcaqofsbbxeksspzwlxlapaqppgdqsihaxywqonhcxxmbdxxynxxviyatrurqrbxmbppvtndckxjxfaxscfrpucopmkycxhsezmckdbayqvgfgrvidjgrowbudzlfecuadzwavozfcseczpjqxmcifgebtgxjgwtcvhqcgkfwbcmvntqsihqwndjdvprlqgyfxlnzwvlqfmdbufhsjmfqdrtzoxkimvewofuqyylojporwavepvfpefikayraflpqcukxbetiesurantwzzeqcmgildeezqwfsryoafwmsyjqsheerjhwkehjhvkwpxffbvdxzonurjcvgrchbfezzyawunzmibpzcclijzarpogdexutdvyuhhugktkmsffelojbnwupzpljluppmcayqzxvakbjyxsoovfmpdjxnhbmoxvattvmgbggbpjdqpyrqfenkklfevyjorvotvxedzjjvhqdeixplvsbqnirjfdurnaaxufqvytmvmmmhaiyajahzuctjivpcnqvvowhnjmewzmbysuninrgjgqsysimkfvsreypavplgmtjxpmmkdeioghjdnmxvblcmwnvyvrggljubbuai"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "vpvyxskmwddvpiyzzzgjcbijlhxdquzbgucwmowsfvsubiesyziecyehidewukhlwukbmlewmbfkrrsokg",
+            "t": "sttewhousdaokdgldujtpvjflfkqgbzdvejkfzpughyazxcfomjckkstkroywjlyeynhmzlrezaniohhakgakgrobvivfnuelbcwksvzraupbnhirjcueqoxhnriurluvkcmnesapzvutdmjdocnyvapmeebhdiyrr"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "rixoqwypbudjsvamsrdtiygbfcgwhtvkabqtehlsblongimwwbmbykistewrkvtgisettbjq",
+            "t": "ssfmbwnknbloifirtpfaoltcpbowtrvqhsaerlvmoqhgkjzgnlxhnibtahgjhqzpwxapaspfscrrthaenmgoywjbvekgfirjmxdqmagczswiawuoovjpxuwdzgxzmwpxfgsewfjynlrhnxbdvxdsgpqmlesqnmbjvzqucsjafmcftsaqspmwnimevwljgheeklnbxmpqzwpkugpjldgpbninvymdqozudeupycyxsyoyuehaddrnkviveoapjrdzoirsladwfflgcuxfywpenvrxxjhpdmldggskkjdvvjihnoxbfkfdfdgvmtyiqtlqqiwpbvzmrnmjnelwbrjzbmytotqxwmjykwcsmhulvujbfvpejesceolxqawvrfxuixahlzcjtiogldfuirapueslyvekhkbuaaokzxnpaburizxvkczpbnaoyhtbwxwshacqdvgnrdcgcnnzfvzptsthnmwuiisdsavargywbyvtvnnrxbdkqcsqzljzdzfnbqcckxznmbqaezgfygblsnobgocctthtifcbbgurctkincftqdjccmgybvevyeyslbmpdpawoofgcgzkapzkckhldmfhlqaqrwbmjopgjskruwrjlofkjgsjjebbepisezgiwdxveiuriblqqcocsukszeagrczclozdblkkobubkapoaiqyrqccurnequronanqhksxpesmkoernwdhhmojbryuvsqtgdejglcjjqghhwazgqrhvonfelscrcpthqtotldmtzzikowuyrdcnjjiclrutxnpoiqowfgbfebalzobteksawfargpyotqs"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "jvxjxbbgakmt",
+            "t": "rlkedrpqorneuejwljztyaatqihlyecsknomaufpgnguyknaexavppngzexkipxuezjeekyzvwgcewtsqdmicqcwonicbskelowhygngyuetsmucfnfmntrirbiofchucvsdbrdxjsximotxepyowlgcbrnoauniuwgybfhbepsoexmckcfylimlspneemwrsmnnqkrgjbprpbfxjfjtjjejlofnseepdpkccnyihwvdensvnrrzvetckfktkywnpjyvqeteuqljerervprkjugvokihfxvthzwvmyfqelautipedvacqjqrxwnpwzgxfpjgmdbqartucybavjhouvegrakpjvnlwmcunbicypdutomadtvtthuqgmzzaugpotrrtzkbnyjnatdfrrbuonuuxazfriiljzsbbcmesrgvkrhfycjfmditvpxtkuvsydtzyrasxpwzytjmkkdoienqhzcuuuwbbabvztevzjxwhhtaijfaonbnftrfbwbznqqeomxccbdasiulvdhfdxkwmaebbqxidyrgbbgqumwjtxndwryjtgapjysmzzchcuvwfquifjvrgzgpzxlpgppvsrmjkerqzyeqigbduggndjjifbtyeixwgxdylbwfapckftrinloozoxldgoyebhxicdawuruewhghdgxhjronqlnovepzydplkzfqkfdvrbhsuhomzcpdjrqcapgsowrcuesayotcaurtolkdbrenrkd"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "unwdnxfcqjiqqpedkxsvbtivbxdagjew",
+            "t": "jbasloocvsjtnakxvtdryegbsitieeyiqfuukjgnkunwuilaciqxgwlvckcohhiccafwvjaqlracmjjgsjyriqxdzzlglqdanometagagroqtdxzioifjswzjzdasmpjwfuuugwcrtxkfiklasweybydezepukbnxlzvhuoxyctmfcddxbbvnxmuwijllsagtgmbwmktzgydfgyheavamgxlrowqavwszhqhdcppeavumkkeyrdodscztarvsaldrefxovtcwktdtaryxnhqiyfcgajnxjkracyebxygpgypyerwvbupaylqmrdgvyxfkgfmdfodfqzoftknkhxuiqwrbtqjerxxokwcmnpjhcijlwukqgqonyjbftrogsuvtuhnubalmmauezvmmcoaadepzgtgwcuedlaffnyqwbwwqvogpjrlkcuwweneoghsvikxtlenydiswzbjlkbheybxdwexjqknklzdjxkdrchniviybjqgwrcgdkkmewrgdizspihcqhzdgtkrxpzdofqkvrgjqqbrrcngynxpsshxvhedizheckcmkxmusuiyqjyvomkpxowzcfodmqyvhhcntafzidqvizcxqyvilkhnmjjm"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "mltixytijhhaxxbhjwirztwtomldcvbhbejqizor",
+            "t": "imirrwrvoyuravtsvmptvqfcuvslwoklfexnkcyflaqtwurosasqetgwdtbobrjcfswdpfgwppbrsdzqaudsexkfuzkmpmyupgudmnqkqejiiuurwunagiejmxugodgzmvpmoqsrfczmzeqismpgecjisstnovuexquxaznjnttqlowzhfqowbrugbsxiubjozhqrsxwmliqtihgsdiwydrjopcceiiguafdmmoymlahhyutrolxktyhvrzlbfqsvuwaqjqgbfadvkyntmbsmagczigqeyxrhcxdkegerprzfcuqrcthgyvowogjtskvrkccrhgqqzwsdglxdtdzqrjyguehmggfndxrimsmplgeeqjzladtezfhjtiyznumqsisykhxotfzoqfpqtzbcyzoeqovoqwqeambupesupvupvxmowmdrrzkphthlsfpvtpqkeufvzqgpzdubjiefnrbfkcmlttibtwkhefexmgorkjzuubslcjvljnplxfoqjjtrirxxlhaqmdedgtierydaviizupjgpaujehbpdecwcqorgfxwwsupkvrpoeclynklowgxqwdzajvmjyriwshxawhejyzaedbvgtggtzponufrboymml"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "nsqegimqxvpmkuibgwlgtvpyqcddrqracpfaarkeguhajxzximc",
+            "t": "jwnlcgaigqlurxvxakvlaojzjgntnhlicpucsopeycjowyjlmtzcyahiyxmnuazbnigwtzpemwodbhtfrjiyofdtutkahrcaenhasnkbrtdahytvnbxqyvmyjwzkbcxfwtktbpnujbnskalrplrvhpmewyxdhjkmhtqswsluzshqcjbmidoswrpktkovszdhcobmmqzdgvfrxhilvzpwssllneldxwxageaechbsnfgzdojrvjvcysolwnnttypgzdusnxpqbqylghrohvcdfcitquzfyhepewlvdfllzchghmsqjgjrqosgvhfzadjclhdlhgliaivighcdblpzkujajiaolreucqclolegxilkbcyecaemzcsxxujktyzarzbafxdiohfpjkxvrwldkndvvhefhjpfudddlrxnnwwyluujbwlpwxyawkgjwllyohmuohoctrrtrfulwdynhxxlhqqrfmrfgzqpdbeyubsfecwatjonqvaadccnjisomqukoeipaoomoqaqtihfrqdiogibqahhpbwzsebzkksvfxsqf"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "xjxuwymxqkvvbdsneqtiwcjeyfeoggndubocjudjuguumjsndcrnlyuftspwkeflujzkioihopx",
+            "t": "lpuiimxuwoxrdvmhbypgsvvetkkldvoenwpiwmbhkwebzvtyfpjpebvihmhwlrqdbbwnavunwhnnpxnqessenoudobfzyzjgfkjmylzcbaomrjbenltfneabkclcwqjprgiucpugztzwamjrzdlevxdouusscwkvqknnhgulhpupulljujrxfkljebpwtyvuzuigjyswknygjfdeokhmmybzdqydrftzbvvtrtljumucjgtoccnihecnvwggtsqtmxopjecwxlatqtuajfhucbgpaflbeybusihoe"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "nbrxmnedsuvaauljxrcyoshrdhazrpwwnxebbznusyuluaofbbpbmgayxwpgtbijmirmyrhxkjngnuzrodzdtirkedclhgdvdnvl",
+            "t": "bgpmzwwpylrpfzhrgshebxnijwdxfsugcwhlmtjffrllxauqyyvyvckkevmlbnalcmaoiemscokpeyvczcrpysadeysxcpswrpwyrpsgeyrciebvfcyezadaouabvmtmmvdacxanmfhqompjxxogqfgxrokottynhirexdlcapioefyorgkhazezqpsufqvszgacbugkafkwpkwgczvbvbdudqsmypwyfvcibcczjfsxjnubdjzedjruuwrluokaujtsuyglosmiqodoqmzuyilufihrhyapaedptzztnqfrlitefhwpbltaonsivwzkzhtolklhcqvxpxaqftnbndjrdcsgfkhywfndtyugoxzvvggbakapogqhbhrhvyhuukuwkvxxnhgopoityecnejoxcrhodscyaukhkxahzgnxygoghfjdurnvxeokgqvtbcjjpbsmdjxbjtrbiuypvknrdqcvvsq"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "vujftnejfeoyywtcvexrrpwqxkvuskzcfgwsroauxkirhbmwptlzmdzdypdbezosumlhattvrh",
+            "t": "huunwdhiteoaclphwtbltccfknvcwbyeptuigcoiflxqveyukepmmjhuduzxegcbvmfeekolpjgulprutaolhmhqfcmqnkaplospjkobpbdpwwqhvzrcdnyarozvmjqtjxwxqpfhyrzzamxokhocfvyogukozuzhmjnggiehcjsxcrprczgfufaabueacammiixymeymkpffaldtgwduxtlxqqthcudyofijsndcgjqqnbgyvvjentnshylnuudoljxiagyygzwgtglrmibmwtdynkskfidwwmqnpuimbpfccclizuxemhaunbguyviicgescwywjggbakpvtuluhpgdomentnzhcpqbwnjnmdfpwxeqzxqusztrdsaqnbjvqqxdwrtaqeblxjrloiixpqftuqsstljraqbhijyoufuwcbzliopupxipbgieqeyvdlttedxzhsjwqsnfpbczoftxuwvuzawnlrwwkhknpmvfjejpautmelnhzwosfldaavgxxoxxcklrzghbmgweateeditdubdeeaenfmdlkrfaisqxkwlivwyxzpsaqxuavbbexazyafhxqghbmbsjlbwhjjhfowptbvfoykusimyelhcxibqwbumiurnymmppbtzmjkxjxanrtkwfweyrhfxjdhxzwqplkkadrfontkcizrgalqpoftkgkcxbxmszmvsmrjsxiaqxblpibrtlatefgaddyhcxobiwqgeslenmipethwsutcylzuokgqdhtkfancgwxcmgxunioslkjvpomgyugnveqrjqnwqrbhfgropi"
+        },
+        "expected_output": false,
+        "predicted_output": false,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "modibjlwuwhehbphxb",
+            "t": "tunyvevdnhdqngfkumloqruqzqxnfcqqnfokcgwogtocwrmvhyaarysbzzbcxezbpmczkljvclqpjnvumtpadzabjpmeukoouxeugjhmvgydctsropfperxffoobwngnxwtmmtnohqaevrwrpvpnmckqgzqpxcqtcmxgjcwhagczffnnepghpgpxbzehlcrztffpgnmzyaqasagzycecdjdvqgrljwjdlntqdknmfhdbsdsmmxvxzgddvbbiqruislocxeikyboxmlcrkdragxcmohxhtyywdlqopywhrubzcpsckdjimwsxyfgxoxsthslmxfwupgfztzxjdczyqrxtyqlpavvhfrsilnhnwqdmzayoqngzimtxhsqnvsnkivuwkyeckytyxjiayjkskjrfzqpwxfsidrbzhramtcdvrvjcxyeahyphhktcjagfknjemyoemsqhkharuocnwodeumckcgxuyhvdjmfawkomzvpvtacwleshsliuvcevasfylntjwgvnpeppgxjjtpgqnosfpuwjnlxdfuvuyybfptphhmbxzxtsswkhzisbsagtxlcstzxqwxvzqqbgxickjtqkkgecnkmjwzifcqwrnszyyupaxtkilyvgprbivkepehopioehsunspzoncbgfuxynztjnvjhtwjzkacjprjklbmupjahlkpfqevpbsxhqsdqxcajyoaymxergoicblkyqlpibtsogzldjcesytngtihobaurzgqzcusvmnjhhiudnncvcyvadrrfegmouetqfqbjnrchczeqazkiitxvmfnjeoryieywtowjaapwgvlqvfyemahawbko"
+        },
+        "expected_output": true,
+        "predicted_output": true,
+        "result": "same"
+    }
+]

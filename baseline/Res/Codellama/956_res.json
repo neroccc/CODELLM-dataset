@@ -1,0 +1,1804 @@
+[
+    {
+        "input": [
+            3,
+            184,
+            252,
+            375,
+            666,
+            689,
+            719,
+            776,
+            815,
+            883
+        ],
+        "expected_output": 2348,
+        "predicted_output": 2681,
+        "result": "different"
+    },
+    {
+        "input": [
+            296,
+            306,
+            537,
+            579,
+            692,
+            909,
+            927,
+            956
+        ],
+        "expected_output": 1535,
+        "predicted_output": 2601,
+        "result": "different"
+    },
+    {
+        "input": [
+            95,
+            120,
+            268,
+            363,
+            475,
+            568,
+            608,
+            679,
+            708,
+            862,
+            926
+        ],
+        "expected_output": 2472,
+        "predicted_output": 2836,
+        "result": "different"
+    },
+    {
+        "input": [
+            61,
+            100,
+            174,
+            278,
+            404,
+            482,
+            531,
+            554,
+            573,
+            927,
+            953
+        ],
+        "expected_output": 2286,
+        "predicted_output": 2518,
+        "result": "different"
+    },
+    {
+        "input": [
+            90,
+            300,
+            326,
+            437,
+            500,
+            509,
+            631,
+            666,
+            843,
+            886
+        ],
+        "expected_output": 2344,
+        "predicted_output": 2594,
+        "result": "different"
+    },
+    {
+        "input": [
+            13,
+            15,
+            122,
+            138,
+            161,
+            162,
+            192,
+            231,
+            325,
+            356,
+            397,
+            484,
+            498,
+            543,
+            787,
+            795
+        ],
+        "expected_output": 2603,
+        "predicted_output": 2609,
+        "result": "different"
+    },
+    {
+        "input": [
+            32,
+            96,
+            408,
+            440,
+            526,
+            546,
+            650,
+            679,
+            752,
+            932
+        ],
+        "expected_output": 1866,
+        "predicted_output": 2530,
+        "result": "different"
+    },
+    {
+        "input": [
+            52,
+            83,
+            97,
+            107,
+            231,
+            243,
+            305,
+            330,
+            434,
+            440,
+            768,
+            936,
+            995
+        ],
+        "expected_output": 2469,
+        "predicted_output": 2510,
+        "result": "different"
+    },
+    {
+        "input": [
+            23,
+            32,
+            49,
+            167,
+            206,
+            227,
+            236,
+            385,
+            410,
+            425,
+            448,
+            602,
+            609,
+            691,
+            909
+        ],
+        "expected_output": 2685,
+        "predicted_output": 2709,
+        "result": "different"
+    },
+    {
+        "input": [
+            58,
+            149,
+            151,
+            193,
+            317,
+            383,
+            384,
+            395,
+            542,
+            573,
+            636,
+            862,
+            928
+        ],
+        "expected_output": 2711,
+        "predicted_output": 2785,
+        "result": "different"
+    },
+    {
+        "input": [
+            35,
+            69,
+            144,
+            211,
+            342,
+            566,
+            571,
+            622,
+            624,
+            725,
+            765,
+            880
+        ],
+        "expected_output": 2777,
+        "predicted_output": 2777,
+        "result": "same"
+    },
+    {
+        "input": [
+            201,
+            412,
+            413,
+            554,
+            672,
+            816,
+            987,
+            988
+        ],
+        "expected_output": 1400,
+        "predicted_output": 2521,
+        "result": "different"
+    },
+    {
+        "input": [
+            37,
+            398,
+            400,
+            435,
+            543,
+            551,
+            620,
+            753,
+            826,
+            903
+        ],
+        "expected_output": 2244,
+        "predicted_output": 2733,
+        "result": "different"
+    },
+    {
+        "input": [
+            11,
+            182,
+            292,
+            472,
+            521,
+            667,
+            692,
+            699,
+            720,
+            939
+        ],
+        "expected_output": 2337,
+        "predicted_output": 2597,
+        "result": "different"
+    },
+    {
+        "input": [
+            2,
+            281,
+            487,
+            591,
+            660,
+            720,
+            864,
+            942,
+            946
+        ],
+        "expected_output": 2091,
+        "predicted_output": 2746,
+        "result": "different"
+    },
+    {
+        "input": [
+            219,
+            273,
+            301,
+            327,
+            432,
+            565,
+            802,
+            920,
+            923,
+            933
+        ],
+        "expected_output": 2386,
+        "predicted_output": 2847,
+        "result": "different"
+    },
+    {
+        "input": [
+            25,
+            166,
+            247,
+            352,
+            452,
+            568,
+            618,
+            759,
+            961,
+            964
+        ],
+        "expected_output": 1790,
+        "predicted_output": 2556,
+        "result": "different"
+    },
+    {
+        "input": [
+            58,
+            76,
+            110,
+            168,
+            187,
+            188,
+            267,
+            361,
+            528,
+            586,
+            766,
+            806,
+            872,
+            924
+        ],
+        "expected_output": 2855,
+        "predicted_output": 2948,
+        "result": "different"
+    },
+    {
+        "input": [
+            7,
+            46,
+            134,
+            188,
+            208,
+            305,
+            514,
+            594,
+            728,
+            861,
+            953,
+            988
+        ],
+        "expected_output": 2696,
+        "predicted_output": 2763,
+        "result": "different"
+    },
+    {
+        "input": [
+            83,
+            129,
+            230,
+            247,
+            259,
+            377,
+            527,
+            616,
+            802,
+            914,
+            969
+        ],
+        "expected_output": 2332,
+        "predicted_output": 2576,
+        "result": "different"
+    },
+    {
+        "input": [
+            52,
+            53,
+            112,
+            330,
+            364,
+            457,
+            483,
+            563,
+            613,
+            648,
+            752,
+            881
+        ],
+        "expected_output": 2654,
+        "predicted_output": 2654,
+        "result": "same"
+    },
+    {
+        "input": [
+            170,
+            185,
+            225,
+            289,
+            304,
+            717,
+            731,
+            733,
+            811,
+            972
+        ],
+        "expected_output": 2203,
+        "predicted_output": 2568,
+        "result": "different"
+    },
+    {
+        "input": [
+            15,
+            73,
+            152,
+            227,
+            297,
+            434,
+            484,
+            491,
+            515,
+            609,
+            814,
+            907
+        ],
+        "expected_output": 2509,
+        "predicted_output": 2509,
+        "result": "same"
+    },
+    {
+        "input": [
+            92,
+            122,
+            177,
+            502,
+            521,
+            598,
+            642,
+            678,
+            933,
+            952
+        ],
+        "expected_output": 2096,
+        "predicted_output": 2608,
+        "result": "different"
+    },
+    {
+        "input": [
+            28,
+            135,
+            262,
+            385,
+            399,
+            621,
+            775,
+            828,
+            907,
+            953
+        ],
+        "expected_output": 2565,
+        "predicted_output": 2646,
+        "result": "different"
+    },
+    {
+        "input": [
+            78,
+            167,
+            225,
+            666,
+            702,
+            737,
+            951,
+            978,
+            990
+        ],
+        "expected_output": 0,
+        "predicted_output": 2747,
+        "result": "different"
+    },
+    {
+        "input": [
+            187,
+            194,
+            198,
+            207,
+            226,
+            566,
+            652,
+            792,
+            908,
+            911,
+            988
+        ],
+        "expected_output": 2611,
+        "predicted_output": 2914,
+        "result": "different"
+    },
+    {
+        "input": [
+            105,
+            126,
+            165,
+            194,
+            267,
+            280,
+            375,
+            431,
+            616,
+            720,
+            885,
+            950
+        ],
+        "expected_output": 2557,
+        "predicted_output": 2557,
+        "result": "same"
+    },
+    {
+        "input": [
+            124,
+            413,
+            439,
+            536,
+            631,
+            682,
+            721,
+            756,
+            805
+        ],
+        "expected_output": 2193,
+        "predicted_output": 2553,
+        "result": "different"
+    },
+    {
+        "input": [
+            68,
+            96,
+            96,
+            515,
+            591,
+            856,
+            901,
+            955,
+            987
+        ],
+        "expected_output": 2007,
+        "predicted_output": 2532,
+        "result": "different"
+    },
+    {
+        "input": [
+            1,
+            19,
+            168,
+            219,
+            700,
+            710,
+            712,
+            795,
+            853,
+            946
+        ],
+        "expected_output": 2452,
+        "predicted_output": 2561,
+        "result": "different"
+    },
+    {
+        "input": [
+            128,
+            220,
+            549,
+            607,
+            637,
+            799,
+            810,
+            848,
+            976
+        ],
+        "expected_output": 2382,
+        "predicted_output": 2787,
+        "result": "different"
+    },
+    {
+        "input": [
+            59,
+            62,
+            103,
+            109,
+            113,
+            172,
+            255,
+            346,
+            418,
+            469,
+            482,
+            497,
+            619,
+            737,
+            809
+        ],
+        "expected_output": 2625,
+        "predicted_output": 2625,
+        "result": "same"
+    },
+    {
+        "input": [
+            164,
+            181,
+            252,
+            312,
+            331,
+            385,
+            399,
+            481,
+            637,
+            915,
+            989
+        ],
+        "expected_output": 2523,
+        "predicted_output": 2523,
+        "result": "same"
+    },
+    {
+        "input": [
+            66,
+            161,
+            194,
+            273,
+            406,
+            530,
+            665,
+            850,
+            894,
+            964
+        ],
+        "expected_output": 2388,
+        "predicted_output": 2501,
+        "result": "different"
+    },
+    {
+        "input": [
+            45,
+            122,
+            203,
+            278,
+            307,
+            613,
+            751,
+            883,
+            976,
+            991
+        ],
+        "expected_output": 2292,
+        "predicted_output": 2584,
+        "result": "different"
+    },
+    {
+        "input": [
+            30,
+            90,
+            211,
+            343,
+            369,
+            428,
+            522,
+            527,
+            793,
+            923,
+            927
+        ],
+        "expected_output": 2247,
+        "predicted_output": 2581,
+        "result": "different"
+    },
+    {
+        "input": [
+            121,
+            192,
+            227,
+            410,
+            538,
+            849,
+            866,
+            891,
+            998
+        ],
+        "expected_output": 1614,
+        "predicted_output": 2546,
+        "result": "different"
+    },
+    {
+        "input": [
+            144,
+            260,
+            523,
+            640,
+            765,
+            846,
+            911,
+            927
+        ],
+        "expected_output": 927,
+        "predicted_output": 2508,
+        "result": "different"
+    },
+    {
+        "input": [
+            117,
+            138,
+            165,
+            197,
+            228,
+            254,
+            420,
+            441,
+            470,
+            784,
+            921,
+            991
+        ],
+        "expected_output": 2449,
+        "predicted_output": 2563,
+        "result": "different"
+    },
+    {
+        "input": [
+            288,
+            346,
+            357,
+            714,
+            778,
+            782,
+            926,
+            950
+        ],
+        "expected_output": 1560,
+        "predicted_output": 2570,
+        "result": "different"
+    },
+    {
+        "input": [
+            18,
+            47,
+            214,
+            293,
+            301,
+            380,
+            462,
+            564,
+            573,
+            778,
+            853,
+            880
+        ],
+        "expected_output": 2526,
+        "predicted_output": 2681,
+        "result": "different"
+    },
+    {
+        "input": [
+            7,
+            9,
+            35,
+            81,
+            160,
+            198,
+            238,
+            249,
+            267,
+            305,
+            338,
+            389,
+            433,
+            624,
+            760,
+            927
+        ],
+        "expected_output": 2510,
+        "predicted_output": 2510,
+        "result": "same"
+    },
+    {
+        "input": [
+            24,
+            106,
+            163,
+            178,
+            185,
+            250,
+            442,
+            472,
+            489,
+            530,
+            918,
+            926,
+            954
+        ],
+        "expected_output": 2737,
+        "predicted_output": 2818,
+        "result": "different"
+    },
+    {
+        "input": [
+            77,
+            321,
+            437,
+            605,
+            606,
+            668,
+            852,
+            939,
+            986
+        ],
+        "expected_output": 0,
+        "predicted_output": 2745,
+        "result": "different"
+    },
+    {
+        "input": [
+            80,
+            279,
+            368,
+            425,
+            542,
+            641,
+            740,
+            761,
+            804,
+            960
+        ],
+        "expected_output": 2305,
+        "predicted_output": 2800,
+        "result": "different"
+    },
+    {
+        "input": [
+            155,
+            157,
+            276,
+            360,
+            362,
+            458,
+            577,
+            757,
+            856,
+            885,
+            914
+        ],
+        "expected_output": 2590,
+        "predicted_output": 2878,
+        "result": "different"
+    },
+    {
+        "input": [
+            36,
+            101,
+            244,
+            249,
+            444,
+            482,
+            564,
+            569,
+            576,
+            634,
+            702,
+            709
+        ],
+        "expected_output": 2655,
+        "predicted_output": 2655,
+        "result": "same"
+    },
+    {
+        "input": [
+            112,
+            137,
+            236,
+            329,
+            336,
+            463,
+            763,
+            873,
+            893,
+            949
+        ],
+        "expected_output": 2099,
+        "predicted_output": 2545,
+        "result": "different"
+    },
+    {
+        "input": [
+            206,
+            488,
+            737,
+            878,
+            882,
+            916,
+            957
+        ],
+        "expected_output": 0,
+        "predicted_output": 2532,
+        "result": "different"
+    },
+    {
+        "input": [
+            104,
+            191,
+            325,
+            427,
+            480,
+            575,
+            658,
+            664,
+            710,
+            804,
+            833
+        ],
+        "expected_output": 2672,
+        "predicted_output": 2885,
+        "result": "different"
+    },
+    {
+        "input": [
+            85,
+            106,
+            116,
+            123,
+            244,
+            257,
+            330,
+            353,
+            398,
+            517,
+            733,
+            785,
+            809,
+            872
+        ],
+        "expected_output": 2864,
+        "predicted_output": 2864,
+        "result": "same"
+    },
+    {
+        "input": [
+            138,
+            151,
+            282,
+            353,
+            555,
+            596,
+            600,
+            704,
+            762,
+            953
+        ],
+        "expected_output": 2195,
+        "predicted_output": 2547,
+        "result": "different"
+    },
+    {
+        "input": [
+            279,
+            443,
+            639,
+            729,
+            734,
+            815,
+            924,
+            981
+        ],
+        "expected_output": 0,
+        "predicted_output": 2772,
+        "result": "different"
+    },
+    {
+        "input": [
+            76,
+            138,
+            250,
+            285,
+            512,
+            545,
+            559,
+            621,
+            838,
+            866,
+            977
+        ],
+        "expected_output": 2516,
+        "predicted_output": 2833,
+        "result": "different"
+    },
+    {
+        "input": [
+            37,
+            124,
+            242,
+            357,
+            410,
+            444,
+            606,
+            673,
+            683,
+            747,
+            848
+        ],
+        "expected_output": 2567,
+        "predicted_output": 2585,
+        "result": "different"
+    },
+    {
+        "input": [
+            109,
+            155,
+            275,
+            422,
+            518,
+            559,
+            738,
+            798,
+            897,
+            965
+        ],
+        "expected_output": 2125,
+        "predicted_output": 2718,
+        "result": "different"
+    },
+    {
+        "input": [
+            4,
+            25,
+            226,
+            330,
+            620,
+            624,
+            637,
+            734,
+            834,
+            973
+        ],
+        "expected_output": 1705,
+        "predicted_output": 2503,
+        "result": "different"
+    },
+    {
+        "input": [
+            294,
+            306,
+            472,
+            619,
+            690,
+            693,
+            732,
+            792,
+            834
+        ],
+        "expected_output": 1524,
+        "predicted_output": 2716,
+        "result": "different"
+    },
+    {
+        "input": [
+            179,
+            206,
+            326,
+            398,
+            522,
+            541,
+            561,
+            593,
+            653,
+            879,
+            987
+        ],
+        "expected_output": 2634,
+        "predicted_output": 2922,
+        "result": "different"
+    },
+    {
+        "input": [
+            24,
+            135,
+            137,
+            324,
+            402,
+            535,
+            592,
+            659,
+            813,
+            907,
+            957
+        ],
+        "expected_output": 2401,
+        "predicted_output": 2742,
+        "result": "different"
+    },
+    {
+        "input": [
+            11,
+            21,
+            45,
+            47,
+            54,
+            136,
+            148,
+            531,
+            610,
+            615,
+            708,
+            827,
+            927,
+            951
+        ],
+        "expected_output": 2805,
+        "predicted_output": 2815,
+        "result": "different"
+    },
+    {
+        "input": [
+            57,
+            223,
+            286,
+            343,
+            354,
+            376,
+            425,
+            474,
+            821,
+            980,
+            982
+        ],
+        "expected_output": 2312,
+        "predicted_output": 2660,
+        "result": "different"
+    },
+    {
+        "input": [
+            134,
+            157,
+            176,
+            186,
+            220,
+            425,
+            458,
+            512,
+            601,
+            642,
+            691,
+            890
+        ],
+        "expected_output": 2546,
+        "predicted_output": 2546,
+        "result": "same"
+    },
+    {
+        "input": [
+            12,
+            106,
+            109,
+            242,
+            291,
+            341,
+            410,
+            545,
+            744,
+            757,
+            775,
+            938
+        ],
+        "expected_output": 2629,
+        "predicted_output": 2635,
+        "result": "different"
+    },
+    {
+        "input": [
+            9,
+            77,
+            137,
+            410,
+            588,
+            599,
+            670,
+            700,
+            760,
+            869,
+            908
+        ],
+        "expected_output": 2825,
+        "predicted_output": 2863,
+        "result": "different"
+    },
+    {
+        "input": [
+            17,
+            207,
+            272,
+            296,
+            312,
+            358,
+            364,
+            406,
+            561,
+            832,
+            923,
+            966
+        ],
+        "expected_output": 2757,
+        "predicted_output": 2757,
+        "result": "same"
+    },
+    {
+        "input": [
+            21,
+            38,
+            47,
+            96,
+            182,
+            415,
+            452,
+            660,
+            667,
+            753,
+            783,
+            889
+        ],
+        "expected_output": 2491,
+        "predicted_output": 2501,
+        "result": "different"
+    },
+    {
+        "input": [
+            444,
+            509,
+            563,
+            611,
+            651,
+            738,
+            775,
+            837
+        ],
+        "expected_output": 1957,
+        "predicted_output": 2564,
+        "result": "different"
+    },
+    {
+        "input": [
+            81,
+            89,
+            438,
+            601,
+            642,
+            717,
+            738,
+            954,
+            978
+        ],
+        "expected_output": 2130,
+        "predicted_output": 2619,
+        "result": "different"
+    },
+    {
+        "input": [
+            65,
+            93,
+            212,
+            324,
+            335,
+            344,
+            515,
+            654,
+            713,
+            742,
+            753,
+            922
+        ],
+        "expected_output": 2836,
+        "predicted_output": 2836,
+        "result": "same"
+    },
+    {
+        "input": [
+            173,
+            534,
+            768,
+            771,
+            850,
+            943,
+            978
+        ],
+        "expected_output": 0,
+        "predicted_output": 2508,
+        "result": "different"
+    },
+    {
+        "input": [
+            14,
+            46,
+            179,
+            457,
+            487,
+            639,
+            649,
+            660,
+            732,
+            763,
+            768
+        ],
+        "expected_output": 2697,
+        "predicted_output": 2697,
+        "result": "same"
+    },
+    {
+        "input": [
+            253,
+            277,
+            404,
+            523,
+            643,
+            664,
+            682,
+            779,
+            860
+        ],
+        "expected_output": 1443,
+        "predicted_output": 2542,
+        "result": "different"
+    },
+    {
+        "input": [
+            408,
+            423,
+            840,
+            879,
+            929,
+            937,
+            995
+        ],
+        "expected_output": 0,
+        "predicted_output": 2705,
+        "result": "different"
+    },
+    {
+        "input": [
+            23,
+            36,
+            76,
+            210,
+            241,
+            434,
+            538,
+            633,
+            636,
+            694,
+            764,
+            867
+        ],
+        "expected_output": 2576,
+        "predicted_output": 2576,
+        "result": "same"
+    },
+    {
+        "input": [
+            88,
+            151,
+            194,
+            198,
+            336,
+            500,
+            601,
+            617,
+            707,
+            900,
+            954
+        ],
+        "expected_output": 2623,
+        "predicted_output": 2623,
+        "result": "same"
+    },
+    {
+        "input": [
+            45,
+            131,
+            198,
+            303,
+            385,
+            440,
+            561,
+            564,
+            587,
+            713,
+            846,
+            965
+        ],
+        "expected_output": 2682,
+        "predicted_output": 2869,
+        "result": "different"
+    },
+    {
+        "input": [
+            293,
+            367,
+            374,
+            374,
+            447,
+            575,
+            669,
+            701,
+            791,
+            814
+        ],
+        "expected_output": 1188,
+        "predicted_output": 2702,
+        "result": "different"
+    },
+    {
+        "input": [
+            173,
+            220,
+            251,
+            361,
+            503,
+            569,
+            613,
+            664,
+            726,
+            839,
+            858
+        ],
+        "expected_output": 2763,
+        "predicted_output": 2888,
+        "result": "different"
+    },
+    {
+        "input": [
+            135,
+            244,
+            304,
+            683,
+            806,
+            845,
+            884,
+            901,
+            991
+        ],
+        "expected_output": 683,
+        "predicted_output": 2896,
+        "result": "different"
+    },
+    {
+        "input": [
+            73,
+            195,
+            301,
+            364,
+            427,
+            432,
+            471,
+            695,
+            696,
+            734,
+            787
+        ],
+        "expected_output": 2551,
+        "predicted_output": 2587,
+        "result": "different"
+    },
+    {
+        "input": [
+            123,
+            186,
+            241,
+            455,
+            535,
+            633,
+            893,
+            936,
+            998
+        ],
+        "expected_output": 2407,
+        "predicted_output": 2500,
+        "result": "different"
+    },
+    {
+        "input": [
+            85,
+            112,
+            254,
+            463,
+            583,
+            600,
+            805,
+            843,
+            868,
+            925
+        ],
+        "expected_output": 2368,
+        "predicted_output": 2769,
+        "result": "different"
+    },
+    {
+        "input": [
+            59,
+            99,
+            106,
+            139,
+            415,
+            508,
+            742,
+            797,
+            855,
+            896,
+            930
+        ],
+        "expected_output": 2773,
+        "predicted_output": 2773,
+        "result": "same"
+    },
+    {
+        "input": [
+            77,
+            130,
+            246,
+            435,
+            504,
+            537,
+            600,
+            616,
+            677,
+            817,
+            966
+        ],
+        "expected_output": 2464,
+        "predicted_output": 2802,
+        "result": "different"
+    },
+    {
+        "input": [
+            50,
+            238,
+            427,
+            444,
+            586,
+            603,
+            614,
+            629,
+            667,
+            807
+        ],
+        "expected_output": 1996,
+        "predicted_output": 2532,
+        "result": "different"
+    },
+    {
+        "input": [
+            49,
+            233,
+            267,
+            291,
+            299,
+            662,
+            667,
+            695,
+            816,
+            837,
+            911
+        ],
+        "expected_output": 2839,
+        "predicted_output": 2863,
+        "result": "different"
+    },
+    {
+        "input": [
+            78,
+            89,
+            356,
+            381,
+            415,
+            585,
+            590,
+            599,
+            631,
+            677,
+            818
+        ],
+        "expected_output": 2363,
+        "predicted_output": 2609,
+        "result": "different"
+    },
+    {
+        "input": [
+            40,
+            113,
+            122,
+            141,
+            269,
+            284,
+            500,
+            713,
+            800,
+            819,
+            938,
+            943
+        ],
+        "expected_output": 2841,
+        "predicted_output": 2841,
+        "result": "same"
+    },
+    {
+        "input": [
+            20,
+            126,
+            369,
+            437,
+            446,
+            451,
+            683,
+            862,
+            969,
+            984
+        ],
+        "expected_output": 2448,
+        "predicted_output": 2673,
+        "result": "different"
+    },
+    {
+        "input": [
+            144,
+            180,
+            335,
+            367,
+            487,
+            522,
+            582,
+            585,
+            658,
+            837,
+            924
+        ],
+        "expected_output": 2428,
+        "predicted_output": 2810,
+        "result": "different"
+    },
+    {
+        "input": [
+            2,
+            39,
+            51,
+            126,
+            247,
+            525,
+            649,
+            650,
+            819,
+            913,
+            917,
+            931
+        ],
+        "expected_output": 2914,
+        "predicted_output": 2934,
+        "result": "different"
+    },
+    {
+        "input": [
+            112,
+            171,
+            233,
+            283,
+            300,
+            458,
+            795,
+            843,
+            894,
+            1000
+        ],
+        "expected_output": 2253,
+        "predicted_output": 2544,
+        "result": "different"
+    },
+    {
+        "input": [
+            106,
+            176,
+            241,
+            362,
+            537,
+            550,
+            818,
+            827,
+            855,
+            916
+        ],
+        "expected_output": 2606,
+        "predicted_output": 2694,
+        "result": "different"
+    },
+    {
+        "input": [
+            164,
+            191,
+            268,
+            324,
+            543,
+            615,
+            668,
+            761,
+            787,
+            793
+        ],
+        "expected_output": 2341,
+        "predicted_output": 2557,
+        "result": "different"
+    },
+    {
+        "input": [
+            149,
+            178,
+            596,
+            758,
+            798,
+            867,
+            890,
+            891
+        ],
+        "expected_output": 1665,
+        "predicted_output": 2563,
+        "result": "different"
+    },
+    {
+        "input": [
+            45,
+            119,
+            245,
+            264,
+            280,
+            385,
+            402,
+            510,
+            517,
+            559,
+            594,
+            695,
+            899
+        ],
+        "expected_output": 2757,
+        "predicted_output": 2757,
+        "result": "same"
+    },
+    {
+        "input": [
+            26,
+            35,
+            251,
+            492,
+            612,
+            627,
+            693,
+            807,
+            839,
+            982
+        ],
+        "expected_output": 2436,
+        "predicted_output": 2682,
+        "result": "different"
+    },
+    {
+        "input": [
+            65,
+            125,
+            218,
+            384,
+            412,
+            473,
+            536,
+            634,
+            696,
+            803,
+            951
+        ],
+        "expected_output": 2055,
+        "predicted_output": 2648,
+        "result": "different"
+    },
+    {
+        "input": [
+            1,
+            2,
+            3,
+            6
+        ],
+        "expected_output": 6,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "expected_output": 10,
+        "predicted_output": 10,
+        "result": "same"
+    },
+    {
+        "input": [
+            1,
+            2
+        ],
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    }
+]

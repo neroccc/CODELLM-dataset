@@ -1,0 +1,62 @@
+[
+    {
+        "input": 5,
+        "expected_output": 32491,
+        "predicted_output": 32491,
+        "result": "same"
+    },
+    {
+        "input": 1,
+        "expected_output": 10,
+        "predicted_output": 10,
+        "result": "same"
+    },
+    {
+        "input": 6,
+        "expected_output": 168571,
+        "predicted_output": 168571,
+        "result": "same"
+    },
+    {
+        "input": 1,
+        "expected_output": 10,
+        "predicted_output": 10,
+        "result": "same"
+    },
+    {
+        "input": 5,
+        "expected_output": 32491,
+        "predicted_output": 32491,
+        "result": "same"
+    },
+    {
+        "input": 6,
+        "expected_output": 168571,
+        "predicted_output": 168571,
+        "result": "same"
+    },
+    {
+        "input": 4,
+        "expected_output": 5275,
+        "predicted_output": 5275,
+        "result": "same"
+    },
+    {
+        "input": 3,
+        "expected_output": 739,
+        "predicted_output": 739,
+        "result": "same"
+    },
+    {
+        "input": 1,
+        "expected_output": 10,
+        "predicted_output": 10,
+        "result": "same"
+    },
+    {
+        "input": 7,
+        "expected_output": 712891,
+        "predicted_output": 712891,
+        "result": "same"
+    }
+]

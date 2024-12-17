@@ -1,0 +1,602 @@
+[
+    {
+        "input": 1,
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": 2,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 3,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 4,
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": 5,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 6,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 7,
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": 8,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 9,
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": 10,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 11,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 12,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 13,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 14,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 15,
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": 16,
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": 17,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 18,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 19,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 20,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 21,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 22,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 23,
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": 24,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 25,
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": 26,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 27,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 28,
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": 29,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 30,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 31,
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": 32,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 33,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 34,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 35,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 36,
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": 37,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 38,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 39,
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": 40,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 41,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 42,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 43,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 44,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 45,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 46,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 47,
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": 48,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 49,
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": 50,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 51,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 52,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 53,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 54,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 55,
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": 56,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 57,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 58,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 59,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 60,
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": 61,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 62,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 63,
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": 64,
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": 65,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 66,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 67,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 68,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 69,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 70,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 71,
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": 72,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 73,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 74,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 75,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 76,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 77,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 78,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 79,
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": 80,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 81,
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": 82,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 83,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 84,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 85,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 86,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 87,
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": 88,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 89,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 90,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 91,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 92,
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": 93,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 94,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 95,
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": 96,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 97,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 98,
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": 99,
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": 100,
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    }
+]

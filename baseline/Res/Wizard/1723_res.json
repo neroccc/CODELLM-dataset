@@ -1,0 +1,1657 @@
+[
+    {
+        "input": {
+            "jobs": [
+                9629210,
+                8776612,
+                8049812,
+                5840686,
+                5062830,
+                3438587,
+                1486759,
+                1288841
+            ],
+            "k": 8
+        },
+        "expected_output": 9629210,
+        "predicted_output": 43573337,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                7876072,
+                3125524,
+                2117452,
+                1774016,
+                472691
+            ],
+            "k": 4
+        },
+        "expected_output": 7876072,
+        "predicted_output": 14893064,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9470593,
+                8318540,
+                8290844,
+                6478851,
+                5131909,
+                3384006,
+                3054715,
+                2555595,
+                426930,
+                121702
+            ],
+            "k": 2
+        },
+        "expected_output": 23636948,
+        "predicted_output": 17789133,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9126821,
+                8973675,
+                7051941,
+                4029594,
+                3659655,
+                2854233,
+                1513008,
+                1433442,
+                1083851
+            ],
+            "k": 8
+        },
+        "expected_output": 9126821,
+        "predicted_output": 38642369,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9517732,
+                9475502,
+                7381271,
+                6455595,
+                6318136,
+                6116587,
+                5423292,
+                4834857,
+                4628893,
+                3675298,
+                1909430
+            ],
+            "k": 8
+        },
+        "expected_output": 9517732,
+        "predicted_output": 55522972,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8424924,
+                3796958,
+                1504833
+            ],
+            "k": 2
+        },
+        "expected_output": 8424924,
+        "predicted_output": 12221882,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9181421,
+                8844486,
+                6585920,
+                6209048,
+                5841586,
+                5632191,
+                5119964,
+                2717531,
+                1744220
+            ],
+            "k": 5
+        },
+        "expected_output": 11473777,
+        "predicted_output": 36662461,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                6134266,
+                6041671,
+                1241528
+            ],
+            "k": 1
+        },
+        "expected_output": 13417465,
+        "predicted_output": 6134266,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8671608,
+                3961391,
+                3172702,
+                2195837,
+                2073799,
+                1940226,
+                795784
+            ],
+            "k": 1
+        },
+        "expected_output": 22811347,
+        "predicted_output": 8671608,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9965269,
+                3643265,
+                2235582,
+                1372488,
+                649872,
+                387242
+            ],
+            "k": 1
+        },
+        "expected_output": 18253718,
+        "predicted_output": 9965269,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8661333,
+                7853790,
+                6461536,
+                3590390,
+                3334023,
+                1634605
+            ],
+            "k": 2
+        },
+        "expected_output": 15949931,
+        "predicted_output": 16515123,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8995080,
+                7904071,
+                6541862,
+                6427243,
+                6368196,
+                5329472,
+                4873140,
+                3927722,
+                3903497,
+                388867
+            ],
+            "k": 8
+        },
+        "expected_output": 8995080,
+        "predicted_output": 50366786,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9452998,
+                6980007,
+                4426801,
+                4256807
+            ],
+            "k": 1
+        },
+        "expected_output": 25116613,
+        "predicted_output": 9452998,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                7531224,
+                7067371,
+                6977095,
+                6957596,
+                6910701,
+                6185611,
+                1398712
+            ],
+            "k": 7
+        },
+        "expected_output": 7531224,
+        "predicted_output": 43028310,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9897833,
+                2350838,
+                738805
+            ],
+            "k": 2
+        },
+        "expected_output": 9897833,
+        "predicted_output": 12248671,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                6461425,
+                6399183,
+                5941260,
+                5274288,
+                5096557,
+                4071767,
+                3021219,
+                3011652,
+                2136310,
+                1544270
+            ],
+            "k": 10
+        },
+        "expected_output": 6461425,
+        "predicted_output": 42957931,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9045162,
+                7898477,
+                7404193,
+                6526611,
+                5875548,
+                5145250,
+                5069999,
+                4061513,
+                3783071,
+                2819663,
+                2625269,
+                1334018
+            ],
+            "k": 2
+        },
+        "expected_output": 30804674,
+        "predicted_output": 16943639,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8559112,
+                8189359,
+                6839122,
+                5598252,
+                3344355,
+                2467947,
+                1627340,
+                576925,
+                460338
+            ],
+            "k": 7
+        },
+        "expected_output": 8559112,
+        "predicted_output": 36625487,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9028667,
+                6958193,
+                6170610,
+                6142235,
+                6075911,
+                4849406,
+                2792884,
+                2300641,
+                1929776,
+                1383675,
+                963781
+            ],
+            "k": 5
+        },
+        "expected_output": 10925317,
+        "predicted_output": 34375616,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                4147685
+            ],
+            "k": 1
+        },
+        "expected_output": 4147685,
+        "predicted_output": 4147685,
+        "result": "same"
+    },
+    {
+        "input": {
+            "jobs": [
+                9990433,
+                9422904,
+                5184849,
+                4986998,
+                2886720
+            ],
+            "k": 3
+        },
+        "expected_output": 12309624,
+        "predicted_output": 24598186,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9059333,
+                8790274,
+                7621663,
+                7382201,
+                7189918,
+                7108107,
+                7019061,
+                5861634,
+                5787321,
+                5736509,
+                5734947
+            ],
+            "k": 11
+        },
+        "expected_output": 9059333,
+        "predicted_output": 77290968,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8486659,
+                7773877,
+                5862698,
+                2361121,
+                2358395,
+                1521043
+            ],
+            "k": 5
+        },
+        "expected_output": 8486659,
+        "predicted_output": 26842750,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9557566,
+                5054235,
+                2815245,
+                2328351,
+                2133093,
+                1492681,
+                1315026,
+                670770,
+                431752
+            ],
+            "k": 2
+        },
+        "expected_output": 12988439,
+        "predicted_output": 14611801,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8109710,
+                4852227,
+                2792437
+            ],
+            "k": 1
+        },
+        "expected_output": 15754374,
+        "predicted_output": 8109710,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9781606,
+                8090447,
+                7539914,
+                6711761,
+                6194409,
+                6123356,
+                5465822,
+                5050425,
+                4911439
+            ],
+            "k": 8
+        },
+        "expected_output": 9961864,
+        "predicted_output": 54957740,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9563722,
+                9453915,
+                9219280,
+                7805292,
+                7792155,
+                5833687,
+                5357735,
+                3467769,
+                3052394,
+                2788694,
+                2251011,
+                530682
+            ],
+            "k": 7
+        },
+        "expected_output": 10580849,
+        "predicted_output": 55025786,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                6559825,
+                6033175,
+                4378330,
+                3670918,
+                2326156
+            ],
+            "k": 1
+        },
+        "expected_output": 22968404,
+        "predicted_output": 6559825,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8674364,
+                6401376,
+                5908250,
+                5279160,
+                5181210,
+                4917322,
+                3569491,
+                1980197,
+                1378439,
+                381290,
+                29851
+            ],
+            "k": 8
+        },
+        "expected_output": 8674364,
+        "predicted_output": 41911370,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9134266,
+                8964881,
+                5505921,
+                1761098,
+                1158112
+            ],
+            "k": 3
+        },
+        "expected_output": 9134266,
+        "predicted_output": 23605068,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9444455,
+                9008017,
+                8537570,
+                7736835,
+                5088769,
+                3923067,
+                1940983,
+                1269177,
+                305934
+            ],
+            "k": 3
+        },
+        "expected_output": 16274405,
+        "predicted_output": 26990042,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                6478657,
+                6220240,
+                6002225,
+                5915763,
+                5289202,
+                4013372,
+                3358624,
+                1077767
+            ],
+            "k": 6
+        },
+        "expected_output": 7371996,
+        "predicted_output": 33919459,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9614528,
+                8371083,
+                8078717,
+                6349734,
+                6242047,
+                3561743,
+                3378971,
+                3106596,
+                2972802,
+                740922,
+                476788
+            ],
+            "k": 8
+        },
+        "expected_output": 9614528,
+        "predicted_output": 48703419,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                4723834
+            ],
+            "k": 1
+        },
+        "expected_output": 4723834,
+        "predicted_output": 4723834,
+        "result": "same"
+    },
+    {
+        "input": {
+            "jobs": [
+                9205876,
+                8234541,
+                8090588,
+                2200182,
+                1482818,
+                1465336
+            ],
+            "k": 2
+        },
+        "expected_output": 16325129,
+        "predicted_output": 17440417,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8516609,
+                3630984,
+                2675128,
+                1622713
+            ],
+            "k": 2
+        },
+        "expected_output": 8516609,
+        "predicted_output": 12147593,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9381173,
+                7013789,
+                6975205,
+                6940783,
+                6892401,
+                5799103,
+                5407092,
+                1601113,
+                1170907,
+                1128475,
+                560500
+            ],
+            "k": 8
+        },
+        "expected_output": 9381173,
+        "predicted_output": 50010659,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9792876,
+                9445917,
+                6876535,
+                6094097,
+                5344712,
+                4962272,
+                2952421,
+                2883679,
+                1940060,
+                1655065,
+                16288
+            ],
+            "k": 2
+        },
+        "expected_output": 26091504,
+        "predicted_output": 19238793,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                5780283,
+                2567700,
+                2547834,
+                380472
+            ],
+            "k": 3
+        },
+        "expected_output": 5780283,
+        "predicted_output": 10895817,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9450265,
+                9252680,
+                7909484,
+                7124159,
+                6734800,
+                2184330,
+                1861044,
+                893127
+            ],
+            "k": 1
+        },
+        "expected_output": 45409889,
+        "predicted_output": 9450265,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                6421707
+            ],
+            "k": 1
+        },
+        "expected_output": 6421707,
+        "predicted_output": 6421707,
+        "result": "same"
+    },
+    {
+        "input": {
+            "jobs": [
+                7068772,
+                6942709,
+                6251652,
+                3757217,
+                3326148,
+                2061484,
+                1981456,
+                38282
+            ],
+            "k": 7
+        },
+        "expected_output": 7068772,
+        "predicted_output": 31389438,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                7750739,
+                1584126,
+                1002696
+            ],
+            "k": 3
+        },
+        "expected_output": 7750739,
+        "predicted_output": 10337561,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8889326,
+                8416110,
+                6473509,
+                4873862,
+                2905498
+            ],
+            "k": 4
+        },
+        "expected_output": 8889326,
+        "predicted_output": 28652807,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                6651167,
+                5119322
+            ],
+            "k": 1
+        },
+        "expected_output": 11770489,
+        "predicted_output": 6651167,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                3961710,
+                3743116,
+                3032195,
+                889872,
+                462699,
+                139869
+            ],
+            "k": 4
+        },
+        "expected_output": 3961710,
+        "predicted_output": 11626893,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9844233,
+                7663485,
+                5874558,
+                4308328
+            ],
+            "k": 3
+        },
+        "expected_output": 10182886,
+        "predicted_output": 23382276,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8311159,
+                7376320,
+                7312496,
+                7083209,
+                3491045,
+                1780699,
+                1232600
+            ],
+            "k": 6
+        },
+        "expected_output": 8311159,
+        "predicted_output": 35354928,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9052141,
+                4573414,
+                4273250,
+                1105163,
+                379446
+            ],
+            "k": 5
+        },
+        "expected_output": 9052141,
+        "predicted_output": 19383414,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9816202,
+                3192779
+            ],
+            "k": 1
+        },
+        "expected_output": 13008981,
+        "predicted_output": 9816202,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9930863,
+                453148
+            ],
+            "k": 2
+        },
+        "expected_output": 9930863,
+        "predicted_output": 10384011,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9407477,
+                8121623,
+                6548637,
+                3569424,
+                3171050,
+                2434060,
+                2346056,
+                1910064,
+                975302,
+                583683
+            ],
+            "k": 1
+        },
+        "expected_output": 39067376,
+        "predicted_output": 9407477,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                6948852,
+                4347818
+            ],
+            "k": 1
+        },
+        "expected_output": 11296670,
+        "predicted_output": 6948852,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9543571,
+                8466711,
+                8322671,
+                5383316,
+                3971046,
+                3524041,
+                3300315,
+                2252606,
+                900110
+            ],
+            "k": 4
+        },
+        "expected_output": 11846712,
+        "predicted_output": 31716269,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9411674,
+                7724365,
+                7141651,
+                6051940,
+                4787565,
+                2904310,
+                2273204,
+                2126256,
+                153002
+            ],
+            "k": 3
+        },
+        "expected_output": 14442240,
+        "predicted_output": 24277690,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8322271,
+                6394337,
+                5747810,
+                476078
+            ],
+            "k": 3
+        },
+        "expected_output": 8322271,
+        "predicted_output": 20464418,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                6305593,
+                5311081,
+                5243049,
+                1992177
+            ],
+            "k": 3
+        },
+        "expected_output": 7235226,
+        "predicted_output": 16859723,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9019140,
+                4977739,
+                3241440,
+                1766160,
+                1266757
+            ],
+            "k": 3
+        },
+        "expected_output": 9019140,
+        "predicted_output": 17238319,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                5247670,
+                5080149,
+                4360489,
+                4333090,
+                1804386,
+                939202
+            ],
+            "k": 3
+        },
+        "expected_output": 8693579,
+        "predicted_output": 14688308,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9242255,
+                7495312,
+                7343304,
+                6287967,
+                5561238,
+                4651904,
+                4073539,
+                2345566,
+                1701044,
+                1155223,
+                659895
+            ],
+            "k": 9
+        },
+        "expected_output": 9242255,
+        "predicted_output": 48702129,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9806186,
+                9136595,
+                8816858,
+                5498809,
+                4241653,
+                3840662,
+                3688456,
+                3423227,
+                1821734,
+                1307465,
+                605896,
+                371003
+            ],
+            "k": 2
+        },
+        "expected_output": 26283645,
+        "predicted_output": 18942781,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9184911,
+                1806103,
+                460550,
+                269358
+            ],
+            "k": 1
+        },
+        "expected_output": 11720922,
+        "predicted_output": 9184911,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8426753,
+                7601766,
+                7351418,
+                7294513,
+                4195445,
+                3398042,
+                2393776,
+                1366232,
+                1104698
+            ],
+            "k": 3
+        },
+        "expected_output": 14645931,
+        "predicted_output": 23379937,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8963803,
+                7528586,
+                5918667,
+                5463627,
+                4824060,
+                4371317,
+                3830902,
+                2175315,
+                1348036,
+                175118
+            ],
+            "k": 5
+        },
+        "expected_output": 9294529,
+        "predicted_output": 32698743,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                4703610,
+                4206858,
+                2837891,
+                2607905,
+                2538922,
+                997269
+            ],
+            "k": 6
+        },
+        "expected_output": 4703610,
+        "predicted_output": 17892455,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9280144,
+                8842331,
+                7570517,
+                7210452,
+                4997000,
+                3290542,
+                3052598,
+                2750638,
+                1877031,
+                859787,
+                665573
+            ],
+            "k": 3
+        },
+        "expected_output": 16850661,
+        "predicted_output": 25692992,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                758526
+            ],
+            "k": 1
+        },
+        "expected_output": 758526,
+        "predicted_output": 758526,
+        "result": "same"
+    },
+    {
+        "input": {
+            "jobs": [
+                4290253,
+                4277776,
+                3205958,
+                1008918
+            ],
+            "k": 3
+        },
+        "expected_output": 4290253,
+        "predicted_output": 11773987,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9732837,
+                9729219,
+                7600138,
+                6562365,
+                5635520,
+                3484177,
+                3011162,
+                2441702,
+                1726895,
+                958030
+            ],
+            "k": 8
+        },
+        "expected_output": 9732837,
+        "predicted_output": 48197120,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8190469,
+                4011832,
+                3849726
+            ],
+            "k": 1
+        },
+        "expected_output": 16052027,
+        "predicted_output": 8190469,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8234238
+            ],
+            "k": 1
+        },
+        "expected_output": 8234238,
+        "predicted_output": 8234238,
+        "result": "same"
+    },
+    {
+        "input": {
+            "jobs": [
+                8982922,
+                8513207,
+                6212669,
+                6149713,
+                4764177,
+                3821747,
+                3186146,
+                2735632,
+                1334302
+            ],
+            "k": 8
+        },
+        "expected_output": 8982922,
+        "predicted_output": 44366213,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9717551,
+                9623579,
+                8769992,
+                5718111,
+                5250038,
+                4406873,
+                4055373,
+                3754870,
+                3725087,
+                3495866,
+                2645641
+            ],
+            "k": 6
+        },
+        "expected_output": 11107887,
+        "predicted_output": 43486144,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8331895,
+                6503045,
+                6496502,
+                5895388,
+                5597025,
+                5140665,
+                3989610,
+                3733283,
+                3492330,
+                2974267,
+                2510805,
+                1081892
+            ],
+            "k": 6
+        },
+        "expected_output": 9470769,
+        "predicted_output": 37964520,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                7838815,
+                5939897,
+                5475045,
+                4021581,
+                2374857
+            ],
+            "k": 3
+        },
+        "expected_output": 9496626,
+        "predicted_output": 19253757,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8339666,
+                5932808,
+                5104529,
+                2860192,
+                2263293,
+                2124356
+            ],
+            "k": 2
+        },
+        "expected_output": 13324214,
+        "predicted_output": 14272474,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9864905,
+                1015412
+            ],
+            "k": 1
+        },
+        "expected_output": 10880317,
+        "predicted_output": 9864905,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                7928517,
+                7348709,
+                7019075,
+                6702648,
+                6193928
+            ],
+            "k": 2
+        },
+        "expected_output": 19915651,
+        "predicted_output": 15277226,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9117762,
+                9054926,
+                7349517,
+                4513129,
+                4509036,
+                3412925,
+                2122877,
+                1854068,
+                900923
+            ],
+            "k": 4
+        },
+        "expected_output": 11145042,
+        "predicted_output": 30035334,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9516333
+            ],
+            "k": 1
+        },
+        "expected_output": 9516333,
+        "predicted_output": 9516333,
+        "result": "same"
+    },
+    {
+        "input": {
+            "jobs": [
+                9492620,
+                7894545,
+                7350377,
+                5936658,
+                3606643,
+                1782865,
+                532548
+            ],
+            "k": 6
+        },
+        "expected_output": 9492620,
+        "predicted_output": 36063708,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9664923,
+                9518545,
+                8428293,
+                7005001,
+                2542121,
+                2305683
+            ],
+            "k": 2
+        },
+        "expected_output": 20252521,
+        "predicted_output": 19183468,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                3923872,
+                3448621,
+                2736387,
+                2197514,
+                2030342,
+                1151147,
+                1066411
+            ],
+            "k": 2
+        },
+        "expected_output": 8402566,
+        "predicted_output": 7372493,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8710418,
+                6792205,
+                5804849,
+                5484598,
+                3425969,
+                2373053,
+                2149902
+            ],
+            "k": 3
+        },
+        "expected_output": 12136387,
+        "predicted_output": 21307472,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                7245959,
+                3994244,
+                3423517,
+                1059657
+            ],
+            "k": 4
+        },
+        "expected_output": 7245959,
+        "predicted_output": 15723377,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9450545,
+                9119498,
+                8254838,
+                6926210,
+                6253919,
+                4594465,
+                3017822,
+                2501751,
+                1056513
+            ],
+            "k": 4
+        },
+        "expected_output": 13180129,
+        "predicted_output": 33751091,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9906032,
+                1828895,
+                866559
+            ],
+            "k": 2
+        },
+        "expected_output": 9906032,
+        "predicted_output": 11734927,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9986089,
+                9037708,
+                8105917,
+                6497874,
+                5024514,
+                4907586,
+                3203473
+            ],
+            "k": 6
+        },
+        "expected_output": 9986089,
+        "predicted_output": 43559688,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9565425,
+                9485546,
+                8407340,
+                8055326,
+                6688638,
+                5989653,
+                5558931,
+                5260571,
+                5008006,
+                4647850,
+                1639678
+            ],
+            "k": 9
+        },
+        "expected_output": 9655856,
+        "predicted_output": 64019436,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8260262,
+                7390598,
+                5803568,
+                2114449,
+                1691857,
+                1161165,
+                909726
+            ],
+            "k": 7
+        },
+        "expected_output": 8260262,
+        "predicted_output": 27331625,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8985142,
+                8485141,
+                6582253,
+                6354660,
+                6236990,
+                6151897,
+                6003899,
+                5990313,
+                888612,
+                746350
+            ],
+            "k": 8
+        },
+        "expected_output": 8985142,
+        "predicted_output": 54790295,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9262445,
+                7227639,
+                1569061
+            ],
+            "k": 2
+        },
+        "expected_output": 9262445,
+        "predicted_output": 16490084,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9852113,
+                3064452,
+                576330
+            ],
+            "k": 2
+        },
+        "expected_output": 9852113,
+        "predicted_output": 12916565,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                7158278,
+                6932330,
+                6020299,
+                4885911,
+                3534930,
+                2862772,
+                2350004,
+                2335308,
+                2199241,
+                1923679,
+                839124
+            ],
+            "k": 10
+        },
+        "expected_output": 7158278,
+        "predicted_output": 40202752,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                3098726,
+                576802
+            ],
+            "k": 2
+        },
+        "expected_output": 3098726,
+        "predicted_output": 3675528,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8564096,
+                4907225,
+                3319189,
+                318138
+            ],
+            "k": 2
+        },
+        "expected_output": 8564096,
+        "predicted_output": 13471321,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                8291865,
+                7498953,
+                3509656,
+                3435357
+            ],
+            "k": 1
+        },
+        "expected_output": 22735831,
+        "predicted_output": 8291865,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                6228657,
+                5511329,
+                5306156,
+                4496699,
+                4231223,
+                2482715
+            ],
+            "k": 2
+        },
+        "expected_output": 14222701,
+        "predicted_output": 11739986,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9464564,
+                7286663,
+                2948654,
+                1494571
+            ],
+            "k": 2
+        },
+        "expected_output": 10959135,
+        "predicted_output": 16751227,
+        "result": "different"
+    },
+    {
+        "input": {
+            "jobs": [
+                9944543,
+                9733673,
+                9128945,
+                9001595,
+                5942503,
+                4598721,
+                4333882,
+                3415971,
+                3237977,
+                2419494,
+                983793
+            ],
+            "k": 6
+        },
+        "expected_output": 11421089,
+        "predicted_output": 48349980,
+        "result": "different"
+    }
+]

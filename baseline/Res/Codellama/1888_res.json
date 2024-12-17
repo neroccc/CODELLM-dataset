@@ -1,0 +1,6002 @@
+[
+    {
+        "input": "010001011110001100101110001100100010",
+        "expected_output": 16,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "00",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1010010001100101111011000110100000100101010010100011000000010110000100001",
+        "expected_output": 32,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "0001111101011100110000000101110010100001010001100100",
+        "expected_output": 20,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "0010000110101001010011010001100101001100100011010001101111110010111011110001011101",
+        "expected_output": 38,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "10101101110110111111",
+        "expected_output": 9,
+        "predicted_output": 9,
+        "result": "same"
+    },
+    {
+        "input": "011000001011101011",
+        "expected_output": 6,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "11001111010001100011010000100100011100011001100111101110001111101000010110110011",
+        "expected_output": 39,
+        "predicted_output": 43,
+        "result": "different"
+    },
+    {
+        "input": "011001011111010010100010000011111100000111001000110001110011101000",
+        "expected_output": 32,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "10001111000000111010001010001111111001010011010011001010010011101101100010111111111101",
+        "expected_output": 38,
+        "predicted_output": 45,
+        "result": "different"
+    },
+    {
+        "input": "101111110000010111111110011",
+        "expected_output": 10,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "11111011000101101011101101101100100011",
+        "expected_output": 16,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "1110001111",
+        "expected_output": 4,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1110100000100100110101110101110000010100010110001000110010111110000000011100101",
+        "expected_output": 29,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "110011010010011101100101000001001000011110011010100101111011000111100101",
+        "expected_output": 32,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "111110010010000011101001000110111010101000101100100010110000",
+        "expected_output": 21,
+        "predicted_output": 28,
+        "result": "different"
+    },
+    {
+        "input": "011101110101110110101",
+        "expected_output": 3,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "001101000110000100101100011101001110001010111001001010000101011010010010011",
+        "expected_output": 30,
+        "predicted_output": 31,
+        "result": "different"
+    },
+    {
+        "input": "0100001100011101010010",
+        "expected_output": 8,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "111001011110110011110001000000010",
+        "expected_output": 12,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "1011010",
+        "expected_output": 0,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "10101010001101011101100000010101011100011110001",
+        "expected_output": 13,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "110110001110100101100000001101000110100111111011111101011",
+        "expected_output": 24,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "101010111101001110100101010110010110000110110011000001000100011101001100011010000",
+        "expected_output": 29,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "01111011111110001001001110000111110110111101011000111101110111111111000",
+        "expected_output": 29,
+        "predicted_output": 44,
+        "result": "different"
+    },
+    {
+        "input": "00110001100100100110010011001110111001010101010010111001100111101",
+        "expected_output": 25,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "1011100001101110011100101111100101001100011110100101111010100",
+        "expected_output": 26,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "1011001",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "01110110010100111001001001001010000000011000010000101011000",
+        "expected_output": 23,
+        "predicted_output": 28,
+        "result": "different"
+    },
+    {
+        "input": "11001100010000011000001001011110111011000101100110011110111001011101110011100011101",
+        "expected_output": 35,
+        "predicted_output": 44,
+        "result": "different"
+    },
+    {
+        "input": "100010101001010010011101",
+        "expected_output": 11,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "000110000111011101001010011010001100011110111",
+        "expected_output": 15,
+        "predicted_output": 23,
+        "result": "different"
+    },
+    {
+        "input": "11000100100001011001101100011010011000110010100010000101111110001001111110100110",
+        "expected_output": 36,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "0110000000101111001001001000111110111000110001111101001101110100101010101100100001100011101010111000",
+        "expected_output": 41,
+        "predicted_output": 49,
+        "result": "different"
+    },
+    {
+        "input": "0100010",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "101100110110111011100011001100110001111010100101000011110111001101001110001100010011101",
+        "expected_output": 36,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "10100001100110100101011010111100101011100111110101110001101110000010000010010000010001000011001111",
+        "expected_output": 47,
+        "predicted_output": 49,
+        "result": "different"
+    },
+    {
+        "input": "1011000111101010101",
+        "expected_output": 5,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "00110111101011001101011110",
+        "expected_output": 13,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "011101000101010100001010000",
+        "expected_output": 5,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "1110101001010010111010101110010101100010000110010101110110100010111000011",
+        "expected_output": 29,
+        "predicted_output": 28,
+        "result": "different"
+    },
+    {
+        "input": "01011110010001100111001010101110101001010101111101010101110110",
+        "expected_output": 26,
+        "predicted_output": 21,
+        "result": "different"
+    },
+    {
+        "input": "01111110001001011001110011100000110010011010001",
+        "expected_output": 18,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "001",
+        "expected_output": 0,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "101",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "0001001011101111100010110100101010011101100111101001000000111001010100100",
+        "expected_output": 29,
+        "predicted_output": 32,
+        "result": "different"
+    },
+    {
+        "input": "001110101110000000011101101111100011010010001011100011010111011111000110101",
+        "expected_output": 30,
+        "predicted_output": 39,
+        "result": "different"
+    },
+    {
+        "input": "01100",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "10",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "1001000100001000110101001",
+        "expected_output": 9,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "0111000100101101101101010000011011000001000001110111111100100011100110101011",
+        "expected_output": 36,
+        "predicted_output": 38,
+        "result": "different"
+    },
+    {
+        "input": "1011001001011111100000111101110011000011110111000011100",
+        "expected_output": 23,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "01001011011011101000101000101111111011001001110011111100010111011111011011",
+        "expected_output": 34,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "0010011101010101111110110001111",
+        "expected_output": 10,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "011000011011010111100001000111100010010000100001001110100101011111111000010010110001",
+        "expected_output": 39,
+        "predicted_output": 44,
+        "result": "different"
+    },
+    {
+        "input": "100010000101100111110010000100100111110011101110111110010100001101110110000000101001000111110101011",
+        "expected_output": 41,
+        "predicted_output": 52,
+        "result": "different"
+    },
+    {
+        "input": "011100010111011001000100101010",
+        "expected_output": 13,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "01",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "1010001000001100111011001101010111110110010110",
+        "expected_output": 23,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "11100101110100000110001111100111111110101111011011001000111000111010000",
+        "expected_output": 26,
+        "predicted_output": 41,
+        "result": "different"
+    },
+    {
+        "input": "011100110011000001111",
+        "expected_output": 8,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "10000111101001100101110001110111011111111100101000100110110011100011",
+        "expected_output": 33,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "00",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0110111000100101111101111111000111110",
+        "expected_output": 12,
+        "predicted_output": 22,
+        "result": "different"
+    },
+    {
+        "input": "001110110101110111110100111100001100101001",
+        "expected_output": 19,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "1110111011100011001",
+        "expected_output": 6,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "11000011000001001101011",
+        "expected_output": 8,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "0100100011111000000001101010100110110110001111000111011",
+        "expected_output": 21,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "00000101011000011101110111001111100000011101010001000111011100",
+        "expected_output": 21,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "111001000011011001100111000110111100100010100100000010101100101000001100100111101010000",
+        "expected_output": 32,
+        "predicted_output": 43,
+        "result": "different"
+    },
+    {
+        "input": "100010101111000101100001111101100101000010110001000110011111111001110100111001000001",
+        "expected_output": 38,
+        "predicted_output": 45,
+        "result": "different"
+    },
+    {
+        "input": "1111100001000111101010010010100001000100100000000110001",
+        "expected_output": 23,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "11100011010000110001100011011101010100000010110010001011100001011100111",
+        "expected_output": 28,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "11010010000001111001010100010",
+        "expected_output": 9,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "1100101101010100110001111001100010110001000110",
+        "expected_output": 21,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "001100001001",
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": "00",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "110101001110110111010000010011000000001000001000010010101111011100111011111010011001001100011111",
+        "expected_output": 47,
+        "predicted_output": 51,
+        "result": "different"
+    },
+    {
+        "input": "001101010000000110110101100101000110110000001100000110001010111111100011100110111101010",
+        "expected_output": 35,
+        "predicted_output": 44,
+        "result": "different"
+    },
+    {
+        "input": "10100011011101100000100100000001100110110101011010110101000010011100110101100101",
+        "expected_output": 35,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "001001011100101001010000100000110010111",
+        "expected_output": 15,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "10011001110010010100100101111000110101000",
+        "expected_output": 15,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "11100111100001101110101110000010111111011110110110101",
+        "expected_output": 20,
+        "predicted_output": 28,
+        "result": "different"
+    },
+    {
+        "input": "000001100",
+        "expected_output": 3,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0011010110010010100111000001100000100101",
+        "expected_output": 18,
+        "predicted_output": 18,
+        "result": "same"
+    },
+    {
+        "input": "100101001",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "000110010101110011101101110010110110010000001101001100100100101",
+        "expected_output": 25,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "0100010111100101101101110111010101110111111110110010101110101111001000111011001011011000101111",
+        "expected_output": 47,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "11101010",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1111110001101000101111110111100101110100101111010110000100111111010101000100010000000110111001001011",
+        "expected_output": 44,
+        "predicted_output": 51,
+        "result": "different"
+    },
+    {
+        "input": "10010100100100110001110110110011010011000100100010001111001101000111001100101",
+        "expected_output": 32,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "1100010010000000",
+        "expected_output": 8,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "0110001011010101100000000111000111",
+        "expected_output": 14,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "110111000001000000010010010011101011011010011011010111001010",
+        "expected_output": 30,
+        "predicted_output": 26,
+        "result": "different"
+    },
+    {
+        "input": "1001011000010001011100000010100010011110100111100000111",
+        "expected_output": 19,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "001001100001011111011100110100111110001",
+        "expected_output": 14,
+        "predicted_output": 21,
+        "result": "different"
+    },
+    {
+        "input": "001011010001000101100001010000111111000111100101100001101100000000000110001111",
+        "expected_output": 34,
+        "predicted_output": 46,
+        "result": "different"
+    },
+    {
+        "input": "0110001100001101001101001100111100011011111111011",
+        "expected_output": 21,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "111101011011010010111100110010001110101101",
+        "expected_output": 20,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "110111110001011110011010100011100001",
+        "expected_output": 18,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "01111000001000000110000111110001111011000011101001010101111001101000100",
+        "expected_output": 31,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "10110000000101111010001101000111001000010101110010100010011011011101101010001100010100100000001",
+        "expected_output": 40,
+        "predicted_output": 44,
+        "result": "different"
+    },
+    {
+        "input": "11011110110010101110010100",
+        "expected_output": 12,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "11010",
+        "expected_output": 0,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "10000010111100",
+        "expected_output": 5,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "11000100011001101000001111001001110000010000011011001100001000001",
+        "expected_output": 28,
+        "predicted_output": 38,
+        "result": "different"
+    },
+    {
+        "input": "00100110011110100111001001010111010110000011",
+        "expected_output": 20,
+        "predicted_output": 20,
+        "result": "same"
+    },
+    {
+        "input": "01101101101000101000000011100111101101110011011",
+        "expected_output": 17,
+        "predicted_output": 23,
+        "result": "different"
+    },
+    {
+        "input": "10001100001111110110111100101000110110011110000010010000011110100111111101111011",
+        "expected_output": 37,
+        "predicted_output": 47,
+        "result": "different"
+    },
+    {
+        "input": "100110000011011011100001001001110101101101001011100110111111111110100001100111000110111101",
+        "expected_output": 44,
+        "predicted_output": 47,
+        "result": "different"
+    },
+    {
+        "input": "0010100101001000010001100101011010101100110",
+        "expected_output": 16,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "10101000011000100010101110111011011111001111000100010011100000001010010000",
+        "expected_output": 30,
+        "predicted_output": 38,
+        "result": "different"
+    },
+    {
+        "input": "0100101011001101011111111100010110100111100111011010111",
+        "expected_output": 22,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "00110110011111010011000111011",
+        "expected_output": 10,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "110",
+        "expected_output": 0,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "001001011000110111010110011011110010100010100000000000010110101010010111111001001101",
+        "expected_output": 41,
+        "predicted_output": 38,
+        "result": "different"
+    },
+    {
+        "input": "1111001001",
+        "expected_output": 5,
+        "predicted_output": 5,
+        "result": "same"
+    },
+    {
+        "input": "111110000111",
+        "expected_output": 6,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "0001100011001011000110111",
+        "expected_output": 9,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "000110010010001110101110000101011010111001011010101111010101011101110110111110110010000101",
+        "expected_output": 44,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "101011100110011100111000010000001001111111000110001",
+        "expected_output": 22,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "10100110110100100101110011011111010010111100111000100",
+        "expected_output": 21,
+        "predicted_output": 23,
+        "result": "different"
+    },
+    {
+        "input": "11010100011",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1100001001111110011010111101001000001110101100001000001101101111110100010001111",
+        "expected_output": 31,
+        "predicted_output": 44,
+        "result": "different"
+    },
+    {
+        "input": "1111001000110000",
+        "expected_output": 7,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "0010001111110111011110100110010100011000101010101101100001011",
+        "expected_output": 25,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "0100101010011101000011110001100000100111111111111001010100000111",
+        "expected_output": 29,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "01001010000101100110110",
+        "expected_output": 9,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1001000111011111010010100111111100",
+        "expected_output": 15,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "010000010000011001010011000110001001001101111000100111010001111111111011110",
+        "expected_output": 31,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "11110110010010001000101101101100111110010101001001000011111011",
+        "expected_output": 30,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "110111000011111010110000010010110011111001110111000011101101110010010110100010010110000001",
+        "expected_output": 45,
+        "predicted_output": 47,
+        "result": "different"
+    },
+    {
+        "input": "110100001000100",
+        "expected_output": 4,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1001011011010000100111001000000011011101111000100100100000010111100101011101010110101010110001111",
+        "expected_output": 38,
+        "predicted_output": 44,
+        "result": "different"
+    },
+    {
+        "input": "001100100110010011011101000011001001000010010011101000110100000010000100010",
+        "expected_output": 33,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "1",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "0111111",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "100100101110010011001111010101001",
+        "expected_output": 11,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "001110001100000101010111100110011001",
+        "expected_output": 15,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "1100111001110111101000110100011111010011100110100010",
+        "expected_output": 25,
+        "predicted_output": 26,
+        "result": "different"
+    },
+    {
+        "input": "0001101100100011000011101001110001011010000111",
+        "expected_output": 22,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "01111100100000001100110110001000000000111011000000110001111111111011111001000",
+        "expected_output": 34,
+        "predicted_output": 52,
+        "result": "different"
+    },
+    {
+        "input": "1010001100110110011111010000001010011101000101011010010001111001001010110100100001111111",
+        "expected_output": 42,
+        "predicted_output": 41,
+        "result": "different"
+    },
+    {
+        "input": "0000100111001000011110001010001010101110010111110110001011000011000011001000100111111111111110100",
+        "expected_output": 39,
+        "predicted_output": 54,
+        "result": "different"
+    },
+    {
+        "input": "01000011110",
+        "expected_output": 4,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "001010010100011000100010001000001110100001111100011110011111100100111010100010110011101001001",
+        "expected_output": 36,
+        "predicted_output": 47,
+        "result": "different"
+    },
+    {
+        "input": "1100011010011011110110001001100101111101000111000110001",
+        "expected_output": 22,
+        "predicted_output": 28,
+        "result": "different"
+    },
+    {
+        "input": "00111001110101010001010000100110001011010111101101001110010010010111110011011011010011111110110",
+        "expected_output": 39,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "00001010111001101111110000000100000",
+        "expected_output": 12,
+        "predicted_output": 22,
+        "result": "different"
+    },
+    {
+        "input": "1110001000011",
+        "expected_output": 4,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "11111000101100101111100100111100101001001100011011001110011",
+        "expected_output": 24,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "0001001",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "00111111000011010001000000111000001011111100100101100011001011010",
+        "expected_output": 28,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "101100001010101001011010010110110011010101001101",
+        "expected_output": 24,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "111101111101101011111000000001",
+        "expected_output": 15,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "000100010010011100110001011101011110110000001000001010101011110001101",
+        "expected_output": 22,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "0010110011000100100001011110",
+        "expected_output": 14,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "111111000110000101010001111100010100100110001110",
+        "expected_output": 20,
+        "predicted_output": 26,
+        "result": "different"
+    },
+    {
+        "input": "0111010001001111100010100111100100000001101010001100100011010100110110100101101000",
+        "expected_output": 40,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "1111011010011010101000001110110111011101010101000001001",
+        "expected_output": 15,
+        "predicted_output": 22,
+        "result": "different"
+    },
+    {
+        "input": "11101101001101110101000100010110001001010111011110011001111110100001",
+        "expected_output": 27,
+        "predicted_output": 31,
+        "result": "different"
+    },
+    {
+        "input": "10001000010010011101010001100010111010001110",
+        "expected_output": 19,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "001101001111001110011110110110100100100011110001101010011100110011100001011111011110",
+        "expected_output": 41,
+        "predicted_output": 43,
+        "result": "different"
+    },
+    {
+        "input": "10011101110101001110001010000010110001110100011110111000010001100000",
+        "expected_output": 33,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "1000010110000000000111111100000111000001000000001000111001001100001100010101011110100100111101111",
+        "expected_output": 41,
+        "predicted_output": 60,
+        "result": "different"
+    },
+    {
+        "input": "00110000110100111101111010000011011010100",
+        "expected_output": 15,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "1011010100111010001111010100000011110010101010110000110010010110001110110111110110",
+        "expected_output": 38,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "10010100100001000001010101000100100110100010011110000010000001010100001000",
+        "expected_output": 33,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "0100",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "000001011",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1101110101010000111001011110010001",
+        "expected_output": 11,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "011100011011000101000001000011001",
+        "expected_output": 11,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "1011011010101111001100011000011000101010010001110111111011010",
+        "expected_output": 21,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "001010001",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "10101100110100101011100000010100011011010000011101",
+        "expected_output": 24,
+        "predicted_output": 21,
+        "result": "different"
+    },
+    {
+        "input": "00110100101010110010010101110100011000011010100000",
+        "expected_output": 24,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "0011110110110111111101101010100011110100101100000010011000101011001000110111011110001110110011111",
+        "expected_output": 38,
+        "predicted_output": 49,
+        "result": "different"
+    },
+    {
+        "input": "100110100100111010010",
+        "expected_output": 6,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "000000",
+        "expected_output": 3,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0101011000110010001100011010100",
+        "expected_output": 9,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "1000101011110110110010110111111001101111110000000010",
+        "expected_output": 21,
+        "predicted_output": 28,
+        "result": "different"
+    },
+    {
+        "input": "0000101",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "00110100100100111001111111111011001101000000111010111010010001101110",
+        "expected_output": 31,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "0",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "110111110111000010101101111001101100010101111011001",
+        "expected_output": 21,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "1011111101001011011010101101111110110010000110001100111010111100",
+        "expected_output": 26,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "10000010101110110100100000100111101111010",
+        "expected_output": 13,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "01001011",
+        "expected_output": 4,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "101001",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "111000010",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "00101011101101101000110000010000111111011101010100001",
+        "expected_output": 17,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "0100000111100010111100101011001001101100100110011111001010011010001100111100010110011011",
+        "expected_output": 39,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "01111010001110101101000100100101011010011010",
+        "expected_output": 20,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "10011101100010101000000010001",
+        "expected_output": 8,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "11110010000011011111000111111100011100010011010111011111101001110101000",
+        "expected_output": 25,
+        "predicted_output": 41,
+        "result": "different"
+    },
+    {
+        "input": "01000110101011110111010011100101010110011001101100100111100000010000110101000001110101",
+        "expected_output": 35,
+        "predicted_output": 38,
+        "result": "different"
+    },
+    {
+        "input": "010000",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "000101001100001010001101000100011010101011110100100101001000110101001000000010110111",
+        "expected_output": 41,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "0100010101101111101011001000000000100011001011110010100",
+        "expected_output": 16,
+        "predicted_output": 26,
+        "result": "different"
+    },
+    {
+        "input": "11111011010010000010110100010101100101010010000000000011001010100110000011",
+        "expected_output": 37,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "0110111110000100100110010101111111101001110000010110101101100000001000101111",
+        "expected_output": 37,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "00000",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1001011010001100001001100000010110011010111001001011010110111",
+        "expected_output": 26,
+        "predicted_output": 26,
+        "result": "same"
+    },
+    {
+        "input": "0001001001001010000101111110010001111100111010001100101101010011111000101111111",
+        "expected_output": 33,
+        "predicted_output": 41,
+        "result": "different"
+    },
+    {
+        "input": "100111001000111111001000100001110001010110111110001000010101011110011010000001",
+        "expected_output": 38,
+        "predicted_output": 41,
+        "result": "different"
+    },
+    {
+        "input": "1011100010110010101000010111001111000010001010110010100101101011011010000100100000101",
+        "expected_output": 31,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "01010110011111100111110011001001110000000010110000110010101000001111101101",
+        "expected_output": 36,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "001111011110110111110011110001110111011100011001110000011000110101101001110010010110",
+        "expected_output": 36,
+        "predicted_output": 45,
+        "result": "different"
+    },
+    {
+        "input": "1011101101010011101111010110001000101100011110",
+        "expected_output": 21,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "001001100101111100011111100011001011011000110111011100111100110100001101101",
+        "expected_output": 32,
+        "predicted_output": 39,
+        "result": "different"
+    },
+    {
+        "input": "000100011100110111101000001100000110011101111001101010000110011000011010101",
+        "expected_output": 29,
+        "predicted_output": 39,
+        "result": "different"
+    },
+    {
+        "input": "10",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "11110000100010100100011011010010001001000100100100111",
+        "expected_output": 22,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "101110001111011110011100000001110000011101001010110110011111011000110111",
+        "expected_output": 34,
+        "predicted_output": 41,
+        "result": "different"
+    },
+    {
+        "input": "00110010111111110011111000011011000100111100100001001011001110101000100000011001010111010011000",
+        "expected_output": 37,
+        "predicted_output": 50,
+        "result": "different"
+    },
+    {
+        "input": "111011101011011000110110100101100110110000101010011001011010111",
+        "expected_output": 25,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "101111100111100110101101011010001010000010100010101010010111100011001110000000011100",
+        "expected_output": 32,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "1001011",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1101001011111000001011101100001",
+        "expected_output": 9,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "000010100100100010011111100001000111011001101000000100010111110010100101101010100000110111101101100",
+        "expected_output": 44,
+        "predicted_output": 48,
+        "result": "different"
+    },
+    {
+        "input": "0110001001110100011100100100000100110",
+        "expected_output": 13,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "00100110010111001111010001111000101010100011",
+        "expected_output": 20,
+        "predicted_output": 20,
+        "result": "same"
+    },
+    {
+        "input": "010111101110100011001001001111011011000101100110010100110",
+        "expected_output": 22,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "010001000100011011001001100000011111110000001000010000011001110010011011100100100110110000101000000",
+        "expected_output": 41,
+        "predicted_output": 56,
+        "result": "different"
+    },
+    {
+        "input": "00000011000",
+        "expected_output": 4,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "01111",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "101001100011011010011110111110011100010111011011010101111101101100101",
+        "expected_output": 26,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "110001001010",
+        "expected_output": 5,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0000001010010111000100",
+        "expected_output": 10,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "00100000101",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "00100111111100000010111011011101001000110110011011111010010000100000",
+        "expected_output": 31,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "1111000101000010011100111111011100000001010100111010000",
+        "expected_output": 19,
+        "predicted_output": 31,
+        "result": "different"
+    },
+    {
+        "input": "1101101010001010000010100001011010111011011",
+        "expected_output": 13,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "1101011111011101111010010011011000011010001111111000010111100000100",
+        "expected_output": 27,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "100",
+        "expected_output": 0,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "111011011001110110100100110000100101000111111101010101111101000111110001010110100110111101000100",
+        "expected_output": 37,
+        "predicted_output": 44,
+        "result": "different"
+    },
+    {
+        "input": "1111110010100000001101010100001010011100",
+        "expected_output": 20,
+        "predicted_output": 20,
+        "result": "same"
+    },
+    {
+        "input": "010101111",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1010010100001010010011000011110001111000110111111011000",
+        "expected_output": 24,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "001011111110101111001010010000100110010",
+        "expected_output": 13,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "00001111100011110100",
+        "expected_output": 10,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "100101101101111111101001100111011000011110000010111",
+        "expected_output": 22,
+        "predicted_output": 28,
+        "result": "different"
+    },
+    {
+        "input": "1111011010011010010000101001101101001011000010110111010001110110000",
+        "expected_output": 25,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "000111011001100101000111000011000101001110000100111010001110001101110",
+        "expected_output": 26,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "100100010010000000110000000011111011110101010111100",
+        "expected_output": 20,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "000111000110100000001110",
+        "expected_output": 11,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "01001110100010",
+        "expected_output": 5,
+        "predicted_output": 5,
+        "result": "same"
+    },
+    {
+        "input": "100101100111010101001010",
+        "expected_output": 10,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1111100000110101100000111000111011011001011000011000001111111101010",
+        "expected_output": 27,
+        "predicted_output": 39,
+        "result": "different"
+    },
+    {
+        "input": "011110001011010000100101100000001010010101010010",
+        "expected_output": 23,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "01001101100110101111011010100011110100",
+        "expected_output": 18,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "111",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "000",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "11110010011010100",
+        "expected_output": 5,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0011110000101011101111110111001001100011010110111110",
+        "expected_output": 23,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "0010110001011111010111000110010001110111000",
+        "expected_output": 12,
+        "predicted_output": 22,
+        "result": "different"
+    },
+    {
+        "input": "0110100100100011111",
+        "expected_output": 6,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "1001000001011001101000110110001110",
+        "expected_output": 16,
+        "predicted_output": 16,
+        "result": "same"
+    },
+    {
+        "input": "00001111010011111100010111101000100001111011100110010111100001",
+        "expected_output": 30,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "01100001111110111101100100101010101011000011011101110000001",
+        "expected_output": 23,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "000010011001101100001001000111",
+        "expected_output": 15,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "0111010011100100010110000000100000110001100001100111101101010100000010011000100001111001010110011011",
+        "expected_output": 45,
+        "predicted_output": 52,
+        "result": "different"
+    },
+    {
+        "input": "0110111100011011010010000001000110100000100100010010101110111011111110111111000010110110000001101",
+        "expected_output": 39,
+        "predicted_output": 51,
+        "result": "different"
+    },
+    {
+        "input": "11000110101100001001101111001001100000000100110110100011010000000011111010111100",
+        "expected_output": 36,
+        "predicted_output": 44,
+        "result": "different"
+    },
+    {
+        "input": "111111111010110110011101",
+        "expected_output": 12,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "01011010100011011100011011001011011000101111011100111001100101000",
+        "expected_output": 27,
+        "predicted_output": 28,
+        "result": "different"
+    },
+    {
+        "input": "001110011001010100111011011111011101100110101000",
+        "expected_output": 23,
+        "predicted_output": 21,
+        "result": "different"
+    },
+    {
+        "input": "1100011011110111101010",
+        "expected_output": 9,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "100001010000001001101010001001101110011101111111010010001100000011001100011010010100111",
+        "expected_output": 37,
+        "predicted_output": 44,
+        "result": "different"
+    },
+    {
+        "input": "10010000001110100011000111010101000000011000000010",
+        "expected_output": 24,
+        "predicted_output": 28,
+        "result": "different"
+    },
+    {
+        "input": "011110111101100101110010001100111111100011110",
+        "expected_output": 18,
+        "predicted_output": 26,
+        "result": "different"
+    },
+    {
+        "input": "000110100100101001010000000111011010110100011110101110100010010001101101",
+        "expected_output": 35,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "100010001100001000011101100011111100111001110000010110000100100001010010000010011110101",
+        "expected_output": 38,
+        "predicted_output": 48,
+        "result": "different"
+    },
+    {
+        "input": "011011101000110010101101111001100101000110011111001101001100000101011",
+        "expected_output": 23,
+        "predicted_output": 31,
+        "result": "different"
+    },
+    {
+        "input": "100010101000010111111011111101100101110001",
+        "expected_output": 21,
+        "predicted_output": 21,
+        "result": "same"
+    },
+    {
+        "input": "10100001111110110110000010111010010101000000010010110011110101111101111011110010111110100",
+        "expected_output": 37,
+        "predicted_output": 45,
+        "result": "different"
+    },
+    {
+        "input": "111001001010100",
+        "expected_output": 4,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0111001011011110110111011001001111101",
+        "expected_output": 14,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "01100011001000111001001001100",
+        "expected_output": 11,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "11100111101101111101110110110010000111001",
+        "expected_output": 17,
+        "predicted_output": 22,
+        "result": "different"
+    },
+    {
+        "input": "1011111010111010110011001000000",
+        "expected_output": 9,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "110111110001000010110011100100000110110110001",
+        "expected_output": 18,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "0000001010110110000111011010001111100000100011111111010110101010",
+        "expected_output": 26,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "000",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0101100000000000010000000101000101011110101110111011000100100011110110",
+        "expected_output": 32,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "111001111100111011010101001101000001000111",
+        "expected_output": 16,
+        "predicted_output": 21,
+        "result": "different"
+    },
+    {
+        "input": "1101111111001111110110010111111001000110110111101010100001110011100001011010111110",
+        "expected_output": 40,
+        "predicted_output": 44,
+        "result": "different"
+    },
+    {
+        "input": "11011101100111010111110100110111000100101000110100011111000100110001110",
+        "expected_output": 25,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "0101011100110",
+        "expected_output": 3,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0001011110001010001011000000101101110010010100000110011110001011101111000000101110001011000",
+        "expected_output": 36,
+        "predicted_output": 48,
+        "result": "different"
+    },
+    {
+        "input": "10010100101011000101011101000000010001100101101000011000101110100010",
+        "expected_output": 34,
+        "predicted_output": 28,
+        "result": "different"
+    },
+    {
+        "input": "01",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "1100011",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0011001111111011000000111000001001101101110110011111100010101010",
+        "expected_output": 26,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "11101101101000110110000010001011001011010111001011",
+        "expected_output": 21,
+        "predicted_output": 21,
+        "result": "same"
+    },
+    {
+        "input": "11110011100100000011010010001000110111101100010010110000001101000010100110110001011010011011010101",
+        "expected_output": 48,
+        "predicted_output": 45,
+        "result": "different"
+    },
+    {
+        "input": "01101101011111111000001010111111110111110",
+        "expected_output": 17,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "01001010111010010010111110101010000001111010101110001101",
+        "expected_output": 19,
+        "predicted_output": 22,
+        "result": "different"
+    },
+    {
+        "input": "00111100011000000001011010010000100000110100110111000111000101100011011010101111",
+        "expected_output": 38,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "0010",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "010000010000011111011111011111010111011111010101010110001111011111110010010101001",
+        "expected_output": 24,
+        "predicted_output": 41,
+        "result": "different"
+    },
+    {
+        "input": "0101110001111000111011110000101001100001101100010010000110110110110101010011110000010101111110010",
+        "expected_output": 40,
+        "predicted_output": 48,
+        "result": "different"
+    },
+    {
+        "input": "100011000",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "01000000111000011000",
+        "expected_output": 10,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "01101001010100100000111111110111001011101001010100000111001111011111011",
+        "expected_output": 29,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "11100001010111010100000001011110111000010000101000000111100100000001000011001011001000110100011111",
+        "expected_output": 44,
+        "predicted_output": 55,
+        "result": "different"
+    },
+    {
+        "input": "0010011000010001011100011101010010001111010011111",
+        "expected_output": 18,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "10101101011110110",
+        "expected_output": 4,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0110101010101011001000011001110100001000111100100111100",
+        "expected_output": 20,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "1111011001011111000011100011111001110111001010011000000111110000110101110110001011100110100111111111",
+        "expected_output": 49,
+        "predicted_output": 59,
+        "result": "different"
+    },
+    {
+        "input": "001111000001001001101100101000110001111110000111",
+        "expected_output": 23,
+        "predicted_output": 28,
+        "result": "different"
+    },
+    {
+        "input": "0000101000010010100100011100000000011000100",
+        "expected_output": 17,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "100011111110001100001110011100001000001110001101101000100110110010101000111000111110010011",
+        "expected_output": 35,
+        "predicted_output": 51,
+        "result": "different"
+    },
+    {
+        "input": "001111110010010001000011110001001100111100100100010010111001001",
+        "expected_output": 26,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "00101101001001101110111111101001101100101011000111001011101010110100011111011101000010110111",
+        "expected_output": 41,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "011",
+        "expected_output": 0,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "1001110011100011011001000010001110001000000010001111011110110100110010000010110110010110",
+        "expected_output": 40,
+        "predicted_output": 46,
+        "result": "different"
+    },
+    {
+        "input": "110101010111001110100",
+        "expected_output": 4,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "10010010011011011000110010000011001101100010011110010",
+        "expected_output": 22,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "1100110001100101111001100101110001110",
+        "expected_output": 13,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "001000110111011001011010100000",
+        "expected_output": 14,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "10110",
+        "expected_output": 0,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "111111110010001001110011001010010010100001111111",
+        "expected_output": 21,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "1110000011110000001010001001110010010001111010100110011011111010100011",
+        "expected_output": 27,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "000000001011011001000000110000000110011010111001111010110110101111111110111110100010101010011000011",
+        "expected_output": 37,
+        "predicted_output": 53,
+        "result": "different"
+    },
+    {
+        "input": "1011",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1010010111111000011000",
+        "expected_output": 10,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "000000",
+        "expected_output": 3,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1101010110",
+        "expected_output": 3,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "11000100110011110010001110000001011110001001111000111111100010010",
+        "expected_output": 28,
+        "predicted_output": 39,
+        "result": "different"
+    },
+    {
+        "input": "100000100000010011010111111011110101111110101000110100110100111101010",
+        "expected_output": 27,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "101001111",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "10000110000111111011000011001101010010101011100001110",
+        "expected_output": 22,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "110010001011100",
+        "expected_output": 4,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0000001011101110101001101101010000011001010010000000011111001001000001000010111101100",
+        "expected_output": 32,
+        "predicted_output": 44,
+        "result": "different"
+    },
+    {
+        "input": "101000111010100001000110111100001101001010101001011110001",
+        "expected_output": 21,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "1101010011101",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "00010000001100001100101000110110100100",
+        "expected_output": 18,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "00111010011010",
+        "expected_output": 4,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "110100111111110101100010100010001001011101110101001111001010000",
+        "expected_output": 26,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "00101100110011010",
+        "expected_output": 5,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1111101010001111101010111001010010101",
+        "expected_output": 11,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "101",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "1110",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "110101101011111110100101100010000001000000111001110101011101010001111100100010000010",
+        "expected_output": 40,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "10010010",
+        "expected_output": 3,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "111",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0111001110011100111111010011011101100010100111110000100110100",
+        "expected_output": 23,
+        "predicted_output": 32,
+        "result": "different"
+    },
+    {
+        "input": "0111110110010000011101",
+        "expected_output": 7,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "0110011111000000011101100001100101",
+        "expected_output": 13,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "0011010100011010111111100000000010101100000101011001011",
+        "expected_output": 21,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "11010001001001001110111100001011110010010011110111010111",
+        "expected_output": 25,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "100000100101111000100111110011100010011100111101100110011100010111110101001110100101110100",
+        "expected_output": 41,
+        "predicted_output": 46,
+        "result": "different"
+    },
+    {
+        "input": "001101111011011011000011010100001101",
+        "expected_output": 15,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "100100100100010011101110010000010101010001100010100010110001010011001100111",
+        "expected_output": 30,
+        "predicted_output": 32,
+        "result": "different"
+    },
+    {
+        "input": "11010000010000010010101010010",
+        "expected_output": 8,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "011101001111111100101",
+        "expected_output": 6,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "010011111001010001101110100000000",
+        "expected_output": 11,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "010001010111010001101000110100",
+        "expected_output": 10,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "000111110111010100010000001101010011000100010100101000001110101000101010101000010110000011111011100",
+        "expected_output": 28,
+        "predicted_output": 46,
+        "result": "different"
+    },
+    {
+        "input": "111010001111000100011011001101000010010010110100100000101111",
+        "expected_output": 28,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "001001011010111110110011010100110011011111110000100001111101111100110011111101000100100100111101",
+        "expected_output": 43,
+        "predicted_output": 50,
+        "result": "different"
+    },
+    {
+        "input": "10000100111",
+        "expected_output": 4,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1011111101111100110100101100111111001101000111011100101011001011101110100001111101110101010110011111",
+        "expected_output": 47,
+        "predicted_output": 49,
+        "result": "different"
+    },
+    {
+        "input": "111101110000110001000110100",
+        "expected_output": 9,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "0110011111101101000010",
+        "expected_output": 11,
+        "predicted_output": 11,
+        "result": "same"
+    },
+    {
+        "input": "1101011",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0011001001010010101001110",
+        "expected_output": 9,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1000000110010100",
+        "expected_output": 7,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "001000",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1111000110011011000001001001111000010011110100101100000111010",
+        "expected_output": 26,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "101111110010111011111011100111101010001111000110001100101011111001011011101101110",
+        "expected_output": 28,
+        "predicted_output": 41,
+        "result": "different"
+    },
+    {
+        "input": "111000101",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1000010111100000100110111010001101111100010100110000100001",
+        "expected_output": 29,
+        "predicted_output": 31,
+        "result": "different"
+    },
+    {
+        "input": "0101000111101000010000100001001110100010011000000101100110111101111101010001101110010110011001",
+        "expected_output": 43,
+        "predicted_output": 46,
+        "result": "different"
+    },
+    {
+        "input": "111",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0010111000100111000100010010001110000",
+        "expected_output": 14,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "0110101100101000111100010010111010011000001100110011100100100011000001100101010101",
+        "expected_output": 40,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "0010010101",
+        "expected_output": 3,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "110111000010010010001000011000011100000111101110101011000100110011000010111111010011011110110000100",
+        "expected_output": 44,
+        "predicted_output": 53,
+        "result": "different"
+    },
+    {
+        "input": "010011011100000000011100010000",
+        "expected_output": 11,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "00101",
+        "expected_output": 0,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "011110010110000010010101000110111001010011100110110110011",
+        "expected_output": 23,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "0111000100011010111010001010110011001101111110010111011011001101011110001",
+        "expected_output": 30,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "001010100101011101011101",
+        "expected_output": 9,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "001001011110111111011111000011011001011100111110110101001",
+        "expected_output": 23,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "01001110011101110111010110011001001",
+        "expected_output": 11,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "11101111",
+        "expected_output": 3,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "110000010111000011000101000011010101110",
+        "expected_output": 11,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "0101001101100100010100001101101111101110110101010100001",
+        "expected_output": 19,
+        "predicted_output": 21,
+        "result": "different"
+    },
+    {
+        "input": "100111010100101001101101111011000010111010110000011001100111001010110",
+        "expected_output": 26,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "110000001001110001101010110110001010100000101111100001100101110101010111011110001011011110",
+        "expected_output": 43,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "11001111",
+        "expected_output": 4,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "111010101110100010110011100110000110101101111110110000100010001000101",
+        "expected_output": 22,
+        "predicted_output": 32,
+        "result": "different"
+    },
+    {
+        "input": "000010010110011001101011110001101111111011010111011110000111001001010011101011101110011111110",
+        "expected_output": 41,
+        "predicted_output": 48,
+        "result": "different"
+    },
+    {
+        "input": "10110111101001011100000111011000101010010010101001011000010001111101000100101100111101",
+        "expected_output": 42,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "10100110011001001111111010",
+        "expected_output": 10,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "11111110101101100110100011110001111010110100111110000110011001011010110100100110011011101000011",
+        "expected_output": 41,
+        "predicted_output": 46,
+        "result": "different"
+    },
+    {
+        "input": "00110111101001010000100111101100110110010000100001100111111111110001111011001110000101",
+        "expected_output": 41,
+        "predicted_output": 48,
+        "result": "different"
+    },
+    {
+        "input": "00111011010011000110101110100100110000111110001101",
+        "expected_output": 23,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "0010001100000010001000011101001110010100010011001001000011000101001101000001111111000010000101",
+        "expected_output": 41,
+        "predicted_output": 50,
+        "result": "different"
+    },
+    {
+        "input": "110001101011111110011001001010110010010111010101011110011000110100110011001011100010110000001",
+        "expected_output": 40,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "101001011",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "01011",
+        "expected_output": 0,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "00010101",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0001100110101011000000",
+        "expected_output": 9,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "1111110",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "01101",
+        "expected_output": 0,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "1000101100010",
+        "expected_output": 2,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "1110010111011",
+        "expected_output": 3,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "011001110110001111111010101001100111111101011101101101011010010100001111011111101110",
+        "expected_output": 41,
+        "predicted_output": 41,
+        "result": "same"
+    },
+    {
+        "input": "10011000011110110100110010011001011101101111010011000000001101001111011001011001001100100100000010",
+        "expected_output": 45,
+        "predicted_output": 48,
+        "result": "different"
+    },
+    {
+        "input": "00000111010010101101",
+        "expected_output": 9,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1010100",
+        "expected_output": 0,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "1001000000010111001",
+        "expected_output": 6,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "0000100010001011110000100101011011111010101100111001001111011110011000001111110011100100010",
+        "expected_output": 37,
+        "predicted_output": 48,
+        "result": "different"
+    },
+    {
+        "input": "10001100001010000011100",
+        "expected_output": 7,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "001110100010101101111100111001101101110100010011101101101011110111001000010",
+        "expected_output": 30,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "10000110",
+        "expected_output": 3,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0001111101000010000110110010",
+        "expected_output": 14,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "0011100001010111010",
+        "expected_output": 4,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1101001000111101100100101010011001101111111000101000110001110100011100101011101001010011010110011",
+        "expected_output": 39,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "1000111111110110000001000110110011111000000100100000101100110100111000110010010111010001000001010011",
+        "expected_output": 47,
+        "predicted_output": 55,
+        "result": "different"
+    },
+    {
+        "input": "101010101100010011010000100010000001100100011000111001010010011000111001101000101111110001110",
+        "expected_output": 38,
+        "predicted_output": 45,
+        "result": "different"
+    },
+    {
+        "input": "10101",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "00101111111010010000100110000111111100111010001110",
+        "expected_output": 20,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "1010110111",
+        "expected_output": 4,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "000110110111101001000101011001011001010101101001111011110100010101110",
+        "expected_output": 23,
+        "predicted_output": 26,
+        "result": "different"
+    },
+    {
+        "input": "110000001000000111011001010100000101100000111111010010001",
+        "expected_output": 21,
+        "predicted_output": 32,
+        "result": "different"
+    },
+    {
+        "input": "11",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "0111110010100000110011111111110111101111111000",
+        "expected_output": 21,
+        "predicted_output": 31,
+        "result": "different"
+    },
+    {
+        "input": "1000001001000101100011010001011101101110110000110001010111100001001000011011100100010011",
+        "expected_output": 39,
+        "predicted_output": 43,
+        "result": "different"
+    },
+    {
+        "input": "110001001010000111001001000",
+        "expected_output": 11,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "11100100011001011111100000011010111101100100",
+        "expected_output": 21,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "10010101101110100100000",
+        "expected_output": 8,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "010010110001010111011100111001100101001010100111100010010000110000",
+        "expected_output": 31,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "01001",
+        "expected_output": 0,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "1001110000111000101011111000101010100100011000010101110",
+        "expected_output": 15,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "0110110010010101000100011110011011001110011001101001001011",
+        "expected_output": 28,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "10100100010000010100101001111110101111110",
+        "expected_output": 15,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "011000000010011000101000001000",
+        "expected_output": 11,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "00011011110000010001000011011110010",
+        "expected_output": 13,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "1000010000001011010001011001110000001100110011110110000010001111000010011000000000101010010",
+        "expected_output": 38,
+        "predicted_output": 51,
+        "result": "different"
+    },
+    {
+        "input": "100010111011001100000111111101011001011010",
+        "expected_output": 20,
+        "predicted_output": 20,
+        "result": "same"
+    },
+    {
+        "input": "101110001001010000110000100110110001110111111100001111110111001010011110011010101001010100010101001",
+        "expected_output": 40,
+        "predicted_output": 46,
+        "result": "different"
+    },
+    {
+        "input": "11000011011000000000000100001100101010001111001000101010000000010011110110",
+        "expected_output": 32,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "101111111110101100010001101101110010010011001101010110011101011101011001",
+        "expected_output": 30,
+        "predicted_output": 31,
+        "result": "different"
+    },
+    {
+        "input": "010000001110010011101001100100011001000101100001001010111101110111100101100111001100",
+        "expected_output": 38,
+        "predicted_output": 41,
+        "result": "different"
+    },
+    {
+        "input": "01000001000111111000001001001011110",
+        "expected_output": 13,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "111110011100011000000001000010101000011001111111101001010011101110101001",
+        "expected_output": 32,
+        "predicted_output": 39,
+        "result": "different"
+    },
+    {
+        "input": "1111010000111111101000101100100011100011101",
+        "expected_output": 13,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "111110000110110101100101000101101010011101101100001001000",
+        "expected_output": 23,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "111111000",
+        "expected_output": 3,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "11000011000110011",
+        "expected_output": 7,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "111100101001000000110100111111000101001110",
+        "expected_output": 20,
+        "predicted_output": 22,
+        "result": "different"
+    },
+    {
+        "input": "10111101101000100100111000000011011110100000110111001000",
+        "expected_output": 24,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "1000011001100001",
+        "expected_output": 8,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "010010100111001000111001011101100100010100010011",
+        "expected_output": 20,
+        "predicted_output": 20,
+        "result": "same"
+    },
+    {
+        "input": "00111100111110110111111101010101001001010001001001001101100011010011111",
+        "expected_output": 26,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "011000000101100111001011010111100001001001110100101011000110111101",
+        "expected_output": 30,
+        "predicted_output": 30,
+        "result": "same"
+    },
+    {
+        "input": "1110010110110111001110111111010001110000110100",
+        "expected_output": 20,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "110001100001111111011111001100011000",
+        "expected_output": 16,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "01100000",
+        "expected_output": 4,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "101011010000111010111111000110011011001110",
+        "expected_output": 17,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "10110011001110",
+        "expected_output": 5,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "11011011000000111000111101",
+        "expected_output": 13,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "1111000010001110001110101",
+        "expected_output": 7,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "010001011000101011001110100101100110100100011010",
+        "expected_output": 22,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "0110110110001111110100011001110110110011101011010011110001110001110011111001011000111",
+        "expected_output": 37,
+        "predicted_output": 45,
+        "result": "different"
+    },
+    {
+        "input": "1000000100001011000010111000001110111000100100000001011100",
+        "expected_output": 26,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "100110010111100101111000110100001101110000100010010010011000000111111100010010001101",
+        "expected_output": 39,
+        "predicted_output": 45,
+        "result": "different"
+    },
+    {
+        "input": "111000011000000101100010",
+        "expected_output": 11,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "110001101011111000011101011111000001010001110",
+        "expected_output": 14,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "01110",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "11011000101100101111101110111000001011010010010110011100110110111111111110000111010001",
+        "expected_output": 41,
+        "predicted_output": 45,
+        "result": "different"
+    },
+    {
+        "input": "001101101100101000110001111010100100",
+        "expected_output": 15,
+        "predicted_output": 15,
+        "result": "same"
+    },
+    {
+        "input": "1100010010000001100001011011101010101000100101010001010000001111110100",
+        "expected_output": 34,
+        "predicted_output": 32,
+        "result": "different"
+    },
+    {
+        "input": "11110110100001101010100010011100110000111111101001000100001111011001111100000010011010101000101001",
+        "expected_output": 41,
+        "predicted_output": 49,
+        "result": "different"
+    },
+    {
+        "input": "001001000100110",
+        "expected_output": 4,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "11001111100010100",
+        "expected_output": 5,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "011000000101111000001100011101010011110001010011110010100",
+        "expected_output": 20,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "010101001110000100101100111101100101001011101101100110",
+        "expected_output": 25,
+        "predicted_output": 21,
+        "result": "different"
+    },
+    {
+        "input": "101101000111101100010101000",
+        "expected_output": 7,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "10101011001000111000100101101100001110000011101100110000011100110101001000",
+        "expected_output": 32,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "000000100011011011100011011000111011110010110100011000111011011000111101000111001110111011",
+        "expected_output": 41,
+        "predicted_output": 48,
+        "result": "different"
+    },
+    {
+        "input": "1001011011111010101100111110001100110110111000111000000110101",
+        "expected_output": 21,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "0110011010000011100111000110100000000110101110001011001101011010101111000010101011001101110000101001",
+        "expected_output": 41,
+        "predicted_output": 46,
+        "result": "different"
+    },
+    {
+        "input": "11100101101110101011",
+        "expected_output": 7,
+        "predicted_output": 7,
+        "result": "same"
+    },
+    {
+        "input": "1111",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "110101010110100110000111100111110001000010111100001111101001011001011",
+        "expected_output": 29,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "11101010110111011101100001101001001011101010010011111",
+        "expected_output": 21,
+        "predicted_output": 22,
+        "result": "different"
+    },
+    {
+        "input": "1100101110110000000000010001001001011011000010100000001101110010",
+        "expected_output": 30,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "00101",
+        "expected_output": 0,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "00100101110111000011011000101001010010110000110101111100101010111110000011101100100011001011100",
+        "expected_output": 36,
+        "predicted_output": 44,
+        "result": "different"
+    },
+    {
+        "input": "1111010001111011000011010101110101111100001010001100101",
+        "expected_output": 17,
+        "predicted_output": 26,
+        "result": "different"
+    },
+    {
+        "input": "1001001011001011110100001110001011100111001101101010110100101101101000111000",
+        "expected_output": 31,
+        "predicted_output": 32,
+        "result": "different"
+    },
+    {
+        "input": "101110101000101011011111111110101110111111001100110010010010101101011100110001101001111001101011",
+        "expected_output": 38,
+        "predicted_output": 43,
+        "result": "different"
+    },
+    {
+        "input": "011000011010101010",
+        "expected_output": 5,
+        "predicted_output": 5,
+        "result": "same"
+    },
+    {
+        "input": "1000000100101011101100111000100010111101111110101101010010100010101110100111100111100111",
+        "expected_output": 34,
+        "predicted_output": 41,
+        "result": "different"
+    },
+    {
+        "input": "11000101010101101010100110000111010100110111010100011110110010010100000110011100111101010011",
+        "expected_output": 35,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "11000000000011011100011101001100101000110",
+        "expected_output": 15,
+        "predicted_output": 23,
+        "result": "different"
+    },
+    {
+        "input": "0111100100010000101001000001111100010101011001110000001100101111000110000100011111",
+        "expected_output": 34,
+        "predicted_output": 46,
+        "result": "different"
+    },
+    {
+        "input": "0010001000010111000000011000110110111",
+        "expected_output": 15,
+        "predicted_output": 21,
+        "result": "different"
+    },
+    {
+        "input": "01111011000010000110100",
+        "expected_output": 8,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "001011110110010110111110100011111111100110000011010100001011101011011110000",
+        "expected_output": 32,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "00101011011100010",
+        "expected_output": 3,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "11001110110100010000000101101101011011010101100111",
+        "expected_output": 19,
+        "predicted_output": 21,
+        "result": "different"
+    },
+    {
+        "input": "0111000110110011101010011100101010101110000001111001011010010100100011100011010110010100001",
+        "expected_output": 36,
+        "predicted_output": 39,
+        "result": "different"
+    },
+    {
+        "input": "01000110010100111001001110000011110000110111111100101001110001",
+        "expected_output": 28,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "111010010110010011001101110101010000101110011000000111001010001111111",
+        "expected_output": 26,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "01111101100011010001011111011101011101010011010110101110110101011010001011000101001001011000",
+        "expected_output": 36,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "000111000011111111000001",
+        "expected_output": 10,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "0011010010010101101001000000001100100100100110000011100",
+        "expected_output": 22,
+        "predicted_output": 26,
+        "result": "different"
+    },
+    {
+        "input": "1110001100111110000000001101001000010011101000001000100111",
+        "expected_output": 25,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "0",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "1000000011001111010010111010001111010011010000101011",
+        "expected_output": 23,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "01101000111000111101111101101101100111000",
+        "expected_output": 15,
+        "predicted_output": 22,
+        "result": "different"
+    },
+    {
+        "input": "1011010001101100011000000000001111",
+        "expected_output": 17,
+        "predicted_output": 21,
+        "result": "different"
+    },
+    {
+        "input": "10111111000001101111",
+        "expected_output": 9,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "11111001111101011010001111001011011011010111001010001101010010110101010010",
+        "expected_output": 35,
+        "predicted_output": 28,
+        "result": "different"
+    },
+    {
+        "input": "0011111101001111010110110000100010001100001111110001101100010111",
+        "expected_output": 30,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "0000010010010001101011100101111001100010111101011111001100100001100001100010000",
+        "expected_output": 35,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "11010110110110010000000101110110010011000010100110110011111010001100010100000101001000101010000100",
+        "expected_output": 47,
+        "predicted_output": 44,
+        "result": "different"
+    },
+    {
+        "input": "00000",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "110101000110110110110101010010110001101100110000011001011111010000111110011101000010111",
+        "expected_output": 33,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "101001111000111000000110000100001010001010",
+        "expected_output": 15,
+        "predicted_output": 22,
+        "result": "different"
+    },
+    {
+        "input": "111100001000",
+        "expected_output": 5,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "11110001001101101000011100010000111110111111",
+        "expected_output": 21,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "000010010010010000100111001011011010011010101000",
+        "expected_output": 19,
+        "predicted_output": 19,
+        "result": "same"
+    },
+    {
+        "input": "0000010001101010011101",
+        "expected_output": 10,
+        "predicted_output": 10,
+        "result": "same"
+    },
+    {
+        "input": "0110111001",
+        "expected_output": 5,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0010100110011101001011111111011011111011011101000100110",
+        "expected_output": 21,
+        "predicted_output": 26,
+        "result": "different"
+    },
+    {
+        "input": "01111000011101001000101001101000100101110101001011000100111001111010100101000111000",
+        "expected_output": 34,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "1001001000010101101110111100000011001110011010011011010011110100010111011100111010000",
+        "expected_output": 36,
+        "predicted_output": 41,
+        "result": "different"
+    },
+    {
+        "input": "00001000001101011001111000101101000111111011111011011001100100111100011110111100010000110",
+        "expected_output": 40,
+        "predicted_output": 50,
+        "result": "different"
+    },
+    {
+        "input": "0010010101110000110101101111010110",
+        "expected_output": 13,
+        "predicted_output": 13,
+        "result": "same"
+    },
+    {
+        "input": "001010100",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "101110101011100011111000111",
+        "expected_output": 7,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "1100001010010110110100101101101001111001111",
+        "expected_output": 19,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "11101010000101110011111101111000001101101001010000000111101101",
+        "expected_output": 30,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "0011001010000000011110110001101000100",
+        "expected_output": 14,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "101110",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "1000110101110011111111101111010010100110010010010111001110101011110100001110100",
+        "expected_output": 34,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "011011000111000111010100",
+        "expected_output": 8,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "10001010011101100111100111000011110010010001111101000011100111100",
+        "expected_output": 26,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "001101000000001010000000100011011100011",
+        "expected_output": 15,
+        "predicted_output": 23,
+        "result": "different"
+    },
+    {
+        "input": "111011010110100",
+        "expected_output": 5,
+        "predicted_output": 5,
+        "result": "same"
+    },
+    {
+        "input": "10010000110001100111111110011010000100000010101111001110001110111011110111",
+        "expected_output": 33,
+        "predicted_output": 43,
+        "result": "different"
+    },
+    {
+        "input": "100000010100011110000001010",
+        "expected_output": 8,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "1010010000101010010100110000100010110011101111101100001110101001011001",
+        "expected_output": 28,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "011000000100111011001001100101111100000",
+        "expected_output": 16,
+        "predicted_output": 22,
+        "result": "different"
+    },
+    {
+        "input": "111000110011100000100100011101001010101001011000110011001100100000011011011111011101111100",
+        "expected_output": 44,
+        "predicted_output": 46,
+        "result": "different"
+    },
+    {
+        "input": "1111100001",
+        "expected_output": 5,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "001101100111110010010110101010001001110111101101100010110101110",
+        "expected_output": 25,
+        "predicted_output": 26,
+        "result": "different"
+    },
+    {
+        "input": "0101110010011000100010101001110110001",
+        "expected_output": 11,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "00000010101110111010011000110111010001001000010111000110110011",
+        "expected_output": 30,
+        "predicted_output": 30,
+        "result": "same"
+    },
+    {
+        "input": "1010010001111000100110110001010100100100100101010001110001000111110000001001110",
+        "expected_output": 28,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "0101011110110001101111010100011011111011000100010",
+        "expected_output": 19,
+        "predicted_output": 22,
+        "result": "different"
+    },
+    {
+        "input": "01010111010111001101010101001011001110000100100100001101101111000000101",
+        "expected_output": 23,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "1010011010111101011010011000001100000000011110101100011110100100101110100",
+        "expected_output": 29,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "1110100011011010110101101111101000000110011110111011001001000110000000",
+        "expected_output": 30,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "10101011010110001001000110100011001011001010010110100101101101010001100000011011110001",
+        "expected_output": 41,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "001100011100001001000010100101010110111011100110010101111100100010111",
+        "expected_output": 28,
+        "predicted_output": 31,
+        "result": "different"
+    },
+    {
+        "input": "10001100010111111111100111110011010100100101011000111010101101100110001001100100110001",
+        "expected_output": 41,
+        "predicted_output": 41,
+        "result": "same"
+    },
+    {
+        "input": "11001101101110000011001100001000",
+        "expected_output": 14,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "00000",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "10010110110111001001101110001110100001001001100011110011010111011000001",
+        "expected_output": 30,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "00011101000101101110100110011111101011100",
+        "expected_output": 12,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "0101001001010100000110010010010000001110110011101111000001001011011011000111111110111100111000",
+        "expected_output": 45,
+        "predicted_output": 49,
+        "result": "different"
+    },
+    {
+        "input": "00001111110000110000001110001000110010000100010011101011110100111101011011111100001100011101001",
+        "expected_output": 40,
+        "predicted_output": 55,
+        "result": "different"
+    },
+    {
+        "input": "1011010111101110110011010101101001101010",
+        "expected_output": 18,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "1011011001000",
+        "expected_output": 3,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "0101101100111111001111111101010011111111101",
+        "expected_output": 16,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "00011010001111000000110",
+        "expected_output": 9,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "00110111111000101011110001100101010011000100111100100011010",
+        "expected_output": 22,
+        "predicted_output": 28,
+        "result": "different"
+    },
+    {
+        "input": "0101101101100110000110000101100010",
+        "expected_output": 16,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "00100011101111011001110101010000100010000000000110",
+        "expected_output": 25,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "0110101101001000011001111000110001001110101001101111000001101110011",
+        "expected_output": 28,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "01001100000010110011101100011000110101111011100100011111000101011000001",
+        "expected_output": 30,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "111011010101011110001111000010110110001100100001010000001001001110010110101001110110",
+        "expected_output": 41,
+        "predicted_output": 38,
+        "result": "different"
+    },
+    {
+        "input": "110001101010110001101",
+        "expected_output": 6,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "011011101100100000",
+        "expected_output": 7,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "0101000001001101101001100110111001010001101011100011",
+        "expected_output": 25,
+        "predicted_output": 22,
+        "result": "different"
+    },
+    {
+        "input": "1011111100011111110111100100011110110110111000110011",
+        "expected_output": 26,
+        "predicted_output": 31,
+        "result": "different"
+    },
+    {
+        "input": "110001001011110110101011010000101000000100000011110110001011101100011100001",
+        "expected_output": 31,
+        "predicted_output": 38,
+        "result": "different"
+    },
+    {
+        "input": "00001100110001100001100110010101010001011100111100111001100011111110011011010",
+        "expected_output": 31,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "10010101000110010000110100000001010011111101011001001000100110100",
+        "expected_output": 21,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "11001000110011000101111110111110111111010010000110110001100111101111001100111010110001010101",
+        "expected_output": 45,
+        "predicted_output": 47,
+        "result": "different"
+    },
+    {
+        "input": "110001111000110000101000010001001110010100010110011",
+        "expected_output": 19,
+        "predicted_output": 26,
+        "result": "different"
+    },
+    {
+        "input": "111101010011101100000100000101000010010110010101",
+        "expected_output": 17,
+        "predicted_output": 21,
+        "result": "different"
+    },
+    {
+        "input": "10000",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "010011111110111100101010010000010111111011101100011110011001",
+        "expected_output": 29,
+        "predicted_output": 32,
+        "result": "different"
+    },
+    {
+        "input": "110011111101000111110100111101110001001001011100101101111110011100100100100",
+        "expected_output": 30,
+        "predicted_output": 39,
+        "result": "different"
+    },
+    {
+        "input": "0011110101111111001100011",
+        "expected_output": 9,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "111101101111001110011010",
+        "expected_output": 10,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "11100011100001000011010110",
+        "expected_output": 13,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "010100011010010011101010101110010111000001111000011",
+        "expected_output": 19,
+        "predicted_output": 23,
+        "result": "different"
+    },
+    {
+        "input": "000111000010001111010100001000111111110001010001001111011011100",
+        "expected_output": 25,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "11001000110101111000110011",
+        "expected_output": 13,
+        "predicted_output": 13,
+        "result": "same"
+    },
+    {
+        "input": "001001100101000101000011100010010011101010101110101000101011000011011011101101100011101001001001",
+        "expected_output": 39,
+        "predicted_output": 38,
+        "result": "different"
+    },
+    {
+        "input": "1001110111010001110010101001101110010101100000001001011011011110000100100011111000010000",
+        "expected_output": 43,
+        "predicted_output": 44,
+        "result": "different"
+    },
+    {
+        "input": "101011110100110110000110110000011100100100011110110110001001111001111",
+        "expected_output": 30,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "010001101001011100111001011",
+        "expected_output": 10,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "01010100110010",
+        "expected_output": 5,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "00001110011110110000111100111011001010000111111010011011011101001111",
+        "expected_output": 31,
+        "predicted_output": 38,
+        "result": "different"
+    },
+    {
+        "input": "110110001100100110000",
+        "expected_output": 8,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "10000101110010000111111100000111111100110101010",
+        "expected_output": 16,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "1110010110001000001010001011000100",
+        "expected_output": 14,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "100000111110001010100111011110011110100101111110110",
+        "expected_output": 19,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "001001001110111001110110100011001111",
+        "expected_output": 16,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "10110011000111100000001111101110111101010100111101011",
+        "expected_output": 18,
+        "predicted_output": 28,
+        "result": "different"
+    },
+    {
+        "input": "01001000010011001010001011011101000101101010100110101110",
+        "expected_output": 24,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "11110011011010100100101100000011111110110010111010111010100110100110101001010111111110000001",
+        "expected_output": 37,
+        "predicted_output": 43,
+        "result": "different"
+    },
+    {
+        "input": "10010101110101110110110000000001110101000011011100100100011111101100",
+        "expected_output": 26,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "0001011000100100001000010001001100000001100101011001101110111101010010010000",
+        "expected_output": 33,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "101000110011011100000010001001101100110001000111010011010110000011110000101000010000011100000",
+        "expected_output": 38,
+        "predicted_output": 51,
+        "result": "different"
+    },
+    {
+        "input": "0001110",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "00111000111000110",
+        "expected_output": 5,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "11011111111011001",
+        "expected_output": 6,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "011010001011111101101111001111011111101111111010",
+        "expected_output": 20,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "1101110011101101101000001100101111001111000110010001001111111100100100100001010110100100",
+        "expected_output": 43,
+        "predicted_output": 44,
+        "result": "different"
+    },
+    {
+        "input": "1111001011000001111011001111101100000110011",
+        "expected_output": 18,
+        "predicted_output": 26,
+        "result": "different"
+    },
+    {
+        "input": "1001001000010000100000100011110110011110010",
+        "expected_output": 17,
+        "predicted_output": 23,
+        "result": "different"
+    },
+    {
+        "input": "11000011011101100011100011001111110011111110101111100001110010111001110011110",
+        "expected_output": 32,
+        "predicted_output": 47,
+        "result": "different"
+    },
+    {
+        "input": "1001001000011011010100111100101011111000010001011000001101101111101010111000100",
+        "expected_output": 32,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "01101110111100001110001101110100",
+        "expected_output": 16,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "001010111111110100001000101000101010",
+        "expected_output": 11,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "1011000",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "0000001010101110010000100000001101001001111011101111100011011101111110",
+        "expected_output": 30,
+        "predicted_output": 39,
+        "result": "different"
+    },
+    {
+        "input": "0111011111101100100100010011101101010011100011111110011000010010101001010011111000110101000",
+        "expected_output": 41,
+        "predicted_output": 44,
+        "result": "different"
+    },
+    {
+        "input": "01010111000011101010000111111000010001",
+        "expected_output": 17,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "01100001011111010001001000110",
+        "expected_output": 9,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "000000101000101011000001101100000",
+        "expected_output": 11,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "1010010001111011000100110001101111010101001011010100100101010110100010101110",
+        "expected_output": 36,
+        "predicted_output": 26,
+        "result": "different"
+    },
+    {
+        "input": "11010111011011000011010110101010011000001101000111000100100011",
+        "expected_output": 29,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "110001000010101101111110011001001010100100100100011011110101011101000011011111001",
+        "expected_output": 32,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "10000110111101010011111011110",
+        "expected_output": 11,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "11010101101010111101001100000001100000101100000",
+        "expected_output": 18,
+        "predicted_output": 23,
+        "result": "different"
+    },
+    {
+        "input": "111100000001110000011111001110100010001",
+        "expected_output": 13,
+        "predicted_output": 26,
+        "result": "different"
+    },
+    {
+        "input": "1011010111100000110111000000100000",
+        "expected_output": 17,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "101101110010011100110110111111111011001101101110101011010111010010111100000111011010001001001",
+        "expected_output": 40,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "01111001010000001011101000001101101110000011100010101",
+        "expected_output": 16,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "11010101100110010111110011000101100111001011100011111101110100101101100",
+        "expected_output": 28,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "100110001000",
+        "expected_output": 4,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1110000001111110100010001000011111100001001000110010100",
+        "expected_output": 21,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "0100111001010101101001100011101001001100",
+        "expected_output": 19,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "0000010111101110001011010001100110001001011110110001010100101000001111010100000111",
+        "expected_output": 37,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "110010010000011011111010000010110110000111111110111101001001011011111011010",
+        "expected_output": 32,
+        "predicted_output": 39,
+        "result": "different"
+    },
+    {
+        "input": "1111110100001010100010101101001001000001110000000",
+        "expected_output": 17,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "01111101001001101011110111111000110101100100010101110011110001",
+        "expected_output": 25,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "0110101001001111110000111001000101001111001110000011",
+        "expected_output": 26,
+        "predicted_output": 28,
+        "result": "different"
+    },
+    {
+        "input": "010111",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "100101011100100001101011011001011010001101110101",
+        "expected_output": 21,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "1111011100111111111100001111111100001111001000011011",
+        "expected_output": 26,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "1111111011001011011000100010101100001111",
+        "expected_output": 15,
+        "predicted_output": 21,
+        "result": "different"
+    },
+    {
+        "input": "1011101100111",
+        "expected_output": 4,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "101000111000111001111001011001100001000000110000011000010101011011001011111011101101000010",
+        "expected_output": 43,
+        "predicted_output": 46,
+        "result": "different"
+    },
+    {
+        "input": "010110100001111110001001101000000110111000101000001000000100",
+        "expected_output": 25,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "00010101000000111110101001110010110010111101010101100000110001",
+        "expected_output": 28,
+        "predicted_output": 28,
+        "result": "same"
+    },
+    {
+        "input": "001001010010011111111101100001111100110101100110101011001110110001010010011110110",
+        "expected_output": 34,
+        "predicted_output": 38,
+        "result": "different"
+    },
+    {
+        "input": "10110110101101010100101111011000",
+        "expected_output": 16,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "10011010011011100101001000001011010000011000011110100010001101100100000",
+        "expected_output": 29,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "01011101000010000111011001001100110110100101111111100101010100100010000101110100110011100",
+        "expected_output": 34,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "111001001001001101110000110110110010111000100111101",
+        "expected_output": 19,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "0100100101000100101001111000111001111101110000001010001010001110111",
+        "expected_output": 23,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "1101001010010111111000001000111011011001001000100110111100100100010010001100",
+        "expected_output": 35,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "10111000010011000010100010111110101000011",
+        "expected_output": 13,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "01101001111100100110100010000011101000110010000111110010111000001",
+        "expected_output": 23,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "111100100001100000111110101110010011",
+        "expected_output": 15,
+        "predicted_output": 21,
+        "result": "different"
+    },
+    {
+        "input": "0000110000011000001001011000101001101010011100010011100101000101000110111000100000101110011000111111",
+        "expected_output": 47,
+        "predicted_output": 52,
+        "result": "different"
+    },
+    {
+        "input": "10111011100100100011001100011110110101",
+        "expected_output": 18,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "111010000101011001100101010110001100100011011001101010010001",
+        "expected_output": 28,
+        "predicted_output": 23,
+        "result": "different"
+    },
+    {
+        "input": "1011100110011100100100000010010010000110101101101010110001101101001100000000010110001010111111",
+        "expected_output": 42,
+        "predicted_output": 45,
+        "result": "different"
+    },
+    {
+        "input": "0111011011010100101001",
+        "expected_output": 9,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "101101010100110111101100100011101000",
+        "expected_output": 17,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "0001011110111011101011000011110101110110000001110111010001100110100010010011011100000000010",
+        "expected_output": 36,
+        "predicted_output": 48,
+        "result": "different"
+    },
+    {
+        "input": "011001010110111111110110101101010011010110000101011101100011",
+        "expected_output": 23,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "11101110011011110111011101111001010110000101000111101011101110110010010100001001111011011011000",
+        "expected_output": 39,
+        "predicted_output": 45,
+        "result": "different"
+    },
+    {
+        "input": "111",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "010111011001010011010010010110101110011",
+        "expected_output": 11,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "01000111001010000111001000011110000001110101111001100100101100101010",
+        "expected_output": 33,
+        "predicted_output": 33,
+        "result": "same"
+    },
+    {
+        "input": "001001001110110011111010000",
+        "expected_output": 10,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "1110111000110001100100111",
+        "expected_output": 9,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "1111010011111011000010000011011111101110000100010000001011",
+        "expected_output": 28,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "0100010111111111100111000010110000000110010110",
+        "expected_output": 20,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "0111111110010000101101101010100010010010000011111010001000011110110110011",
+        "expected_output": 27,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "110100001111011101000001111000001000",
+        "expected_output": 16,
+        "predicted_output": 22,
+        "result": "different"
+    },
+    {
+        "input": "10",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "101001000000100010000001110000",
+        "expected_output": 13,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "11011011111000110101101",
+        "expected_output": 9,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "101110110111000010111100010100011101111011100000001000001111000101100010001010100010101011",
+        "expected_output": 38,
+        "predicted_output": 45,
+        "result": "different"
+    },
+    {
+        "input": "000101010101111000111000011011100000001",
+        "expected_output": 11,
+        "predicted_output": 21,
+        "result": "different"
+    },
+    {
+        "input": "100010111111011001101010011010011110",
+        "expected_output": 13,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "0001011001101101011110000011100111000101011011010100011",
+        "expected_output": 20,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "000100100111000100111011001001101111001010110101110101100000000000100011111100101100",
+        "expected_output": 41,
+        "predicted_output": 43,
+        "result": "different"
+    },
+    {
+        "input": "10010111001100101010111",
+        "expected_output": 6,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "0011100000100011111100001000011100000111011111101001101110100001101111110",
+        "expected_output": 31,
+        "predicted_output": 46,
+        "result": "different"
+    },
+    {
+        "input": "01000001111000010001001000100101100110011000010001001001111001101110101010011011101",
+        "expected_output": 30,
+        "predicted_output": 39,
+        "result": "different"
+    },
+    {
+        "input": "0010000010100001101111000100110001101110001000011011001101001",
+        "expected_output": 25,
+        "predicted_output": 31,
+        "result": "different"
+    },
+    {
+        "input": "10000010000010010100100011",
+        "expected_output": 11,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "10101101001110110111011110100010000001010011111000111101111010101111100110010000011101110111111",
+        "expected_output": 39,
+        "predicted_output": 50,
+        "result": "different"
+    },
+    {
+        "input": "1100101111011",
+        "expected_output": 4,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "111010110",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "00110101011011111101101100000101011011100000000001",
+        "expected_output": 21,
+        "predicted_output": 26,
+        "result": "different"
+    },
+    {
+        "input": "0110110",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "01000011000011001101001100110011101100011001111100010010000000101101111101001011001100001",
+        "expected_output": 39,
+        "predicted_output": 47,
+        "result": "different"
+    },
+    {
+        "input": "10101011011000000101101011100011000100001001001011101010110111000000100111111000010101011001011",
+        "expected_output": 35,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "0101100110110000111100110101011110100100101100",
+        "expected_output": 21,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "011110111110100110110",
+        "expected_output": 7,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "11110011111011110000010010011010100000101110110010010001",
+        "expected_output": 24,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "00000000011011100101001010101100001010110001",
+        "expected_output": 19,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "1110000001110101111010011000011001001010101110100011110101011100100000010110011101101110",
+        "expected_output": 43,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "010011110110110011",
+        "expected_output": 8,
+        "predicted_output": 8,
+        "result": "same"
+    },
+    {
+        "input": "00000111100111001001111000010011011101101101000001001111000001111001",
+        "expected_output": 29,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "0011011110000110100",
+        "expected_output": 7,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "11010011110110000101010100000010001001110100100",
+        "expected_output": 17,
+        "predicted_output": 21,
+        "result": "different"
+    },
+    {
+        "input": "1110010111100101111101110111011011000010001001110010010100100100101000001000000010110100000101011100",
+        "expected_output": 46,
+        "predicted_output": 48,
+        "result": "different"
+    },
+    {
+        "input": "1010000110010111101000010001001000000110011011",
+        "expected_output": 22,
+        "predicted_output": 23,
+        "result": "different"
+    },
+    {
+        "input": "0110001110011101111100001111010101000000000011001111110010111101001110001000000000010101101",
+        "expected_output": 39,
+        "predicted_output": 53,
+        "result": "different"
+    },
+    {
+        "input": "10001100110010000100",
+        "expected_output": 9,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "11000000001111100110110100001101000000100110011011101100100000011111001111",
+        "expected_output": 36,
+        "predicted_output": 45,
+        "result": "different"
+    },
+    {
+        "input": "0111100000000000110011101100",
+        "expected_output": 13,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "001100010110010100101101001",
+        "expected_output": 9,
+        "predicted_output": 9,
+        "result": "same"
+    },
+    {
+        "input": "110010010001",
+        "expected_output": 5,
+        "predicted_output": 5,
+        "result": "same"
+    },
+    {
+        "input": "00100001",
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": "10000010101101010110011100011001101001010111101001010100100001111010101001111010100010000",
+        "expected_output": 34,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "001000100",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "10011",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "0000000",
+        "expected_output": 3,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "0010100001111101010000011100111011000011001100011000111000000110011111",
+        "expected_output": 34,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "0011011110101111111010101111100010011111111101100",
+        "expected_output": 17,
+        "predicted_output": 28,
+        "result": "different"
+    },
+    {
+        "input": "001010000111000000000110101101110111101011010000111011000111111110",
+        "expected_output": 31,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "0101101000111101111111010111011001101",
+        "expected_output": 13,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "0000011000111101000001110100111111001",
+        "expected_output": 14,
+        "predicted_output": 23,
+        "result": "different"
+    },
+    {
+        "input": "1010010000011011000101100",
+        "expected_output": 8,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "11101000101000110010",
+        "expected_output": 5,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "01001001001000100000100100101000100001011100101000110101111010000001010100110101110110100011",
+        "expected_output": 46,
+        "predicted_output": 38,
+        "result": "different"
+    },
+    {
+        "input": "1101001110111111001111010011000011110011011000001110100011001110000111101",
+        "expected_output": 30,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "100101110111",
+        "expected_output": 4,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": "00110110110101100011000100110100010",
+        "expected_output": 12,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "1111000101101000000011010010000100010110111101101101011110110011101111",
+        "expected_output": 33,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "0001110010010000100001110011000001101111011100001000101101100111010",
+        "expected_output": 30,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "10110001111110001100100010111001011000110011111001010100101001100000",
+        "expected_output": 31,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "010101011011001011000011111011110000111111001111101110011001",
+        "expected_output": 30,
+        "predicted_output": 32,
+        "result": "different"
+    },
+    {
+        "input": "001100010011011111100011100",
+        "expected_output": 10,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "000000011000110000010010000110100000011111000001001001101110010101001110",
+        "expected_output": 35,
+        "predicted_output": 41,
+        "result": "different"
+    },
+    {
+        "input": "01000111000011111101001101111111101000101100110010010011",
+        "expected_output": 27,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "1",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "000010110001110100001001110101110010110011011011010100100111000011110001000000",
+        "expected_output": 34,
+        "predicted_output": 39,
+        "result": "different"
+    },
+    {
+        "input": "00111101111101011000000110100110111111000111110001110100101000100111101011",
+        "expected_output": 37,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "01010010111111011001000111110000000001110110010110100001000010111",
+        "expected_output": 24,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "101100000010100010101100100100110111011110101001100000",
+        "expected_output": 21,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "01001111101011100110101100101111001000001010111000000011111100100",
+        "expected_output": 21,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "111101001110101011000100000101000111100000000110001011011101111010011010001001110110010001001",
+        "expected_output": 41,
+        "predicted_output": 46,
+        "result": "different"
+    },
+    {
+        "input": "111000100100100000",
+        "expected_output": 7,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "000100000010110101110011010010001101000000111",
+        "expected_output": 18,
+        "predicted_output": 23,
+        "result": "different"
+    },
+    {
+        "input": "00010011011010111111110000011010011011011110001101000100111010000100000100111010011010101101010",
+        "expected_output": 41,
+        "predicted_output": 44,
+        "result": "different"
+    },
+    {
+        "input": "000011100111001000000010010001001110000011111001011011101000110010110010010100001001000010",
+        "expected_output": 41,
+        "predicted_output": 47,
+        "result": "different"
+    },
+    {
+        "input": "1001001010111111110101100101101000110001011011100010110011101001011101110101001",
+        "expected_output": 31,
+        "predicted_output": 32,
+        "result": "different"
+    },
+    {
+        "input": "1111111100111110100000110101000001000011111000000001",
+        "expected_output": 25,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "0111111010010110100110010110100101111001010101101100110101111000111101101110100011",
+        "expected_output": 39,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "10111110110001",
+        "expected_output": 6,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "0110011110110110100101100001111101001101011000111100011111011110100100010010000110001100101",
+        "expected_output": 37,
+        "predicted_output": 45,
+        "result": "different"
+    },
+    {
+        "input": "00101011110010011001000",
+        "expected_output": 7,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "0100100000011011101001000010110111101000010000101001000110010110",
+        "expected_output": 30,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "0101111111100011011000010011",
+        "expected_output": 12,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "11101010001011110010101111001011110010000000011",
+        "expected_output": 15,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "100011111010100011101100101100100010100100111100010100011000101011001010111",
+        "expected_output": 27,
+        "predicted_output": 32,
+        "result": "different"
+    },
+    {
+        "input": "00011110101111111000110011110100110001001001111000011010101011100011010000",
+        "expected_output": 33,
+        "predicted_output": 39,
+        "result": "different"
+    },
+    {
+        "input": "001001111111110010011010001111111010011011100111100110110110000000001001101110110101001010100",
+        "expected_output": 38,
+        "predicted_output": 48,
+        "result": "different"
+    },
+    {
+        "input": "00110100110011110101010",
+        "expected_output": 6,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "1010",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "0111000011000011010101000111110011110110001111011000101011011000000011001010100110100010",
+        "expected_output": 42,
+        "predicted_output": 43,
+        "result": "different"
+    },
+    {
+        "input": "01",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "011010001",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "1010000001111110100010110010011110001100011110111101011010",
+        "expected_output": 24,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "1100",
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": "00111",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "10111000001110111111100010110000111011011100100111111101101110101111",
+        "expected_output": 27,
+        "predicted_output": 39,
+        "result": "different"
+    },
+    {
+        "input": "1110011000000111110000000001110000110111001",
+        "expected_output": 18,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "101101101011110001011111001011111001110100111101101100000011100011111101110100",
+        "expected_output": 38,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "0011001001110011011100101",
+        "expected_output": 9,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "000100111100001011110001001001011101010101011011000110001100010011010110110110111",
+        "expected_output": 30,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "01",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "010110000001101011001100100000111010100011111100111101010110",
+        "expected_output": 28,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "0110101001111111000010111100011101110100001000111110000101000110101",
+        "expected_output": 29,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "1010101111110100000000101001100011011111001000101100110001110011101110000",
+        "expected_output": 30,
+        "predicted_output": 39,
+        "result": "different"
+    },
+    {
+        "input": "01110111101011110000",
+        "expected_output": 10,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "0010000110111011010101101000111111101010110011111101010011011100111010000011010",
+        "expected_output": 32,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "0100110001011011001001101001010110001111101001",
+        "expected_output": 22,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "01001110111100000101111000100101111111011011010000101110000000001101",
+        "expected_output": 32,
+        "predicted_output": 38,
+        "result": "different"
+    },
+    {
+        "input": "00111110001010010001000100010011110100011110100",
+        "expected_output": 16,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "1000000100001001",
+        "expected_output": 8,
+        "predicted_output": 9,
+        "result": "different"
+    },
+    {
+        "input": "00000100001001100",
+        "expected_output": 6,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "1011111001100001111010101100100010101100111100111000111000110101001111110101011000010110110",
+        "expected_output": 30,
+        "predicted_output": 43,
+        "result": "different"
+    },
+    {
+        "input": "00010110001111101000100011010000011000010101000111100111000",
+        "expected_output": 21,
+        "predicted_output": 32,
+        "result": "different"
+    },
+    {
+        "input": "0010110000111110001011001010110101010101001011011011100",
+        "expected_output": 18,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "0111100100001111010010010011110110111100010001001100110101101010011101011110001101010111",
+        "expected_output": 36,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "11111110000001011010000000",
+        "expected_output": 12,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "00101001111001100111011000111001100100011001101101010110001000011010111011100011100011110111",
+        "expected_output": 43,
+        "predicted_output": 46,
+        "result": "different"
+    },
+    {
+        "input": "11001100100011011001111011111110100001000001",
+        "expected_output": 21,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "0010010000110000001001011001010101110111100000000110001101110110111110011110101010001111",
+        "expected_output": 43,
+        "predicted_output": 46,
+        "result": "different"
+    },
+    {
+        "input": "10000100",
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": "11001100101001000110010110001101010000000010010110011110111110011100000011010101001101001010",
+        "expected_output": 42,
+        "predicted_output": 42,
+        "result": "same"
+    },
+    {
+        "input": "110000100101001000101011010001100101011111001111011001111",
+        "expected_output": 21,
+        "predicted_output": 26,
+        "result": "different"
+    },
+    {
+        "input": "1111110100100111010111110110110101100110000110111110110010110100100",
+        "expected_output": 26,
+        "predicted_output": 31,
+        "result": "different"
+    },
+    {
+        "input": "100000110101111010111101100001010001",
+        "expected_output": 16,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "00001110011111010011100101011000000",
+        "expected_output": 13,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "11000000011010100100101011101100010001100010011000011111",
+        "expected_output": 25,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "10100011110011001100100100000001010110010110111011001001000010110110110",
+        "expected_output": 30,
+        "predicted_output": 31,
+        "result": "different"
+    },
+    {
+        "input": "00110010010000010100101011110101011011111110001101010100101000111110100100111110011111",
+        "expected_output": 42,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "111101011011100111000011010000110001011001101110001101101110",
+        "expected_output": 29,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "01011111011010010001110110001001000111100111011010010000011100011000111100110100011101011000011101",
+        "expected_output": 39,
+        "predicted_output": 50,
+        "result": "different"
+    },
+    {
+        "input": "011001011010101010100010001010111001011001110000101111011010110111000011001011011",
+        "expected_output": 29,
+        "predicted_output": 31,
+        "result": "different"
+    },
+    {
+        "input": "0000111011111000000001010101110110000011111010011001001000011",
+        "expected_output": 25,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "01011100010011110111011011100110100010001100111101",
+        "expected_output": 23,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "0010010001010010110111111100101101010001000000110111100111111",
+        "expected_output": 24,
+        "predicted_output": 31,
+        "result": "different"
+    },
+    {
+        "input": "11110011111100110101100001000110000",
+        "expected_output": 14,
+        "predicted_output": 21,
+        "result": "different"
+    },
+    {
+        "input": "0011000101",
+        "expected_output": 3,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1111101100100000110110011110010101101",
+        "expected_output": 14,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "00101100001111011100011101110101",
+        "expected_output": 12,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "000100110110111110110011011010010111100100010010100111",
+        "expected_output": 26,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "100110100111010111110100110111000111000110000000010100011111011",
+        "expected_output": 20,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "00000100101111001101100010010000001010011111110000000000001111001001101001011000111",
+        "expected_output": 36,
+        "predicted_output": 49,
+        "result": "different"
+    },
+    {
+        "input": "1001",
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": "010111100111101111010001100001000",
+        "expected_output": 13,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "11100111100111100100011011011001101010010010011000011101011110110011111",
+        "expected_output": 32,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "11110010001100011001100101001111",
+        "expected_output": 15,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "011001000011000111000000101",
+        "expected_output": 9,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "1100000000001000110111111011110011101011110111",
+        "expected_output": 21,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "10100011010011010101101011001001110011010111101001111011110001010010110100010",
+        "expected_output": 30,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "10001001010101110110011011101001001101001000111011100001010101010111111111000100000111",
+        "expected_output": 36,
+        "predicted_output": 39,
+        "result": "different"
+    },
+    {
+        "input": "0111000101111010111110111111010110011101111100100110001101",
+        "expected_output": 26,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "01010000010001110000010010001010000101011000011001010111011100110000100010001",
+        "expected_output": 27,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "011000010011100111110",
+        "expected_output": 9,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "1011011010111001100100111110001000010000",
+        "expected_output": 17,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "1101111011011110000110100011011011010001110010001000101100011000101111010010010010111111",
+        "expected_output": 41,
+        "predicted_output": 43,
+        "result": "different"
+    },
+    {
+        "input": "010110001011001111100110011010011101011101111000101100100000010110010100111010001011011101101",
+        "expected_output": 41,
+        "predicted_output": 41,
+        "result": "same"
+    },
+    {
+        "input": "110101100110001110011001100000100001010100001010010110001111111101",
+        "expected_output": 31,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "00001010110110110001100100100011001100001011100000100110100100011101001111011000010111011100",
+        "expected_output": 46,
+        "predicted_output": 45,
+        "result": "different"
+    },
+    {
+        "input": "10101110101110000110011001101101000111101110100010100011001101101111011000100100001000111100101",
+        "expected_output": 37,
+        "predicted_output": 44,
+        "result": "different"
+    },
+    {
+        "input": "00011100111000010011011111101110001110",
+        "expected_output": 18,
+        "predicted_output": 23,
+        "result": "different"
+    },
+    {
+        "input": "011011111110000100101101000111011001001110001111011000001110001100111000111100100110000111111011001",
+        "expected_output": 42,
+        "predicted_output": 57,
+        "result": "different"
+    },
+    {
+        "input": "0111000001101100010010011111110110",
+        "expected_output": 15,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "0011101101100100001100001000110001101001001001000111011000011111010000000101",
+        "expected_output": 34,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "111000100010110011110101010001111010010011101010101111010110111101000101000110110",
+        "expected_output": 31,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "11110100101010001100000011001011101011110101000110100001100011011",
+        "expected_output": 25,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "0000011100100000111110111100010011011000101111010110010100101010111000000110110",
+        "expected_output": 33,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "110000111001",
+        "expected_output": 6,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "10011111010000000111001001010100101101100011101011000010000011011100",
+        "expected_output": 33,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "11100111111001011010010001010111101100001111101100001000011110",
+        "expected_output": 31,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "0101",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "10100111001010101100110011110000111000001110101100101100110001100010101001",
+        "expected_output": 27,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "1100110100111011011010011001101",
+        "expected_output": 11,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": "00101000100101101000000110001111111100001",
+        "expected_output": 16,
+        "predicted_output": 23,
+        "result": "different"
+    },
+    {
+        "input": "101111010010001111010000011",
+        "expected_output": 10,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "1001101001011",
+        "expected_output": 3,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "10000101000011",
+        "expected_output": 6,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "1101111000111001000110001001101011100011110110101110011010101101000010100",
+        "expected_output": 27,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "10011101001010010111111110100000010100001000101100111010100010000011011011010101100100000",
+        "expected_output": 35,
+        "predicted_output": 41,
+        "result": "different"
+    },
+    {
+        "input": "010010111110010010110110010001011000001111111110010000101110111011000011001101100",
+        "expected_output": 35,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "0000010000010110001010110010010001100010111011111010000010",
+        "expected_output": 24,
+        "predicted_output": 29,
+        "result": "different"
+    },
+    {
+        "input": "11111110010000110000111001100010101101111110000010011001010100101010",
+        "expected_output": 30,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "0111101000001101010100011111000000101100010011011000010101100101010110001",
+        "expected_output": 26,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "001101111000110110110100001001001101111100000010",
+        "expected_output": 23,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "10001000001010001100110",
+        "expected_output": 6,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "1100101100001010110100000000100",
+        "expected_output": 11,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "11000000010010101101100111111010011101101000011001101110011011111001000010100100101000100000001",
+        "expected_output": 37,
+        "predicted_output": 48,
+        "result": "different"
+    },
+    {
+        "input": "0000111101001111001",
+        "expected_output": 7,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "1100011111001101111100001011110011111100011010100110000101011011001110",
+        "expected_output": 35,
+        "predicted_output": 38,
+        "result": "different"
+    },
+    {
+        "input": "0000",
+        "expected_output": 2,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "010001111010001111001",
+        "expected_output": 6,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "11111001100",
+        "expected_output": 4,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "000100101111011110101010010000000101100101100000111001010010100111111001001110100011100",
+        "expected_output": 38,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "1000010110000110101000110110001001100100001001100010101010010011001100011101011110111110",
+        "expected_output": 39,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "1111110111111110101100011000100011000001001000011101111001000101100111101000001110111110011",
+        "expected_output": 40,
+        "predicted_output": 54,
+        "result": "different"
+    },
+    {
+        "input": "00",
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": "1000000111001001010001100011110110001001100",
+        "expected_output": 18,
+        "predicted_output": 23,
+        "result": "different"
+    },
+    {
+        "input": "1010010001100011100110000110100010100100101101001001010100001010111110010010000111111100010011111",
+        "expected_output": 41,
+        "predicted_output": 46,
+        "result": "different"
+    },
+    {
+        "input": "00110110111110101011101101011101111101010011110011011010001101011100011111100000011000111000110010",
+        "expected_output": 49,
+        "predicted_output": 49,
+        "result": "same"
+    },
+    {
+        "input": "00001101000101010100001100000100000101001011110011",
+        "expected_output": 18,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "111110010101010101110111001100100111001",
+        "expected_output": 12,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "110001011111000011111111011101100000010010111011010110010011110110010",
+        "expected_output": 28,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "00011",
+        "expected_output": 1,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": "00001001010101000110001100000010000011000010001110001001000",
+        "expected_output": 22,
+        "predicted_output": 32,
+        "result": "different"
+    },
+    {
+        "input": "01110110111110111001011101101111101111111000001001111110111001100100000110001110100110011010010111",
+        "expected_output": 46,
+        "predicted_output": 54,
+        "result": "different"
+    },
+    {
+        "input": "1101101010010011111001111010010000001111100110001101101100101101111000000",
+        "expected_output": 31,
+        "predicted_output": 39,
+        "result": "different"
+    },
+    {
+        "input": "11111010110001011100111110010000101110",
+        "expected_output": 17,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "0101000000001111010011101111000000100001101",
+        "expected_output": 15,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "0011101010111111101101111001",
+        "expected_output": 11,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "01101001101111100111011011001001000001",
+        "expected_output": 19,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "001110011110111101100001101011100100000111100101111101",
+        "expected_output": 26,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "1100110101010110000000100001111000001100110110100010100011010001",
+        "expected_output": 31,
+        "predicted_output": 31,
+        "result": "same"
+    },
+    {
+        "input": "00101100011110010011110110",
+        "expected_output": 13,
+        "predicted_output": 13,
+        "result": "same"
+    },
+    {
+        "input": "1101011111110101000001100010001110100",
+        "expected_output": 10,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "1100111110000000101100001010000011101011111001000101101111001",
+        "expected_output": 22,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "0110011010101101110110111011001110000110010101100100001101110011011010100000",
+        "expected_output": 37,
+        "predicted_output": 33,
+        "result": "different"
+    },
+    {
+        "input": "100101100111010111011101100000000111101111011000100010101110001001111101001111110010000101000",
+        "expected_output": 39,
+        "predicted_output": 49,
+        "result": "different"
+    },
+    {
+        "input": "1010011110111100011001000100000110000111010101110",
+        "expected_output": 15,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "1111001000011101110111000111100001110111111",
+        "expected_output": 16,
+        "predicted_output": 28,
+        "result": "different"
+    },
+    {
+        "input": "1111111011000001010000101100011011010001011101000011",
+        "expected_output": 22,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "101001111000001101011011100110010111100011000000010010111110010001000111111010100110111010",
+        "expected_output": 41,
+        "predicted_output": 46,
+        "result": "different"
+    },
+    {
+        "input": "0010010010010010100000000000111010010111111011000",
+        "expected_output": 19,
+        "predicted_output": 26,
+        "result": "different"
+    },
+    {
+        "input": "101110010010101011110111001101100000110101000010001101001010101010011110010100100110001011100",
+        "expected_output": 39,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "1100000010",
+        "expected_output": 4,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "000111001010110100111010111000101000101001100110101001100110110",
+        "expected_output": 20,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "000110010100110111010001001010011100111001011",
+        "expected_output": 16,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "011111001001010110001110101",
+        "expected_output": 7,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "00000111011000111011110010",
+        "expected_output": 12,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "0111000010010011001000111001000001100111000101001110100000110010000010101100010101111001111",
+        "expected_output": 39,
+        "predicted_output": 47,
+        "result": "different"
+    },
+    {
+        "input": "1111011010011101101110111010010111001010101000100100101101010111001011000100000000",
+        "expected_output": 38,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "0001110",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "00110",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "100000100001100110011001001111110100100000110001110111001101001000101000001101111101",
+        "expected_output": 41,
+        "predicted_output": 45,
+        "result": "different"
+    },
+    {
+        "input": "0111100000110011001111011001011000011000011100000",
+        "expected_output": 21,
+        "predicted_output": 30,
+        "result": "different"
+    },
+    {
+        "input": "1011101001100101010000011110000010111001110111001101110000111001111111111010011000010001",
+        "expected_output": 43,
+        "predicted_output": 49,
+        "result": "different"
+    },
+    {
+        "input": "1000000100",
+        "expected_output": 5,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1100100000110001011010111010010001110100011110101000111011001100100001100100110111101011",
+        "expected_output": 40,
+        "predicted_output": 41,
+        "result": "different"
+    },
+    {
+        "input": "00000111010000011011100000001011111110010000001010001001001100001",
+        "expected_output": 24,
+        "predicted_output": 39,
+        "result": "different"
+    },
+    {
+        "input": "0010100000101000011001001110110111111000",
+        "expected_output": 16,
+        "predicted_output": 21,
+        "result": "different"
+    },
+    {
+        "input": "11111010000111111100101011",
+        "expected_output": 10,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "000011100011011100110110001001111101111111010010",
+        "expected_output": 23,
+        "predicted_output": 27,
+        "result": "different"
+    },
+    {
+        "input": "111001000111010011000100001110100110000011101000001000010011101011101101100101101010011101",
+        "expected_output": 42,
+        "predicted_output": 43,
+        "result": "different"
+    },
+    {
+        "input": "11111001111010001010110111000100100100000110111001",
+        "expected_output": 23,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "00111101000010100100001000011010111111100110111110100000100111010",
+        "expected_output": 24,
+        "predicted_output": 34,
+        "result": "different"
+    },
+    {
+        "input": "100011000101101011011011010010000",
+        "expected_output": 14,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "01011101100100111110011100011110",
+        "expected_output": 13,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "1011000100010100110110100111011010010110001011",
+        "expected_output": 22,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "111101011011000111111110010011011110011100",
+        "expected_output": 18,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "01101110100010101010110011000001000011011001101",
+        "expected_output": 16,
+        "predicted_output": 19,
+        "result": "different"
+    },
+    {
+        "input": "001001011110010101011000111010101000010111011011101101010000000",
+        "expected_output": 26,
+        "predicted_output": 26,
+        "result": "same"
+    },
+    {
+        "input": "11110110",
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": "11101000101110000111111010010",
+        "expected_output": 8,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "1",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "11111110100110101001010011001110100000010011111010011110111001",
+        "expected_output": 26,
+        "predicted_output": 31,
+        "result": "different"
+    },
+    {
+        "input": "0111110100011001110111000011001010011011100101010010101101101100111100010100001",
+        "expected_output": 34,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "0011110100111011111001101001",
+        "expected_output": 13,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "001100",
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": "11100011000110010101110110010010100101100011111110000001110110101",
+        "expected_output": 26,
+        "predicted_output": 32,
+        "result": "different"
+    },
+    {
+        "input": "0011001111101101011010010101011010101111",
+        "expected_output": 20,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "1000000001111110000100010",
+        "expected_output": 9,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "100100011110001101001101000101000110100001011110011001001111100000110",
+        "expected_output": 28,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "11111101110001000011101110011110010001011011010000001001011111001011",
+        "expected_output": 31,
+        "predicted_output": 37,
+        "result": "different"
+    },
+    {
+        "input": "0101010",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "011000001011",
+        "expected_output": 5,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": "1",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "00000011000101100110001100001100010010010011110101000001110100011010010111100000000001110000010",
+        "expected_output": 38,
+        "predicted_output": 54,
+        "result": "different"
+    },
+    {
+        "input": "10010001101111010001000000010011100101011111110001010001000",
+        "expected_output": 19,
+        "predicted_output": 31,
+        "result": "different"
+    },
+    {
+        "input": "1010",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "0100001100110000001100000111100000111101",
+        "expected_output": 18,
+        "predicted_output": 26,
+        "result": "different"
+    },
+    {
+        "input": "11111011011111001001011000010101111010000100110101111101110100101111011000000100",
+        "expected_output": 34,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "1000110101011",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "0011100111000001100010010101001001101010110",
+        "expected_output": 16,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "0100111010001110011101010000100000110011010011000010111111000001101111001100101001100011011101",
+        "expected_output": 47,
+        "predicted_output": 48,
+        "result": "different"
+    },
+    {
+        "input": "1000000101111111000010110010001000111010010",
+        "expected_output": 16,
+        "predicted_output": 23,
+        "result": "different"
+    },
+    {
+        "input": "1001001110",
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": "010001011101101101000110010101000000110111011100100100000101000010100010111011110110001011",
+        "expected_output": 39,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "110000111010111111100010011001101111111111001010010011001000010000000",
+        "expected_output": 27,
+        "predicted_output": 41,
+        "result": "different"
+    },
+    {
+        "input": "11001010111100101100000110100010111010010010111000000",
+        "expected_output": 18,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "010001001111111000000100100000010111111010100001110010110001100011000100000011100101101000000111",
+        "expected_output": 47,
+        "predicted_output": 56,
+        "result": "different"
+    },
+    {
+        "input": "001101110011001111000010100011011000110000111010110",
+        "expected_output": 20,
+        "predicted_output": 26,
+        "result": "different"
+    },
+    {
+        "input": "1111000110110100111101",
+        "expected_output": 9,
+        "predicted_output": 11,
+        "result": "different"
+    },
+    {
+        "input": "0100000001101000011111",
+        "expected_output": 10,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": "0011011011000101001100100001001110100110111010000101",
+        "expected_output": 26,
+        "predicted_output": 22,
+        "result": "different"
+    },
+    {
+        "input": "001010101110110000001111010111000001111100010000001001100100111001110000011011000111",
+        "expected_output": 41,
+        "predicted_output": 48,
+        "result": "different"
+    },
+    {
+        "input": "0110011010010010010110101110001010000001001111010001110100001100000011001001001011110",
+        "expected_output": 35,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "001110010101000110000",
+        "expected_output": 6,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": "011000101111111101111101110111",
+        "expected_output": 13,
+        "predicted_output": 18,
+        "result": "different"
+    },
+    {
+        "input": "011110010111011010001100111111001101100110101100001011110100110110110110101110100001",
+        "expected_output": 40,
+        "predicted_output": 38,
+        "result": "different"
+    },
+    {
+        "input": "0011000110111011101110011001100",
+        "expected_output": 11,
+        "predicted_output": 16,
+        "result": "different"
+    },
+    {
+        "input": "100000100110011011001010110111110001",
+        "expected_output": 16,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "100010",
+        "expected_output": 1,
+        "predicted_output": 2,
+        "result": "different"
+    },
+    {
+        "input": "11010011000001000010011011",
+        "expected_output": 12,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "10111011101010101",
+        "expected_output": 2,
+        "predicted_output": 4,
+        "result": "different"
+    },
+    {
+        "input": "1010010100011001011001100101100010111000110111001000001111011001111000110011111010",
+        "expected_output": 39,
+        "predicted_output": 40,
+        "result": "different"
+    },
+    {
+        "input": "1111111100000011010110101111010",
+        "expected_output": 13,
+        "predicted_output": 17,
+        "result": "different"
+    },
+    {
+        "input": "110111101111100100111110001100100010",
+        "expected_output": 15,
+        "predicted_output": 20,
+        "result": "different"
+    },
+    {
+        "input": "10110100001010000010110011011010101010101011000111110010111110",
+        "expected_output": 21,
+        "predicted_output": 24,
+        "result": "different"
+    },
+    {
+        "input": "110001100111011101101011101010111000011100011110001010001010",
+        "expected_output": 24,
+        "predicted_output": 28,
+        "result": "different"
+    },
+    {
+        "input": "1010",
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": "010000101111010100110011011000",
+        "expected_output": 13,
+        "predicted_output": 13,
+        "result": "same"
+    },
+    {
+        "input": "00000111000011111111000111100110101",
+        "expected_output": 13,
+        "predicted_output": 23,
+        "result": "different"
+    },
+    {
+        "input": "0001101011011101011001111100",
+        "expected_output": 12,
+        "predicted_output": 13,
+        "result": "different"
+    },
+    {
+        "input": "10101110100110111101111010100001001001000000000010001111000110110000100011101000110111",
+        "expected_output": 35,
+        "predicted_output": 45,
+        "result": "different"
+    },
+    {
+        "input": "0111010010011000100000010001010100101011100001010011001100001101100100000100111100000101011111100001",
+        "expected_output": 42,
+        "predicted_output": 50,
+        "result": "different"
+    },
+    {
+        "input": "11111010010110011",
+        "expected_output": 5,
+        "predicted_output": 8,
+        "result": "different"
+    },
+    {
+        "input": "010110000110001",
+        "expected_output": 4,
+        "predicted_output": 7,
+        "result": "different"
+    },
+    {
+        "input": "100100101011101111110001000100110110101000011111000010000111101110000010000100011100111110",
+        "expected_output": 41,
+        "predicted_output": 50,
+        "result": "different"
+    },
+    {
+        "input": "11100110100101000101100001100001010101010111111000011000010010110111111001001",
+        "expected_output": 28,
+        "predicted_output": 36,
+        "result": "different"
+    },
+    {
+        "input": "0010101101000010011010101101101100111011100111111011011111100010001101111",
+        "expected_output": 28,
+        "predicted_output": 35,
+        "result": "different"
+    },
+    {
+        "input": "01000011010011110100110000100100001111111",
+        "expected_output": 16,
+        "predicted_output": 23,
+        "result": "different"
+    },
+    {
+        "input": "11010100100000101111001101010000111011001001001011",
+        "expected_output": 25,
+        "predicted_output": 21,
+        "result": "different"
+    },
+    {
+        "input": "11001010111000110110000111101001110110111010010101000111",
+        "expected_output": 27,
+        "predicted_output": 25,
+        "result": "different"
+    },
+    {
+        "input": "1110110010111100100010001001101110000000011001011111100101000001100010000110101",
+        "expected_output": 33,
+        "predicted_output": 42,
+        "result": "different"
+    },
+    {
+        "input": "0000010100011001001110100100011",
+        "expected_output": 11,
+        "predicted_output": 15,
+        "result": "different"
+    },
+    {
+        "input": "1001010010011001011",
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": "001101111110100010010110110001000111000011010010010001110101100",
+        "expected_output": 23,
+        "predicted_output": 30,
+        "result": "different"
+    }
+]

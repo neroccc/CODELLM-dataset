@@ -1,0 +1,2680 @@
+[
+    {
+        "input": "cwgbnuohiwy",
+        "expected_output": [
+            [
+                "c",
+                "w",
+                "g",
+                "b",
+                "n",
+                "u",
+                "o",
+                "h",
+                "i",
+                "w",
+                "y"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "rhl",
+        "expected_output": [
+            [
+                "r",
+                "h",
+                "l"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "h",
+        "expected_output": [
+            [
+                "h"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "ssv",
+        "expected_output": [
+            [
+                "s",
+                "s",
+                "v"
+            ],
+            [
+                "ss",
+                "v"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "ss"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "iofzulglxqwtq",
+        "expected_output": [
+            [
+                "i",
+                "o",
+                "f",
+                "z",
+                "u",
+                "l",
+                "g",
+                "l",
+                "x",
+                "q",
+                "w",
+                "t",
+                "q"
+            ],
+            [
+                "i",
+                "o",
+                "f",
+                "z",
+                "u",
+                "lgl",
+                "x",
+                "q",
+                "w",
+                "t",
+                "q"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "lgl"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "ooyr",
+        "expected_output": [
+            [
+                "o",
+                "o",
+                "y",
+                "r"
+            ],
+            [
+                "oo",
+                "y",
+                "r"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "oo"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "yyfyitsmxifepy",
+        "expected_output": [
+            [
+                "y",
+                "y",
+                "f",
+                "y",
+                "i",
+                "t",
+                "s",
+                "m",
+                "x",
+                "i",
+                "f",
+                "e",
+                "p",
+                "y"
+            ],
+            [
+                "y",
+                "yfy",
+                "i",
+                "t",
+                "s",
+                "m",
+                "x",
+                "i",
+                "f",
+                "e",
+                "p",
+                "y"
+            ],
+            [
+                "yy",
+                "f",
+                "y",
+                "i",
+                "t",
+                "s",
+                "m",
+                "x",
+                "i",
+                "f",
+                "e",
+                "p",
+                "y"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "yy"
+            ],
+            [
+                "yfy"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "l",
+        "expected_output": [
+            [
+                "l"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "rlicmc",
+        "expected_output": [
+            [
+                "r",
+                "l",
+                "i",
+                "c",
+                "m",
+                "c"
+            ],
+            [
+                "r",
+                "l",
+                "i",
+                "cmc"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "cmc"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "cwhowsmmxkwuqaz",
+        "expected_output": [
+            [
+                "c",
+                "w",
+                "h",
+                "o",
+                "w",
+                "s",
+                "m",
+                "m",
+                "x",
+                "k",
+                "w",
+                "u",
+                "q",
+                "a",
+                "z"
+            ],
+            [
+                "c",
+                "w",
+                "h",
+                "o",
+                "w",
+                "s",
+                "mm",
+                "x",
+                "k",
+                "w",
+                "u",
+                "q",
+                "a",
+                "z"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "mm"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "bgiztfacs",
+        "expected_output": [
+            [
+                "b",
+                "g",
+                "i",
+                "z",
+                "t",
+                "f",
+                "a",
+                "c",
+                "s"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "acyfj",
+        "expected_output": [
+            [
+                "a",
+                "c",
+                "y",
+                "f",
+                "j"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "vxtwflrjub",
+        "expected_output": [
+            [
+                "v",
+                "x",
+                "t",
+                "w",
+                "f",
+                "l",
+                "r",
+                "j",
+                "u",
+                "b"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "yjguksznh",
+        "expected_output": [
+            [
+                "y",
+                "j",
+                "g",
+                "u",
+                "k",
+                "s",
+                "z",
+                "n",
+                "h"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "ecyinqj",
+        "expected_output": [
+            [
+                "e",
+                "c",
+                "y",
+                "i",
+                "n",
+                "q",
+                "j"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "avrjqazcwhe",
+        "expected_output": [
+            [
+                "a",
+                "v",
+                "r",
+                "j",
+                "q",
+                "a",
+                "z",
+                "c",
+                "w",
+                "h",
+                "e"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "nejfbal",
+        "expected_output": [
+            [
+                "n",
+                "e",
+                "j",
+                "f",
+                "b",
+                "a",
+                "l"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "xfhqi",
+        "expected_output": [
+            [
+                "x",
+                "f",
+                "h",
+                "q",
+                "i"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "rvui",
+        "expected_output": [
+            [
+                "r",
+                "v",
+                "u",
+                "i"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "hdirbdih",
+        "expected_output": [
+            [
+                "h",
+                "d",
+                "i",
+                "r",
+                "b",
+                "d",
+                "i",
+                "h"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "kesrbdkam",
+        "expected_output": [
+            [
+                "k",
+                "e",
+                "s",
+                "r",
+                "b",
+                "d",
+                "k",
+                "a",
+                "m"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "weypvcdrrsxb",
+        "expected_output": [
+            [
+                "w",
+                "e",
+                "y",
+                "p",
+                "v",
+                "c",
+                "d",
+                "r",
+                "r",
+                "s",
+                "x",
+                "b"
+            ],
+            [
+                "w",
+                "e",
+                "y",
+                "p",
+                "v",
+                "c",
+                "d",
+                "rr",
+                "s",
+                "x",
+                "b"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "rr"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "unfy",
+        "expected_output": [
+            [
+                "u",
+                "n",
+                "f",
+                "y"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "gsfutnkzhvt",
+        "expected_output": [
+            [
+                "g",
+                "s",
+                "f",
+                "u",
+                "t",
+                "n",
+                "k",
+                "z",
+                "h",
+                "v",
+                "t"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "sschqcehpguixszo",
+        "expected_output": [
+            [
+                "s",
+                "s",
+                "c",
+                "h",
+                "q",
+                "c",
+                "e",
+                "h",
+                "p",
+                "g",
+                "u",
+                "i",
+                "x",
+                "s",
+                "z",
+                "o"
+            ],
+            [
+                "ss",
+                "c",
+                "h",
+                "q",
+                "c",
+                "e",
+                "h",
+                "p",
+                "g",
+                "u",
+                "i",
+                "x",
+                "s",
+                "z",
+                "o"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "ss"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "kdq",
+        "expected_output": [
+            [
+                "k",
+                "d",
+                "q"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "vfdipohlexzmmj",
+        "expected_output": [
+            [
+                "v",
+                "f",
+                "d",
+                "i",
+                "p",
+                "o",
+                "h",
+                "l",
+                "e",
+                "x",
+                "z",
+                "m",
+                "m",
+                "j"
+            ],
+            [
+                "v",
+                "f",
+                "d",
+                "i",
+                "p",
+                "o",
+                "h",
+                "l",
+                "e",
+                "x",
+                "z",
+                "mm",
+                "j"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "mm"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "w",
+        "expected_output": [
+            [
+                "w"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "y",
+        "expected_output": [
+            [
+                "y"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "f",
+        "expected_output": [
+            [
+                "f"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "vuuxhdh",
+        "expected_output": [
+            [
+                "v",
+                "u",
+                "u",
+                "x",
+                "h",
+                "d",
+                "h"
+            ],
+            [
+                "v",
+                "u",
+                "u",
+                "x",
+                "hdh"
+            ],
+            [
+                "v",
+                "uu",
+                "x",
+                "h",
+                "d",
+                "h"
+            ],
+            [
+                "v",
+                "uu",
+                "x",
+                "hdh"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "uu"
+            ],
+            [
+                "hdh"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "qnzuknllar",
+        "expected_output": [
+            [
+                "q",
+                "n",
+                "z",
+                "u",
+                "k",
+                "n",
+                "l",
+                "l",
+                "a",
+                "r"
+            ],
+            [
+                "q",
+                "n",
+                "z",
+                "u",
+                "k",
+                "n",
+                "ll",
+                "a",
+                "r"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "ll"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "snzehw",
+        "expected_output": [
+            [
+                "s",
+                "n",
+                "z",
+                "e",
+                "h",
+                "w"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "sapuolbdyndgr",
+        "expected_output": [
+            [
+                "s",
+                "a",
+                "p",
+                "u",
+                "o",
+                "l",
+                "b",
+                "d",
+                "y",
+                "n",
+                "d",
+                "g",
+                "r"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "vlctzrpfpvpbexi",
+        "expected_output": [
+            [
+                "v",
+                "l",
+                "c",
+                "t",
+                "z",
+                "r",
+                "p",
+                "f",
+                "p",
+                "v",
+                "p",
+                "b",
+                "e",
+                "x",
+                "i"
+            ],
+            [
+                "v",
+                "l",
+                "c",
+                "t",
+                "z",
+                "r",
+                "p",
+                "f",
+                "pvp",
+                "b",
+                "e",
+                "x",
+                "i"
+            ],
+            [
+                "v",
+                "l",
+                "c",
+                "t",
+                "z",
+                "r",
+                "pfp",
+                "v",
+                "p",
+                "b",
+                "e",
+                "x",
+                "i"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "pfp"
+            ],
+            [
+                "pvp"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "lbizcyjonqs",
+        "expected_output": [
+            [
+                "l",
+                "b",
+                "i",
+                "z",
+                "c",
+                "y",
+                "j",
+                "o",
+                "n",
+                "q",
+                "s"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "ucwfomlns",
+        "expected_output": [
+            [
+                "u",
+                "c",
+                "w",
+                "f",
+                "o",
+                "m",
+                "l",
+                "n",
+                "s"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "lpd",
+        "expected_output": [
+            [
+                "l",
+                "p",
+                "d"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "lxnjybchwddqvshp",
+        "expected_output": [
+            [
+                "l",
+                "x",
+                "n",
+                "j",
+                "y",
+                "b",
+                "c",
+                "h",
+                "w",
+                "d",
+                "d",
+                "q",
+                "v",
+                "s",
+                "h",
+                "p"
+            ],
+            [
+                "l",
+                "x",
+                "n",
+                "j",
+                "y",
+                "b",
+                "c",
+                "h",
+                "w",
+                "dd",
+                "q",
+                "v",
+                "s",
+                "h",
+                "p"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "dd"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "hmpbqqividqgxgvf",
+        "expected_output": [
+            [
+                "h",
+                "m",
+                "p",
+                "b",
+                "q",
+                "q",
+                "i",
+                "v",
+                "i",
+                "d",
+                "q",
+                "g",
+                "x",
+                "g",
+                "v",
+                "f"
+            ],
+            [
+                "h",
+                "m",
+                "p",
+                "b",
+                "q",
+                "q",
+                "i",
+                "v",
+                "i",
+                "d",
+                "q",
+                "gxg",
+                "v",
+                "f"
+            ],
+            [
+                "h",
+                "m",
+                "p",
+                "b",
+                "q",
+                "q",
+                "ivi",
+                "d",
+                "q",
+                "g",
+                "x",
+                "g",
+                "v",
+                "f"
+            ],
+            [
+                "h",
+                "m",
+                "p",
+                "b",
+                "q",
+                "q",
+                "ivi",
+                "d",
+                "q",
+                "gxg",
+                "v",
+                "f"
+            ],
+            [
+                "h",
+                "m",
+                "p",
+                "b",
+                "qq",
+                "i",
+                "v",
+                "i",
+                "d",
+                "q",
+                "g",
+                "x",
+                "g",
+                "v",
+                "f"
+            ],
+            [
+                "h",
+                "m",
+                "p",
+                "b",
+                "qq",
+                "i",
+                "v",
+                "i",
+                "d",
+                "q",
+                "gxg",
+                "v",
+                "f"
+            ],
+            [
+                "h",
+                "m",
+                "p",
+                "b",
+                "qq",
+                "ivi",
+                "d",
+                "q",
+                "g",
+                "x",
+                "g",
+                "v",
+                "f"
+            ],
+            [
+                "h",
+                "m",
+                "p",
+                "b",
+                "qq",
+                "ivi",
+                "d",
+                "q",
+                "gxg",
+                "v",
+                "f"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "qq"
+            ],
+            [
+                "ivi"
+            ],
+            [
+                "gxg"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "nvkbzagjzfp",
+        "expected_output": [
+            [
+                "n",
+                "v",
+                "k",
+                "b",
+                "z",
+                "a",
+                "g",
+                "j",
+                "z",
+                "f",
+                "p"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "osuwsjtwobub",
+        "expected_output": [
+            [
+                "o",
+                "s",
+                "u",
+                "w",
+                "s",
+                "j",
+                "t",
+                "w",
+                "o",
+                "b",
+                "u",
+                "b"
+            ],
+            [
+                "o",
+                "s",
+                "u",
+                "w",
+                "s",
+                "j",
+                "t",
+                "w",
+                "o",
+                "bub"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "bub"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "yviiicsabrt",
+        "expected_output": [
+            [
+                "y",
+                "v",
+                "i",
+                "i",
+                "i",
+                "c",
+                "s",
+                "a",
+                "b",
+                "r",
+                "t"
+            ],
+            [
+                "y",
+                "v",
+                "i",
+                "ii",
+                "c",
+                "s",
+                "a",
+                "b",
+                "r",
+                "t"
+            ],
+            [
+                "y",
+                "v",
+                "ii",
+                "i",
+                "c",
+                "s",
+                "a",
+                "b",
+                "r",
+                "t"
+            ],
+            [
+                "y",
+                "v",
+                "iii",
+                "c",
+                "s",
+                "a",
+                "b",
+                "r",
+                "t"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "ii"
+            ],
+            [
+                "ii"
+            ],
+            [
+                "iii"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "yem",
+        "expected_output": [
+            [
+                "y",
+                "e",
+                "m"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "tgmofhudqryj",
+        "expected_output": [
+            [
+                "t",
+                "g",
+                "m",
+                "o",
+                "f",
+                "h",
+                "u",
+                "d",
+                "q",
+                "r",
+                "y",
+                "j"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "ftt",
+        "expected_output": [
+            [
+                "f",
+                "t",
+                "t"
+            ],
+            [
+                "f",
+                "tt"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "tt"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "gvzznklsms",
+        "expected_output": [
+            [
+                "g",
+                "v",
+                "z",
+                "z",
+                "n",
+                "k",
+                "l",
+                "s",
+                "m",
+                "s"
+            ],
+            [
+                "g",
+                "v",
+                "z",
+                "z",
+                "n",
+                "k",
+                "l",
+                "sms"
+            ],
+            [
+                "g",
+                "v",
+                "zz",
+                "n",
+                "k",
+                "l",
+                "s",
+                "m",
+                "s"
+            ],
+            [
+                "g",
+                "v",
+                "zz",
+                "n",
+                "k",
+                "l",
+                "sms"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "zz"
+            ],
+            [
+                "sms"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "vkfwi",
+        "expected_output": [
+            [
+                "v",
+                "k",
+                "f",
+                "w",
+                "i"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "utwsuitajluoof",
+        "expected_output": [
+            [
+                "u",
+                "t",
+                "w",
+                "s",
+                "u",
+                "i",
+                "t",
+                "a",
+                "j",
+                "l",
+                "u",
+                "o",
+                "o",
+                "f"
+            ],
+            [
+                "u",
+                "t",
+                "w",
+                "s",
+                "u",
+                "i",
+                "t",
+                "a",
+                "j",
+                "l",
+                "u",
+                "oo",
+                "f"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "oo"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "ylzritknzoscbc",
+        "expected_output": [
+            [
+                "y",
+                "l",
+                "z",
+                "r",
+                "i",
+                "t",
+                "k",
+                "n",
+                "z",
+                "o",
+                "s",
+                "c",
+                "b",
+                "c"
+            ],
+            [
+                "y",
+                "l",
+                "z",
+                "r",
+                "i",
+                "t",
+                "k",
+                "n",
+                "z",
+                "o",
+                "s",
+                "cbc"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "cbc"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "ildhqojr",
+        "expected_output": [
+            [
+                "i",
+                "l",
+                "d",
+                "h",
+                "q",
+                "o",
+                "j",
+                "r"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "awprl",
+        "expected_output": [
+            [
+                "a",
+                "w",
+                "p",
+                "r",
+                "l"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "rlkqtwf",
+        "expected_output": [
+            [
+                "r",
+                "l",
+                "k",
+                "q",
+                "t",
+                "w",
+                "f"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "hdsfsdelpq",
+        "expected_output": [
+            [
+                "h",
+                "d",
+                "s",
+                "f",
+                "s",
+                "d",
+                "e",
+                "l",
+                "p",
+                "q"
+            ],
+            [
+                "h",
+                "d",
+                "sfs",
+                "d",
+                "e",
+                "l",
+                "p",
+                "q"
+            ],
+            [
+                "h",
+                "dsfsd",
+                "e",
+                "l",
+                "p",
+                "q"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "sfs"
+            ],
+            [
+                "dsfsd"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "puhkigvzgmiqihqf",
+        "expected_output": [
+            [
+                "p",
+                "u",
+                "h",
+                "k",
+                "i",
+                "g",
+                "v",
+                "z",
+                "g",
+                "m",
+                "i",
+                "q",
+                "i",
+                "h",
+                "q",
+                "f"
+            ],
+            [
+                "p",
+                "u",
+                "h",
+                "k",
+                "i",
+                "g",
+                "v",
+                "z",
+                "g",
+                "m",
+                "iqi",
+                "h",
+                "q",
+                "f"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "iqi"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "bccebprbo",
+        "expected_output": [
+            [
+                "b",
+                "c",
+                "c",
+                "e",
+                "b",
+                "p",
+                "r",
+                "b",
+                "o"
+            ],
+            [
+                "b",
+                "cc",
+                "e",
+                "b",
+                "p",
+                "r",
+                "b",
+                "o"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "cc"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "ycm",
+        "expected_output": [
+            [
+                "y",
+                "c",
+                "m"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "fub",
+        "expected_output": [
+            [
+                "f",
+                "u",
+                "b"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "dwumbradlxis",
+        "expected_output": [
+            [
+                "d",
+                "w",
+                "u",
+                "m",
+                "b",
+                "r",
+                "a",
+                "d",
+                "l",
+                "x",
+                "i",
+                "s"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "quhwbrjtyed",
+        "expected_output": [
+            [
+                "q",
+                "u",
+                "h",
+                "w",
+                "b",
+                "r",
+                "j",
+                "t",
+                "y",
+                "e",
+                "d"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "b",
+        "expected_output": [
+            [
+                "b"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "ygtenwifou",
+        "expected_output": [
+            [
+                "y",
+                "g",
+                "t",
+                "e",
+                "n",
+                "w",
+                "i",
+                "f",
+                "o",
+                "u"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "ii",
+        "expected_output": [
+            [
+                "i",
+                "i"
+            ],
+            [
+                "ii"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "ii"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "grsqvxgqsgjjbqk",
+        "expected_output": [
+            [
+                "g",
+                "r",
+                "s",
+                "q",
+                "v",
+                "x",
+                "g",
+                "q",
+                "s",
+                "g",
+                "j",
+                "j",
+                "b",
+                "q",
+                "k"
+            ],
+            [
+                "g",
+                "r",
+                "s",
+                "q",
+                "v",
+                "x",
+                "g",
+                "q",
+                "s",
+                "g",
+                "jj",
+                "b",
+                "q",
+                "k"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "jj"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "whcxw",
+        "expected_output": [
+            [
+                "w",
+                "h",
+                "c",
+                "x",
+                "w"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "cytdape",
+        "expected_output": [
+            [
+                "c",
+                "y",
+                "t",
+                "d",
+                "a",
+                "p",
+                "e"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "woquucgysvy",
+        "expected_output": [
+            [
+                "w",
+                "o",
+                "q",
+                "u",
+                "u",
+                "c",
+                "g",
+                "y",
+                "s",
+                "v",
+                "y"
+            ],
+            [
+                "w",
+                "o",
+                "q",
+                "uu",
+                "c",
+                "g",
+                "y",
+                "s",
+                "v",
+                "y"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "uu"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "swwxesldksm",
+        "expected_output": [
+            [
+                "s",
+                "w",
+                "w",
+                "x",
+                "e",
+                "s",
+                "l",
+                "d",
+                "k",
+                "s",
+                "m"
+            ],
+            [
+                "s",
+                "ww",
+                "x",
+                "e",
+                "s",
+                "l",
+                "d",
+                "k",
+                "s",
+                "m"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "ww"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "fnpzghybebdywat",
+        "expected_output": [
+            [
+                "f",
+                "n",
+                "p",
+                "z",
+                "g",
+                "h",
+                "y",
+                "b",
+                "e",
+                "b",
+                "d",
+                "y",
+                "w",
+                "a",
+                "t"
+            ],
+            [
+                "f",
+                "n",
+                "p",
+                "z",
+                "g",
+                "h",
+                "y",
+                "beb",
+                "d",
+                "y",
+                "w",
+                "a",
+                "t"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "beb"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "dteqfkydwrcmdqik",
+        "expected_output": [
+            [
+                "d",
+                "t",
+                "e",
+                "q",
+                "f",
+                "k",
+                "y",
+                "d",
+                "w",
+                "r",
+                "c",
+                "m",
+                "d",
+                "q",
+                "i",
+                "k"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "omfukvpue",
+        "expected_output": [
+            [
+                "o",
+                "m",
+                "f",
+                "u",
+                "k",
+                "v",
+                "p",
+                "u",
+                "e"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "vmrmnojulwkb",
+        "expected_output": [
+            [
+                "v",
+                "m",
+                "r",
+                "m",
+                "n",
+                "o",
+                "j",
+                "u",
+                "l",
+                "w",
+                "k",
+                "b"
+            ],
+            [
+                "v",
+                "mrm",
+                "n",
+                "o",
+                "j",
+                "u",
+                "l",
+                "w",
+                "k",
+                "b"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "mrm"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "vswcj",
+        "expected_output": [
+            [
+                "v",
+                "s",
+                "w",
+                "c",
+                "j"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "vowgayfemiyz",
+        "expected_output": [
+            [
+                "v",
+                "o",
+                "w",
+                "g",
+                "a",
+                "y",
+                "f",
+                "e",
+                "m",
+                "i",
+                "y",
+                "z"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "bmn",
+        "expected_output": [
+            [
+                "b",
+                "m",
+                "n"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "bf",
+        "expected_output": [
+            [
+                "b",
+                "f"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "mewcvxrfejptguv",
+        "expected_output": [
+            [
+                "m",
+                "e",
+                "w",
+                "c",
+                "v",
+                "x",
+                "r",
+                "f",
+                "e",
+                "j",
+                "p",
+                "t",
+                "g",
+                "u",
+                "v"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "rmrfjpetbzdmvxug",
+        "expected_output": [
+            [
+                "r",
+                "m",
+                "r",
+                "f",
+                "j",
+                "p",
+                "e",
+                "t",
+                "b",
+                "z",
+                "d",
+                "m",
+                "v",
+                "x",
+                "u",
+                "g"
+            ],
+            [
+                "rmr",
+                "f",
+                "j",
+                "p",
+                "e",
+                "t",
+                "b",
+                "z",
+                "d",
+                "m",
+                "v",
+                "x",
+                "u",
+                "g"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "rmr"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "xisqgjzex",
+        "expected_output": [
+            [
+                "x",
+                "i",
+                "s",
+                "q",
+                "g",
+                "j",
+                "z",
+                "e",
+                "x"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "ivqfsgm",
+        "expected_output": [
+            [
+                "i",
+                "v",
+                "q",
+                "f",
+                "s",
+                "g",
+                "m"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "gzcsry",
+        "expected_output": [
+            [
+                "g",
+                "z",
+                "c",
+                "s",
+                "r",
+                "y"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "afhjtzqcdbvshit",
+        "expected_output": [
+            [
+                "a",
+                "f",
+                "h",
+                "j",
+                "t",
+                "z",
+                "q",
+                "c",
+                "d",
+                "b",
+                "v",
+                "s",
+                "h",
+                "i",
+                "t"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "rnvkp",
+        "expected_output": [
+            [
+                "r",
+                "n",
+                "v",
+                "k",
+                "p"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "tiacpirnps",
+        "expected_output": [
+            [
+                "t",
+                "i",
+                "a",
+                "c",
+                "p",
+                "i",
+                "r",
+                "n",
+                "p",
+                "s"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "arrcfddspylv",
+        "expected_output": [
+            [
+                "a",
+                "r",
+                "r",
+                "c",
+                "f",
+                "d",
+                "d",
+                "s",
+                "p",
+                "y",
+                "l",
+                "v"
+            ],
+            [
+                "a",
+                "r",
+                "r",
+                "c",
+                "f",
+                "dd",
+                "s",
+                "p",
+                "y",
+                "l",
+                "v"
+            ],
+            [
+                "a",
+                "rr",
+                "c",
+                "f",
+                "d",
+                "d",
+                "s",
+                "p",
+                "y",
+                "l",
+                "v"
+            ],
+            [
+                "a",
+                "rr",
+                "c",
+                "f",
+                "dd",
+                "s",
+                "p",
+                "y",
+                "l",
+                "v"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "rr"
+            ],
+            [
+                "dd"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "niwjocokfwn",
+        "expected_output": [
+            [
+                "n",
+                "i",
+                "w",
+                "j",
+                "o",
+                "c",
+                "o",
+                "k",
+                "f",
+                "w",
+                "n"
+            ],
+            [
+                "n",
+                "i",
+                "w",
+                "j",
+                "oco",
+                "k",
+                "f",
+                "w",
+                "n"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "oco"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "pmncjewullchvf",
+        "expected_output": [
+            [
+                "p",
+                "m",
+                "n",
+                "c",
+                "j",
+                "e",
+                "w",
+                "u",
+                "l",
+                "l",
+                "c",
+                "h",
+                "v",
+                "f"
+            ],
+            [
+                "p",
+                "m",
+                "n",
+                "c",
+                "j",
+                "e",
+                "w",
+                "u",
+                "ll",
+                "c",
+                "h",
+                "v",
+                "f"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "ll"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "tstvgr",
+        "expected_output": [
+            [
+                "t",
+                "s",
+                "t",
+                "v",
+                "g",
+                "r"
+            ],
+            [
+                "tst",
+                "v",
+                "g",
+                "r"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "tst"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "zcigkiplkl",
+        "expected_output": [
+            [
+                "z",
+                "c",
+                "i",
+                "g",
+                "k",
+                "i",
+                "p",
+                "l",
+                "k",
+                "l"
+            ],
+            [
+                "z",
+                "c",
+                "i",
+                "g",
+                "k",
+                "i",
+                "p",
+                "lkl"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "lkl"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "pahzxsmv",
+        "expected_output": [
+            [
+                "p",
+                "a",
+                "h",
+                "z",
+                "x",
+                "s",
+                "m",
+                "v"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "kmyvlpupekmp",
+        "expected_output": [
+            [
+                "k",
+                "m",
+                "y",
+                "v",
+                "l",
+                "p",
+                "u",
+                "p",
+                "e",
+                "k",
+                "m",
+                "p"
+            ],
+            [
+                "k",
+                "m",
+                "y",
+                "v",
+                "l",
+                "pup",
+                "e",
+                "k",
+                "m",
+                "p"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "pup"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "wgcv",
+        "expected_output": [
+            [
+                "w",
+                "g",
+                "c",
+                "v"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "zlhv",
+        "expected_output": [
+            [
+                "z",
+                "l",
+                "h",
+                "v"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "wxvzitr",
+        "expected_output": [
+            [
+                "w",
+                "x",
+                "v",
+                "z",
+                "i",
+                "t",
+                "r"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "guptpnrwhbpxbvin",
+        "expected_output": [
+            [
+                "g",
+                "u",
+                "p",
+                "t",
+                "p",
+                "n",
+                "r",
+                "w",
+                "h",
+                "b",
+                "p",
+                "x",
+                "b",
+                "v",
+                "i",
+                "n"
+            ],
+            [
+                "g",
+                "u",
+                "ptp",
+                "n",
+                "r",
+                "w",
+                "h",
+                "b",
+                "p",
+                "x",
+                "b",
+                "v",
+                "i",
+                "n"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "ptp"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "wmsrmtfjgxpj",
+        "expected_output": [
+            [
+                "w",
+                "m",
+                "s",
+                "r",
+                "m",
+                "t",
+                "f",
+                "j",
+                "g",
+                "x",
+                "p",
+                "j"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "tujog",
+        "expected_output": [
+            [
+                "t",
+                "u",
+                "j",
+                "o",
+                "g"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    },
+    {
+        "input": "iphmccgipnbxhmtd",
+        "expected_output": [
+            [
+                "i",
+                "p",
+                "h",
+                "m",
+                "c",
+                "c",
+                "g",
+                "i",
+                "p",
+                "n",
+                "b",
+                "x",
+                "h",
+                "m",
+                "t",
+                "d"
+            ],
+            [
+                "i",
+                "p",
+                "h",
+                "m",
+                "cc",
+                "g",
+                "i",
+                "p",
+                "n",
+                "b",
+                "x",
+                "h",
+                "m",
+                "t",
+                "d"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "cc"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "eototqezunvbzjhl",
+        "expected_output": [
+            [
+                "e",
+                "o",
+                "t",
+                "o",
+                "t",
+                "q",
+                "e",
+                "z",
+                "u",
+                "n",
+                "v",
+                "b",
+                "z",
+                "j",
+                "h",
+                "l"
+            ],
+            [
+                "e",
+                "o",
+                "tot",
+                "q",
+                "e",
+                "z",
+                "u",
+                "n",
+                "v",
+                "b",
+                "z",
+                "j",
+                "h",
+                "l"
+            ],
+            [
+                "e",
+                "oto",
+                "t",
+                "q",
+                "e",
+                "z",
+                "u",
+                "n",
+                "v",
+                "b",
+                "z",
+                "j",
+                "h",
+                "l"
+            ]
+        ],
+        "predicted_output": [
+            [
+                "oto"
+            ],
+            [
+                "tot"
+            ]
+        ],
+        "result": "different"
+    },
+    {
+        "input": "wzheuvbyjkoexg",
+        "expected_output": [
+            [
+                "w",
+                "z",
+                "h",
+                "e",
+                "u",
+                "v",
+                "b",
+                "y",
+                "j",
+                "k",
+                "o",
+                "e",
+                "x",
+                "g"
+            ]
+        ],
+        "predicted_output": [],
+        "result": "different"
+    }
+]

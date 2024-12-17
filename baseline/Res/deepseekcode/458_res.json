@@ -1,0 +1,502 @@
+[
+    {
+        "input": {
+            "buckets": 31,
+            "minutesToDie": 6,
+            "minutesToTest": 14
+        },
+        "expected_output": 4,
+        "predicted_output": 3,
+        "result": "different"
+    },
+    {
+        "input": {
+            "buckets": 64,
+            "minutesToDie": 13,
+            "minutesToTest": 39
+        },
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 26,
+            "minutesToDie": 40,
+            "minutesToTest": 48
+        },
+        "expected_output": 5,
+        "predicted_output": 5,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 46,
+            "minutesToDie": 42,
+            "minutesToTest": 42
+        },
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 72,
+            "minutesToDie": 30,
+            "minutesToTest": 34
+        },
+        "expected_output": 7,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": {
+            "buckets": 82,
+            "minutesToDie": 19,
+            "minutesToTest": 36
+        },
+        "expected_output": 7,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": {
+            "buckets": 58,
+            "minutesToDie": 27,
+            "minutesToTest": 32
+        },
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 78,
+            "minutesToDie": 41,
+            "minutesToTest": 42
+        },
+        "expected_output": 7,
+        "predicted_output": 7,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 75,
+            "minutesToDie": 48,
+            "minutesToTest": 48
+        },
+        "expected_output": 7,
+        "predicted_output": 7,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 95,
+            "minutesToDie": 36,
+            "minutesToTest": 42
+        },
+        "expected_output": 7,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": {
+            "buckets": 80,
+            "minutesToDie": 41,
+            "minutesToTest": 41
+        },
+        "expected_output": 7,
+        "predicted_output": 7,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 20,
+            "minutesToDie": 15,
+            "minutesToTest": 48
+        },
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 3,
+            "minutesToDie": 37,
+            "minutesToTest": 47
+        },
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 54,
+            "minutesToDie": 36,
+            "minutesToTest": 49
+        },
+        "expected_output": 6,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": {
+            "buckets": 71,
+            "minutesToDie": 40,
+            "minutesToTest": 43
+        },
+        "expected_output": 7,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": {
+            "buckets": 10,
+            "minutesToDie": 36,
+            "minutesToTest": 38
+        },
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 41,
+            "minutesToDie": 43,
+            "minutesToTest": 43
+        },
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 83,
+            "minutesToDie": 28,
+            "minutesToTest": 35
+        },
+        "expected_output": 7,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": {
+            "buckets": 71,
+            "minutesToDie": 9,
+            "minutesToTest": 24
+        },
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 70,
+            "minutesToDie": 25,
+            "minutesToTest": 44
+        },
+        "expected_output": 7,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": {
+            "buckets": 85,
+            "minutesToDie": 40,
+            "minutesToTest": 50
+        },
+        "expected_output": 7,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": {
+            "buckets": 13,
+            "minutesToDie": 7,
+            "minutesToTest": 37
+        },
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 47,
+            "minutesToDie": 7,
+            "minutesToTest": 37
+        },
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 100,
+            "minutesToDie": 37,
+            "minutesToTest": 50
+        },
+        "expected_output": 7,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": {
+            "buckets": 62,
+            "minutesToDie": 18,
+            "minutesToTest": 47
+        },
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 57,
+            "minutesToDie": 22,
+            "minutesToTest": 49
+        },
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 41,
+            "minutesToDie": 24,
+            "minutesToTest": 29
+        },
+        "expected_output": 6,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": {
+            "buckets": 58,
+            "minutesToDie": 9,
+            "minutesToTest": 44
+        },
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 76,
+            "minutesToDie": 33,
+            "minutesToTest": 44
+        },
+        "expected_output": 7,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": {
+            "buckets": 49,
+            "minutesToDie": 2,
+            "minutesToTest": 9
+        },
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 61,
+            "minutesToDie": 27,
+            "minutesToTest": 46
+        },
+        "expected_output": 6,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": {
+            "buckets": 14,
+            "minutesToDie": 10,
+            "minutesToTest": 36
+        },
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 17,
+            "minutesToDie": 20,
+            "minutesToTest": 48
+        },
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 42,
+            "minutesToDie": 8,
+            "minutesToTest": 48
+        },
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 51,
+            "minutesToDie": 26,
+            "minutesToTest": 35
+        },
+        "expected_output": 6,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": {
+            "buckets": 55,
+            "minutesToDie": 40,
+            "minutesToTest": 47
+        },
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 33,
+            "minutesToDie": 33,
+            "minutesToTest": 34
+        },
+        "expected_output": 6,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": {
+            "buckets": 39,
+            "minutesToDie": 49,
+            "minutesToTest": 50
+        },
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 62,
+            "minutesToDie": 3,
+            "minutesToTest": 37
+        },
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 77,
+            "minutesToDie": 9,
+            "minutesToTest": 13
+        },
+        "expected_output": 7,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": {
+            "buckets": 28,
+            "minutesToDie": 33,
+            "minutesToTest": 33
+        },
+        "expected_output": 5,
+        "predicted_output": 5,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 21,
+            "minutesToDie": 9,
+            "minutesToTest": 45
+        },
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 80,
+            "minutesToDie": 48,
+            "minutesToTest": 49
+        },
+        "expected_output": 7,
+        "predicted_output": 7,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 70,
+            "minutesToDie": 21,
+            "minutesToTest": 39
+        },
+        "expected_output": 7,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": {
+            "buckets": 61,
+            "minutesToDie": 44,
+            "minutesToTest": 47
+        },
+        "expected_output": 6,
+        "predicted_output": 6,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 13,
+            "minutesToDie": 44,
+            "minutesToTest": 50
+        },
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 6,
+            "minutesToDie": 40,
+            "minutesToTest": 49
+        },
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": {
+            "buckets": 93,
+            "minutesToDie": 27,
+            "minutesToTest": 37
+        },
+        "expected_output": 7,
+        "predicted_output": 6,
+        "result": "different"
+    },
+    {
+        "input": {
+            "buckets": 36,
+            "minutesToDie": 17,
+            "minutesToTest": 24
+        },
+        "expected_output": 6,
+        "predicted_output": 5,
+        "result": "different"
+    },
+    {
+        "input": {
+            "buckets": 15,
+            "minutesToDie": 48,
+            "minutesToTest": 50
+        },
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    }
+]

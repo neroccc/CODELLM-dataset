@@ -1,0 +1,1542 @@
+[
+    {
+        "input": {
+            "n": 456,
+            "primes": [
+                2,
+                3,
+                5,
+                7,
+                17,
+                23,
+                29,
+                37,
+                41,
+                47
+            ]
+        },
+        "expected_output": 2072,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 271,
+            "primes": [
+                11,
+                17,
+                31,
+                43
+            ]
+        },
+        "expected_output": 2001380777,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 627,
+            "primes": [
+                2,
+                13,
+                19,
+                29
+            ]
+        },
+        "expected_output": 69681664,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 221,
+            "primes": [
+                23,
+                37
+            ]
+        },
+        "expected_output": 164325976038924011395319590957,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 30,
+            "primes": [
+                41
+            ]
+        },
+        "expected_output": 58983677299744401560074115672359981890669066761,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 37,
+            "primes": [
+                5,
+                7,
+                11,
+                19,
+                23,
+                31,
+                41,
+                43
+            ]
+        },
+        "expected_output": 451,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 317,
+            "primes": [
+                2,
+                7,
+                11,
+                13,
+                23
+            ]
+        },
+        "expected_output": 46046,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 310,
+            "primes": [
+                2,
+                17,
+                29,
+                37
+            ]
+        },
+        "expected_output": 5152768,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 352,
+            "primes": [
+                17,
+                29
+            ]
+        },
+        "expected_output": 17396391880981085231699679025086101,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 165,
+            "primes": [
+                5,
+                17,
+                19,
+                43
+            ]
+        },
+        "expected_output": 7099285,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 198,
+            "primes": [
+                5,
+                11,
+                13,
+                37,
+                41,
+                43
+            ]
+        },
+        "expected_output": 190333,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 796,
+            "primes": [
+                5,
+                13,
+                17,
+                19,
+                23
+            ]
+        },
+        "expected_output": 174778955,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 212,
+            "primes": [
+                37
+            ]
+        },
+        "expected_output": 7772554539400327892755530672265188019585216716242653674862628024135307545778319877048169750272874419698753620585482880679051089495168549073652025403912410826061261595992163392190794898454116091177252273845282280194249461002830538019406777193323023326636921366660841822401857964687632818320463946550750961335865986128654674169344413,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 214,
+            "primes": [
+                2,
+                5,
+                7,
+                11,
+                13,
+                23,
+                29,
+                31,
+                41
+            ]
+        },
+        "expected_output": 1280,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 656,
+            "primes": [
+                2,
+                7,
+                29,
+                41,
+                43
+            ]
+        },
+        "expected_output": 5010446,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 719,
+            "primes": [
+                5,
+                7,
+                19,
+                31,
+                43,
+                47
+            ]
+        },
+        "expected_output": 15855175,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 31,
+            "primes": [
+                2,
+                3,
+                5,
+                17,
+                23,
+                29,
+                31,
+                41,
+                47
+            ]
+        },
+        "expected_output": 48,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 388,
+            "primes": [
+                3,
+                7,
+                23,
+                29,
+                41
+            ]
+        },
+        "expected_output": 1958887,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 377,
+            "primes": [
+                2,
+                17,
+                23,
+                29,
+                41,
+                47
+            ]
+        },
+        "expected_output": 287776,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 193,
+            "primes": [
+                2,
+                7,
+                11,
+                17,
+                37,
+                43
+            ]
+        },
+        "expected_output": 8624,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 7,
+            "primes": [
+                7,
+                11,
+                13,
+                23,
+                29,
+                31,
+                41,
+                43,
+                47
+            ]
+        },
+        "expected_output": 31,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 903,
+            "primes": [
+                3,
+                11,
+                17,
+                29,
+                37,
+                43
+            ]
+        },
+        "expected_output": 15173367,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 213,
+            "primes": [
+                5,
+                7,
+                11,
+                13,
+                37,
+                41,
+                43
+            ]
+        },
+        "expected_output": 32375,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 537,
+            "primes": [
+                3,
+                5,
+                7,
+                11,
+                19,
+                23,
+                31,
+                37,
+                43
+            ]
+        },
+        "expected_output": 19437,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 726,
+            "primes": [
+                5,
+                11
+            ]
+        },
+        "expected_output": 45167541163685059211492919921875,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 688,
+            "primes": [
+                2,
+                11,
+                29
+            ]
+        },
+        "expected_output": 96700628992,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 883,
+            "primes": [
+                2,
+                3,
+                5,
+                11,
+                13,
+                17,
+                31,
+                37,
+                47
+            ]
+        },
+        "expected_output": 9152,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 925,
+            "primes": [
+                13
+            ]
+        },
+        "expected_output": 1921575848029007981396672574202080133607278667071398682208309645091132778227593429054604414157529347547452182191862451587702982304813810690531011577288120772302715911125916247203379948942536582615257279200925857620766373507728507441747327373207016645341491609528653675120916168897052331087195147229075640698657078817365917846050150606821855298411964330702948903939258474821397174911747079119801595847423171464795869821276832486913708026489275466949369399578954901127854249198872854658734322616392259847141017030780758202891844304627077659761626157592455692700237566609688756231096549695503133112206771441906617796789235346093497814236039059567044434204311032222994282578434505887900920527805180228309984983825749481872965866757025110791306567216176327647630717245142484923924742835380448247962962020243533845546607627774388805913266532717891042154338513511851653488758994331494047902349094642089493279723412571123721692289088349384432119879464203167704516956209241695583487842898895609172949978339403861175617365178941730806501361,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 195,
+            "primes": [
+                2,
+                13,
+                17,
+                19,
+                29,
+                31,
+                47
+            ]
+        },
+        "expected_output": 9776,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 296,
+            "primes": [
+                5,
+                13,
+                17,
+                41
+            ]
+        },
+        "expected_output": 92328925,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 940,
+            "primes": [
+                3
+            ]
+        },
+        "expected_output": 10395806368374615239095352266708995309125070987554435506105666976911242116452146392697870121550151571907853758908442775006738351954138555003036277611189921675708118774576704396125099164227856966709497693154776915765451522030520615006978028335768033918944014990669521699247938972594039850769821371264699025916703589147941274481969112922828524319526346186318056894044393644419695013383356116348234923311987268940765433109231859672039984218934850342267,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 471,
+            "primes": [
+                2,
+                19,
+                23,
+                41,
+                43
+            ]
+        },
+        "expected_output": 3657322,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 53,
+            "primes": [
+                13,
+                19,
+                23,
+                29,
+                37,
+                41,
+                47
+            ]
+        },
+        "expected_output": 10127,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 890,
+            "primes": [
+                3,
+                5,
+                11,
+                13,
+                19,
+                23,
+                31,
+                37,
+                43,
+                47
+            ]
+        },
+        "expected_output": 59643,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 425,
+            "primes": [
+                7
+            ]
+        },
+        "expected_output": 20968577352548665321270897598811620900883893257092023650518424863762701305100704518241842533294006079870200244807525821333706943834237995123646530625978079152358409383757309709939875322815765217916172156796168946492790097541408891087987266036816722218073298238483529553759244709215375020483474058814710045045926906674828708053378551931003929576980942134654401,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 500,
+            "primes": [
+                11,
+                43
+            ]
+        },
+        "expected_output": 7218380105078805305478634976708132124721,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 370,
+            "primes": [
+                3,
+                5,
+                11,
+                13,
+                17,
+                41,
+                43,
+                47
+            ]
+        },
+        "expected_output": 21801,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 448,
+            "primes": [
+                3,
+                7,
+                11,
+                17,
+                19,
+                31,
+                41,
+                43
+            ]
+        },
+        "expected_output": 49419,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 4,
+            "primes": [
+                3,
+                5,
+                17,
+                23,
+                29,
+                41
+            ]
+        },
+        "expected_output": 9,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 904,
+            "primes": [
+                2,
+                7,
+                11,
+                13,
+                29,
+                37,
+                43
+            ]
+        },
+        "expected_output": 235298,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 423,
+            "primes": [
+                2,
+                5,
+                7,
+                31
+            ]
+        },
+        "expected_output": 392000,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 634,
+            "primes": [
+                19,
+                29
+            ]
+        },
+        "expected_output": 212518915298794139199072521317716861082079834539,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 480,
+            "primes": [
+                7,
+                11,
+                41,
+                43,
+                47
+            ]
+        },
+        "expected_output": 274352771,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 856,
+            "primes": [
+                37,
+                41,
+                43
+            ]
+        },
+        "expected_output": 32595029452985585760373999,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 830,
+            "primes": [
+                3,
+                7,
+                17,
+                29,
+                31,
+                37,
+                41
+            ]
+        },
+        "expected_output": 1400273,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 146,
+            "primes": [
+                3,
+                19
+            ]
+        },
+        "expected_output": 2778012227169,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 755,
+            "primes": [
+                19
+            ]
+        },
+        "expected_output": 15143111441617533564558669935830845384457248830977712924724954629894214820173151158683898612485606667205211414189306450513255512983576398972957070957438613175259307001677040803441829791819381052282575960707785173337437397154715207190478067200621430338459474324410450272031370126945643414471973863577504425523715694602270332266033377685675791138807209978050013733586970870633931946132416571027609837010733762979474880984105199336366430382615966873146308060995041691289856472372535031502155045565615087339078509613286911463805085285489268365160911177363812043805360054525422695756497850283028373774999587895527788679649118615932895042165457464641672673075968819530140061640862824249258180702594855157094351539353064055224328431257714271785262848447393824754966505791768568126714953409545540484363607117381339605954407292647990831702034034762734083796822829460815355058106365351793655356618058601200427716200144681012680253894696150986934477800792704781964168257665321,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 924,
+            "primes": [
+                2,
+                5,
+                31,
+                47
+            ]
+        },
+        "expected_output": 236421376,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 207,
+            "primes": [
+                3,
+                47
+            ]
+        },
+        "expected_output": 150094635296999121,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 36,
+            "primes": [
+                2,
+                3,
+                5,
+                11,
+                19,
+                29,
+                37,
+                41,
+                43,
+                47
+            ]
+        },
+        "expected_output": 54,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 831,
+            "primes": [
+                2,
+                3,
+                7,
+                11,
+                17,
+                19,
+                23,
+                37,
+                47
+            ]
+        },
+        "expected_output": 10857,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 617,
+            "primes": [
+                2,
+                7,
+                11,
+                13,
+                19,
+                29,
+                31,
+                41,
+                47
+            ]
+        },
+        "expected_output": 23548,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 773,
+            "primes": [
+                7,
+                43
+            ]
+        },
+        "expected_output": 900663716429927587591696883592153726702586849,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 234,
+            "primes": [
+                3,
+                47
+            ]
+        },
+        "expected_output": 1420176570367411323,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 737,
+            "primes": [
+                2,
+                3,
+                5,
+                11,
+                19,
+                31,
+                37,
+                41,
+                43
+            ]
+        },
+        "expected_output": 8712,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 398,
+            "primes": [
+                37
+            ]
+        },
+        "expected_output": 37677706139555809521156507921737056163500964023797729888844671611714555326567800661818725298608677941756297916155064571938716441578080975855701530095011693104767663881695600013416577705359045780783674781013568943092422340473341699015926501639547099334238219405537728955628217288487777036039139653496924114117636623062894248508031412886632572753538891281573749312006862861318391877775698214871712304523773005026904040117846040313551766016219262417624472837577666702689902125309563468223310807122268526309523984978936606041821832854501235704360465005582105680435841308189156051161203767200397635992417707318708856245702443317,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 665,
+            "primes": [
+                2,
+                5,
+                11,
+                13,
+                23,
+                29,
+                41,
+                43
+            ]
+        },
+        "expected_output": 35090,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 486,
+            "primes": [
+                2,
+                13,
+                17,
+                19,
+                23,
+                31,
+                43
+            ]
+        },
+        "expected_output": 96148,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 53,
+            "primes": [
+                5,
+                11,
+                13,
+                17,
+                19,
+                29,
+                31,
+                41,
+                43,
+                47
+            ]
+        },
+        "expected_output": 697,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 256,
+            "primes": [
+                2,
+                3,
+                7,
+                11,
+                13,
+                19,
+                29,
+                31,
+                43,
+                47
+            ]
+        },
+        "expected_output": 992,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 82,
+            "primes": [
+                2,
+                3,
+                7,
+                29,
+                37,
+                47
+            ]
+        },
+        "expected_output": 441,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 507,
+            "primes": [
+                2,
+                5,
+                7,
+                11,
+                13,
+                23,
+                29,
+                31,
+                41
+            ]
+        },
+        "expected_output": 6601,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 875,
+            "primes": [
+                7,
+                37,
+                41
+            ]
+        },
+        "expected_output": 248590692743115738463,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 470,
+            "primes": [
+                5,
+                13,
+                17,
+                29,
+                31,
+                47
+            ]
+        },
+        "expected_output": 4515625,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 757,
+            "primes": [
+                3,
+                23
+            ]
+        },
+        "expected_output": 2789098739322604158430342129221,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 812,
+            "primes": [
+                5
+            ]
+        },
+        "expected_output": 732273834909976052157052948060578785908184421991752098602214085750835378834077296274886781444050213009028148255862236814152168702456772572832703029968368056705154405971234842909381403468075757278523247203528597747248116255142584759914791001231780656643545322498559557468446452516236395692018093168256592859830437104821084434034672898142760783735906291564567686665695032030910746435309344470264197688925097421310956624425032023464781741049266318296894686731559596179867727754448709789198282764223277974554124557182005108757938578734059120733945746906101703643798828125,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 420,
+            "primes": [
+                3,
+                5,
+                17
+            ]
+        },
+        "expected_output": 845650125,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 608,
+            "primes": [
+                2,
+                3,
+                7,
+                13,
+                23,
+                29,
+                47
+            ]
+        },
+        "expected_output": 16704,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 179,
+            "primes": [
+                5,
+                7,
+                11,
+                13,
+                19,
+                29,
+                43
+            ]
+        },
+        "expected_output": 14749,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 30,
+            "primes": [
+                2,
+                3,
+                5,
+                7,
+                11,
+                19,
+                29,
+                31,
+                37,
+                41
+            ]
+        },
+        "expected_output": 35,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 685,
+            "primes": [
+                7,
+                19,
+                43
+            ]
+        },
+        "expected_output": 297394093761051169,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 996,
+            "primes": [
+                3,
+                13,
+                17,
+                31,
+                41,
+                43
+            ]
+        },
+        "expected_output": 31261113,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 285,
+            "primes": [
+                5,
+                13,
+                19,
+                29,
+                37,
+                41
+            ]
+        },
+        "expected_output": 798475,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 28,
+            "primes": [
+                3,
+                7,
+                13,
+                17,
+                19,
+                23,
+                37,
+                41
+            ]
+        },
+        "expected_output": 161,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 101,
+            "primes": [
+                2,
+                3,
+                5,
+                7,
+                11,
+                19,
+                29,
+                31,
+                47
+            ]
+        },
+        "expected_output": 180,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 19,
+            "primes": [
+                2,
+                5,
+                7,
+                23,
+                29,
+                43
+            ]
+        },
+        "expected_output": 46,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 320,
+            "primes": [
+                7,
+                17,
+                47
+            ]
+        },
+        "expected_output": 11059188473599,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 392,
+            "primes": [
+                11,
+                23
+            ]
+        },
+        "expected_output": 132555812097775318306539143751059,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 401,
+            "primes": [
+                2,
+                7,
+                11,
+                13,
+                17,
+                23,
+                29,
+                31,
+                43,
+                47
+            ]
+        },
+        "expected_output": 6149,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 598,
+            "primes": [
+                2,
+                41,
+                47
+            ]
+        },
+        "expected_output": 3229815406592,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 485,
+            "primes": [
+                37,
+                41
+            ]
+        },
+        "expected_output": 781829840606936901568146371124905715205297859093,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 868,
+            "primes": [
+                2,
+                3,
+                5,
+                11,
+                23,
+                41,
+                43
+            ]
+        },
+        "expected_output": 28512,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 71,
+            "primes": [
+                17,
+                23,
+                41
+            ]
+        },
+        "expected_output": 256992961,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 512,
+            "primes": [
+                2,
+                3,
+                5,
+                7,
+                11,
+                19,
+                31,
+                37,
+                47
+            ]
+        },
+        "expected_output": 2565,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 180,
+            "primes": [
+                5,
+                7,
+                13,
+                19,
+                23,
+                41,
+                47
+            ]
+        },
+        "expected_output": 23575,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 270,
+            "primes": [
+                13,
+                29,
+                37,
+                41,
+                47
+            ]
+        },
+        "expected_output": 123988961,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 160,
+            "primes": [
+                13,
+                19,
+                29,
+                37,
+                43,
+                47
+            ]
+        },
+        "expected_output": 889369,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 303,
+            "primes": [
+                11,
+                19,
+                29,
+                43
+            ]
+        },
+        "expected_output": 4851240379,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 801,
+            "primes": [
+                2,
+                5,
+                13,
+                17,
+                23,
+                29,
+                31,
+                41,
+                47
+            ]
+        },
+        "expected_output": 41905,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 510,
+            "primes": [
+                17
+            ]
+        },
+        "expected_output": 198838730431134783513968379730418343647026397801888559210923868631662358437958048391166534334016387433218175455959652801033553806095155897018553653641671757522295924974045757562380076523763369176554892786722077612701311621030101918158701923543763041679464100392239592663509185249658043795064015947653282160325442961512132098430108226689085031105554600728464932224390629871207791940328048196199518077247985697871342907781713578397860232437169707451391622472960704091968792466024277270476279167604063839293107322112804391582125475791726894679547574761490689306872192634639221213683070463849713350851465450006556891916039763756497,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 519,
+            "primes": [
+                2,
+                3,
+                11,
+                13,
+                17,
+                29,
+                37,
+                43,
+                47
+            ]
+        },
+        "expected_output": 7072,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 250,
+            "primes": [
+                41
+            ]
+        },
+        "expected_output": 382983728808094244893117346599130220158140458506645770562369691975580997923185009272710019183504374408469050887243871223968992812020454741431936044502368817599875314019661154285814358934124005123917372270533268761535050761270309456295903341609237961631982619533075384299059081580540462076779829336366286246933658159323163141678974505139666092245514845065697928780440026304569589509121792834172821507561,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 468,
+            "primes": [
+                2,
+                3,
+                29
+            ]
+        },
+        "expected_output": 19131876,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 114,
+            "primes": [
+                2,
+                11,
+                13,
+                19,
+                29,
+                31,
+                43
+            ]
+        },
+        "expected_output": 2048,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 591,
+            "primes": [
+                2,
+                13,
+                23,
+                31,
+                43,
+                47
+            ]
+        },
+        "expected_output": 1168561,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 5,
+            "primes": [
+                3,
+                17,
+                23
+            ]
+        },
+        "expected_output": 23,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 948,
+            "primes": [
+                3,
+                11,
+                13,
+                17,
+                19,
+                29,
+                31,
+                37,
+                41,
+                47
+            ]
+        },
+        "expected_output": 164169,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 429,
+            "primes": [
+                2,
+                3,
+                13,
+                17,
+                19,
+                37,
+                43,
+                47
+            ]
+        },
+        "expected_output": 8436,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 230,
+            "primes": [
+                29,
+                31,
+                37
+            ]
+        },
+        "expected_output": 627714491001361,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 486,
+            "primes": [
+                2,
+                3,
+                5,
+                11,
+                31,
+                37
+            ]
+        },
+        "expected_output": 11264,
+        "predicted_output": 1,
+        "result": "different"
+    }
+]

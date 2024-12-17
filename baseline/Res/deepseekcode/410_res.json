@@ -1,0 +1,2071 @@
+[
+    {
+        "input": {
+            "nums": [
+                91,
+                29,
+                44,
+                43,
+                21,
+                71,
+                29,
+                50,
+                71,
+                10,
+                4,
+                67,
+                69,
+                90,
+                30,
+                99,
+                19,
+                51,
+                63,
+                99
+            ],
+            "k": 4
+        },
+        "expected_output": 299,
+        "predicted_output": 171,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                66,
+                34,
+                34,
+                7,
+                27,
+                50,
+                46,
+                78,
+                25,
+                14,
+                72,
+                29,
+                51,
+                18
+            ],
+            "k": 5
+        },
+        "expected_output": 124,
+        "predicted_output": 78,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                51
+            ],
+            "k": 1
+        },
+        "expected_output": 51,
+        "predicted_output": 51,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                7,
+                77,
+                15,
+                4,
+                6,
+                91,
+                42,
+                93,
+                72,
+                90,
+                77,
+                71,
+                87,
+                91
+            ],
+            "k": 5
+        },
+        "expected_output": 200,
+        "predicted_output": 99,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                46
+            ],
+            "k": 1
+        },
+        "expected_output": 46,
+        "predicted_output": 46,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                76,
+                95,
+                41,
+                91,
+                32,
+                35,
+                69,
+                85,
+                15,
+                13,
+                10,
+                98,
+                31,
+                75,
+                28,
+                93,
+                49,
+                96,
+                97
+            ],
+            "k": 1
+        },
+        "expected_output": 1129,
+        "predicted_output": 363,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                72,
+                57,
+                45,
+                76,
+                21,
+                90,
+                52,
+                21,
+                59,
+                18,
+                56,
+                0,
+                90
+            ],
+            "k": 1
+        },
+        "expected_output": 657,
+        "predicted_output": 111,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                53,
+                64,
+                96
+            ],
+            "k": 3
+        },
+        "expected_output": 96,
+        "predicted_output": 96,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                34,
+                47,
+                20,
+                40
+            ],
+            "k": 4
+        },
+        "expected_output": 47,
+        "predicted_output": 47,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                57,
+                42,
+                76,
+                64,
+                91,
+                93,
+                80,
+                84,
+                88,
+                97,
+                83,
+                76,
+                75,
+                87,
+                62,
+                25,
+                84,
+                39
+            ],
+            "k": 5
+        },
+        "expected_output": 297,
+        "predicted_output": 180,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                100,
+                9,
+                31,
+                73,
+                8,
+                60,
+                94,
+                50,
+                43,
+                65,
+                48
+            ],
+            "k": 3
+        },
+        "expected_output": 213,
+        "predicted_output": 140,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                10,
+                64,
+                82,
+                52,
+                23
+            ],
+            "k": 4
+        },
+        "expected_output": 82,
+        "predicted_output": 82,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                30,
+                25,
+                11,
+                80,
+                54,
+                29,
+                63,
+                33,
+                39,
+                21,
+                37,
+                66,
+                82,
+                39,
+                46,
+                57,
+                6,
+                85,
+                2,
+                84
+            ],
+            "k": 1
+        },
+        "expected_output": 889,
+        "predicted_output": 130,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                36
+            ],
+            "k": 1
+        },
+        "expected_output": 36,
+        "predicted_output": 36,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                0,
+                36,
+                42,
+                100,
+                4,
+                43,
+                42,
+                37,
+                59,
+                61
+            ],
+            "k": 1
+        },
+        "expected_output": 424,
+        "predicted_output": 199,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                18,
+                6,
+                59,
+                80,
+                36,
+                98
+            ],
+            "k": 5
+        },
+        "expected_output": 98,
+        "predicted_output": 98,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                2,
+                48,
+                9,
+                68
+            ],
+            "k": 3
+        },
+        "expected_output": 68,
+        "predicted_output": 68,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                87,
+                7,
+                65,
+                96,
+                47,
+                62,
+                60,
+                55,
+                35,
+                29,
+                55,
+                0
+            ],
+            "k": 5
+        },
+        "expected_output": 159,
+        "predicted_output": 96,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                35,
+                51,
+                4,
+                38,
+                40,
+                3,
+                28,
+                88,
+                86,
+                74,
+                45,
+                59,
+                88
+            ],
+            "k": 3
+        },
+        "expected_output": 248,
+        "predicted_output": 128,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                59,
+                32,
+                67,
+                38,
+                100,
+                23,
+                53,
+                92,
+                2,
+                64,
+                87,
+                62,
+                6
+            ],
+            "k": 3
+        },
+        "expected_output": 268,
+        "predicted_output": 100,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                88,
+                22,
+                72
+            ],
+            "k": 3
+        },
+        "expected_output": 88,
+        "predicted_output": 88,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                70,
+                11,
+                62,
+                40,
+                24,
+                31,
+                68,
+                99
+            ],
+            "k": 4
+        },
+        "expected_output": 123,
+        "predicted_output": 99,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                50,
+                69,
+                54,
+                57,
+                59,
+                73,
+                52,
+                38
+            ],
+            "k": 5
+        },
+        "expected_output": 119,
+        "predicted_output": 73,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                32,
+                31,
+                84,
+                2,
+                92,
+                93,
+                74,
+                77,
+                62,
+                22,
+                8,
+                86,
+                7,
+                44,
+                41,
+                29,
+                31
+            ],
+            "k": 2
+        },
+        "expected_output": 408,
+        "predicted_output": 149,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                27,
+                16,
+                100,
+                88,
+                32,
+                70,
+                6,
+                78,
+                25
+            ],
+            "k": 1
+        },
+        "expected_output": 442,
+        "predicted_output": 100,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                97,
+                44,
+                66,
+                65,
+                98,
+                46,
+                93
+            ],
+            "k": 1
+        },
+        "expected_output": 509,
+        "predicted_output": 98,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                38,
+                95,
+                83,
+                80,
+                23,
+                13,
+                70,
+                95,
+                70,
+                96,
+                28,
+                71,
+                28,
+                36
+            ],
+            "k": 3
+        },
+        "expected_output": 296,
+        "predicted_output": 106,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                48,
+                90,
+                78,
+                81,
+                11,
+                90,
+                18,
+                60,
+                10,
+                83
+            ],
+            "k": 1
+        },
+        "expected_output": 569,
+        "predicted_output": 171,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                34,
+                90,
+                35,
+                94,
+                63
+            ],
+            "k": 5
+        },
+        "expected_output": 94,
+        "predicted_output": 94,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                81,
+                55
+            ],
+            "k": 1
+        },
+        "expected_output": 136,
+        "predicted_output": 81,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                5,
+                87
+            ],
+            "k": 2
+        },
+        "expected_output": 87,
+        "predicted_output": 87,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                66,
+                92,
+                6,
+                33,
+                80,
+                22,
+                80,
+                4,
+                36,
+                31,
+                81,
+                96,
+                24,
+                15,
+                8
+            ],
+            "k": 4
+        },
+        "expected_output": 197,
+        "predicted_output": 96,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                70,
+                24,
+                66,
+                92,
+                58,
+                15,
+                70,
+                51,
+                24,
+                69,
+                74,
+                59,
+                6
+            ],
+            "k": 1
+        },
+        "expected_output": 678,
+        "predicted_output": 92,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                73,
+                52,
+                8,
+                7,
+                67,
+                29,
+                53,
+                54,
+                66,
+                41,
+                64,
+                97
+            ],
+            "k": 3
+        },
+        "expected_output": 207,
+        "predicted_output": 140,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                24,
+                13,
+                80,
+                29,
+                47,
+                93,
+                7,
+                47,
+                95
+            ],
+            "k": 4
+        },
+        "expected_output": 142,
+        "predicted_output": 95,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                24,
+                9,
+                43,
+                2,
+                0,
+                92,
+                44,
+                25,
+                21,
+                69,
+                16,
+                4,
+                66,
+                54,
+                87,
+                87,
+                62,
+                42
+            ],
+            "k": 2
+        },
+        "expected_output": 398,
+        "predicted_output": 104,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                10,
+                76,
+                79,
+                37,
+                1,
+                3,
+                46,
+                82,
+                26,
+                96,
+                89,
+                12,
+                76,
+                27,
+                55,
+                51,
+                61,
+                35
+            ],
+            "k": 4
+        },
+        "expected_output": 250,
+        "predicted_output": 147,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                33,
+                34,
+                96,
+                9,
+                2,
+                16,
+                52,
+                7
+            ],
+            "k": 5
+        },
+        "expected_output": 96,
+        "predicted_output": 96,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                94,
+                77,
+                91,
+                94,
+                17,
+                51,
+                58,
+                90
+            ],
+            "k": 4
+        },
+        "expected_output": 168,
+        "predicted_output": 94,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                4,
+                17,
+                66,
+                24,
+                90,
+                1,
+                77,
+                68,
+                95,
+                13,
+                58,
+                31,
+                19,
+                86,
+                76,
+                88
+            ],
+            "k": 1
+        },
+        "expected_output": 813,
+        "predicted_output": 136,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                89,
+                47,
+                68,
+                45,
+                72,
+                19,
+                26,
+                6,
+                42,
+                90,
+                9,
+                55,
+                13,
+                57,
+                29
+            ],
+            "k": 2
+        },
+        "expected_output": 340,
+        "predicted_output": 90,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                100,
+                30,
+                90,
+                58,
+                9,
+                27,
+                100,
+                61,
+                21
+            ],
+            "k": 1
+        },
+        "expected_output": 496,
+        "predicted_output": 100,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                64,
+                56,
+                23,
+                1,
+                91,
+                39,
+                18,
+                60,
+                7,
+                61,
+                67,
+                38,
+                36
+            ],
+            "k": 3
+        },
+        "expected_output": 209,
+        "predicted_output": 131,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                80,
+                39,
+                8,
+                68,
+                34,
+                85,
+                68,
+                47,
+                48,
+                60,
+                1,
+                72
+            ],
+            "k": 2
+        },
+        "expected_output": 314,
+        "predicted_output": 127,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                92
+            ],
+            "k": 1
+        },
+        "expected_output": 92,
+        "predicted_output": 92,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                16,
+                27,
+                27,
+                14,
+                56,
+                99,
+                92
+            ],
+            "k": 1
+        },
+        "expected_output": 331,
+        "predicted_output": 140,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                34,
+                10,
+                80,
+                68,
+                83
+            ],
+            "k": 3
+        },
+        "expected_output": 124,
+        "predicted_output": 83,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                45,
+                32,
+                42,
+                6,
+                30,
+                40,
+                88
+            ],
+            "k": 4
+        },
+        "expected_output": 88,
+        "predicted_output": 88,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                45,
+                23,
+                32,
+                49,
+                40,
+                20,
+                29,
+                14,
+                16,
+                45,
+                69,
+                72,
+                79,
+                82,
+                1,
+                88,
+                31,
+                41
+            ],
+            "k": 5
+        },
+        "expected_output": 164,
+        "predicted_output": 88,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                86,
+                23,
+                16,
+                81,
+                80,
+                88,
+                64,
+                72,
+                71,
+                62,
+                25,
+                7,
+                99,
+                68,
+                88,
+                39,
+                84,
+                1,
+                19,
+                27
+            ],
+            "k": 5
+        },
+        "expected_output": 255,
+        "predicted_output": 99,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                48,
+                29,
+                88,
+                2,
+                9
+            ],
+            "k": 2
+        },
+        "expected_output": 99,
+        "predicted_output": 88,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                46,
+                85,
+                80,
+                9,
+                8,
+                21,
+                37,
+                83,
+                7,
+                84,
+                68,
+                100,
+                70,
+                42,
+                74,
+                88,
+                89,
+                74
+            ],
+            "k": 3
+        },
+        "expected_output": 369,
+        "predicted_output": 100,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                88,
+                6,
+                46
+            ],
+            "k": 2
+        },
+        "expected_output": 88,
+        "predicted_output": 88,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                42,
+                51,
+                1,
+                27,
+                95,
+                62,
+                26,
+                7
+            ],
+            "k": 1
+        },
+        "expected_output": 311,
+        "predicted_output": 95,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                98,
+                70,
+                41,
+                60,
+                47,
+                79,
+                40,
+                73,
+                21,
+                87,
+                79,
+                19,
+                39,
+                66,
+                47,
+                49,
+                31,
+                98,
+                26,
+                79
+            ],
+            "k": 3
+        },
+        "expected_output": 396,
+        "predicted_output": 105,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                89,
+                41,
+                12,
+                82,
+                20,
+                41,
+                35,
+                52,
+                30,
+                31,
+                24,
+                14,
+                1,
+                82,
+                71,
+                80,
+                34,
+                94,
+                52
+            ],
+            "k": 5
+        },
+        "expected_output": 224,
+        "predicted_output": 100,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                60,
+                57,
+                38,
+                92,
+                63,
+                45,
+                88
+            ],
+            "k": 1
+        },
+        "expected_output": 443,
+        "predicted_output": 196,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                34,
+                44,
+                14,
+                63,
+                62,
+                88,
+                16,
+                26,
+                27,
+                78,
+                51,
+                9,
+                61,
+                32,
+                0,
+                30,
+                89
+            ],
+            "k": 4
+        },
+        "expected_output": 212,
+        "predicted_output": 121,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                40
+            ],
+            "k": 1
+        },
+        "expected_output": 40,
+        "predicted_output": 40,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                91,
+                91,
+                51,
+                88,
+                96,
+                60,
+                40
+            ],
+            "k": 2
+        },
+        "expected_output": 284,
+        "predicted_output": 96,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                73,
+                69,
+                24,
+                22,
+                23,
+                62,
+                5,
+                33,
+                58,
+                12,
+                23
+            ],
+            "k": 3
+        },
+        "expected_output": 142,
+        "predicted_output": 73,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                21,
+                40,
+                54,
+                15,
+                49,
+                37,
+                60,
+                31,
+                49,
+                13,
+                88,
+                87,
+                60,
+                77,
+                12,
+                11
+            ],
+            "k": 4
+        },
+        "expected_output": 188,
+        "predicted_output": 100,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                80,
+                24,
+                17,
+                51,
+                20
+            ],
+            "k": 3
+        },
+        "expected_output": 80,
+        "predicted_output": 80,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                54,
+                86,
+                43,
+                67,
+                48,
+                53,
+                26,
+                57,
+                45,
+                21,
+                68,
+                87,
+                74,
+                19,
+                23,
+                52,
+                0,
+                35,
+                31
+            ],
+            "k": 2
+        },
+        "expected_output": 455,
+        "predicted_output": 110,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                38,
+                13,
+                99,
+                23
+            ],
+            "k": 4
+        },
+        "expected_output": 99,
+        "predicted_output": 99,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                95,
+                65,
+                16,
+                70,
+                71,
+                94,
+                24,
+                20,
+                65,
+                100,
+                31,
+                52,
+                84,
+                16,
+                37
+            ],
+            "k": 2
+        },
+        "expected_output": 429,
+        "predicted_output": 100,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                18
+            ],
+            "k": 1
+        },
+        "expected_output": 18,
+        "predicted_output": 18,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                67,
+                13,
+                93,
+                33,
+                94,
+                79,
+                7,
+                11,
+                52,
+                43,
+                52,
+                85,
+                4,
+                51,
+                44,
+                85,
+                28,
+                85,
+                89,
+                9
+            ],
+            "k": 5
+        },
+        "expected_output": 232,
+        "predicted_output": 97,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                40
+            ],
+            "k": 1
+        },
+        "expected_output": 40,
+        "predicted_output": 40,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                33,
+                67,
+                93,
+                55,
+                45,
+                40,
+                36,
+                75,
+                66,
+                93,
+                69,
+                54,
+                81,
+                25,
+                87,
+                95
+            ],
+            "k": 3
+        },
+        "expected_output": 342,
+        "predicted_output": 216,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                75,
+                12,
+                13,
+                33,
+                4,
+                46,
+                43,
+                69,
+                55,
+                90,
+                73,
+                22,
+                15,
+                83,
+                60,
+                71,
+                52,
+                54,
+                67
+            ],
+            "k": 2
+        },
+        "expected_output": 497,
+        "predicted_output": 214,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                56,
+                46,
+                13,
+                0,
+                77,
+                51,
+                18,
+                45,
+                77,
+                87,
+                32,
+                76,
+                51
+            ],
+            "k": 1
+        },
+        "expected_output": 629,
+        "predicted_output": 119,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                5,
+                63,
+                32,
+                89,
+                73,
+                63,
+                66,
+                96,
+                54,
+                31,
+                9,
+                45,
+                35,
+                99,
+                41,
+                19
+            ],
+            "k": 1
+        },
+        "expected_output": 820,
+        "predicted_output": 99,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                74,
+                70,
+                93,
+                18,
+                18,
+                7,
+                75,
+                76,
+                33,
+                81,
+                80,
+                66,
+                24,
+                43,
+                8,
+                37,
+                78,
+                38,
+                30,
+                48
+            ],
+            "k": 4
+        },
+        "expected_output": 273,
+        "predicted_output": 178,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                47
+            ],
+            "k": 1
+        },
+        "expected_output": 47,
+        "predicted_output": 47,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                34,
+                84,
+                37,
+                61,
+                36,
+                97,
+                39,
+                11,
+                94,
+                54,
+                47,
+                2,
+                63,
+                18,
+                10,
+                8,
+                5,
+                35,
+                55
+            ],
+            "k": 4
+        },
+        "expected_output": 216,
+        "predicted_output": 131,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                85
+            ],
+            "k": 1
+        },
+        "expected_output": 85,
+        "predicted_output": 85,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                19,
+                82,
+                33,
+                71,
+                83,
+                33,
+                81,
+                89,
+                85,
+                16,
+                92,
+                17,
+                57,
+                73
+            ],
+            "k": 5
+        },
+        "expected_output": 193,
+        "predicted_output": 114,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                24,
+                59,
+                32,
+                2,
+                48,
+                83,
+                6,
+                12,
+                44,
+                48,
+                93,
+                98,
+                98,
+                26
+            ],
+            "k": 1
+        },
+        "expected_output": 673,
+        "predicted_output": 110,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                63,
+                36,
+                88,
+                24,
+                48,
+                19,
+                51
+            ],
+            "k": 2
+        },
+        "expected_output": 187,
+        "predicted_output": 99,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                1,
+                74,
+                75,
+                56
+            ],
+            "k": 3
+        },
+        "expected_output": 75,
+        "predicted_output": 75,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                82,
+                8,
+                25,
+                65,
+                80,
+                64,
+                91,
+                35,
+                8,
+                40,
+                42,
+                82
+            ],
+            "k": 4
+        },
+        "expected_output": 180,
+        "predicted_output": 91,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                82,
+                14,
+                46,
+                40,
+                79,
+                56,
+                33,
+                55,
+                60,
+                99,
+                83,
+                87
+            ],
+            "k": 1
+        },
+        "expected_output": 734,
+        "predicted_output": 119,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                93,
+                25
+            ],
+            "k": 2
+        },
+        "expected_output": 93,
+        "predicted_output": 93,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                1,
+                0,
+                19,
+                28
+            ],
+            "k": 1
+        },
+        "expected_output": 48,
+        "predicted_output": 28,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                54,
+                3,
+                20,
+                18,
+                49,
+                82,
+                38,
+                96,
+                50,
+                44,
+                19,
+                29,
+                99,
+                35,
+                56,
+                38
+            ],
+            "k": 1
+        },
+        "expected_output": 730,
+        "predicted_output": 120,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                20,
+                16
+            ],
+            "k": 2
+        },
+        "expected_output": 20,
+        "predicted_output": 20,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                52,
+                69,
+                19,
+                81,
+                51,
+                100,
+                78,
+                27,
+                90,
+                37,
+                81,
+                30,
+                63,
+                50,
+                81,
+                72,
+                18,
+                86
+            ],
+            "k": 2
+        },
+        "expected_output": 567,
+        "predicted_output": 257,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                81,
+                9,
+                27,
+                63,
+                15,
+                40,
+                46,
+                71,
+                8,
+                58,
+                85,
+                71,
+                62,
+                0,
+                47,
+                1,
+                91
+            ],
+            "k": 1
+        },
+        "expected_output": 775,
+        "predicted_output": 235,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                81,
+                3,
+                76,
+                6,
+                5,
+                16,
+                17,
+                29,
+                64,
+                16,
+                98,
+                26,
+                2
+            ],
+            "k": 1
+        },
+        "expected_output": 439,
+        "predicted_output": 98,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                51,
+                61,
+                9,
+                17,
+                54,
+                87,
+                93,
+                99,
+                13,
+                74,
+                96,
+                18,
+                82,
+                85,
+                69,
+                55,
+                19,
+                26,
+                6,
+                28
+            ],
+            "k": 5
+        },
+        "expected_output": 279,
+        "predicted_output": 99,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                45,
+                11,
+                42
+            ],
+            "k": 1
+        },
+        "expected_output": 98,
+        "predicted_output": 45,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                69,
+                40,
+                47,
+                46,
+                89,
+                25,
+                89,
+                37,
+                17,
+                44,
+                41
+            ],
+            "k": 5
+        },
+        "expected_output": 126,
+        "predicted_output": 89,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                53,
+                99,
+                88,
+                34,
+                21,
+                8,
+                71,
+                72,
+                77,
+                87,
+                50,
+                28
+            ],
+            "k": 3
+        },
+        "expected_output": 242,
+        "predicted_output": 99,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                99,
+                3,
+                43,
+                58,
+                62,
+                66,
+                60,
+                80,
+                64,
+                79
+            ],
+            "k": 5
+        },
+        "expected_output": 143,
+        "predicted_output": 99,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                39,
+                32,
+                26,
+                52,
+                71,
+                84,
+                60,
+                18,
+                35,
+                48
+            ],
+            "k": 5
+        },
+        "expected_output": 123,
+        "predicted_output": 84,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                96,
+                69,
+                64
+            ],
+            "k": 3
+        },
+        "expected_output": 96,
+        "predicted_output": 96,
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                33,
+                83,
+                39,
+                89,
+                8,
+                66,
+                88,
+                70,
+                57,
+                81,
+                78,
+                82,
+                54,
+                91,
+                80,
+                49,
+                97,
+                5,
+                98,
+                10
+            ],
+            "k": 3
+        },
+        "expected_output": 430,
+        "predicted_output": 113,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                75,
+                75,
+                57,
+                27,
+                23,
+                53,
+                91,
+                50,
+                71,
+                67,
+                85,
+                85,
+                63,
+                89,
+                15,
+                18,
+                34,
+                4,
+                38,
+                67
+            ],
+            "k": 5
+        },
+        "expected_output": 237,
+        "predicted_output": 161,
+        "result": "different"
+    },
+    {
+        "input": {
+            "nums": [
+                36,
+                87,
+                85,
+                9,
+                22,
+                30,
+                34,
+                81,
+                85,
+                96,
+                100,
+                64
+            ],
+            "k": 2
+        },
+        "expected_output": 384,
+        "predicted_output": 164,
+        "result": "different"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "input": {
+            "n": 1
+        },
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 2
+        },
+        "expected_output": 2,
+        "predicted_output": 2,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 3
+        },
+        "expected_output": 3,
+        "predicted_output": 3,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 4
+        },
+        "expected_output": 8,
+        "predicted_output": 8,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 5
+        },
+        "expected_output": 10,
+        "predicted_output": 10,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 6
+        },
+        "expected_output": 36,
+        "predicted_output": 36,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 7
+        },
+        "expected_output": 41,
+        "predicted_output": 41,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 8
+        },
+        "expected_output": 132,
+        "predicted_output": 132,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 9
+        },
+        "expected_output": 250,
+        "predicted_output": 250,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 10
+        },
+        "expected_output": 700,
+        "predicted_output": 700,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 11
+        },
+        "expected_output": 750,
+        "predicted_output": 750,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 12
+        },
+        "expected_output": 4010,
+        "predicted_output": 4010,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 13
+        },
+        "expected_output": 4237,
+        "predicted_output": 4237,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 14
+        },
+        "expected_output": 10680,
+        "predicted_output": 10680,
+        "result": "same"
+    },
+    {
+        "input": {
+            "n": 15
+        },
+        "expected_output": 24679,
+        "predicted_output": 24679,
+        "result": "same"
+    }
+]

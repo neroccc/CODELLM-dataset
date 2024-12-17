@@ -1,0 +1,9002 @@
+[
+    {
+        "input": {
+            "board": "YWBBRWBRWBBWWRWY",
+            "hand": "YRGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBYWYRGRWGYG",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYBWRWWRYBYBYY",
+            "hand": "YYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBGWWBWYY",
+            "hand": "RGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBYW",
+            "hand": "GYWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBBWGRBGBBY",
+            "hand": "YBRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGRYBWRY",
+            "hand": "BB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWRGRGY",
+            "hand": "RB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGWBWRWBB",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRYWWGWGYYRWWGYR",
+            "hand": "GBWBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBGRWGBBG",
+            "hand": "WB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWGBWBRGWGWBBYY",
+            "hand": "RG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYYYYBBGRGYR",
+            "hand": "BW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBWBWRGYWG",
+            "hand": "WGRYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BW",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYYGBYYB",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRRYBYBGRRBW",
+            "hand": "YWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWRGGYWRYWRW",
+            "hand": "GWRYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRGGWY",
+            "hand": "BYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGYBWW",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "B",
+            "hand": "WWGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGBB",
+            "hand": "BWBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GG",
+            "hand": "BGRWG"
+        },
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "B",
+            "hand": "GW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWRRRWYBYG",
+            "hand": "RBGRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWG",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "Y",
+            "hand": "WGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYB",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWYBB",
+            "hand": "BRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRYWWRRGRB",
+            "hand": "WG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYGYBRRGRYBYYGW",
+            "hand": "BB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWGGGRGGGWB",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYYWGYWRYBGR",
+            "hand": "GRWRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBBGRYYB",
+            "hand": "WR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRRBRWWWWWGYR",
+            "hand": "WYBW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBWGWBYW",
+            "hand": "WBB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRR",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGBRWYG",
+            "hand": "YW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBWGYGWYWRRRGGG",
+            "hand": "YBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRRWBBRWBWYRWBB",
+            "hand": "BGRY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBGWBBRR",
+            "hand": "YWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRBYWRRRRGWBYBW",
+            "hand": "GR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYGW",
+            "hand": "BGRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGWRG",
+            "hand": "YRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYYGGGRBGBY",
+            "hand": "WBRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "W",
+            "hand": "BWBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGYBBYWYGBGRWRR",
+            "hand": "BWBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWRGGWRGYRWGYY",
+            "hand": "BY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBG",
+            "hand": "BRBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWBGBRYWYRYGRG",
+            "hand": "BRRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BG",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YY",
+            "hand": "Y"
+        },
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "RYBWRRY",
+            "hand": "WWYBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWRGGRR",
+            "hand": "GWWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWBG",
+            "hand": "BG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WB",
+            "hand": "RYWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYYYB",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGWGYWBRGWBBWWGG",
+            "hand": "WGWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGYBYWYBYWRBYG",
+            "hand": "YG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRWW",
+            "hand": "RY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWB",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "Y",
+            "hand": "BRGRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGWYBYWYGWBG",
+            "hand": "YRRWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYWBYGGBWYBGGR",
+            "hand": "GWYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGWGW",
+            "hand": "BYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWYWWWRW",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBRG",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWWBGB",
+            "hand": "RR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRGRRG",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GW",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGBWGYWYYG",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWBRWWWGBG",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGRBY",
+            "hand": "YRRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RW",
+            "hand": "RG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYWW",
+            "hand": "GGGGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWWWBBG",
+            "hand": "BYBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYYBG",
+            "hand": "GWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGRRWYRRYWRGYWW",
+            "hand": "RGBBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBWBYYRGRW",
+            "hand": "GBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYBBYBWB",
+            "hand": "RGYW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBGRBRRRWB",
+            "hand": "RRYBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGRG",
+            "hand": "YWRGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GY",
+            "hand": "WW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "Y",
+            "hand": "GGGRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "W",
+            "hand": "RY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRRRWBRWB",
+            "hand": "GGYYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWYBYYWRYBRRYGW",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYBBYWWRYBGW",
+            "hand": "WBRBB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYGBYGBYB",
+            "hand": "WB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBG",
+            "hand": "WWGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "W",
+            "hand": "YYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRYGBWRWWY",
+            "hand": "WBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "Y",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBRWWGRBRYYG",
+            "hand": "YG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBGYWGBGGWGBYBBR",
+            "hand": "GWYW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYGW",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWBGGRB",
+            "hand": "GBGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYBYRWG",
+            "hand": "WYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRR",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "R",
+            "hand": "GGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRYGBWBYGB",
+            "hand": "WWRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBYBBWGRW",
+            "hand": "GBGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGBWW",
+            "hand": "BRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "G",
+            "hand": "BRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRBGYGBYYR",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWBWBRGRGBGB",
+            "hand": "YG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBRYWYGRGGWBRGW",
+            "hand": "BYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYYWYYRGBGYRR",
+            "hand": "GR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBGBYWR",
+            "hand": "WWGBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWGGRWY",
+            "hand": "BB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRRYBWRYYRRR",
+            "hand": "WY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYYGBYWYWBRG",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "W",
+            "hand": "WWB"
+        },
+        "expected_output": 2,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "BGGYRBRBBYRG",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBBBBWBRBWWRBWG",
+            "hand": "RWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBYWYYYY",
+            "hand": "GG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGBYGWWRY",
+            "hand": "BGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWGWYBGYYGB",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBGWGG",
+            "hand": "YYGBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRGBYGWWRYWWGRWY",
+            "hand": "WW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGRGGYYBGGBYGWB",
+            "hand": "RB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWYWYRGW",
+            "hand": "GWBBW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGWBGGRYYWRG",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBYRG",
+            "hand": "BW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWBYBBYYYGWG",
+            "hand": "YBRRY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYBRGWYYYRGRGY",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BB",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BY",
+            "hand": "BYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRYBYBGY",
+            "hand": "YRY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBYGWYBYYGYR",
+            "hand": "YYWWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWYRYYGBYGRRYW",
+            "hand": "WRBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGB",
+            "hand": "YYWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGBRYRWBR",
+            "hand": "BWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRY",
+            "hand": "BBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRYWYBBWBBBB",
+            "hand": "GRBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWBYRYYWBYBBYG",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYBWRRGYGBYYRB",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRG",
+            "hand": "RGWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBG",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYBYBBYGYWWYGWW",
+            "hand": "YYWWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRYRYBG",
+            "hand": "GR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGBB",
+            "hand": "BGGYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGYGWBGYWBYRYYB",
+            "hand": "YWGWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRBRYGGBGW",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBYBBBBBW",
+            "hand": "RBB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWY",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYGWW",
+            "hand": "BWBW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYYY",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRRBWRW",
+            "hand": "YWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWBGGWBY",
+            "hand": "RWW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRWGBYRYBYRWY",
+            "hand": "BWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBGY",
+            "hand": "YR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYRBRR",
+            "hand": "WB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGYYYRWWY",
+            "hand": "RWRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBBYYYBRYYYRBRY",
+            "hand": "BWWWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYGWBYRYYYBYBYB",
+            "hand": "WY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYR",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBWYGBWWBRRGRGW",
+            "hand": "WRRY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBWBGWY",
+            "hand": "RYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYBGYBY",
+            "hand": "BGGWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYRYBBGWBGYGR",
+            "hand": "GG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBGYBRYRBRG",
+            "hand": "WYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYWR",
+            "hand": "RBGRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRBGG",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYBRBGGBGBYGR",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYGBBWRG",
+            "hand": "RRGWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRGWWBWBYWRWY",
+            "hand": "YGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BY",
+            "hand": "YYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWGWWRB",
+            "hand": "GRGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBRYRRYWWBG",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GG",
+            "hand": "BGGWY"
+        },
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "YRRWBG",
+            "hand": "WBGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWGWWYG",
+            "hand": "WGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWYGGBYRGYR",
+            "hand": "BYW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRGBWWGW",
+            "hand": "YG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWBRWRGYW",
+            "hand": "YG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRG",
+            "hand": "YRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWRBW",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWBYGYYBW",
+            "hand": "YRYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRGYGWGWWGBYYGB",
+            "hand": "WR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWWBYWBWWWYR",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGWYG",
+            "hand": "GGRWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWGYRWBG",
+            "hand": "RB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GW",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGRBRGYW",
+            "hand": "WBRGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWYRWWBBGGYBWGWG",
+            "hand": "RGGYW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GG",
+            "hand": "GGWW"
+        },
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "RGWBWGR",
+            "hand": "GGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WB",
+            "hand": "BB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBWWR",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYRY",
+            "hand": "YGRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGWRWRBBBBYY",
+            "hand": "RB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYYWBWGWBBB",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGGBWRBBW",
+            "hand": "BB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGWYGRRRRWW",
+            "hand": "WBRRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGRWGWWWYBBG",
+            "hand": "YBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBRGBWRWWGYGWGB",
+            "hand": "WGRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBBRWBGRYW",
+            "hand": "GWGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBWGWG",
+            "hand": "BGGYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBBGW",
+            "hand": "YYWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGRYRY",
+            "hand": "RG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WW",
+            "hand": "YYWYR"
+        },
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "RBBGRYRWGYY",
+            "hand": "YY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYGWBBB",
+            "hand": "RGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBWR",
+            "hand": "YBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGWBWBRRBWBWBYGR",
+            "hand": "RWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGWR",
+            "hand": "YWGYW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWRGRBYYWBWGBWG",
+            "hand": "RG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWYBB",
+            "hand": "BRGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRRYWRWYYW",
+            "hand": "YGBBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "Y",
+            "hand": "WGRBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGGRRGRYGYBBYBRG",
+            "hand": "BY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYRB",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYWBWR",
+            "hand": "WBRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBBRYRRW",
+            "hand": "RG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "Y",
+            "hand": "YRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BY",
+            "hand": "YY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBWGYRGRYWRY",
+            "hand": "GY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRWYGYYYYWRRY",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RB",
+            "hand": "YYW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRG",
+            "hand": "GWW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWRBRWB",
+            "hand": "RWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRYRGRYB",
+            "hand": "RWRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRGG",
+            "hand": "YBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWR",
+            "hand": "YBBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWRBGWRWWYWGBR",
+            "hand": "WRWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGWWGWWWYY",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWGW",
+            "hand": "YWBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGGWBYRRYYYBRYRY",
+            "hand": "WRYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBWBYRBB",
+            "hand": "GRWWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBWBBWGWYWYBGY",
+            "hand": "GW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGYBBWWRYYBRYRBY",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWGRYYYWWGWB",
+            "hand": "RBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBYBGWGRWYYBY",
+            "hand": "BBGBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBYWYWYRWYWY",
+            "hand": "BBGBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBBWGRYWWRWYBGG",
+            "hand": "RWWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RW",
+            "hand": "RB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWGRYGGWWBGBRWY",
+            "hand": "BY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WB",
+            "hand": "WBRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYWGRBY",
+            "hand": "YB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWRBBBBBBYGYG",
+            "hand": "BGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGWWWBGYBYGW",
+            "hand": "BBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYGWRWGW",
+            "hand": "BW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYRWY",
+            "hand": "WY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGBWYYBWYBBG",
+            "hand": "YBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYWGBRGBWW",
+            "hand": "RWBGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWBYWBYG",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBRRGYWRBRGW",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGBGRRYYYR",
+            "hand": "WW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYY",
+            "hand": "YBBW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYBGY",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWWRYBRGWRRW",
+            "hand": "WWYW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGGGRWYBRWGRYWY",
+            "hand": "YGYBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWYRRGR",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWWYYBBWWGWR",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRRRRYBGGRRB",
+            "hand": "RGYW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYBY",
+            "hand": "WBYBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGYW",
+            "hand": "YBW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYBWRBRGBGYGGWB",
+            "hand": "YBYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGRBWWR",
+            "hand": "WGRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWYWGRYBWWWBWG",
+            "hand": "WYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGWYBBBGGYWBR",
+            "hand": "YGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBGGBRWGBR",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYGBBY",
+            "hand": "GWRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGGYBGWWBRRR",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGG",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYBYGBGGYYGRGG",
+            "hand": "RW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBBRBBGRGGGR",
+            "hand": "GR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWB",
+            "hand": "WR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYB",
+            "hand": "YBRRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YB",
+            "hand": "RGGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "Y",
+            "hand": "BYRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRGYBY",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "B",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBY",
+            "hand": "YWYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYRRWBGRYBGG",
+            "hand": "RBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRYYRW",
+            "hand": "GRBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "W",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "W",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBYWY",
+            "hand": "YBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWBBBWWG",
+            "hand": "RGRRY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWRBBBGRYRWGWW",
+            "hand": "GRYBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRBWW",
+            "hand": "RW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGYWGYRBGBW",
+            "hand": "GYGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GR",
+            "hand": "YYBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "B",
+            "hand": "WGGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBRWRGB",
+            "hand": "BY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBGBGR",
+            "hand": "YGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYGR",
+            "hand": "WWYYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGY",
+            "hand": "WR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYYYRY",
+            "hand": "YW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGGRB",
+            "hand": "WR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGB",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRWBRRYYGYG",
+            "hand": "BGWBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWYRYRWRYBBB",
+            "hand": "BGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYYWWBYBRGBYRWW",
+            "hand": "GG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "G",
+            "hand": "WRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBWR",
+            "hand": "BW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBRYWBWBRYWG",
+            "hand": "WBYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWYYR",
+            "hand": "RW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBWGGY",
+            "hand": "YWBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGBRY",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYY",
+            "hand": "BG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYBBGYBG",
+            "hand": "GRBYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WW",
+            "hand": "BWBGY"
+        },
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "WRBYGG",
+            "hand": "WRBYW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWBGYYG",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYRBGBRWWRGGRWGR",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRBGGWRWGYRRWGY",
+            "hand": "YYYW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWWYWWWRY",
+            "hand": "WBWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "W",
+            "hand": "RYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWRYBWYWBWWWYYGB",
+            "hand": "WRY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWR",
+            "hand": "YWGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WW",
+            "hand": "BRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWRBBRWGBWBBGWYY",
+            "hand": "GW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "G",
+            "hand": "YG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWGYGRYBRWWWWG",
+            "hand": "BB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYBBW",
+            "hand": "RB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYYBGRGBBBB",
+            "hand": "BBRYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWRGYYRWWYRWRRG",
+            "hand": "WBBYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGGBWBWYYBR",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "Y",
+            "hand": "WGGRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBYBRGBRWRRYYW",
+            "hand": "RR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRYBGGRBGW",
+            "hand": "WYYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRGWRYYGR",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBWYBBWBBYRWGB",
+            "hand": "BYYWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBBWWGBWB",
+            "hand": "GBWRY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWYW",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWBRRWYBGBWRGWW",
+            "hand": "BB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWGWBYGRWB",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBWRWGGYWBGWBB",
+            "hand": "RY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RW",
+            "hand": "YB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBRWRRGWW",
+            "hand": "GB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYBWBRYWBYGWGYG",
+            "hand": "YG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WY",
+            "hand": "YWW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGBBGGGRGRBYGY",
+            "hand": "BGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BG",
+            "hand": "WBBWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYRYRY",
+            "hand": "GGYWW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWG",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWYBB",
+            "hand": "RBBRY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBWWGYYWR",
+            "hand": "BGYGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YB",
+            "hand": "YB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBGGWYBG",
+            "hand": "YRWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRBRG",
+            "hand": "YBYBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYRYYRW",
+            "hand": "WRWWW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWGYYBRGBWW",
+            "hand": "RRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGWWBWBRWWRBGG",
+            "hand": "WBYYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RG",
+            "hand": "WB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRBR",
+            "hand": "WRGGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWGY",
+            "hand": "WWGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRBWR",
+            "hand": "WGBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WY",
+            "hand": "GW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWGGB",
+            "hand": "RBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBBRRRGYYGBRYBRR",
+            "hand": "WY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRWBRGWGGWGWBB",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBBBYWRWWRGYWRW",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "R",
+            "hand": "RR"
+        },
+        "expected_output": 2,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "BYGGYWG",
+            "hand": "BR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWBWRR",
+            "hand": "YBB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YG",
+            "hand": "WGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRWBGWYGGBR",
+            "hand": "YRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBBRWRBRRYR",
+            "hand": "GYGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRWWGRRGYBBR",
+            "hand": "BBBB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYBBBYWWYYYR",
+            "hand": "BGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBYRWYRBGWWWRRB",
+            "hand": "WBYBB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYBYYYWGGGRW",
+            "hand": "YBYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRWBGGYBWWGRBR",
+            "hand": "BYGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBG",
+            "hand": "RB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYWGGWWYBWWYW",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRBBGWR",
+            "hand": "WW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGGRBRYBRG",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRRWRGWWYYGRYBRY",
+            "hand": "YB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWYBGWGG",
+            "hand": "RG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWBW",
+            "hand": "RWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWWYBYBW",
+            "hand": "BBBW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRRYYYBGYYR",
+            "hand": "RBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGBYRWRRYY",
+            "hand": "GWYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWYYW",
+            "hand": "BYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRGB",
+            "hand": "WY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRRRRYWGRYR",
+            "hand": "BBBRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BW",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYGWW",
+            "hand": "YYW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYBBYRRGWBRRY",
+            "hand": "BRYGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYRBWWWWRYRR",
+            "hand": "RG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRYGYWWRW",
+            "hand": "WYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYRWBRBG",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRRBWRWGYWYGBW",
+            "hand": "GWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYYBWWBGGRRG",
+            "hand": "YWBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRWGWRYBYGRWYB",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBR",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYWWGWBG",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGYGRGYYWG",
+            "hand": "BYWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYRRGWGYBYWBGWG",
+            "hand": "YGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBBRBR",
+            "hand": "GYWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRYRBWBWGRG",
+            "hand": "YWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRYBBGGGYWYGGWB",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGWW",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYBYRYGGGGWR",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWGYWWGBBWRWRB",
+            "hand": "YBBW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWYG",
+            "hand": "WYBW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGWWRGRGBYRYGBY",
+            "hand": "RWWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWR",
+            "hand": "RRBBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGW",
+            "hand": "WWGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYWB",
+            "hand": "WR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWYWWRBBGWBR",
+            "hand": "WGYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWYYGGG",
+            "hand": "RYW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBGYWR",
+            "hand": "BBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRGWWRYBYR",
+            "hand": "BYBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWGRG",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYBYBRGYGB",
+            "hand": "RBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGGWWRRWRYRW",
+            "hand": "BW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWBBG",
+            "hand": "YWYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BB",
+            "hand": "RBB"
+        },
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "WYG",
+            "hand": "GWBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBR",
+            "hand": "BRBYW"
+        },
+        "expected_output": 3,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "YBYYWWWGGWR",
+            "hand": "WW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYWRGBRGGWG",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRWBWGYYGWWYWR",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRBRWRGWWWRRGGW",
+            "hand": "RWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGGBRBWGRRGYBB",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRWYYWRRW",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGYWYBYGBG",
+            "hand": "RYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWRGYRG",
+            "hand": "GGYW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBRGGBWBY",
+            "hand": "YBB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRGRRWRBWBYBBY",
+            "hand": "GR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYBBYGBRWBRYGYW",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYGB",
+            "hand": "YYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBWYWGYBGR",
+            "hand": "BYW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWBGY",
+            "hand": "RWWWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBRYGYGWG",
+            "hand": "YWYGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRYYYBYGRBWBWG",
+            "hand": "WB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWGWWYYWWB",
+            "hand": "GYWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWWBWWYWRWGG",
+            "hand": "GWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRBYWGYYBRYGGYBG",
+            "hand": "YRWWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBWBRGGRG",
+            "hand": "YYBGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBYWG",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGYBYWGR",
+            "hand": "RGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGBGGGGRYWBRYWY",
+            "hand": "YWRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YR",
+            "hand": "YG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWW",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGGW",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBWBYYGGRYGBBG",
+            "hand": "BGGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "Y",
+            "hand": "BY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYWBBRBBGGYGR",
+            "hand": "BG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRWBWY",
+            "hand": "YGRBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWBYYYB",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRBBRRGWBBY",
+            "hand": "GG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWRW",
+            "hand": "RRGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRWRGGRBY",
+            "hand": "GRYBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGWYWWWR",
+            "hand": "BY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYWGYBG",
+            "hand": "GYYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRYBYBWB",
+            "hand": "RR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWRRYRWRWRYWRW",
+            "hand": "BR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RG",
+            "hand": "WW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBYBY",
+            "hand": "BGYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRGGWGBYYWGW",
+            "hand": "RGBRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRYR",
+            "hand": "RWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYBRWYGRWBGR",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "W",
+            "hand": "BBGRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWYGRGRBRGRGR",
+            "hand": "GRRYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WG",
+            "hand": "BYBYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGYWYBWGYGYWGWB",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBRWB",
+            "hand": "RG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRRRYWB",
+            "hand": "RB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGB",
+            "hand": "BGWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWGGGGW",
+            "hand": "GBRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBRBYR",
+            "hand": "WR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BG",
+            "hand": "RR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRGB",
+            "hand": "RRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGGBW",
+            "hand": "GBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYBRBGYWRG",
+            "hand": "YGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BG",
+            "hand": "WYGGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWGWYBRWGRRR",
+            "hand": "YYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWWRBWRWRG",
+            "hand": "YYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGBBRWRYBG",
+            "hand": "RYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGWG",
+            "hand": "YG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRYGWRWG",
+            "hand": "RGWGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBGBBRBR",
+            "hand": "WYYBW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRYYRGBRBYGYBBYB",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGRB",
+            "hand": "YBRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBYBYG",
+            "hand": "YGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBBRWRGRRWBY",
+            "hand": "RGGBB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGBGBWYRRWBYB",
+            "hand": "RRYGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGYRRRRYWRRGBWB",
+            "hand": "WW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYWBRY",
+            "hand": "RYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGGYBR",
+            "hand": "RY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGBBWBWR",
+            "hand": "YWWRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRRWYWYRGWWRRRY",
+            "hand": "RGGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWBGBGGBBB",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "R",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWWRBBWBG",
+            "hand": "YR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWRBGBGWRRBWWR",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGRBGY",
+            "hand": "BW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGB",
+            "hand": "BYYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGY",
+            "hand": "RWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRGGRWWGGRWY",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYYYYRRBGBRBBGG",
+            "hand": "YWRGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYBWRGRRBG",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "R",
+            "hand": "YBGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWYWWWWBGYB",
+            "hand": "BWBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYWBGWBW",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWGRGBYWB",
+            "hand": "RRYW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGWWYRWG",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRGRW",
+            "hand": "BBW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYBGBR",
+            "hand": "YGGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBRWGB",
+            "hand": "WG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWWBWRRWYYYRRGYB",
+            "hand": "RBGRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWBRBBGWGGWGRY",
+            "hand": "GGGYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYBYRBYWYGWYBBRG",
+            "hand": "BBWW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "W",
+            "hand": "WWG"
+        },
+        "expected_output": 2,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "WGY",
+            "hand": "WWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBRWRBRWYRWYRW",
+            "hand": "WWGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGRRGBWGWYBWY",
+            "hand": "GWBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGWWGBYWB",
+            "hand": "BWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYWGBWG",
+            "hand": "BRBW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGRRBYBR",
+            "hand": "GBWGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YW",
+            "hand": "BRYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGG",
+            "hand": "WBW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRYR",
+            "hand": "WBRBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWBWYWBYBBB",
+            "hand": "BGRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWRGGWBRRBWBRG",
+            "hand": "RWYRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGWBWRWYGRWGR",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBWWWY",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "G",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGWYBYRGBR",
+            "hand": "BWWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRWYGYWWWYWR",
+            "hand": "YRBYW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBBRB",
+            "hand": "WG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRGR",
+            "hand": "RR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYBRYYY",
+            "hand": "GW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGWBWYBRWYWRW",
+            "hand": "WBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGWRWGB",
+            "hand": "GW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRYGRYRBGWW",
+            "hand": "GBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYGBWBYYBYG",
+            "hand": "BBGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBBRGGR",
+            "hand": "YWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBWGYYBGGBBRRRY",
+            "hand": "RYRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBWRWRWBRBBBBWW",
+            "hand": "BWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYGGRRGWYG",
+            "hand": "YBBWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGRYY",
+            "hand": "RW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWY",
+            "hand": "BBRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGBBYWGGYRBWBWB",
+            "hand": "WBYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYBYGRWBBBYWBBGY",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRYGWRGGRBBRBGR",
+            "hand": "BYBW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBRWGRRYWGG",
+            "hand": "RGBYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWBRWRBWG",
+            "hand": "GRGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WY",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWYRYBWGGRYYG",
+            "hand": "BG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBRGWYRBBRYRY",
+            "hand": "WYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGYBBYWGWBYY",
+            "hand": "RBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYWRBWRYG",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBWWGRBW",
+            "hand": "YBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGWWBBWWWRR",
+            "hand": "GRWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGGWBBBYBGGBY",
+            "hand": "GYWGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBGWWWGYYYWYGGR",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGRY",
+            "hand": "BYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGWYYRWYGGYYRWRW",
+            "hand": "GYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWRRGGGBYWGRWGWG",
+            "hand": "GRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWGBYBR",
+            "hand": "RWYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYB",
+            "hand": "BBBB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWYGYGGRRB",
+            "hand": "BGWGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "W",
+            "hand": "RBWYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "B",
+            "hand": "GGWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGBBWBGRBGR",
+            "hand": "GWRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGG",
+            "hand": "YY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYRYGRRYWGRB",
+            "hand": "BW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRYYGBRRGGWYBRBB",
+            "hand": "RWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWGBBRRBGW",
+            "hand": "YB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBY",
+            "hand": "WWBGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRWBRWBYYGRRWGG",
+            "hand": "GWWWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGYRBRGRYBGGYYWY",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGRGWBBWGWYWGY",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYRB",
+            "hand": "YBWWW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRBWY",
+            "hand": "YB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRBY",
+            "hand": "BBGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBBRWRRRGYRWRY",
+            "hand": "BRWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYGYWBWWB",
+            "hand": "BGGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGBGBGBYRBYWBW",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWYRWGYY",
+            "hand": "GBGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "Y",
+            "hand": "YGY"
+        },
+        "expected_output": 2,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "BYBBBGYBWGRGGRYW",
+            "hand": "GBGBW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRRYBWRBGYB",
+            "hand": "RYWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBBRWYWWYRYRRY",
+            "hand": "RWRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRRYWBRRWY",
+            "hand": "BYWW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWBR",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBRGW",
+            "hand": "YBB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBWBWRRWWRRBB",
+            "hand": "BGBW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYGYYBYGBWWYWG",
+            "hand": "RBYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWRWBWGR",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWBYBBRBRG",
+            "hand": "YW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWRGGWBYYWRGYG",
+            "hand": "WGBYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBGRGBRRG",
+            "hand": "RGBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGGRGWRGGG",
+            "hand": "WGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRWRGR",
+            "hand": "RBRRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBBBWRRBRRWBYG",
+            "hand": "BGGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGYWYRWYWYBG",
+            "hand": "GYGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "R",
+            "hand": "GRWRW"
+        },
+        "expected_output": 2,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "RRBRYGYRBG",
+            "hand": "YWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYRYWBWWRRWB",
+            "hand": "BB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGYYWYBYBRGYYW",
+            "hand": "GRYRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGRRRWGWYGGYWB",
+            "hand": "RYGGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWWYGRBWR",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RB",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRRGWRGB",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GG",
+            "hand": "RGGY"
+        },
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "BG",
+            "hand": "WGYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBYWWWBRBRRBBGW",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWBWWRRGGWBB",
+            "hand": "YYWW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGYYBRGGRGR",
+            "hand": "YRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWRYYB",
+            "hand": "WBYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRGRGGBBYYRWYR",
+            "hand": "WBYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYG",
+            "hand": "RGWWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RG",
+            "hand": "WBGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBBWWRYGGW",
+            "hand": "WG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBYWRWYRGBRWBBB",
+            "hand": "BRRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRBBGYYBRYY",
+            "hand": "RG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBGBRRBRBBY",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBYBYW",
+            "hand": "WRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWGBYWYRW",
+            "hand": "WYWW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYBBWYBBRBWWBWY",
+            "hand": "BY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRRB",
+            "hand": "YGWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWBRWBBYGY",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYW",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYGWYWGBYWW",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWG",
+            "hand": "YRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWBBBWGYBYWGRG",
+            "hand": "BYWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBBRB",
+            "hand": "RY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGYBWWBWW",
+            "hand": "YGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRBWRBGYRRRBGBR",
+            "hand": "RR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWWGYGRWBRYYBWRR",
+            "hand": "GGBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBWWWRWWRWRGBB",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWYR",
+            "hand": "GWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBWBY",
+            "hand": "GB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWWRYRYBGYYWG",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGBWYYGYRBGR",
+            "hand": "RR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBRRYR",
+            "hand": "WBGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGGWBBRWGRWY",
+            "hand": "YWYRY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGWWYRWWWBGGWW",
+            "hand": "BRGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWWYYY",
+            "hand": "WRRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRGWRB",
+            "hand": "RGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRRYGYRB",
+            "hand": "RG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYWB",
+            "hand": "YGWGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRRGGWBWGBGBBRB",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BB",
+            "hand": "YGYBR"
+        },
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "YBGG",
+            "hand": "RB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBYRYGWBBBRGGBRR",
+            "hand": "RG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGGYWWWG",
+            "hand": "RWGGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYYWGBG",
+            "hand": "RYYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYBY",
+            "hand": "WWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBRW",
+            "hand": "BWRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYWGYWRBBB",
+            "hand": "YBWRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBYGBR",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWWWGBR",
+            "hand": "GRBGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRRBBRW",
+            "hand": "BY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWYRGGBGYYBWRY",
+            "hand": "GWGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYRG",
+            "hand": "RYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYWRYWWW",
+            "hand": "GYWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWRWBGRGGGYWWG",
+            "hand": "WWYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GG",
+            "hand": "G"
+        },
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "RRWYYGBGGRG",
+            "hand": "YWGBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBRGYWRBGYGBRG",
+            "hand": "WBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGGRRG",
+            "hand": "RY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRGYYGBWYRWGRR",
+            "hand": "RW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBRYWWYRYW",
+            "hand": "WW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYRYBBRWRGYRGGYB",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWYWGRYYWWWY",
+            "hand": "BGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGBYGBGY",
+            "hand": "RB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRRRRRGWBGBRRYY",
+            "hand": "RGWW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYRYGGGRW",
+            "hand": "RGYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBGRWGW",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGBGRWBBR",
+            "hand": "WYGWW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWYWYRRYBYYGYGBW",
+            "hand": "BB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWGYGRGRWW",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "R",
+            "hand": "WWRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYRWYYBBR",
+            "hand": "GGYGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRRWYWRBBGYGR",
+            "hand": "BBGGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRGWWRGBYB",
+            "hand": "GWWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWYYGGRBWR",
+            "hand": "BWWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "G",
+            "hand": "WY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRRRWYYBR",
+            "hand": "BGBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGWW",
+            "hand": "YRYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRWRGBW",
+            "hand": "YWBRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGYYRWRGRWGWRR",
+            "hand": "BRYRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YR",
+            "hand": "YGRWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRRYWBWGRWR",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRRGWWRYR",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRGWW",
+            "hand": "WW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRYGWYYGY",
+            "hand": "BWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GB",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGBRGGBWBWWGRY",
+            "hand": "GBRGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBRWRRWRBBG",
+            "hand": "RYWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWBWWY",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGB",
+            "hand": "GY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGYBYWR",
+            "hand": "YWBRY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWYYBYBWGGRRRRB",
+            "hand": "BRYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYWWWGRBYBYBG",
+            "hand": "GRBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBGBRRRWRBR",
+            "hand": "WYBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BY",
+            "hand": "RY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYBYYBGWYBB",
+            "hand": "BG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWYBGBBY",
+            "hand": "RWW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYYBGYG",
+            "hand": "WR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BY",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "R",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGRYGW",
+            "hand": "GR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRGRRGBYWWWRRYW",
+            "hand": "RRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRRRBBR",
+            "hand": "YB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WG",
+            "hand": "BGGBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWYYYYG",
+            "hand": "BYGRY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGWGYYRWR",
+            "hand": "GW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBRY",
+            "hand": "YRBGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBBGWYRGB",
+            "hand": "RGBW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYBGWGGY",
+            "hand": "BGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGGYGBRRWWYYYG",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBRYWBBWYWRGBGB",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYWWBYGYG",
+            "hand": "RWRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRWRWB",
+            "hand": "GWBB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRYRGRGGWBG",
+            "hand": "YRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWRGGBRYWBYGW",
+            "hand": "YWYYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GY",
+            "hand": "YRRBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BG",
+            "hand": "BB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBRGYY",
+            "hand": "GRGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGGGRWYY",
+            "hand": "GGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWR",
+            "hand": "GYGRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGYRBBWBBGYBBW",
+            "hand": "GG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRWWWYRYBYRYBB",
+            "hand": "GRYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGGGGRWRYB",
+            "hand": "RRYYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYRGGYBYBYYWBG",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGWYW",
+            "hand": "YYWBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRGWGBG",
+            "hand": "GR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRGRYGWGYWRG",
+            "hand": "RW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYWBBWBYG",
+            "hand": "WGGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWBRGGBBWYWBWWBR",
+            "hand": "BGYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBWR",
+            "hand": "YR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGRWB",
+            "hand": "BYBGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGBBGRWGBGYYWY",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "W",
+            "hand": "WB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWYBYRBWG",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBGY",
+            "hand": "GWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGBYGWRBGWBWYWY",
+            "hand": "RWWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYR",
+            "hand": "YGYGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWWYGGYGWWYRGBYW",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRYGRRRBBYBBWGGR",
+            "hand": "GRGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBBWGWRWB",
+            "hand": "BRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRBBWW",
+            "hand": "WB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYWGBGB",
+            "hand": "WY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYRBYRWGWY",
+            "hand": "GYYGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGBYGYRRR",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGWWBGRR",
+            "hand": "BRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWRBRWWGGRYBYYG",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYWRRGGWRRWY",
+            "hand": "RWRWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBBWYRGWWGWGB",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGWY",
+            "hand": "YRRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWRRRGBGWYWYBWB",
+            "hand": "RWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGBWRYW",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYR",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGRGYRRBYRR",
+            "hand": "YRWBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBGGRWB",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWB",
+            "hand": "GBRY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBRRYYGGBRBGWBYB",
+            "hand": "GWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGRRB",
+            "hand": "BGGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YR",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YR",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRGWWYRYBWG",
+            "hand": "BWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBBBRRWBWG",
+            "hand": "BWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYYYBBGG",
+            "hand": "RGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBBRRRYGRBGBGWY",
+            "hand": "YRGWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYW",
+            "hand": "YY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRWWWRBB",
+            "hand": "YBRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RR",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGGWRBGG",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGRYYYRWWYBRRB",
+            "hand": "RW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBGGB",
+            "hand": "WBRRY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYRWYBRGYBGY",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWGYRGRBYGG",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGWBY",
+            "hand": "YYYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBGY",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYRRWBWBBG",
+            "hand": "WB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWWBGWY",
+            "hand": "WRRBB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWYBRGBGBGBY",
+            "hand": "YGYBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYGYWG",
+            "hand": "YWGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYBRRW",
+            "hand": "RY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYBBWB",
+            "hand": "GR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRYBGYRGR",
+            "hand": "WGRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRGRBRBGRR",
+            "hand": "RR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "R",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGYWRYBRYBYYWBR",
+            "hand": "RYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGG",
+            "hand": "BRR"
+        },
+        "expected_output": -1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "RRYWB",
+            "hand": "YY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRBGBRWWRW",
+            "hand": "RB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRBR",
+            "hand": "YB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRRBRG",
+            "hand": "GWWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRWWRYGWGRY",
+            "hand": "YR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "G",
+            "hand": "BG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGBYGRWWWWGW",
+            "hand": "WG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RW",
+            "hand": "RG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRRYWR",
+            "hand": "YWWRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGYBWRWBBBYBWRWG",
+            "hand": "BYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRWRBWW",
+            "hand": "YW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBGGWYRBRWBRYYY",
+            "hand": "WWYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWW",
+            "hand": "GWRRY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "B",
+            "hand": "YB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRRYRBYBWWBRR",
+            "hand": "BWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRRGWGGGGRG",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYGYYGYWRYGBWR",
+            "hand": "YY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWGG",
+            "hand": "WRYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGRBRGWGRWWBR",
+            "hand": "RWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGYYWYBRBYGGWRG",
+            "hand": "BRRWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YW",
+            "hand": "BG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGRYGRYYWB",
+            "hand": "YYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWRWY",
+            "hand": "BWBBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBBWBWGYGWYRBRWB",
+            "hand": "WWYRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGYG",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWBBGBWBR",
+            "hand": "YRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGGRR",
+            "hand": "GWG"
+        },
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "WWRWRGWB",
+            "hand": "GB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRGYYWGYRBGWWB",
+            "hand": "WRWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGYRB",
+            "hand": "WBWWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "G",
+            "hand": "YBRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWYYRBWGG",
+            "hand": "BGGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYRGRGGWBYRBBR",
+            "hand": "RBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWW",
+            "hand": "RWW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRBGRGYBWYRYWRRG",
+            "hand": "WRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBGRR",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYRWB",
+            "hand": "YWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBYYGRWBG",
+            "hand": "BB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBGBGBYY",
+            "hand": "BBWWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRRRGWBRGG",
+            "hand": "BW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YB",
+            "hand": "RB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWYGRGYRBB",
+            "hand": "RGYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWGGRGBRGGBWGRW",
+            "hand": "WYGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGYGWGRWWBGGRYBG",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBBWRYYBR",
+            "hand": "BRYWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYYBYWWRGWB",
+            "hand": "YWGRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBRGRWYB",
+            "hand": "WWGGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWRBGW",
+            "hand": "YRWWW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYWR",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "Y",
+            "hand": "WWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYBBG",
+            "hand": "BBWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBYYWWYYYBYWGB",
+            "hand": "BBW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYWGYRGYGGGBGRY",
+            "hand": "BYYGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGGWBBWWWGBYWWBR",
+            "hand": "BYRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBB",
+            "hand": "YRWWW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRWB",
+            "hand": "WGGWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YR",
+            "hand": "BYYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGGYGYYRRRWBY",
+            "hand": "GBW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBYWGWGBRRWGGYW",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYWYGYYWRYYWYRW",
+            "hand": "RGGGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBGGGGRRGBBYY",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RR",
+            "hand": "YWRG"
+        },
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "GYGYYWGBGBBB",
+            "hand": "YG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWRYYYGYB",
+            "hand": "YG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWGGBY",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GW",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWG",
+            "hand": "WWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBBYRBBGWRGBW",
+            "hand": "RWGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRY",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWBWRWRW",
+            "hand": "RR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRRRRWRGGYBGBBRW",
+            "hand": "YYYWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRRWGBBY",
+            "hand": "WB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WW",
+            "hand": "GWRR"
+        },
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "GBRGYWYGGWGBRRWY",
+            "hand": "BW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YG",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRGRYYWYY",
+            "hand": "YR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWBRYYRRRYYYRYRY",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGWYWRRRBRBB",
+            "hand": "WYYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRYRYYRYGW",
+            "hand": "WRG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGBYYGRGWRGRWY",
+            "hand": "GG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWBWWGGGB",
+            "hand": "YGYBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RW",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWRWRYGBW",
+            "hand": "GR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGWGWRWRBYWYW",
+            "hand": "RYGRY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRYBGGRWB",
+            "hand": "WGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWRWYBBYGWGGBYR",
+            "hand": "WW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BG",
+            "hand": "BBBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGWB",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRBBWYGYGBYB",
+            "hand": "RYYGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYYB",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRGBGWB",
+            "hand": "RBBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWGGRY",
+            "hand": "BGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRYB",
+            "hand": "BW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBWGYBYRWRGGRY",
+            "hand": "RBBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGYWYWYGGYWYR",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYGWGGY",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWGWBWRYGYYB",
+            "hand": "BW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGYWGRYRWRYB",
+            "hand": "WBRRY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WRBWYG",
+            "hand": "RGRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBYYWWRRB",
+            "hand": "RBYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYRYWYRYWRBRRG",
+            "hand": "YGWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YB",
+            "hand": "RBB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGWYRBRRB",
+            "hand": "WYGYW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGWGYBYBR",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWRYBGRRYWWW",
+            "hand": "WYYGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYBYBBR",
+            "hand": "YYBRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGGRW",
+            "hand": "RGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBGG",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRRBBRRRYG",
+            "hand": "YBYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWWBR",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWGWB",
+            "hand": "BG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYRG",
+            "hand": "WWGGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWRRBYWG",
+            "hand": "YYGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRBYBBWGGYGRWW",
+            "hand": "WBB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGGYWWRRYWGY",
+            "hand": "WWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBRWRWWWWBG",
+            "hand": "GB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBGBY",
+            "hand": "WBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRBWYGYWB",
+            "hand": "YR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYGGRWRRBYRWRR",
+            "hand": "WRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWWRY",
+            "hand": "BW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRBRWBYG",
+            "hand": "YBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBGBYBB",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYBRYG",
+            "hand": "BBYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "Y",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRYRGBBYWWGRWB",
+            "hand": "BWRGY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGYBRR",
+            "hand": "GRW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WR",
+            "hand": "YBB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBYWRYYWBGGY",
+            "hand": "WWRY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRGYGB",
+            "hand": "YGYW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGYYRWB",
+            "hand": "WWWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BGYBBRR",
+            "hand": "YBGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBYRRWGWRWWWB",
+            "hand": "BWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBW",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGWBWYBW",
+            "hand": "BYRYY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWBRBYWR",
+            "hand": "RY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBBWYWRRG",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RRRW",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGGG",
+            "hand": "RY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "B",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRWR",
+            "hand": "WRR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRYYGGYR",
+            "hand": "RYBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYYGGYWBYYWBRGB",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYBWYYW",
+            "hand": "GGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGWYRBRR",
+            "hand": "BG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRBYYYGWYWG",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYRBGYGB",
+            "hand": "GYGWW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRRWYWWGGYBRRY",
+            "hand": "GG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGYBRWGBBBWWBGW",
+            "hand": "GWGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWRYBRYBBWYRGRY",
+            "hand": "BGBYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGBRGRBBWYW",
+            "hand": "BWR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYYWWWYRG",
+            "hand": "YYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBBGRBBYGGRGGBRB",
+            "hand": "GGRY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBWBWG",
+            "hand": "RGGRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBBYRGG",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGBBBRY",
+            "hand": "BRRB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBWBRGG",
+            "hand": "YWB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBYYRB",
+            "hand": "BYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWBBRGGBWGBBBRWB",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YGWBGY",
+            "hand": "YYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBBBBBWYYBB",
+            "hand": "RWBW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYBWRYWWBWYGRGBW",
+            "hand": "BW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BBG",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GBGBBGGYRBBBRB",
+            "hand": "RWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRWBWBWBWRR",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YW",
+            "hand": "WWRBB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWGRBY",
+            "hand": "BBYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "B",
+            "hand": "GBYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBBYWGWYYYW",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYGB",
+            "hand": "GRWBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYGYRBR",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBYW",
+            "hand": "RB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYGG",
+            "hand": "BYR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBRGYR",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWWYR",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWWWYYWWB",
+            "hand": "YG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGRGYWRYRR",
+            "hand": "BR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWRGGB",
+            "hand": "RGGGG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GGRRGWB",
+            "hand": "YGRYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBGWBRGBYWG",
+            "hand": "WGYWG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRG",
+            "hand": "RB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWGWGRGGYBRR",
+            "hand": "YGYBY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RYR",
+            "hand": "GG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBWGY",
+            "hand": "YY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GRW",
+            "hand": "WBGW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBRYRG",
+            "hand": "YW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBWGRBYWBWGRBWW",
+            "hand": "G"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBBGWRWYRRWWRRWG",
+            "hand": "WY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWWBWGRWRG",
+            "hand": "RBYG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBBGWWBYWGRGWGB",
+            "hand": "GYYB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WBY",
+            "hand": "YB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGGRBYGBBY",
+            "hand": "WGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RGR",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GYGRWBBGRY",
+            "hand": "RG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "B",
+            "hand": "BW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYBGYW",
+            "hand": "WR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYYWGRYRBYYBG",
+            "hand": "BBRGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RR",
+            "hand": "GR"
+        },
+        "expected_output": 1,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "board": "YBYRWYYGYBWWBGW",
+            "hand": "WB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BRYBRBRWY",
+            "hand": "YBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BWYY",
+            "hand": "BRYBR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "Y",
+            "hand": "W"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBBRG",
+            "hand": "WWGGB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RBYYRYRRWYWBRWW",
+            "hand": "WYRYW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRYRYWWRBGGWRGY",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WWWWYRWW",
+            "hand": "R"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YYWBBGWRW",
+            "hand": "YWW"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WYY",
+            "hand": "WR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "GWWWWBW",
+            "hand": "WGR"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YWWYBGYB",
+            "hand": "GBG"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YBGGRYWRGYYBWGY",
+            "hand": "B"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RY",
+            "hand": "Y"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "WGWGWBRRRB",
+            "hand": "WWY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "RWGGRY",
+            "hand": "RY"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "BYG",
+            "hand": "GB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "board": "YRYBWBWBWY",
+            "hand": "YWRBB"
+        },
+        "expected_output": -1,
+        "predicted_output": -1,
+        "result": "same"
+    }
+]

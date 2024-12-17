@@ -1,0 +1,248 @@
+5.py: 31.20%
+10.py: 99.90%
+22.py: 100.00%
+32.py: 12.10%
+42.py: 100.00%
+44.py: 100.00%
+45.py: 100.00%
+53.py: 100.00%
+55.py: 100.00%
+62.py: 100.00%
+63.py: 100.00%
+64.py: 100.00%
+70.py: 100.00%
+72.py: 100.00%
+85.py: 28.00%
+Error in 87.py: maximum recursion depth exceeded
+91.py: 100.00%
+Error in 95.py: 'int' object is not subscriptable
+96.py: 100.00%
+97.py: 50.50%
+115.py: 100.00%
+118.py: 100.00%
+119.py: 100.00%
+120.py: 0.00%
+121.py: 100.00%
+122.py: 5.10%
+123.py: 0.50%
+124.py: 100.00%
+131.py: 100.00%
+132.py: 10.00%
+139.py: 100.00%
+140.py: 100.00%
+152.py: 100.00%
+174.py: 100.00%
+188.py: 100.00%
+198.py: 100.00%
+213.py: 47.00%
+221.py: 100.00%
+233.py: 0.00%
+Error in 241.py: invalid syntax (241.py, line 9)
+264.py: 100.00%
+279.py: 100.00%
+300.py: 100.00%
+309.py: 5.00%
+312.py: 0.00%
+313.py: 13.00%
+322.py: 100.00%
+329.py: 100.00%
+337.py: 100.00%
+338.py: 100.00%
+343.py: 4.00%
+357.py: 30.00%
+368.py: 34.00%
+375.py: 5.00%
+376.py: 100.00%
+377.py: 100.00%
+392.py: 100.00%
+396.py: 5.00%
+397.py: 100.00%
+Error in 403.py: list assignment index out of range
+410.py: 9.00%
+413.py: 100.00%
+416.py: 100.00%
+435.py: 100.00%
+446.py: 0.00%
+Error in 458.py: invalid syntax (458.py, line 67)
+464.py: 99.40%
+466.py: 54.60%
+467.py: 0.90%
+472.py: 12.70%
+474.py: 100.00%
+Error in 486.py: Solution.canIWin() missing 1 required positional argument: 'target'
+488.py: 0.00%
+Error in 494.py: list assignment index out of range
+514.py: 0.10%
+516.py: 100.00%
+518.py: 100.00%
+526.py: 100.00%
+542.py: 28.00%
+Error in 546.py: ((1, 14, 0), 9)
+552.py: 0.00%
+Error in 553.py: eval() arg 1 must be a string, bytes or code object
+576.py: 0.00%
+583.py: 4.10%
+600.py: 0.00%
+629.py: 5.00%
+Error in 638.py: can only concatenate list (not "int") to list
+639.py: 90.70%
+646.py: 99.80%
+647.py: 0.80%
+650.py: 17.50%
+664.py: 0.00%
+673.py: TLE: 673.py exceeded time limit of 30 seconds.
+Error in 678.py: pop from empty list
+688.py: 8.60%
+689.py: 3.00%
+Error in 691.py: maximum recursion depth exceeded
+Error in 698.py: Solution.canPartitionKSubsets() got an unexpected keyword argument 'arr'
+712.py: 0.00%
+714.py: 100.00%
+718.py: 100.00%
+730.py: 2.00%
+740.py: 0.00%
+741.py: 40.00%
+746.py: 100.00%
+764.py: 5.00%
+Error in 787.py: Solution.findCheapestPrice() got an unexpected keyword argument 'src'
+790.py: 0.30%
+792.py: 100.00%
+799.py: 100.00%
+801.py: 3.00%
+805.py: 82.00%
+808.py: 100.00%
+Error in 813.py: division by zero
+Error in 823.py: list index out of range
+828.py: 5.00%
+834.py: 0.00%
+837.py: TLE: 837.py exceeded time limit of 30 seconds.
+838.py: 0.00%
+Error in 871.py: 6580 is not in list
+Error in 873.py: Solution.isFibonacci() got an unexpected keyword argument 'arr'
+877.py: 100.00%
+Error in 879.py: expected an indented block after 'for' statement on line 10 (879.py, line 11)
+Error in 887.py: (67, 0)
+Error in 894.py: Object of type TreeNode is not JSON serializable
+898.py: 1.00%
+Error in 902.py: Solution.countNumbersWithUniqueDigits() got an unexpected keyword argument 'digits'
+Error in 903.py: list index out of range
+Error in 907.py: list indices must be integers or slices, not tuple
+Error in 913.py: list assignment index out of range
+918.py: 60.00%
+920.py: 0.00%
+926.py: 0.00%
+931.py: 100.00%
+935.py: 0.00%
+940.py: 0.00%
+943.py: 10.68%
+Error in 956.py: Solution.largestPalindrome() takes 2 positional arguments but 11 were given
+Error in 960.py: string index out of range
+964.py: 0.00%
+968.py: 7.00%
+Error in 975.py: invalid syntax (975.py, line 15)
+978.py: 3.81%
+983.py: 0.00%
+1000.py: 81.90%
+1012.py: 0.00%
+1014.py: 100.00%
+1024.py: 0.00%
+1025.py: 100.00%
+1027.py: 15.24%
+1031.py: 0.00%
+1035.py: 100.00%
+1039.py: 0.00%
+1043.py: 1.94%
+1048.py: 91.26%
+1049.py: 10.58%
+1092.py: 0.97%
+1105.py: 1.94%
+1130.py: 3.81%
+1137.py: 100.00%
+1139.py: 65.38%
+1140.py: 2.88%
+1147.py: 0.95%
+Error in 1186.py: list index out of range
+1187.py: 52.38%
+1218.py: 49.52%
+1220.py: 0.95%
+1223.py: 4.76%
+1227.py: 89.52%
+1255.py: 49.02%
+1262.py: 39.05%
+1277.py: 100.00%
+1289.py: 4.85%
+Error in 1301.py: duplicate argument 'int' in function definition (1301.py, line 3)
+1312.py: 100.00%
+Error in 1320.py: '(' was never closed (1320.py, line 48)
+1326.py: 0.00%
+1335.py: 0.00%
+1340.py: 0.00%
+1349.py: 24.00%
+1372.py: 0.00%
+1388.py: 1.00%
+Error in 1395.py: Solution.numberOfPaths() takes 2 positional arguments but 120 were given
+1397.py: 0.00%
+1402.py: 1.00%
+1411.py: 0.00%
+Error in 1434.py: invalid syntax (1434.py, line 13)
+Error in 1444.py: list assignment index out of range
+Error in 1449.py: list index out of range
+1458.py: 100.00%
+Error in 1463.py: list index out of range
+Error in 1473.py: '[' was never closed (1473.py, line 16)
+1477.py: 0.00%
+1478.py: 4.00%
+1483.py: No Solution class found in the file.
+1493.py: 10.00%
+1510.py: 34.60%
+1524.py: 0.00%
+1525.py: 0.00%
+Error in 1526.py: Solution.minOperations() missing 1 required positional argument: 'initial'
+1531.py: 0.00%
+1537.py: 0.00%
+1547.py: 3.00%
+1553.py: 0.00%
+1563.py: 0.00%
+1567.py: 60.00%
+1575.py: 96.00%
+1611.py: 0.00%
+Error in 1617.py: unsupported operand type(s) for +=: 'int' and 'list'
+1621.py: 0.00%
+1626.py: 0.00%
+1638.py: 0.00%
+Error in 1643.py: list index out of range
+1653.py: 0.00%
+Error in 1659.py: expected an indented block after 'if' statement on line 14 (1659.py, line 14)
+1668.py: 99.00%
+1690.py: 0.00%
+1696.py: 0.00%
+1723.py: 6.00%
+1728.py: 0.00%
+1751.py: 5.00%
+1755.py: 2.00%
+1770.py: 1.00%
+1771.py: 0.00%
+Error in 1786.py: maximum recursion depth exceeded
+Error in 1787.py: list index out of range
+1799.py: 19.00%
+1815.py: 26.00%
+1824.py: 2.00%
+1866.py: 0.00%
+Error in 1871.py: list assignment index out of range
+1872.py: 0.00%
+1879.py: 20.00%
+Error in 1884.py: Solution.superEggDrop() missing 1 required positional argument: 'k'
+1888.py: 6.90%
+1896.py: 12.20%
+Error in 1900.py: '[' was never closed (1900.py, line 26)
+1908.py: No corresponding test case file found.
+Error in 1911.py: list index out of range
+1916.py: 0.00%
+1928.py: 19.00%
+1947.py: 100.00%
+1955.py: 0.00%
+1976.py: 4.00%
+Error in 1977.py: invalid literal for int() with base 10: ''
+1986.py: 0.00%
+1987.py: 0.00%
+1994.py: 0.00%

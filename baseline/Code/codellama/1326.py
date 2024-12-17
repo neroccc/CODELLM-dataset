@@ -1,0 +1,7 @@
+from typing import List
+class Solution:
+    def minTaps(self, n: int, ranges: List[int]) -> int:
+        # Refer to the algorithm description to generate a complete and efficient Python solution for the given Problem Description2
+
+        # Problem Description2
+        There is a one-dimensional garden on the x-axis. The garden starts at the point `0` and ends at the point `n`. (i.e The length of the garden is `n`).

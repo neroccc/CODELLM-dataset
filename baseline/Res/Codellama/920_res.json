@@ -1,0 +1,1002 @@
+[
+    {
+        "input": {
+            "n": 47,
+            "goal": 76,
+            "k": 10
+        },
+        "expected_output": 646986055,
+        "predicted_output": 314457495,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 14,
+            "goal": 76,
+            "k": 6
+        },
+        "expected_output": 55138590,
+        "predicted_output": 14,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 66,
+            "goal": 78,
+            "k": 65
+        },
+        "expected_output": 422103593,
+        "predicted_output": 2145,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 8,
+            "goal": 91,
+            "k": 4
+        },
+        "expected_output": 549537681,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 88,
+            "goal": 95,
+            "k": 84
+        },
+        "expected_output": 637751601,
+        "predicted_output": 3828,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 88,
+            "goal": 91,
+            "k": 26
+        },
+        "expected_output": 557151386,
+        "predicted_output": 2331890,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 72,
+            "goal": 96,
+            "k": 44
+        },
+        "expected_output": 186426361,
+        "predicted_output": 59640,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 34,
+            "goal": 42,
+            "k": 14
+        },
+        "expected_output": 646633150,
+        "predicted_output": 5984,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 28,
+            "goal": 87,
+            "k": 26
+        },
+        "expected_output": 407206326,
+        "predicted_output": 20475,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 61,
+            "goal": 64,
+            "k": 22
+        },
+        "expected_output": 139720983,
+        "predicted_output": 35990,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 18,
+            "goal": 71,
+            "k": 3
+        },
+        "expected_output": 34792443,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 85,
+            "goal": 91,
+            "k": 12
+        },
+        "expected_output": 442542148,
+        "predicted_output": 124511034,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 27,
+            "goal": 53,
+            "k": 6
+        },
+        "expected_output": 451545430,
+        "predicted_output": 4686825,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 31,
+            "goal": 46,
+            "k": 17
+        },
+        "expected_output": 594977978,
+        "predicted_output": 4495,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 94,
+            "goal": 96,
+            "k": 74
+        },
+        "expected_output": 416455498,
+        "predicted_output": 4371,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 47,
+            "goal": 58,
+            "k": 5
+        },
+        "expected_output": 594026973,
+        "predicted_output": 251400487,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 68,
+            "goal": 72,
+            "k": 15
+        },
+        "expected_output": 588188622,
+        "predicted_output": 10424128,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 37,
+            "goal": 93,
+            "k": 12
+        },
+        "expected_output": 515201152,
+        "predicted_output": 38608020,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 14,
+            "goal": 81,
+            "k": 10
+        },
+        "expected_output": 559649271,
+        "predicted_output": 2002,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 28,
+            "goal": 44,
+            "k": 27
+        },
+        "expected_output": 35757887,
+        "predicted_output": 378,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 97,
+            "goal": 99,
+            "k": 25
+        },
+        "expected_output": 648368952,
+        "predicted_output": 3464840,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 60,
+            "goal": 83,
+            "k": 24
+        },
+        "expected_output": 607685891,
+        "predicted_output": 487635,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 79,
+            "goal": 81,
+            "k": 11
+        },
+        "expected_output": 364721752,
+        "predicted_output": 88783253,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 86,
+            "goal": 88,
+            "k": 43
+        },
+        "expected_output": 919603945,
+        "predicted_output": 102340,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 3,
+            "goal": 20,
+            "k": 0
+        },
+        "expected_output": 483638655,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 85,
+            "goal": 87,
+            "k": 3
+        },
+        "expected_output": 726747247,
+        "predicted_output": 600539846,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 90,
+            "goal": 97,
+            "k": 65
+        },
+        "expected_output": 311311710,
+        "predicted_output": 4005,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 72,
+            "goal": 91,
+            "k": 5
+        },
+        "expected_output": 968138840,
+        "predicted_output": 562114527,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 8,
+            "goal": 58,
+            "k": 7
+        },
+        "expected_output": 40320,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 66,
+            "goal": 87,
+            "k": 14
+        },
+        "expected_output": 936072126,
+        "predicted_output": 778789440,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 63,
+            "goal": 75,
+            "k": 37
+        },
+        "expected_output": 151370564,
+        "predicted_output": 39711,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 35,
+            "goal": 40,
+            "k": 4
+        },
+        "expected_output": 715144918,
+        "predicted_output": 183579396,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 48,
+            "goal": 62,
+            "k": 12
+        },
+        "expected_output": 978997810,
+        "predicted_output": 12271512,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 26,
+            "goal": 74,
+            "k": 2
+        },
+        "expected_output": 343850041,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 38,
+            "goal": 99,
+            "k": 22
+        },
+        "expected_output": 204957559,
+        "predicted_output": 501942,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 69,
+            "goal": 91,
+            "k": 53
+        },
+        "expected_output": 527458740,
+        "predicted_output": 2346,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 84,
+            "goal": 100,
+            "k": 62
+        },
+        "expected_output": 151313810,
+        "predicted_output": 3486,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 41,
+            "goal": 50,
+            "k": 4
+        },
+        "expected_output": 983047937,
+        "predicted_output": 620076241,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 80,
+            "goal": 95,
+            "k": 50
+        },
+        "expected_output": 614522391,
+        "predicted_output": 3160,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 24,
+            "goal": 60,
+            "k": 20
+        },
+        "expected_output": 187107280,
+        "predicted_output": 2024,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 46,
+            "goal": 97,
+            "k": 31
+        },
+        "expected_output": 718897486,
+        "predicted_output": 163185,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 3,
+            "goal": 61,
+            "k": 0
+        },
+        "expected_output": 624869645,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 66,
+            "goal": 81,
+            "k": 33
+        },
+        "expected_output": 74456952,
+        "predicted_output": 45760,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 77,
+            "goal": 78,
+            "k": 12
+        },
+        "expected_output": 980787886,
+        "predicted_output": 404808326,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 63,
+            "goal": 91,
+            "k": 47
+        },
+        "expected_output": 983787641,
+        "predicted_output": 1953,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 75,
+            "goal": 97,
+            "k": 15
+        },
+        "expected_output": 562937904,
+        "predicted_output": 984829843,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 76,
+            "goal": 85,
+            "k": 8
+        },
+        "expected_output": 725507367,
+        "predicted_output": 160331091,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 81,
+            "goal": 90,
+            "k": 23
+        },
+        "expected_output": 159348153,
+        "predicted_output": 1663740,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 71,
+            "goal": 100,
+            "k": 59
+        },
+        "expected_output": 143962684,
+        "predicted_output": 2485,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 49,
+            "goal": 83,
+            "k": 33
+        },
+        "expected_output": 785910090,
+        "predicted_output": 18424,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 15,
+            "goal": 54,
+            "k": 14
+        },
+        "expected_output": 674358851,
+        "predicted_output": 1365,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 16,
+            "goal": 30,
+            "k": 12
+        },
+        "expected_output": 817159837,
+        "predicted_output": 560,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 21,
+            "goal": 35,
+            "k": 0
+        },
+        "expected_output": 833306687,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 95,
+            "goal": 97,
+            "k": 53
+        },
+        "expected_output": 213208436,
+        "predicted_output": 4465,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 65,
+            "goal": 84,
+            "k": 62
+        },
+        "expected_output": 861923129,
+        "predicted_output": 2080,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 90,
+            "goal": 94,
+            "k": 58
+        },
+        "expected_output": 326682759,
+        "predicted_output": 4005,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 47,
+            "goal": 55,
+            "k": 31
+        },
+        "expected_output": 393323888,
+        "predicted_output": 1081,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 47,
+            "goal": 80,
+            "k": 32
+        },
+        "expected_output": 33422016,
+        "predicted_output": 16215,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 91,
+            "goal": 97,
+            "k": 61
+        },
+        "expected_output": 803740349,
+        "predicted_output": 4095,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 75,
+            "goal": 84,
+            "k": 55
+        },
+        "expected_output": 465594078,
+        "predicted_output": 2775,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 13,
+            "goal": 92,
+            "k": 0
+        },
+        "expected_output": 515716712,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 11,
+            "goal": 91,
+            "k": 5
+        },
+        "expected_output": 640253652,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 50,
+            "goal": 69,
+            "k": 18
+        },
+        "expected_output": 91056553,
+        "predicted_output": 230300,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 10,
+            "goal": 32,
+            "k": 0
+        },
+        "expected_output": 880280493,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 53,
+            "goal": 83,
+            "k": 20
+        },
+        "expected_output": 846816968,
+        "predicted_output": 2869685,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 3,
+            "goal": 60,
+            "k": 2
+        },
+        "expected_output": 6,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 82,
+            "goal": 99,
+            "k": 45
+        },
+        "expected_output": 978012421,
+        "predicted_output": 88560,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 68,
+            "goal": 82,
+            "k": 21
+        },
+        "expected_output": 898429972,
+        "predicted_output": 814385,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 95,
+            "goal": 99,
+            "k": 63
+        },
+        "expected_output": 677769008,
+        "predicted_output": 4465,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 46,
+            "goal": 88,
+            "k": 28
+        },
+        "expected_output": 917031800,
+        "predicted_output": 163185,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 76,
+            "goal": 83,
+            "k": 9
+        },
+        "expected_output": 178763598,
+        "predicted_output": 526721852,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 2,
+            "goal": 15,
+            "k": 1
+        },
+        "expected_output": 2,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 42,
+            "goal": 77,
+            "k": 14
+        },
+        "expected_output": 440452076,
+        "predicted_output": 5245786,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 91,
+            "goal": 94,
+            "k": 8
+        },
+        "expected_output": 345720858,
+        "predicted_output": 263763106,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 39,
+            "goal": 97,
+            "k": 25
+        },
+        "expected_output": 124387639,
+        "predicted_output": 82251,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 96,
+            "goal": 100,
+            "k": 52
+        },
+        "expected_output": 124483555,
+        "predicted_output": 4560,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 64,
+            "goal": 86,
+            "k": 28
+        },
+        "expected_output": 124461239,
+        "predicted_output": 635376,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 37,
+            "goal": 81,
+            "k": 20
+        },
+        "expected_output": 946974389,
+        "predicted_output": 435897,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 83,
+            "goal": 96,
+            "k": 62
+        },
+        "expected_output": 630169600,
+        "predicted_output": 3403,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 5,
+            "goal": 5,
+            "k": 2
+        },
+        "expected_output": 120,
+        "predicted_output": 10,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 59,
+            "goal": 91,
+            "k": 26
+        },
+        "expected_output": 282863968,
+        "predicted_output": 455126,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 48,
+            "goal": 71,
+            "k": 30
+        },
+        "expected_output": 348115621,
+        "predicted_output": 17296,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 4,
+            "goal": 85,
+            "k": 2
+        },
+        "expected_output": 677549087,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 24,
+            "goal": 61,
+            "k": 2
+        },
+        "expected_output": 820506020,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 73,
+            "goal": 96,
+            "k": 52
+        },
+        "expected_output": 62056068,
+        "predicted_output": 2628,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 88,
+            "goal": 100,
+            "k": 73
+        },
+        "expected_output": 3317927,
+        "predicted_output": 3828,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 34,
+            "goal": 92,
+            "k": 27
+        },
+        "expected_output": 620020348,
+        "predicted_output": 46376,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 45,
+            "goal": 52,
+            "k": 19
+        },
+        "expected_output": 342910081,
+        "predicted_output": 14190,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 99,
+            "goal": 99,
+            "k": 20
+        },
+        "expected_output": 104379182,
+        "predicted_output": 71523144,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 12,
+            "goal": 21,
+            "k": 2
+        },
+        "expected_output": 886767201,
+        "predicted_output": 12,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 95,
+            "goal": 96,
+            "k": 29
+        },
+        "expected_output": 729375967,
+        "predicted_output": 3183545,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 23,
+            "goal": 75,
+            "k": 1
+        },
+        "expected_output": 67499490,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 56,
+            "goal": 90,
+            "k": 0
+        },
+        "expected_output": 237197467,
+        "predicted_output": 0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 73,
+            "goal": 89,
+            "k": 49
+        },
+        "expected_output": 868148445,
+        "predicted_output": 2628,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 78,
+            "goal": 99,
+            "k": 36
+        },
+        "expected_output": 114104462,
+        "predicted_output": 76076,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 36,
+            "goal": 80,
+            "k": 20
+        },
+        "expected_output": 147678041,
+        "predicted_output": 58905,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 98,
+            "goal": 100,
+            "k": 78
+        },
+        "expected_output": 538839116,
+        "predicted_output": 4753,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 59,
+            "goal": 85,
+            "k": 57
+        },
+        "expected_output": 81968620,
+        "predicted_output": 1711,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 58,
+            "goal": 71,
+            "k": 56
+        },
+        "expected_output": 828163733,
+        "predicted_output": 1653,
+        "result": "different"
+    },
+    {
+        "input": {
+            "n": 74,
+            "goal": 86,
+            "k": 32
+        },
+        "expected_output": 842427510,
+        "predicted_output": 64824,
+        "result": "different"
+    }
+]

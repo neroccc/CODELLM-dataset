@@ -1,0 +1,1902 @@
+[
+    {
+        "input": {
+            "cost": [
+                3710,
+                2158,
+                55,
+                2366,
+                3044,
+                623,
+                1534,
+                1949,
+                1501
+            ],
+            "target": 2595
+        },
+        "expected_output": "0",
+        "predicted_output": "68",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4205,
+                3191,
+                1678,
+                4073,
+                2953,
+                1087,
+                45,
+                1226,
+                4144
+            ],
+            "target": 4812
+        },
+        "expected_output": "0",
+        "predicted_output": "357",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                3337,
+                1029,
+                256,
+                3307,
+                4229,
+                1412,
+                4290,
+                4622,
+                1883
+            ],
+            "target": 3326
+        },
+        "expected_output": "0",
+        "predicted_output": "4",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1195,
+                4585,
+                1540,
+                1908,
+                3372,
+                4307,
+                3689,
+                4189,
+                1013
+            ],
+            "target": 2337
+        },
+        "expected_output": "0",
+        "predicted_output": "19",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                3786,
+                4771,
+                1182,
+                2259,
+                4063,
+                4707,
+                4607,
+                1992,
+                338
+            ],
+            "target": 2300
+        },
+        "expected_output": "0",
+        "predicted_output": "4",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4407,
+                778,
+                3991,
+                3062,
+                176,
+                264,
+                2137,
+                472,
+                4603
+            ],
+            "target": 3299
+        },
+        "expected_output": "0",
+        "predicted_output": "45",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4749,
+                4196,
+                2684,
+                2579,
+                1996,
+                769,
+                4410,
+                3019,
+                1843
+            ],
+            "target": 751
+        },
+        "expected_output": "0",
+        "predicted_output": "0",
+        "result": "same"
+    },
+    {
+        "input": {
+            "cost": [
+                1865,
+                2345,
+                2137,
+                2246,
+                4775,
+                301,
+                1111,
+                3263,
+                3873
+            ],
+            "target": 1747
+        },
+        "expected_output": "0",
+        "predicted_output": "67",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                36,
+                3244,
+                4277,
+                3643,
+                4078,
+                1539,
+                2745,
+                2694,
+                4829
+            ],
+            "target": 972
+        },
+        "expected_output": "111111111111111111111111111",
+        "predicted_output": "1",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                699,
+                1311,
+                537,
+                1145,
+                10,
+                3820,
+                4523,
+                3812,
+                4168
+            ],
+            "target": 1529
+        },
+        "expected_output": "555555555555555555555555555555555555555555555555555555555555555555555555555555555551",
+        "predicted_output": "25",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                2650,
+                1786,
+                3929,
+                474,
+                3054,
+                1442,
+                311,
+                4640,
+                3455
+            ],
+            "target": 645
+        },
+        "expected_output": "0",
+        "predicted_output": "4",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4547,
+                4332,
+                4469,
+                1905,
+                2065,
+                3688,
+                689,
+                407,
+                2271
+            ],
+            "target": 4410
+        },
+        "expected_output": "0",
+        "predicted_output": "67",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                857,
+                2932,
+                3595,
+                1616,
+                4005,
+                3846,
+                4586,
+                80,
+                3268
+            ],
+            "target": 3278
+        },
+        "expected_output": "0",
+        "predicted_output": "9",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1504,
+                2220,
+                333,
+                153,
+                1851,
+                1028,
+                2213,
+                3430,
+                170
+            ],
+            "target": 749
+        },
+        "expected_output": "0",
+        "predicted_output": "349",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                340,
+                66,
+                4217,
+                4524,
+                1081,
+                2098,
+                396,
+                1465,
+                1382
+            ],
+            "target": 2014
+        },
+        "expected_output": "0",
+        "predicted_output": "278",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4223,
+                4939,
+                1447,
+                2783,
+                2023,
+                1779,
+                4926,
+                1179,
+                17
+            ],
+            "target": 1440
+        },
+        "expected_output": "0",
+        "predicted_output": "89",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1835,
+                4902,
+                4789,
+                1577,
+                4473,
+                4189,
+                3689,
+                174,
+                4994
+            ],
+            "target": 2057
+        },
+        "expected_output": "0",
+        "predicted_output": "18",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4823,
+                1255,
+                4134,
+                4758,
+                298,
+                2039,
+                3891,
+                2847,
+                3808
+            ],
+            "target": 576
+        },
+        "expected_output": "0",
+        "predicted_output": "5",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                2749,
+                2138,
+                1805,
+                4384,
+                3957,
+                4235,
+                2539,
+                1478,
+                2991
+            ],
+            "target": 2637
+        },
+        "expected_output": "0",
+        "predicted_output": "7",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                3288,
+                3571,
+                4110,
+                4548,
+                4524,
+                2764,
+                4641,
+                4717,
+                3392
+            ],
+            "target": 2187
+        },
+        "expected_output": "0",
+        "predicted_output": "0",
+        "result": "same"
+    },
+    {
+        "input": {
+            "cost": [
+                1276,
+                4770,
+                4696,
+                757,
+                779,
+                2121,
+                139,
+                3202,
+                3195
+            ],
+            "target": 3939
+        },
+        "expected_output": "777777777777444",
+        "predicted_output": "4567",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4963,
+                2614,
+                2796,
+                3388,
+                3666,
+                4796,
+                3862,
+                2601,
+                3872
+            ],
+            "target": 4140
+        },
+        "expected_output": "0",
+        "predicted_output": "9",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4551,
+                3477,
+                564,
+                976,
+                1117,
+                2731,
+                4037,
+                804,
+                3144
+            ],
+            "target": 3694
+        },
+        "expected_output": "0",
+        "predicted_output": "68",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                144,
+                4413,
+                2332,
+                3141,
+                3436,
+                4540,
+                4971,
+                4302,
+                2579
+            ],
+            "target": 4289
+        },
+        "expected_output": "0",
+        "predicted_output": "15",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4894,
+                2922,
+                2543,
+                656,
+                3095,
+                4685,
+                4759,
+                4302,
+                4423
+            ],
+            "target": 2331
+        },
+        "expected_output": "0",
+        "predicted_output": "4",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1768,
+                2120,
+                4892,
+                3815,
+                1346,
+                2028,
+                4310,
+                3865,
+                2024
+            ],
+            "target": 3543
+        },
+        "expected_output": "0",
+        "predicted_output": "25",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1358,
+                1916,
+                1274,
+                549,
+                998,
+                4752,
+                3014,
+                2507,
+                4774
+            ],
+            "target": 762
+        },
+        "expected_output": "0",
+        "predicted_output": "4",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                3709,
+                2693,
+                336,
+                2845,
+                1662,
+                3542,
+                4638,
+                3663,
+                1901
+            ],
+            "target": 1309
+        },
+        "expected_output": "0",
+        "predicted_output": "3",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1395,
+                489,
+                3904,
+                1705,
+                3601,
+                2759,
+                673,
+                627,
+                283
+            ],
+            "target": 1647
+        },
+        "expected_output": "0",
+        "predicted_output": "789",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                2659,
+                216,
+                2557,
+                4936,
+                350,
+                1963,
+                2279,
+                4183,
+                2662
+            ],
+            "target": 2137
+        },
+        "expected_output": "0",
+        "predicted_output": "6",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                683,
+                406,
+                2533,
+                2311,
+                4095,
+                1610,
+                4192,
+                1149,
+                4637
+            ],
+            "target": 1173
+        },
+        "expected_output": "0",
+        "predicted_output": "8",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4685,
+                3840,
+                2645,
+                3112,
+                2960,
+                2942,
+                1840,
+                2854,
+                3190
+            ],
+            "target": 3884
+        },
+        "expected_output": "0",
+        "predicted_output": "2",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                3501,
+                880,
+                3025,
+                1340,
+                144,
+                2640,
+                2253,
+                3483,
+                1140
+            ],
+            "target": 4762
+        },
+        "expected_output": "0",
+        "predicted_output": "479",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                609,
+                4308,
+                129,
+                4621,
+                3761,
+                3366,
+                4846,
+                3843,
+                2343
+            ],
+            "target": 906
+        },
+        "expected_output": "0",
+        "predicted_output": "13",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                707,
+                1151,
+                4783,
+                764,
+                3977,
+                3152,
+                3741,
+                3209,
+                2698
+            ],
+            "target": 4627
+        },
+        "expected_output": "0",
+        "predicted_output": "146",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1939,
+                2133,
+                4226,
+                1102,
+                1943,
+                4610,
+                4332,
+                459,
+                4731
+            ],
+            "target": 4501
+        },
+        "expected_output": "0",
+        "predicted_output": "158",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1188,
+                908,
+                4760,
+                554,
+                1347,
+                1467,
+                3696,
+                4937,
+                4964
+            ],
+            "target": 3154
+        },
+        "expected_output": "0",
+        "predicted_output": "145",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                2393,
+                3231,
+                3558,
+                2004,
+                1491,
+                2229,
+                4684,
+                152,
+                173
+            ],
+            "target": 3148
+        },
+        "expected_output": "0",
+        "predicted_output": "189",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1495,
+                4680,
+                3852,
+                2894,
+                1708,
+                789,
+                2817,
+                4831,
+                4349
+            ],
+            "target": 3525
+        },
+        "expected_output": "0",
+        "predicted_output": "15",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4747,
+                4304,
+                1732,
+                4639,
+                3192,
+                4508,
+                853,
+                2634,
+                161
+            ],
+            "target": 1702
+        },
+        "expected_output": "0",
+        "predicted_output": "79",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                2724,
+                4407,
+                2508,
+                4761,
+                3970,
+                3200,
+                4959,
+                2556,
+                1354
+            ],
+            "target": 4658
+        },
+        "expected_output": "0",
+        "predicted_output": "69",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                3981,
+                2833,
+                686,
+                4043,
+                4676,
+                1714,
+                764,
+                2601,
+                2916
+            ],
+            "target": 910
+        },
+        "expected_output": "0",
+        "predicted_output": "7",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                3394,
+                2187,
+                464,
+                1147,
+                1274,
+                1150,
+                3477,
+                1064,
+                1700
+            ],
+            "target": 2258
+        },
+        "expected_output": "0",
+        "predicted_output": "68",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                549,
+                1462,
+                3594,
+                3944,
+                4913,
+                3262,
+                414,
+                1435,
+                3265
+            ],
+            "target": 709
+        },
+        "expected_output": "0",
+        "predicted_output": "1",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                3907,
+                2988,
+                1490,
+                2334,
+                2717,
+                218,
+                1858,
+                1252,
+                4816
+            ],
+            "target": 4798
+        },
+        "expected_output": "88766",
+        "predicted_output": "567",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                3034,
+                2173,
+                917,
+                4212,
+                3663,
+                1897,
+                740,
+                2016,
+                2435
+            ],
+            "target": 610
+        },
+        "expected_output": "0",
+        "predicted_output": "0",
+        "result": "same"
+    },
+    {
+        "input": {
+            "cost": [
+                4475,
+                850,
+                533,
+                3641,
+                3994,
+                656,
+                3754,
+                475,
+                3622
+            ],
+            "target": 2106
+        },
+        "expected_output": "0",
+        "predicted_output": "236",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4519,
+                2536,
+                487,
+                4411,
+                312,
+                621,
+                1570,
+                4194,
+                4009
+            ],
+            "target": 3888
+        },
+        "expected_output": "0",
+        "predicted_output": "236",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                3401,
+                2399,
+                1560,
+                1887,
+                4506,
+                3633,
+                3941,
+                928,
+                4294
+            ],
+            "target": 3257
+        },
+        "expected_output": "0",
+        "predicted_output": "48",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1187,
+                2026,
+                1928,
+                2928,
+                181,
+                4166,
+                2024,
+                1378,
+                4521
+            ],
+            "target": 4474
+        },
+        "expected_output": "0",
+        "predicted_output": "56",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4057,
+                3655,
+                3559,
+                2727,
+                4480,
+                2361,
+                1503,
+                3368,
+                3636
+            ],
+            "target": 1192
+        },
+        "expected_output": "0",
+        "predicted_output": "0",
+        "result": "same"
+    },
+    {
+        "input": {
+            "cost": [
+                4886,
+                4086,
+                4279,
+                2458,
+                553,
+                4297,
+                3897,
+                3491,
+                1210
+            ],
+            "target": 499
+        },
+        "expected_output": "0",
+        "predicted_output": "0",
+        "result": "same"
+    },
+    {
+        "input": {
+            "cost": [
+                2779,
+                1143,
+                1469,
+                3052,
+                2857,
+                4936,
+                2058,
+                602,
+                550
+            ],
+            "target": 2690
+        },
+        "expected_output": "0",
+        "predicted_output": "78",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1369,
+                4863,
+                1994,
+                1250,
+                1886,
+                2391,
+                4289,
+                3290,
+                4575
+            ],
+            "target": 3255
+        },
+        "expected_output": "51",
+        "predicted_output": "15",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                3729,
+                776,
+                3032,
+                1094,
+                360,
+                1700,
+                3430,
+                4797,
+                2004
+            ],
+            "target": 4697
+        },
+        "expected_output": "0",
+        "predicted_output": "257",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4354,
+                551,
+                1769,
+                1582,
+                4835,
+                3783,
+                3054,
+                4319,
+                3326
+            ],
+            "target": 4327
+        },
+        "expected_output": "0",
+        "predicted_output": "8",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                77,
+                3139,
+                4116,
+                2534,
+                4101,
+                3685,
+                50,
+                4098,
+                1552
+            ],
+            "target": 3991
+        },
+        "expected_output": "77777777777777777777777777777111111111111111111111111111111111",
+        "predicted_output": "167",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1015,
+                3841,
+                2699,
+                3223,
+                43,
+                4376,
+                3477,
+                4532,
+                2282
+            ],
+            "target": 705
+        },
+        "expected_output": "0",
+        "predicted_output": "5",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1917,
+                1878,
+                369,
+                1055,
+                3277,
+                1420,
+                597,
+                840,
+                3906
+            ],
+            "target": 482
+        },
+        "expected_output": "0",
+        "predicted_output": "3",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                155,
+                206,
+                2868,
+                2468,
+                621,
+                301,
+                2532,
+                3433,
+                3968
+            ],
+            "target": 4657
+        },
+        "expected_output": "6666652111111111111111",
+        "predicted_output": "1269",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                446,
+                3691,
+                2531,
+                9,
+                1581,
+                3029,
+                4427,
+                1244,
+                4548
+            ],
+            "target": 4842
+        },
+        "expected_output": "4444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444",
+        "predicted_output": "1468",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1019,
+                403,
+                1707,
+                992,
+                2494,
+                72,
+                2341,
+                1243,
+                1023
+            ],
+            "target": 2142
+        },
+        "expected_output": "666666666621",
+        "predicted_output": "169",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4981,
+                3442,
+                784,
+                4580,
+                1028,
+                2092,
+                4027,
+                4589,
+                380
+            ],
+            "target": 2424
+        },
+        "expected_output": "0",
+        "predicted_output": "359",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1750,
+                275,
+                660,
+                4581,
+                4058,
+                3822,
+                2482,
+                4402,
+                3186
+            ],
+            "target": 2351
+        },
+        "expected_output": "0",
+        "predicted_output": "12",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                2130,
+                4481,
+                1704,
+                2536,
+                2892,
+                3894,
+                2999,
+                332,
+                2968
+            ],
+            "target": 2380
+        },
+        "expected_output": "0",
+        "predicted_output": "1",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                749,
+                1861,
+                75,
+                1656,
+                2700,
+                2265,
+                2589,
+                1695,
+                2146
+            ],
+            "target": 4359
+        },
+        "expected_output": "873",
+        "predicted_output": "378",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                2211,
+                1130,
+                849,
+                320,
+                628,
+                1231,
+                4592,
+                1423,
+                1038
+            ],
+            "target": 1205
+        },
+        "expected_output": "0",
+        "predicted_output": "34",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1064,
+                2598,
+                1974,
+                1996,
+                652,
+                2351,
+                3430,
+                3091,
+                617
+            ],
+            "target": 767
+        },
+        "expected_output": "0",
+        "predicted_output": "5",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                492,
+                4952,
+                1139,
+                4276,
+                2661,
+                3706,
+                1409,
+                2522,
+                2642
+            ],
+            "target": 1167
+        },
+        "expected_output": "0",
+        "predicted_output": "3",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                597,
+                957,
+                3785,
+                1730,
+                1608,
+                4951,
+                2870,
+                3494,
+                4532
+            ],
+            "target": 3381
+        },
+        "expected_output": "0",
+        "predicted_output": "45",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                941,
+                1390,
+                1139,
+                297,
+                3514,
+                1262,
+                3530,
+                4241,
+                3543
+            ],
+            "target": 2079
+        },
+        "expected_output": "4444444",
+        "predicted_output": "24",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4157,
+                4026,
+                4774,
+                1181,
+                3297,
+                4082,
+                110,
+                3208,
+                1811
+            ],
+            "target": 396
+        },
+        "expected_output": "0",
+        "predicted_output": "7",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4101,
+                4936,
+                4284,
+                2817,
+                534,
+                4841,
+                1544,
+                3557,
+                4571
+            ],
+            "target": 1360
+        },
+        "expected_output": "0",
+        "predicted_output": "5",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1803,
+                4724,
+                4540,
+                2543,
+                1883,
+                2397,
+                3582,
+                543,
+                1379
+            ],
+            "target": 1389
+        },
+        "expected_output": "0",
+        "predicted_output": "9",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                2565,
+                1609,
+                797,
+                3561,
+                3850,
+                3982,
+                3563,
+                3279,
+                4231
+            ],
+            "target": 2589
+        },
+        "expected_output": "0",
+        "predicted_output": "1",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                53,
+                784,
+                2789,
+                3672,
+                4587,
+                3215,
+                1744,
+                4749,
+                668
+            ],
+            "target": 2273
+        },
+        "expected_output": "0",
+        "predicted_output": "17",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                2381,
+                3675,
+                4515,
+                3375,
+                1434,
+                3943,
+                1612,
+                3959,
+                1356
+            ],
+            "target": 2033
+        },
+        "expected_output": "0",
+        "predicted_output": "7",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                532,
+                3604,
+                1747,
+                1208,
+                1787,
+                3119,
+                1667,
+                2002,
+                935
+            ],
+            "target": 4299
+        },
+        "expected_output": "0",
+        "predicted_output": "138",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1355,
+                356,
+                3975,
+                3921,
+                2427,
+                1241,
+                3287,
+                3360,
+                1645
+            ],
+            "target": 3331
+        },
+        "expected_output": "0",
+        "predicted_output": "7",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4065,
+                4877,
+                2030,
+                272,
+                1012,
+                4074,
+                4367,
+                2723,
+                643
+            ],
+            "target": 372
+        },
+        "expected_output": "0",
+        "predicted_output": "4",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                473,
+                1769,
+                3943,
+                4801,
+                351,
+                21,
+                699,
+                4632,
+                4977
+            ],
+            "target": 63
+        },
+        "expected_output": "666",
+        "predicted_output": "6",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4497,
+                425,
+                1283,
+                1953,
+                636,
+                128,
+                4984,
+                2081,
+                553
+            ],
+            "target": 3933
+        },
+        "expected_output": "0",
+        "predicted_output": "2368",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4064,
+                154,
+                4356,
+                85,
+                2844,
+                2327,
+                4452,
+                3648,
+                873
+            ],
+            "target": 1246
+        },
+        "expected_output": "0",
+        "predicted_output": "249",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1202,
+                4065,
+                1209,
+                4914,
+                4034,
+                1698,
+                784,
+                3976,
+                4874
+            ],
+            "target": 3668
+        },
+        "expected_output": "0",
+        "predicted_output": "137",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4205,
+                3277,
+                4595,
+                633,
+                567,
+                268,
+                4249,
+                4046,
+                3048
+            ],
+            "target": 266
+        },
+        "expected_output": "0",
+        "predicted_output": "0",
+        "result": "same"
+    },
+    {
+        "input": {
+            "cost": [
+                2990,
+                1721,
+                3943,
+                672,
+                2379,
+                204,
+                785,
+                3663,
+                669
+            ],
+            "target": 3079
+        },
+        "expected_output": "0",
+        "predicted_output": "249",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                3417,
+                3906,
+                2220,
+                3928,
+                1249,
+                1743,
+                316,
+                3461,
+                4115
+            ],
+            "target": 4407
+        },
+        "expected_output": "0",
+        "predicted_output": "367",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                2582,
+                2579,
+                4643,
+                892,
+                2584,
+                1352,
+                4686,
+                2004,
+                2105
+            ],
+            "target": 405
+        },
+        "expected_output": "0",
+        "predicted_output": "0",
+        "result": "same"
+    },
+    {
+        "input": {
+            "cost": [
+                4946,
+                2067,
+                4956,
+                3434,
+                2739,
+                2705,
+                1474,
+                3072,
+                1929
+            ],
+            "target": 3876
+        },
+        "expected_output": "0",
+        "predicted_output": "27",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1344,
+                787,
+                2419,
+                3226,
+                3615,
+                2482,
+                4922,
+                4839,
+                4002
+            ],
+            "target": 137
+        },
+        "expected_output": "0",
+        "predicted_output": "0",
+        "result": "same"
+    },
+    {
+        "input": {
+            "cost": [
+                2744,
+                2456,
+                630,
+                280,
+                2386,
+                2891,
+                4356,
+                3281,
+                179
+            ],
+            "target": 3501
+        },
+        "expected_output": "999999999333",
+        "predicted_output": "3459",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                3212,
+                815,
+                3964,
+                4887,
+                4959,
+                965,
+                729,
+                1304,
+                1025
+            ],
+            "target": 3919
+        },
+        "expected_output": "0",
+        "predicted_output": "2789",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1450,
+                4357,
+                247,
+                754,
+                2870,
+                4196,
+                1800,
+                838,
+                4917
+            ],
+            "target": 429
+        },
+        "expected_output": "0",
+        "predicted_output": "3",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                2673,
+                1159,
+                4904,
+                4194,
+                3202,
+                2805,
+                4714,
+                8,
+                1731
+            ],
+            "target": 4390
+        },
+        "expected_output": "888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888822",
+        "predicted_output": "258",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1157,
+                3060,
+                4620,
+                1645,
+                331,
+                14,
+                1774,
+                840,
+                3745
+            ],
+            "target": 1855
+        },
+        "expected_output": "6666666666666664",
+        "predicted_output": "67",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                383,
+                1472,
+                4850,
+                4681,
+                1731,
+                4679,
+                948,
+                381,
+                1288
+            ],
+            "target": 3927
+        },
+        "expected_output": "0",
+        "predicted_output": "1589",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                1940,
+                1331,
+                470,
+                2888,
+                1055,
+                1421,
+                2642,
+                1512,
+                1083
+            ],
+            "target": 4960
+        },
+        "expected_output": "0",
+        "predicted_output": "1369",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                2572,
+                1912,
+                1690,
+                1221,
+                4433,
+                1355,
+                2337,
+                2467,
+                3448
+            ],
+            "target": 1807
+        },
+        "expected_output": "0",
+        "predicted_output": "3",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                4951,
+                3507,
+                2325,
+                4229,
+                1060,
+                989,
+                2578,
+                1251,
+                2939
+            ],
+            "target": 3813
+        },
+        "expected_output": "0",
+        "predicted_output": "57",
+        "result": "different"
+    },
+    {
+        "input": {
+            "cost": [
+                2357,
+                514,
+                1578,
+                287,
+                3425,
+                205,
+                788,
+                4127,
+                3104
+            ],
+            "target": 998
+        },
+        "expected_output": "0",
+        "predicted_output": "67",
+        "result": "different"
+    }
+]

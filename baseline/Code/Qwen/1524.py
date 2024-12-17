@@ -1,0 +1,14 @@
+from typing import List
+class Solution:
+    def sumOddLengthSubarrays(self, arr: List[int]) -> int:
+        n = len(arr)
+        prefix_sum = [0] * (n + 1)
+        for i in range(n):
+            prefix_sum[i + 1] = prefix_sum[i] + arr[i]
+
+        ans = 0
+        for i in range(n):
+            for j in range(i, n, 2):
+                ans += prefix_sum[j + 1] - prefix_sum[i]
+
+        return ans % (10 ** 9 + 7)

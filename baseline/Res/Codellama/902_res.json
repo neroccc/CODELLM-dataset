@@ -1,0 +1,1469 @@
+[
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "6",
+                "7",
+                "8"
+            ],
+            "n": 466903333
+        },
+        "expected_output": 27902420,
+        "predicted_output": 3445923.22,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 30820238
+        },
+        "expected_output": 14946777,
+        "predicted_output": 197091271,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "3",
+                "6",
+                "7"
+            ],
+            "n": 905460154
+        },
+        "expected_output": 29523,
+        "predicted_output": 191.00889999999998,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "8",
+                "9"
+            ],
+            "n": 293740379
+        },
+        "expected_output": 51352136,
+        "predicted_output": 17252926.7,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "7",
+                "8"
+            ],
+            "n": 609527601
+        },
+        "expected_output": 510,
+        "predicted_output": -9.911011099999998,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 152472923
+        },
+        "expected_output": 68308779,
+        "predicted_output": 41361813,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "3",
+                "6",
+                "7"
+            ],
+            "n": 846493202
+        },
+        "expected_output": 349524,
+        "predicted_output": 3122.3099,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "3"
+            ],
+            "n": 557737574
+        },
+        "expected_output": 9,
+        "predicted_output": 1.0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "4",
+                "6"
+            ],
+            "n": 464341280
+        },
+        "expected_output": 638,
+        "predicted_output": 1.9898909000000002,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "3",
+                "6",
+                "7",
+                "9"
+            ],
+            "n": 267263688
+        },
+        "expected_output": 878905,
+        "predicted_output": 2303.1233,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "5"
+            ],
+            "n": 228815500
+        },
+        "expected_output": 766,
+        "predicted_output": 1.1101089,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "8"
+            ],
+            "n": 326778244
+        },
+        "expected_output": 8,
+        "predicted_output": -0.11110110999999989,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "5",
+                "9"
+            ],
+            "n": 285051538
+        },
+        "expected_output": 510,
+        "predicted_output": -9.010100999999999,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1"
+            ],
+            "n": 273950473
+        },
+        "expected_output": 9,
+        "predicted_output": 0.99999,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "6"
+            ],
+            "n": 387708470
+        },
+        "expected_output": 8,
+        "predicted_output": -0.00010100999999984595,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "4"
+            ],
+            "n": 720174831
+        },
+        "expected_output": 1022,
+        "predicted_output": 10.90111,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "7",
+                "8"
+            ],
+            "n": 211457703
+        },
+        "expected_output": 2015538,
+        "predicted_output": -10764.609,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "5",
+                "7",
+                "9"
+            ],
+            "n": 853301454
+        },
+        "expected_output": 2050780,
+        "predicted_output": 32110.0121,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "3",
+                "4",
+                "5",
+                "6",
+                "8"
+            ],
+            "n": 523579945
+        },
+        "expected_output": 7334322,
+        "predicted_output": 301346.52300000004,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "6",
+                "9"
+            ],
+            "n": 276470155
+        },
+        "expected_output": 5094834,
+        "predicted_output": 144340.033,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 388704222
+        },
+        "expected_output": 50270792,
+        "predicted_output": 16649201.0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 914544341
+        },
+        "expected_output": 41667353,
+        "predicted_output": 6022223.2,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "2",
+                "3",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 947652213
+        },
+        "expected_output": 42961492,
+        "predicted_output": 6143200.91,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "3",
+                "6",
+                "7",
+                "9"
+            ],
+            "n": 460773091
+        },
+        "expected_output": 1269530,
+        "predicted_output": 11934.094000000001,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "7"
+            ],
+            "n": 665271077
+        },
+        "expected_output": 8,
+        "predicted_output": -0.11101099999999997,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "8"
+            ],
+            "n": 745508452
+        },
+        "expected_output": 766,
+        "predicted_output": 0.9991,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "8",
+                "9"
+            ],
+            "n": 89383255
+        },
+        "expected_output": 16905901,
+        "predicted_output": 67262145,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "3",
+                "4",
+                "5",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 831115495
+        },
+        "expected_output": 36374321,
+        "predicted_output": 5100033.63,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "4",
+                "6",
+                "7",
+                "9"
+            ],
+            "n": 97799368
+        },
+        "expected_output": 1960962,
+        "predicted_output": 544552.3400000001,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "3"
+            ],
+            "n": 285148373
+        },
+        "expected_output": 8,
+        "predicted_output": -0.0009999999999998899,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "3",
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "n": 853841371
+        },
+        "expected_output": 2441405,
+        "predicted_output": 42041.903900000005,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "6",
+                "7",
+                "9"
+            ],
+            "n": 829602831
+        },
+        "expected_output": 41314406,
+        "predicted_output": 5163916.2,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 992879652
+        },
+        "expected_output": 432055505,
+        "predicted_output": 881768542,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "9"
+            ],
+            "n": 685817008
+        },
+        "expected_output": 34726062,
+        "predicted_output": 4535049.95,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "9"
+            ],
+            "n": 353027172
+        },
+        "expected_output": 6587826,
+        "predicted_output": 241915.041,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 203163751
+        },
+        "expected_output": 35951176,
+        "predicted_output": -895846.0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "9"
+            ],
+            "n": 218805727
+        },
+        "expected_output": 8,
+        "predicted_output": -0.11111110999999996,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "2",
+                "3",
+                "5",
+                "6",
+                "8",
+                "9"
+            ],
+            "n": 869139573
+        },
+        "expected_output": 9807090,
+        "predicted_output": 434916.231,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "2"
+            ],
+            "n": 364947149
+        },
+        "expected_output": 9,
+        "predicted_output": 0.999999,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "n": 858078889
+        },
+        "expected_output": 2191405,
+        "predicted_output": 41394.4444,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "6"
+            ],
+            "n": 586709634
+        },
+        "expected_output": 766,
+        "predicted_output": 2.1091100000000003,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 252050176
+        },
+        "expected_output": 44601928,
+        "predicted_output": 14093906.4,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "9"
+            ],
+            "n": 786217583
+        },
+        "expected_output": 8,
+        "predicted_output": -0.11111110999999996,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "n": 195167228
+        },
+        "expected_output": 35951176,
+        "predicted_output": 7405612.7,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "9"
+            ],
+            "n": 832931449
+        },
+        "expected_output": 136614472,
+        "predicted_output": 62172034.7,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "3",
+                "4",
+                "5",
+                "8"
+            ],
+            "n": 586259787
+        },
+        "expected_output": 2035155,
+        "predicted_output": 34304.4343,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "4",
+                "8",
+                "9"
+            ],
+            "n": 227561697
+        },
+        "expected_output": 152916,
+        "predicted_output": 12.101309999999998,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "4",
+                "6",
+                "7",
+                "9"
+            ],
+            "n": 809183418
+        },
+        "expected_output": 283988,
+        "predicted_output": 1930.18992,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 8328972
+        },
+        "expected_output": 1945650,
+        "predicted_output": 62167511,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "4"
+            ],
+            "n": 49018263
+        },
+        "expected_output": 8,
+        "predicted_output": 0.9889899,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 676694489
+        },
+        "expected_output": 97978688,
+        "predicted_output": 45447337.7,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "9"
+            ],
+            "n": 795891211
+        },
+        "expected_output": 283988,
+        "predicted_output": 2323.3010000000004,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "9"
+            ],
+            "n": 534984801
+        },
+        "expected_output": 766,
+        "predicted_output": 1.009999,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1"
+            ],
+            "n": 112274062
+        },
+        "expected_output": 9,
+        "predicted_output": 0.999999,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "7"
+            ],
+            "n": 622171071
+        },
+        "expected_output": 2050780,
+        "predicted_output": 29994.893900000003,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 881785284
+        },
+        "expected_output": 383638675,
+        "predicted_output": 770674174,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "6",
+                "8"
+            ],
+            "n": 380841418
+        },
+        "expected_output": 1582030,
+        "predicted_output": 23943.0204,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "4",
+                "5",
+                "8"
+            ],
+            "n": 999273381
+        },
+        "expected_output": 2441405,
+        "predicted_output": 44414.114,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1"
+            ],
+            "n": 246493542
+        },
+        "expected_output": 9,
+        "predicted_output": 1.0,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "n": 558984014
+        },
+        "expected_output": 27314175,
+        "predicted_output": 3366620.02,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "2"
+            ],
+            "n": 703575825
+        },
+        "expected_output": 9,
+        "predicted_output": 0.9,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 4262869
+        },
+        "expected_output": 856648,
+        "predicted_output": 20406471,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 349015978
+        },
+        "expected_output": 153121437,
+        "predicted_output": 237904868,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 205496876
+        },
+        "expected_output": 35951176,
+        "predicted_output": 9327466.4,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "2",
+                "3",
+                "7"
+            ],
+            "n": 677325300
+        },
+        "expected_output": 22962,
+        "predicted_output": 123.101089,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "4",
+                "8"
+            ],
+            "n": 663058194
+        },
+        "expected_output": 22962,
+        "predicted_output": 110.91202100000001,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 922749321
+        },
+        "expected_output": 398495719,
+        "predicted_output": 811638211,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "5",
+                "8"
+            ],
+            "n": 127998915
+        },
+        "expected_output": 12027,
+        "predicted_output": 2.222201,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "9"
+            ],
+            "n": 43028047
+        },
+        "expected_output": 7653,
+        "predicted_output": 110.10911,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "7"
+            ],
+            "n": 558380448
+        },
+        "expected_output": 8,
+        "predicted_output": -0.10101110000000002,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "8"
+            ],
+            "n": 165757906
+        },
+        "expected_output": 8,
+        "predicted_output": -0.11111011000000004,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "6"
+            ],
+            "n": 687210378
+        },
+        "expected_output": 1022,
+        "predicted_output": 12.099901099999999,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 233451108
+        },
+        "expected_output": 40784456,
+        "predicted_output": 12233000.6,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "n": 260410442
+        },
+        "expected_output": 46436936,
+        "predicted_output": 14929934.1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 441345222
+        },
+        "expected_output": 192057419,
+        "predicted_output": 330234112,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "5",
+                "6",
+                "7"
+            ],
+            "n": 457765103
+        },
+        "expected_output": 9840,
+        "predicted_output": -96.790111,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "3",
+                "4",
+                "5",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 860160371
+        },
+        "expected_output": 38843777,
+        "predicted_output": 5290292.4,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "6",
+                "7",
+                "8"
+            ],
+            "n": 49884960
+        },
+        "expected_output": 4254971,
+        "predicted_output": 3666364.9,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "n": 96993905
+        },
+        "expected_output": 87380,
+        "predicted_output": 3234.1292,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "3"
+            ],
+            "n": 94541173
+        },
+        "expected_output": 8,
+        "predicted_output": 0.99989,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "2",
+                "3",
+                "7"
+            ],
+            "n": 74161665
+        },
+        "expected_output": 9111,
+        "predicted_output": 210.09111000000001,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "3",
+                "4",
+                "8",
+                "9"
+            ],
+            "n": 350161878
+        },
+        "expected_output": 120148,
+        "predicted_output": 90.09212,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 864963195
+        },
+        "expected_output": 130323016,
+        "predicted_output": 64374208.4,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "5",
+                "7"
+            ],
+            "n": 917514803
+        },
+        "expected_output": 1022,
+        "predicted_output": 10.098908900000001,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "4",
+                "6"
+            ],
+            "n": 620424562
+        },
+        "expected_output": 766,
+        "predicted_output": 9.8990009,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "6"
+            ],
+            "n": 228733945
+        },
+        "expected_output": 8,
+        "predicted_output": -0.10011011000000014,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "9"
+            ],
+            "n": 438849145
+        },
+        "expected_output": 22962,
+        "predicted_output": 112.112011,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 989305023
+        },
+        "expected_output": 430651737,
+        "predicted_output": 878193913,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "3",
+                "4",
+                "5"
+            ],
+            "n": 542729030
+        },
+        "expected_output": 25149,
+        "predicted_output": 210.191899,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "4",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 443522155
+        },
+        "expected_output": 20137586,
+        "predicted_output": 2212111.22,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "3",
+                "7",
+                "8"
+            ],
+            "n": 769720545
+        },
+        "expected_output": 18588,
+        "predicted_output": 103.08899999999998,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "n": 864060635
+        },
+        "expected_output": 300372,
+        "predicted_output": 3090.0908999999997,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "7",
+                "8"
+            ],
+            "n": 970002099
+        },
+        "expected_output": 349524,
+        "predicted_output": 3189.9093300000004,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "4",
+                "5"
+            ],
+            "n": 957246751
+        },
+        "expected_output": 1022,
+        "predicted_output": 12.090110899999999,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "n": 446391016
+        },
+        "expected_output": 194744421,
+        "predicted_output": 335279906,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "2",
+                "7"
+            ],
+            "n": 837934104
+        },
+        "expected_output": 1022,
+        "predicted_output": 11.109989,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "5",
+                "9"
+            ],
+            "n": 907702545
+        },
+        "expected_output": 2050780,
+        "predicted_output": 39330.1323,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "1",
+                "2",
+                "3",
+                "5",
+                "8",
+                "9"
+            ],
+            "n": 87696609
+        },
+        "expected_output": 1642290,
+        "predicted_output": 433533.95,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "n": 623348592
+        },
+        "expected_output": 1269530,
+        "predicted_output": 18891.4139,
+        "result": "different"
+    },
+    {
+        "input": {
+            "digits": [
+                "2",
+                "5"
+            ],
+            "n": 343626969
+        },
+        "expected_output": 766,
+        "predicted_output": 1.0101111,
+        "result": "different"
+    }
+]

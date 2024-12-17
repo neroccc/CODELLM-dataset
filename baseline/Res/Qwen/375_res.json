@@ -1,0 +1,122 @@
+[
+    {
+        "input": 61,
+        "expected_output": 218,
+        "predicted_output": 218,
+        "result": "same"
+    },
+    {
+        "input": 22,
+        "expected_output": 55,
+        "predicted_output": 55,
+        "result": "same"
+    },
+    {
+        "input": 79,
+        "expected_output": 290,
+        "predicted_output": 290,
+        "result": "same"
+    },
+    {
+        "input": 17,
+        "expected_output": 38,
+        "predicted_output": 38,
+        "result": "same"
+    },
+    {
+        "input": 2,
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": 80,
+        "expected_output": 295,
+        "predicted_output": 295,
+        "result": "same"
+    },
+    {
+        "input": 1,
+        "expected_output": 0,
+        "predicted_output": 0,
+        "result": "same"
+    },
+    {
+        "input": 54,
+        "expected_output": 190,
+        "predicted_output": 190,
+        "result": "same"
+    },
+    {
+        "input": 50,
+        "expected_output": 172,
+        "predicted_output": 172,
+        "result": "same"
+    },
+    {
+        "input": 33,
+        "expected_output": 90,
+        "predicted_output": 90,
+        "result": "same"
+    },
+    {
+        "input": 4,
+        "expected_output": 4,
+        "predicted_output": 4,
+        "result": "same"
+    },
+    {
+        "input": 24,
+        "expected_output": 61,
+        "predicted_output": 61,
+        "result": "same"
+    },
+    {
+        "input": 91,
+        "expected_output": 350,
+        "predicted_output": 350,
+        "result": "same"
+    },
+    {
+        "input": 99,
+        "expected_output": 394,
+        "predicted_output": 394,
+        "result": "same"
+    },
+    {
+        "input": 31,
+        "expected_output": 82,
+        "predicted_output": 82,
+        "result": "same"
+    },
+    {
+        "input": 31,
+        "expected_output": 82,
+        "predicted_output": 82,
+        "result": "same"
+    },
+    {
+        "input": 32,
+        "expected_output": 86,
+        "predicted_output": 86,
+        "result": "same"
+    },
+    {
+        "input": 55,
+        "expected_output": 194,
+        "predicted_output": 194,
+        "result": "same"
+    },
+    {
+        "input": 29,
+        "expected_output": 76,
+        "predicted_output": 76,
+        "result": "same"
+    },
+    {
+        "input": 23,
+        "expected_output": 58,
+        "predicted_output": 58,
+        "result": "same"
+    }
+]

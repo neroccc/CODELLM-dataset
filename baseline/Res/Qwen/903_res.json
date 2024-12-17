@@ -1,0 +1,802 @@
+[
+    {
+        "input": {
+            "s": "DIIDIIIDDDD"
+        },
+        "expected_output": 49785,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDIDDIDDIDDIII"
+        },
+        "expected_output": 129475424,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DDIDDIDIDDIDD"
+        },
+        "expected_output": 24137387,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIIDID"
+        },
+        "expected_output": 181,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DI"
+        },
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DDIIDDDDDDDDDDII"
+        },
+        "expected_output": 418320,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IIDDIDDIIDDDII"
+        },
+        "expected_output": 75692772,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DDIDIIIDIII"
+        },
+        "expected_output": 92125,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DDDII"
+        },
+        "expected_output": 10,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDDDDDI"
+        },
+        "expected_output": 41,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DD"
+        },
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "IIDIIDIDIDIIDDDIDD"
+        },
+        "expected_output": 903729340,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDDIDD"
+        },
+        "expected_output": 99,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIIDDIDDIIIII"
+        },
+        "expected_output": 1496937,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDIDIIDIIID"
+        },
+        "expected_output": 474298,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DDIDDD"
+        },
+        "expected_output": 34,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDIIIDIDIDDIDIID"
+        },
+        "expected_output": 98487616,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "D"
+        },
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "DDIDID"
+        },
+        "expected_output": 155,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IIDIDDDDDDIDI"
+        },
+        "expected_output": 661779,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IIIIDDIDIIDIDIDI"
+        },
+        "expected_output": 46481595,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DDIDIID"
+        },
+        "expected_output": 531,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIIDDIIDDIIDIIIDDIDD"
+        },
+        "expected_output": 753602395,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIIDDDDDDD"
+        },
+        "expected_output": 276,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIIDDDDDIDDIIIIDII"
+        },
+        "expected_output": 228137718,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDDIIIIDIIDIDII"
+        },
+        "expected_output": 480609637,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IIDDIDDIIIDI"
+        },
+        "expected_output": 1836912,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDII"
+        },
+        "expected_output": 9,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IIDIDID"
+        },
+        "expected_output": 791,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DDID"
+        },
+        "expected_output": 9,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IIDIIDDDIDDIDDDDI"
+        },
+        "expected_output": 176568523,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIIDDIIDDII"
+        },
+        "expected_output": 397023,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IIIIIDDIDIDDDD"
+        },
+        "expected_output": 2326324,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDIDIIDDDIIIIDI"
+        },
+        "expected_output": 490551251,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IIIDDIIIDDDIDD"
+        },
+        "expected_output": 20295639,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DDDDDDDIIIIIIIIDDDID"
+        },
+        "expected_output": 886921387,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDIDDDDII"
+        },
+        "expected_output": 3356,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDDIDDIDDIDIDDIIDDI"
+        },
+        "expected_output": 600082125,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DDIDIDDIDDIDDDIIDDDD"
+        },
+        "expected_output": 41786428,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "D"
+        },
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "ID"
+        },
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IIDDD"
+        },
+        "expected_output": 10,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DDIDD"
+        },
+        "expected_output": 19,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DDDDDDDDD"
+        },
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "DDDDIDDIDID"
+        },
+        "expected_output": 120350,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDDIDIIIDI"
+        },
+        "expected_output": 64109,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IIDIDIIIDIDIII"
+        },
+        "expected_output": 68218333,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DDIIDDD"
+        },
+        "expected_output": 155,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DDIDDIDIDDDDDIIDDD"
+        },
+        "expected_output": 493282950,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IIIIIIIDDDDIIDIIII"
+        },
+        "expected_output": 233803549,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIDDIIDIII"
+        },
+        "expected_output": 35300,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DDIDIIIDDIIIDIII"
+        },
+        "expected_output": 696771133,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIIDI"
+        },
+        "expected_output": 40,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIDIDDDDDDDIIIIDDI"
+        },
+        "expected_output": 154937470,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDIDDIDDDDDDIIIIDDII"
+        },
+        "expected_output": 826050305,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IIII"
+        },
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "DIDIIDIDIID"
+        },
+        "expected_output": 1141086,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIII"
+        },
+        "expected_output": 4,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDDIDIIIDDID"
+        },
+        "expected_output": 3100722,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DDIDIIDDDDIDDIDDIDID"
+        },
+        "expected_output": 417533382,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDDI"
+        },
+        "expected_output": 11,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDDIDIIIIDDDDIDI"
+        },
+        "expected_output": 791676030,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIDDDIDIIIIDIDD"
+        },
+        "expected_output": 285905389,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDDIIDIIIIIDDII"
+        },
+        "expected_output": 104622987,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIIDIIIDIIDDDDDII"
+        },
+        "expected_output": 947189202,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIDIDDIDIDDIIIIIDDI"
+        },
+        "expected_output": 683315910,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DDDDDI"
+        },
+        "expected_output": 6,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DDDIIIIIII"
+        },
+        "expected_output": 120,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "D"
+        },
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "DI"
+        },
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIIDDIDIDIID"
+        },
+        "expected_output": 6963230,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIDIIDID"
+        },
+        "expected_output": 5095,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDIDDDDIIDIIDI"
+        },
+        "expected_output": 83960514,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DDDDI"
+        },
+        "expected_output": 5,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDIIIDIDDIIIDIDI"
+        },
+        "expected_output": 831069446,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDIDDDDDDDDIDII"
+        },
+        "expected_output": 2269771,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIDIDIDIDIIIIDID"
+        },
+        "expected_output": 76599404,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIIIDIIIDDI"
+        },
+        "expected_output": 155463,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IIIIDIDDDIIIIDIIDIID"
+        },
+        "expected_output": 667074870,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIDIIIDIDIIIIDIDD"
+        },
+        "expected_output": 566149454,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDDID"
+        },
+        "expected_output": 40,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IIIIDD"
+        },
+        "expected_output": 15,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIDD"
+        },
+        "expected_output": 9,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DD"
+        },
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "DDDDDDDDDDIIIIIIII"
+        },
+        "expected_output": 43758,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDDDIDDDIDIIIIDDI"
+        },
+        "expected_output": 429078576,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDDDIDIIDII"
+        },
+        "expected_output": 280774,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IIIDIIIDDDI"
+        },
+        "expected_output": 60765,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IIIIIIDIIDDDDIDDI"
+        },
+        "expected_output": 455034086,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDIDDDDIIDD"
+        },
+        "expected_output": 121154,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DD"
+        },
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "I"
+        },
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "DI"
+        },
+        "expected_output": 2,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "II"
+        },
+        "expected_output": 1,
+        "predicted_output": 1,
+        "result": "same"
+    },
+    {
+        "input": {
+            "s": "IDIDDIIDDIDID"
+        },
+        "expected_output": 63453676,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIDIDIIIDDIII"
+        },
+        "expected_output": 11089364,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IIIIIDDDIIIIID"
+        },
+        "expected_output": 580566,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DDIIIIDIDD"
+        },
+        "expected_output": 13661,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "DIDDIDDDDDDIDD"
+        },
+        "expected_output": 3186742,
+        "predicted_output": 1,
+        "result": "different"
+    },
+    {
+        "input": {
+            "s": "IDDIDIDIDIIIIIDDI"
+        },
+        "expected_output": 488668053,
+        "predicted_output": 1,
+        "result": "different"
+    }
+]

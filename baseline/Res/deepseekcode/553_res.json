@@ -1,0 +1,1433 @@
+[
+    {
+        "input": {
+            "nums": [
+                431,
+                997,
+                972
+            ]
+        },
+        "expected_output": "431/(997/972)",
+        "predicted_output": "431/(997/972)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                547,
+                862
+            ]
+        },
+        "expected_output": "547/862",
+        "predicted_output": "547/862",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                809,
+                511,
+                508,
+                334,
+                234,
+                887,
+                729,
+                497,
+                623
+            ]
+        },
+        "expected_output": "809/(511/508/334/234/887/729/497/623)",
+        "predicted_output": "809/(511/508/334/234/887/729/497/623)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                280,
+                318
+            ]
+        },
+        "expected_output": "280/318",
+        "predicted_output": "280/318",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                245,
+                383,
+                300,
+                123,
+                977,
+                291,
+                364
+            ]
+        },
+        "expected_output": "245/(383/300/123/977/291/364)",
+        "predicted_output": "245/(383/300/123/977/291/364)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                584,
+                356
+            ]
+        },
+        "expected_output": "584/356",
+        "predicted_output": "584/356",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                624,
+                578
+            ]
+        },
+        "expected_output": "624/578",
+        "predicted_output": "624/578",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                694,
+                971,
+                781
+            ]
+        },
+        "expected_output": "694/(971/781)",
+        "predicted_output": "694/(971/781)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                333,
+                727,
+                112,
+                128,
+                614,
+                355,
+                8,
+                963,
+                504,
+                655
+            ]
+        },
+        "expected_output": "333/(727/112/128/614/355/8/963/504/655)",
+        "predicted_output": "333/(727/112/128/614/355/8/963/504/655)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                284,
+                264,
+                168,
+                67,
+                248,
+                757,
+                212,
+                121,
+                720,
+                167
+            ]
+        },
+        "expected_output": "284/(264/168/67/248/757/212/121/720/167)",
+        "predicted_output": "284/(264/168/67/248/757/212/121/720/167)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                278
+            ]
+        },
+        "expected_output": "278",
+        "predicted_output": "278",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                894,
+                285,
+                838,
+                577,
+                173,
+                977,
+                820,
+                435
+            ]
+        },
+        "expected_output": "894/(285/838/577/173/977/820/435)",
+        "predicted_output": "894/(285/838/577/173/977/820/435)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                669,
+                468,
+                416,
+                534,
+                646
+            ]
+        },
+        "expected_output": "669/(468/416/534/646)",
+        "predicted_output": "669/(468/416/534/646)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                52,
+                882
+            ]
+        },
+        "expected_output": "52/882",
+        "predicted_output": "52/882",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                637,
+                540,
+                428,
+                663,
+                170,
+                943
+            ]
+        },
+        "expected_output": "637/(540/428/663/170/943)",
+        "predicted_output": "637/(540/428/663/170/943)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                873,
+                994,
+                454,
+                239,
+                628
+            ]
+        },
+        "expected_output": "873/(994/454/239/628)",
+        "predicted_output": "873/(994/454/239/628)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                160,
+                574,
+                578
+            ]
+        },
+        "expected_output": "160/(574/578)",
+        "predicted_output": "160/(574/578)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                10,
+                59,
+                124,
+                123,
+                838
+            ]
+        },
+        "expected_output": "10/(59/124/123/838)",
+        "predicted_output": "10/(59/124/123/838)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                253,
+                957,
+                593,
+                557,
+                953,
+                14
+            ]
+        },
+        "expected_output": "253/(957/593/557/953/14)",
+        "predicted_output": "253/(957/593/557/953/14)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                357,
+                558,
+                555
+            ]
+        },
+        "expected_output": "357/(558/555)",
+        "predicted_output": "357/(558/555)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                525,
+                163,
+                256,
+                866,
+                930,
+                993
+            ]
+        },
+        "expected_output": "525/(163/256/866/930/993)",
+        "predicted_output": "525/(163/256/866/930/993)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                744,
+                200,
+                127,
+                480
+            ]
+        },
+        "expected_output": "744/(200/127/480)",
+        "predicted_output": "744/(200/127/480)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                448
+            ]
+        },
+        "expected_output": "448",
+        "predicted_output": "448",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                118,
+                933,
+                415
+            ]
+        },
+        "expected_output": "118/(933/415)",
+        "predicted_output": "118/(933/415)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                6,
+                433,
+                550,
+                334,
+                672,
+                755,
+                606
+            ]
+        },
+        "expected_output": "6/(433/550/334/672/755/606)",
+        "predicted_output": "6/(433/550/334/672/755/606)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                461,
+                842
+            ]
+        },
+        "expected_output": "461/842",
+        "predicted_output": "461/842",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                691,
+                492,
+                528,
+                352,
+                474,
+                275,
+                53,
+                331
+            ]
+        },
+        "expected_output": "691/(492/528/352/474/275/53/331)",
+        "predicted_output": "691/(492/528/352/474/275/53/331)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                523,
+                140,
+                803,
+                217,
+                632
+            ]
+        },
+        "expected_output": "523/(140/803/217/632)",
+        "predicted_output": "523/(140/803/217/632)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                122,
+                929,
+                326,
+                747,
+                96,
+                191,
+                673,
+                345,
+                8,
+                639
+            ]
+        },
+        "expected_output": "122/(929/326/747/96/191/673/345/8/639)",
+        "predicted_output": "122/(929/326/747/96/191/673/345/8/639)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                481,
+                488,
+                666,
+                397,
+                985,
+                368,
+                409,
+                881
+            ]
+        },
+        "expected_output": "481/(488/666/397/985/368/409/881)",
+        "predicted_output": "481/(488/666/397/985/368/409/881)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                12,
+                102,
+                905,
+                568,
+                402,
+                337
+            ]
+        },
+        "expected_output": "12/(102/905/568/402/337)",
+        "predicted_output": "12/(102/905/568/402/337)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                566
+            ]
+        },
+        "expected_output": "566",
+        "predicted_output": "566",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                160,
+                863,
+                492,
+                234,
+                832,
+                447,
+                836,
+                702
+            ]
+        },
+        "expected_output": "160/(863/492/234/832/447/836/702)",
+        "predicted_output": "160/(863/492/234/832/447/836/702)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                514,
+                447
+            ]
+        },
+        "expected_output": "514/447",
+        "predicted_output": "514/447",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                326,
+                364,
+                822,
+                136,
+                617,
+                383,
+                8
+            ]
+        },
+        "expected_output": "326/(364/822/136/617/383/8)",
+        "predicted_output": "326/(364/822/136/617/383/8)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                101,
+                629,
+                797,
+                421,
+                425,
+                398
+            ]
+        },
+        "expected_output": "101/(629/797/421/425/398)",
+        "predicted_output": "101/(629/797/421/425/398)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                160,
+                488,
+                584
+            ]
+        },
+        "expected_output": "160/(488/584)",
+        "predicted_output": "160/(488/584)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                902,
+                393,
+                30,
+                696,
+                362,
+                68,
+                177,
+                648,
+                219
+            ]
+        },
+        "expected_output": "902/(393/30/696/362/68/177/648/219)",
+        "predicted_output": "902/(393/30/696/362/68/177/648/219)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                687,
+                998,
+                762
+            ]
+        },
+        "expected_output": "687/(998/762)",
+        "predicted_output": "687/(998/762)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                451,
+                422,
+                535,
+                726,
+                849
+            ]
+        },
+        "expected_output": "451/(422/535/726/849)",
+        "predicted_output": "451/(422/535/726/849)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                219,
+                727,
+                635,
+                18,
+                329,
+                386,
+                761
+            ]
+        },
+        "expected_output": "219/(727/635/18/329/386/761)",
+        "predicted_output": "219/(727/635/18/329/386/761)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                839,
+                897,
+                233,
+                761,
+                7,
+                653,
+                861,
+                798,
+                621,
+                313
+            ]
+        },
+        "expected_output": "839/(897/233/761/7/653/861/798/621/313)",
+        "predicted_output": "839/(897/233/761/7/653/861/798/621/313)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                704,
+                389,
+                950,
+                454,
+                290,
+                710
+            ]
+        },
+        "expected_output": "704/(389/950/454/290/710)",
+        "predicted_output": "704/(389/950/454/290/710)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                13,
+                668,
+                770,
+                149
+            ]
+        },
+        "expected_output": "13/(668/770/149)",
+        "predicted_output": "13/(668/770/149)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                867,
+                914
+            ]
+        },
+        "expected_output": "867/914",
+        "predicted_output": "867/914",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                332,
+                755,
+                289,
+                31,
+                808,
+                636,
+                954,
+                326
+            ]
+        },
+        "expected_output": "332/(755/289/31/808/636/954/326)",
+        "predicted_output": "332/(755/289/31/808/636/954/326)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                248,
+                38,
+                971,
+                711
+            ]
+        },
+        "expected_output": "248/(38/971/711)",
+        "predicted_output": "248/(38/971/711)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                827,
+                768,
+                721,
+                573
+            ]
+        },
+        "expected_output": "827/(768/721/573)",
+        "predicted_output": "827/(768/721/573)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                102,
+                301,
+                854,
+                496,
+                352
+            ]
+        },
+        "expected_output": "102/(301/854/496/352)",
+        "predicted_output": "102/(301/854/496/352)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                427,
+                46,
+                235
+            ]
+        },
+        "expected_output": "427/(46/235)",
+        "predicted_output": "427/(46/235)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                764,
+                16,
+                742
+            ]
+        },
+        "expected_output": "764/(16/742)",
+        "predicted_output": "764/(16/742)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                326,
+                876,
+                998,
+                80,
+                577,
+                167
+            ]
+        },
+        "expected_output": "326/(876/998/80/577/167)",
+        "predicted_output": "326/(876/998/80/577/167)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                5,
+                372,
+                495,
+                996,
+                830,
+                594,
+                872,
+                932
+            ]
+        },
+        "expected_output": "5/(372/495/996/830/594/872/932)",
+        "predicted_output": "5/(372/495/996/830/594/872/932)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                101,
+                158,
+                763,
+                205
+            ]
+        },
+        "expected_output": "101/(158/763/205)",
+        "predicted_output": "101/(158/763/205)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                369,
+                533,
+                617,
+                355,
+                637,
+                357,
+                368,
+                417,
+                833
+            ]
+        },
+        "expected_output": "369/(533/617/355/637/357/368/417/833)",
+        "predicted_output": "369/(533/617/355/637/357/368/417/833)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                39,
+                780,
+                471,
+                425,
+                995
+            ]
+        },
+        "expected_output": "39/(780/471/425/995)",
+        "predicted_output": "39/(780/471/425/995)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                47,
+                384,
+                547,
+                539,
+                635,
+                998,
+                284,
+                666
+            ]
+        },
+        "expected_output": "47/(384/547/539/635/998/284/666)",
+        "predicted_output": "47/(384/547/539/635/998/284/666)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                402
+            ]
+        },
+        "expected_output": "402",
+        "predicted_output": "402",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                229,
+                924,
+                149,
+                573,
+                164,
+                225,
+                957,
+                275,
+                510,
+                798
+            ]
+        },
+        "expected_output": "229/(924/149/573/164/225/957/275/510/798)",
+        "predicted_output": "229/(924/149/573/164/225/957/275/510/798)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                231,
+                542,
+                585,
+                324,
+                88,
+                749,
+                460,
+                818,
+                743
+            ]
+        },
+        "expected_output": "231/(542/585/324/88/749/460/818/743)",
+        "predicted_output": "231/(542/585/324/88/749/460/818/743)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                154,
+                661,
+                535
+            ]
+        },
+        "expected_output": "154/(661/535)",
+        "predicted_output": "154/(661/535)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                617,
+                655,
+                249,
+                877
+            ]
+        },
+        "expected_output": "617/(655/249/877)",
+        "predicted_output": "617/(655/249/877)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                107
+            ]
+        },
+        "expected_output": "107",
+        "predicted_output": "107",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                480,
+                774,
+                677,
+                797,
+                548,
+                588,
+                481,
+                473,
+                10,
+                185
+            ]
+        },
+        "expected_output": "480/(774/677/797/548/588/481/473/10/185)",
+        "predicted_output": "480/(774/677/797/548/588/481/473/10/185)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                331,
+                246,
+                895,
+                993,
+                633,
+                879
+            ]
+        },
+        "expected_output": "331/(246/895/993/633/879)",
+        "predicted_output": "331/(246/895/993/633/879)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                659,
+                965,
+                638,
+                978
+            ]
+        },
+        "expected_output": "659/(965/638/978)",
+        "predicted_output": "659/(965/638/978)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                742,
+                561,
+                907,
+                976,
+                814
+            ]
+        },
+        "expected_output": "742/(561/907/976/814)",
+        "predicted_output": "742/(561/907/976/814)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                405,
+                467,
+                255,
+                420,
+                361
+            ]
+        },
+        "expected_output": "405/(467/255/420/361)",
+        "predicted_output": "405/(467/255/420/361)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                237,
+                732,
+                850,
+                889,
+                944,
+                717,
+                710
+            ]
+        },
+        "expected_output": "237/(732/850/889/944/717/710)",
+        "predicted_output": "237/(732/850/889/944/717/710)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                179,
+                681,
+                771,
+                625,
+                336,
+                931,
+                219,
+                624
+            ]
+        },
+        "expected_output": "179/(681/771/625/336/931/219/624)",
+        "predicted_output": "179/(681/771/625/336/931/219/624)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                799,
+                766
+            ]
+        },
+        "expected_output": "799/766",
+        "predicted_output": "799/766",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                814,
+                162,
+                876,
+                968,
+                246,
+                487,
+                723,
+                52,
+                850,
+                445
+            ]
+        },
+        "expected_output": "814/(162/876/968/246/487/723/52/850/445)",
+        "predicted_output": "814/(162/876/968/246/487/723/52/850/445)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                971,
+                110,
+                187,
+                810,
+                920
+            ]
+        },
+        "expected_output": "971/(110/187/810/920)",
+        "predicted_output": "971/(110/187/810/920)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                324,
+                515,
+                810,
+                766,
+                410,
+                31,
+                36,
+                206,
+                631
+            ]
+        },
+        "expected_output": "324/(515/810/766/410/31/36/206/631)",
+        "predicted_output": "324/(515/810/766/410/31/36/206/631)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                878,
+                814,
+                500,
+                943,
+                309,
+                506,
+                142,
+                56
+            ]
+        },
+        "expected_output": "878/(814/500/943/309/506/142/56)",
+        "predicted_output": "878/(814/500/943/309/506/142/56)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                417,
+                95,
+                212,
+                876,
+                263,
+                275,
+                321,
+                765,
+                538,
+                854
+            ]
+        },
+        "expected_output": "417/(95/212/876/263/275/321/765/538/854)",
+        "predicted_output": "417/(95/212/876/263/275/321/765/538/854)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                863,
+                807,
+                29,
+                218,
+                75,
+                973,
+                639
+            ]
+        },
+        "expected_output": "863/(807/29/218/75/973/639)",
+        "predicted_output": "863/(807/29/218/75/973/639)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                986,
+                397,
+                702,
+                566
+            ]
+        },
+        "expected_output": "986/(397/702/566)",
+        "predicted_output": "986/(397/702/566)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                733,
+                197,
+                696,
+                783,
+                303,
+                354,
+                724,
+                315,
+                343,
+                317
+            ]
+        },
+        "expected_output": "733/(197/696/783/303/354/724/315/343/317)",
+        "predicted_output": "733/(197/696/783/303/354/724/315/343/317)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                150,
+                940,
+                925
+            ]
+        },
+        "expected_output": "150/(940/925)",
+        "predicted_output": "150/(940/925)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                9,
+                821,
+                876
+            ]
+        },
+        "expected_output": "9/(821/876)",
+        "predicted_output": "9/(821/876)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                394,
+                86,
+                387,
+                29,
+                655
+            ]
+        },
+        "expected_output": "394/(86/387/29/655)",
+        "predicted_output": "394/(86/387/29/655)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                266,
+                682,
+                919,
+                917,
+                326,
+                179,
+                282,
+                10,
+                897
+            ]
+        },
+        "expected_output": "266/(682/919/917/326/179/282/10/897)",
+        "predicted_output": "266/(682/919/917/326/179/282/10/897)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                673,
+                18,
+                547,
+                110,
+                824,
+                983
+            ]
+        },
+        "expected_output": "673/(18/547/110/824/983)",
+        "predicted_output": "673/(18/547/110/824/983)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                797,
+                96,
+                226,
+                458
+            ]
+        },
+        "expected_output": "797/(96/226/458)",
+        "predicted_output": "797/(96/226/458)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                795,
+                974,
+                782,
+                952,
+                674
+            ]
+        },
+        "expected_output": "795/(974/782/952/674)",
+        "predicted_output": "795/(974/782/952/674)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                521,
+                345,
+                826,
+                344
+            ]
+        },
+        "expected_output": "521/(345/826/344)",
+        "predicted_output": "521/(345/826/344)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                283,
+                242
+            ]
+        },
+        "expected_output": "283/242",
+        "predicted_output": "283/242",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                981,
+                729,
+                659,
+                548,
+                72,
+                832,
+                666
+            ]
+        },
+        "expected_output": "981/(729/659/548/72/832/666)",
+        "predicted_output": "981/(729/659/548/72/832/666)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                431,
+                371,
+                548
+            ]
+        },
+        "expected_output": "431/(371/548)",
+        "predicted_output": "431/(371/548)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                73,
+                269,
+                154,
+                719,
+                828,
+                65
+            ]
+        },
+        "expected_output": "73/(269/154/719/828/65)",
+        "predicted_output": "73/(269/154/719/828/65)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                497,
+                448,
+                554,
+                932
+            ]
+        },
+        "expected_output": "497/(448/554/932)",
+        "predicted_output": "497/(448/554/932)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                141,
+                332,
+                289,
+                667
+            ]
+        },
+        "expected_output": "141/(332/289/667)",
+        "predicted_output": "141/(332/289/667)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                404,
+                38,
+                50,
+                752,
+                551
+            ]
+        },
+        "expected_output": "404/(38/50/752/551)",
+        "predicted_output": "404/(38/50/752/551)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                637,
+                883,
+                424,
+                335,
+                905,
+                11,
+                895,
+                449,
+                115,
+                659
+            ]
+        },
+        "expected_output": "637/(883/424/335/905/11/895/449/115/659)",
+        "predicted_output": "637/(883/424/335/905/11/895/449/115/659)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                148,
+                513
+            ]
+        },
+        "expected_output": "148/513",
+        "predicted_output": "148/513",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                905,
+                914,
+                876,
+                970,
+                385,
+                37
+            ]
+        },
+        "expected_output": "905/(914/876/970/385/37)",
+        "predicted_output": "905/(914/876/970/385/37)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                508,
+                459,
+                374,
+                768
+            ]
+        },
+        "expected_output": "508/(459/374/768)",
+        "predicted_output": "508/(459/374/768)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                530,
+                447,
+                754
+            ]
+        },
+        "expected_output": "530/(447/754)",
+        "predicted_output": "530/(447/754)",
+        "result": "same"
+    },
+    {
+        "input": {
+            "nums": [
+                236,
+                757,
+                704,
+                272
+            ]
+        },
+        "expected_output": "236/(757/704/272)",
+        "predicted_output": "236/(757/704/272)",
+        "result": "same"
+    }
+]

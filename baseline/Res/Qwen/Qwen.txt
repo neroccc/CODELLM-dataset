@@ -1,0 +1,250 @@
+5.py: 31.20%
+10.py: 99.90%
+22.py: 100.00%
+32.py: 100.00%
+42.py: 100.00%
+44.py: 100.00%
+45.py: 100.00%
+53.py: 100.00%
+55.py: 100.00%
+62.py: 100.00%
+63.py: 100.00%
+64.py: 100.00%
+70.py: 100.00%
+72.py: 100.00%
+Error in 85.py: Solution.largestRectangleArea() takes 2 positional arguments but 175 were given
+87.py: 100.00%
+91.py: 100.00%
+Error in 95.py: Object of type TreeNode is not JSON serializable
+96.py: 100.00%
+97.py: 50.50%
+115.py: 100.00%
+118.py: 100.00%
+119.py: 100.00%
+120.py: 100.00%
+121.py: 100.00%
+122.py: 100.00%
+123.py: 0.50%
+124.py: 100.00%
+131.py: 0.00%
+132.py: 9.00%
+139.py: 100.00%
+140.py: 100.00%
+152.py: 100.00%
+174.py: 100.00%
+188.py: 16.00%
+198.py: 100.00%
+213.py: 58.00%
+221.py: 100.00%
+233.py: 100.00%
+241.py: 8.00%
+264.py: 100.00%
+279.py: 100.00%
+300.py: 100.00%
+309.py: 100.00%
+312.py: 100.00%
+313.py: 100.00%
+322.py: 100.00%
+329.py: 100.00%
+337.py: 100.00%
+338.py: 100.00%
+343.py: 100.00%
+357.py: 100.00%
+368.py: 35.00%
+375.py: 100.00%
+376.py: 100.00%
+377.py: 100.00%
+392.py: 100.00%
+396.py: 100.00%
+397.py: 100.00%
+403.py: 100.00%
+410.py: 100.00%
+413.py: 100.00%
+416.py: 100.00%
+435.py: 100.00%
+446.py: 26.00%
+458.py: 100.00%
+464.py: 100.00%
+Error in 466.py: integer modulo by zero
+467.py: 100.00%
+472.py: 0.00%
+473.py: 100.00%
+474.py: 100.00%
+486.py: 100.00%
+Error in 488.py: '[' was never closed (488.py, line 24)
+Error in 494.py: list assignment index out of range
+Error in 514.py: 'l'
+516.py: 100.00%
+518.py: 100.00%
+526.py: 100.00%
+542.py: 100.00%
+Error in 546.py: list index out of range
+552.py: 0.00%
+553.py: 100.00%
+576.py: 0.00%
+583.py: 100.00%
+600.py: 100.00%
+629.py: 0.00%
+Error in 638.py: maximum recursion depth exceeded
+Error in 639.py: '(' was never closed (639.py, line 17)
+Error in 646.py: max() iterable argument is empty
+647.py: 100.00%
+650.py: 100.00%
+664.py: 100.00%
+673.py: TLE: 673.py exceeded time limit of 30 seconds.
+678.py: 100.00%
+688.py: 73.70%
+Error in 689.py: expected ':' (689.py, line 35)
+691.py: 21.60%
+698.py: 100.00%
+712.py: TLE: 712.py exceeded time limit of 30 seconds.
+714.py: 100.00%
+718.py: 100.00%
+730.py: 9.00%
+740.py: 100.00%
+741.py: 76.00%
+746.py: 100.00%
+764.py: 100.00%
+787.py: 100.00%
+790.py: 100.00%
+792.py: TLE: 792.py exceeded time limit of 30 seconds.
+799.py: 100.00%
+801.py: 98.00%
+Error in 805.py: list assignment index out of range
+808.py: 100.00%
+813.py: 28.00%
+823.py: 100.00%
+828.py: 0.00%
+834.py: 100.00%
+837.py: 29.00%
+838.py: 0.00%
+871.py: 47.00%
+873.py: 100.00%
+877.py: 100.00%
+879.py: 19.00%
+887.py: 100.00%
+894.py: 100.00%
+Error in 898.py: unsupported operand type(s) for |: 'set' and 'int'
+902.py: 0.00%
+903.py: 10.00%
+907.py: 0.00%
+Error in 913.py: maximum recursion depth exceeded
+918.py: 100.00%
+920.py: 100.00%
+926.py: 0.00%
+931.py: 2.00%
+935.py: 0.00%
+940.py: 100.00%
+943.py: 10.68%
+956.py: 100.00%
+960.py: 1.94%
+964.py: 0.00%
+968.py: 100.00%
+975.py: 99.05%
+978.py: 100.00%
+983.py: 100.00%
+1000.py: 90.48%
+1012.py: 2.88%
+1014.py: 100.00%
+1024.py: 100.00%
+1025.py: 100.00%
+1027.py: 100.00%
+1031.py: 0.00%
+1035.py: 100.00%
+1039.py: 0.00%
+1043.py: 100.00%
+1048.py: 100.00%
+1049.py: 100.00%
+1092.py: 12.62%
+1105.py: 5.83%
+1130.py: 0.00%
+1137.py: 100.00%
+1139.py: 1.92%
+1140.py: 97.12%
+1147.py: 0.95%
+1186.py: 100.00%
+1187.py: 100.00%
+1218.py: 100.00%
+1220.py: 100.00%
+1223.py: 12.38%
+1227.py: 89.52%
+Error in 1255.py: '(' was never closed (1255.py, line 27)
+1262.py: 0.00%
+1277.py: 100.00%
+1289.py: 100.00%
+1301.py: 0.95%
+1312.py: 100.00%
+1320.py: 0.60%
+1326.py: 100.00%
+1335.py: 100.00%
+1340.py: 0.00%
+1349.py: 9.00%
+1359.py: 0.00%
+1372.py: 100.00%
+1388.py: 1.00%
+1395.py: 0.00%
+Error in 1397.py: expected an indented block after 'if' statement on line 37 (1397.py, line 38)
+1402.py: 1.00%
+Error in 1411.py: maximum recursion depth exceeded
+1434.py: 0.00%
+Error in 1444.py: expected ':' (1444.py, line 30)
+Error in 1449.py: list index out of range
+1458.py: 100.00%
+1463.py: 36.00%
+Error in 1473.py: invalid syntax (1473.py, line 19)
+1477.py: 0.00%
+1478.py: 3.00%
+Error in 1483.py: invalid syntax (1483.py, line 2)
+1493.py: 100.00%
+1510.py: TLE: 1510.py exceeded time limit of 30 seconds.
+1524.py: 0.00%
+1525.py: 100.00%
+1526.py: 100.00%
+1531.py: 5.00%
+1537.py: 100.00%
+1547.py: 0.00%
+1553.py: 100.00%
+1563.py: TLE: 1563.py exceeded time limit of 30 seconds.
+1567.py: 100.00%
+1569.py: 0.00%
+1575.py: 100.00%
+Error in 1611.py: expected an indented block after 'if' statement on line 72 (1611.py, line 72)
+1617.py: 0.00%
+1621.py: 0.00%
+1626.py: 100.00%
+1638.py: 0.00%
+1643.py: 0.00%
+1653.py: 100.00%
+1659.py: 14.00%
+1668.py: 100.00%
+1690.py: 0.00%
+Error in 1696.py: cannot access local variable 'deque' where it is not associated with a value
+Error in 1723.py: object of type 'int' has no len()
+Error in 1728.py: expected an indented block after 'if' statement on line 36 (1728.py, line 36)
+1751.py: 52.00%
+Error in 1755.py: list index out of range
+1770.py: 100.00%
+1771.py: 0.00%
+1786.py: 0.00%
+Error in 1787.py: list index out of range
+1799.py: 0.00%
+1815.py: 12.00%
+1824.py: 12.00%
+1866.py: 100.00%
+1871.py: 48.00%
+1872.py: 0.00%
+1879.py: 100.00%
+1884.py: 100.00%
+Error in 1888.py: string index out of range
+1896.py: 50.40%
+Error in 1900.py: expected ':' (1900.py, line 41)
+1911.py: 100.00%
+1916.py: 3.00%
+1928.py: 33.00%
+1947.py: 3.00%
+1955.py: 0.00%
+1976.py: 100.00%
+Error in 1977.py: Solution.numberOfArrays() missing 1 required positional argument: 'k'
+1986.py: 0.00%
+1987.py: 0.00%
+1994.py: TLE: 1994.py exceeded time limit of 30 seconds.
